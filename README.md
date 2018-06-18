@@ -8,3 +8,4 @@ This is a project directed by Dominik Wujastyk at the University of Alberta.  Pl
 
 The project managment website for this project is at https://wujastyk.net/qdpm/index.php/tasks?projects_id=7
 
+A reference document is the unpublished draft article by Dominik Wujastyk, "[The Surviving MSS of the Rasendramaṅgala of Nāgārjuna Siddha](https://www.dropbox.com/s/ad37zbvmpb1jtd7/mss.tex-utf8.pdf?dl=0)".
