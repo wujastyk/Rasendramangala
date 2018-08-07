@@ -56,7 +56,7 @@
                   <institution>Bibliothèque Nationale</institution>
                   <collection>Palmyr Cordier</collection>
                   <idno>1222</idno>
-                  <altIdentifier type="siglum">
+                  <altIdentifier type="MSsiglum">
                      <idno>P</idno>
                   </altIdentifier>
                </msIdentifier>
