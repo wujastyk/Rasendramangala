@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Rasendramaṅgalam</title>
@@ -15,10 +15,10 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
-         <pb> n="4a"</pb>
+         <pb n="4a"/>
          <l>meṣaśṛṃgaṃ bhujaṃgāsthi kūrmmapiṣṭaṃ śilājatu</l>
          <l>sukīlālarajaśunyaṃ kāṃtapāṣāṇameva ca</l>
          <l>vajrakaṃ vā pivaikrāṃtaṃ tanmadhye nikṣiped budhaḥ</l>
@@ -43,7 +43,7 @@
          <l>pārāvāra purīṣaṃ ca purīkhākhusamanvitaṃ</l>
          <l>kṣāratrayasamāyuktaṃ upakṣārai supaṃcabhiḥ</l>
          <l>vajrārkakṣārasanmiśraṃ kālkaṃ saṃkṣepayedbudhaḥ</l>
-         <l>vajrakaṃ vāpi vai <pb> n="4b"</pb>krāṃtaṃ tanmadhye prakṣipedbudhaḥ</l>
+         <l>vajrakaṃ vāpi vai <pb n="4b"/>krāṃtaṃ tanmadhye prakṣipedbudhaḥ</l>
          <l>tīvrānalaiḥ puṭaṃ datvā puṭitaṃ yāvadāgatau</l>
          <l>kulatthakodravāṇāṃ tu hayamūtreṇa peṣayet</l>
          <l>tato niṣevayetkalkaiḥ yāvaṃto bhaṣmatāṃ gatau </l>
@@ -70,9 +70,9 @@
          <l>sovīrakaṃ svedasamastadhātavo gaṃdhāśma saubhāgyanibaddhapīḍā</l>
          <l>dhyātvāgnidāu prapatecca satvaṃ abhrakasatvapātanavidhi</l>
          <l>mokṣamoraṭapālāśakṣāragomūtrabhāvitaṃ</l>
-         
-         
-         <l>vajra <pb>5a</pb> kaṃdaṃ śiṣākalkaphalaṃ cūrṇaṃ samanvitaṃ</l>
+
+
+         <l>vajra <pb n="5a"/> kaṃdaṃ śiṣākalkaphalaṃ cūrṇaṃ samanvitaṃ</l>
          <l>tatkaṃṭaṃkaṇaṃ lakṣā cūrṇaṃ vaikrāṃtasaṃbhavaṃ</l>
          <l>sārayeṇa samāyuktaṃ meṣaśṛṃgīdravānvitaṃ</l>
          <l>piṃḍataṃ mukamūṣāyāṃ dhāmitaṃ ca havāgninī</l>
@@ -90,21 +90,21 @@
          <l>dhāmitaṃ mūkhamūkhāyāṃ satvaṃ satvanibhaṃ bhavet</l>
          <l>kadalīrasasamabhāvitaṃ ghṛtamadhye+raṃḍatailaparipakvaṃ</l>
          <l>tāpyaṃ muṃcati satvaṃ rasakaṃ ca trisaṃdhāte</l>
-         
+
          <l>mākṣika satvapātanavidhi</l>
-         
+
          <l> kṣāraisnehaistathā cāmlairasakāṃ bhāvitaṃ bahu</l>
          <l>urṇālakṣā tathā pathyā bhūtalā dhūmasaṃyutaṃ</l>
          <l>mūkamūkhāgataṃ vyātaṃ ṭaṃkaṇena samāyuktaṃ</l>
          <l>satvaṃ kuṭilasaṃkāśaṃ patate nātra saṃśayaḥ</l>
-         
+
          <l>rasakasatvaṃ nilasarṣapaśigūṇāyāṃ lākṣālavaṇāyāṃ guḍaṃ</l>
          <l>ṭaṃkaṇena samāyuktaṃ tālakaṃ bhūdhare dravet</l>
-         
+
          <l>tālakasatvaṃ</l>
-         
+
          <l>śigupaṭodbhavaistovyaiḥ bhāvitā ca manaḥ śilā</l>
-         <l>tālakasya prayogena satvaṃ <pb>5b</pb> hemaprabhaṃ bhavet </l>
+         <l>tālakasya prayogena satvaṃ <pb n="5b"/> hemaprabhaṃ bhavet </l>
          <l>rājāvartta satvaṃ vimalaṃ śigugratoyena kākṣīkāsaṃsaṭaṃkaṇaiḥ</l>
          <p>vajrakaṃdasamāyuktaṃ bhāvitaṃ kadalīrasaḥ</p>
          <l>mokṣaka kṣāra saṃyuktaṃ dhāminaṃ mukhamūkhakaṃ</l>
@@ -114,7 +114,7 @@
          <l>daradasatvaṃ gaṃdhakaṃ ca svabhāvena satvarūpaṃ svarūpataḥ</l>
          <l>tenā khyātaṃ mayā satvaṃ raseṃdrasamaṃyataḥ</l>
          <l>iti abhrakādisatvapātanavidhi /</l>
-         
+
          <l>munikusumasalilaghṛṣṭaṃ sūraṇakaṃdeṣu nikṣiptaṃ</l>
          <l>nīrasamaṃ bhavati goṣṭe dharaṇīgatamāsaṃ </l>
          <l>paśusalilabahuśabhāvitaṃ / </l>
@@ -127,45 +127,45 @@
          <l>lohāni toyasadṛśāni karoti gaganaṃ ca viśeṣeṇa</l>
          <l>svarasena vajravalyādravati gaganaṃ sokyalānvitaṃ</l>
          <l>pakṣaṃ hi sarāvapuṭe bahuvīraṃ bhavati rasarūpaṃ</l>
-         
+
          <l>iti abhrakaduti</l>
-         
+
          <l>śaśamaṃḍukāsthivasā suragopaturagalālābhḥ</l>
          <l>kṛtaparivāyaṃ kanakaṃ tiṣṭhati rūciraṃ yathā toyaṃ</l>
          <l>nijarasaṃ bahuparibhāvitaṃ suradālicūrṇadattaḥ prativāpaḥ</l>
          <l>dravati na saṃsthāni puṇāḥ kanakaṃ bahuśopi kālena</l>
-         <l>śākhāpari<pb>6a</pb> pakkvanyāmalakaṃ rasaparibhāvitopi saptāhaṃ</l>
+         <l>śākhāpari<pb n="6a"/> pakkvanyāmalakaṃ rasaparibhāvitopi saptāhaṃ</l>
          <l>tenāloḍitabahuśo nikṣiptasarāvayugoleṣu</l>
          <l>punarapikaṃcukībhāvitamāya sacūrṇaṃ saptāho paridhamitaṃ</l>
          <l>tīkṣṇaṃ bhavati sasūpaṃ panasaphalarasasubhāvita</l>
          <l>dṛḍhamarditamakṣavorgatoyena lohāni bhavaṃti</l>
          <l>khalu nilipetek svanayogyāni eka evamadrāvī</l>
          <l>pārvatī nātha saṃbhavaḥ kiṃ punastrinisaṃyukte vetasāmlāmlakājikaiḥ</l>
-         
+
          <l>muktāphalāni saptāhaṃ vetasāmlena bhāvitā</l>
          <l>jaṃvīrovaramadhyasthā dhānyaparāśo nidhāpayet</l>
          <l>puṭapāke tacūrṇadravate salilaṃ yathā</l>
          <l>kurute rāgayogarājeyaṃ ratnānāṃdrāvaṇaṃ paraṃ</l>
          <l>iti abhrakādidutipātanavidhi</l>
-         
+
          <l>tālena vaṃgaṃ daradena tīkṣṇaṃ nāgena hemaṃ śilayā ca nāgaṃ</l>
          <l>gaṃdhāśmanā caiva nihaṃti sūtvaṃ tāraṃ vamākṣīrakasasena hanyāt</l>
          <l>athavā vaṃgapajāśena ca tālakena nāgaṃ payaścārka manaḥ śilāniḥ</l>
          <l>hemaṃ tathā vajrīrasena nāge tāraṃ suhīsārayamākṣikena</l>
          <l>sutvaṃ ajākṣīrake sugaṃdhakena tīkṣṇaṃ sunāhiṃpavagulena</l>
          <l>ṣaḍāyasānāṃ kuliśakṛtānāṃ nirutthaghātaṃ kathitaṃ hitajñaiḥ</l>
-         
+
          <l>mṛtalohāni rasā bhavaṃti rasenayuktyā mayināśayaṃti</l>
          <l>abhyāsayuktā patitāṃ dināśaṃ kurvantirukjanmanarāvināśaṃ /</l>
-         
-         
-         
+
+
+
          <l>iti śrī nāgārjunaviracite raseṃdramaṅgale dvitioyo+dyāyaḥ</l>
 
-          
-         
-         
+
+
+
       </body>
-     
-  </text>
+
+   </text>
 </TEI>
