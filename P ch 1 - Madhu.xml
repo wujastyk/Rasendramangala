@@ -43,7 +43,7 @@
                         one.</item>
                   </list>
                </p>
-               <p>More information and fuller details of this license are given on the <ref
+               <p>More information about this license is given on the <ref
                      target="http://creativecommons.org">Creative Commons website</ref>.</p>
             </availability>
          </publicationStmt>
@@ -56,7 +56,7 @@
                   <institution>Bibliothèque Nationale</institution>
                   <collection>Palmyr Cordier</collection>
                   <idno>1222</idno>
-                  <altIdentifier type="MSsiglum">
+                  <altIdentifier type="EditionSiglum">
                      <idno>P</idno>
                   </altIdentifier>
                </msIdentifier>
@@ -73,6 +73,10 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+
+      <revisionDesc>
+         <change when="2018-08-07" who="Dominik Wujastyk">Minor changes to the header.</change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
