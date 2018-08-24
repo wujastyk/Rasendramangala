@@ -3,22 +3,79 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
+
    <teiHeader>
       <fileDesc>
+
          <titleStmt>
-            <title>Title</title>
+            <title ana="Chapter 1">Rasendramaṅgala chapter 1</title>
+            <author><name>Nāgārjuna Siddha</name></author>
+            <principal>Dominik Wujastyk</principal>
+            <respStmt>
+               <resp>transcription</resp>
+               <persName>Deepro Chakraborty</persName>
+            </respStmt>
          </titleStmt>
+
          <publicationStmt>
-            <p>L. D. Institute MS catalogue serial no. 6498, accession no. 7753, described in
-               Catalogue of Sanskrit and Prakrit manuscripts. Munirāja śrī Puṇyavijayaji’s col-
-               lection, (Ahmedabad: L. D. Institute, 1963-68)</p>
+            <authority>Rasendramaṅgala Project</authority>
+            <distributor>Dominik Wujastyk</distributor>
+
+            <availability status="restricted">
+               <p>Copyright Notice</p>
+               <p>Copyright <persName>Dominik Wujastyk</persName> 2018</p>
+               <p>
+                  <ref target="https://creativecommons.org/licenses/by-sa/4.0/" type="licence"
+                     >Distributed by <persName>Dominik Wujastyk</persName> under a Creative Commons
+                     Attribution-ShareAlike License.</ref>
+               </p>
+               <p>Under this licence, you are free <list>
+                     <item>to Share — to copy, distribute and transmit the work</item>
+                     <item>to Remix — to adapt the work </item>
+                  </list></p>
+               <p>Under the following conditions:</p>
+               <p>
+                  <list>
+                     <item>Attribution — You must attribute the work in the manner specified by the
+                        author or licensor (but not in any way that suggests that they endorse you
+                        or your use of the work).</item>
+                     <item>Share Alike — If you alter, transform, or build upon this work, you may
+                        distribute the resulting work only under the same or similar license to this
+                        one.</item>
+                  </list>
+               </p>
+               <p>More information about this license is given on the <ref
+                     target="http://creativecommons.org">Creative Commons website</ref>.</p>
+            </availability>
          </publicationStmt>
+
          <sourceDesc>
-            <p>The text with the ṭippaṇa of Govindabhadra. Leaves 3-66, 70-78, 90-95. 9 lines/page,
-               25 akṣaras/line of large Devanāgarī. Numbered verses throughout.</p>
+            <msDesc>
+               <msIdentifier>
+                  <country>India</country>
+                  <region>Ahmedabad</region>
+                  <institution>L. D. Institute</institution>
+                  <idno>7753</idno>
+                  <altIdentifier type="EditionSiglum">
+                     <idno>A1</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <p>L. D. Institute MS catalogue serial no. 6498, accession no. 7753, described in
+                     <title>Catalogue of Sanskrit and Prakrit manuscripts. Munirāja śrī
+                     Puṇyavijayaji’s collection</title>, (Ahmedabad: L. D. Institute, 1963-68). The
+                  text with the ṭippaṇa of Govindabhadra. Leaves 3-66, 70-78, 90-95. 9 lines/page,
+                  25 akṣaras/line of large Devanāgarī. Numbered verses throughout.</p>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
+
+      <revisionDesc>
+         <change when="2018-08-23" who="Dominik Wujastyk">Updated TEI header.</change>
+      </revisionDesc>
    </teiHeader>
+
+
+
    <text>
       <body>
          <pb n="14a"/>

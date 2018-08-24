@@ -3,19 +3,87 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
+         
          <titleStmt>
-            <title>Rasendramaṅgalam</title>
+            <title ana="Chapter 1">Rasendramaṅgala chapter 1</title>
+            <author><name>Nāgārjuna Siddha</name></author>
+            <principal>Dominik Wujastyk</principal>
+            <respStmt>
+               <resp>transcription</resp>
+               <persName>Madhusudan Rimal</persName>
+            </respStmt>
          </titleStmt>
+         
          <publicationStmt>
-            <p>Publication Information</p>
+            <authority>Rasendramaṅgala Project</authority>
+            <distributor>Dominik Wujastyk</distributor>
+            
+            <availability status="restricted">
+               <p>Copyright Notice</p>
+               <p>Copyright <persName>Dominik Wujastyk</persName> 2018</p>
+               <p>
+                  <ref target="https://creativecommons.org/licenses/by-sa/4.0/" type="licence"
+                     >Distributed by <persName>Dominik Wujastyk</persName> under a Creative Commons
+                     Attribution-ShareAlike License.</ref>
+               </p>
+               <p>Under this licence, you are free <list>
+                  <item>to Share — to copy, distribute and transmit the work</item>
+                  <item>to Remix — to adapt the work </item>
+               </list></p>
+               <p>Under the following conditions:</p>
+               <p>
+                  <list>
+                     <item>Attribution — You must attribute the work in the manner specified by the
+                        author or licensor (but not in any way that suggests that they endorse you
+                        or your use of the work).</item>
+                     <item>Share Alike — If you alter, transform, or build upon this work, you may
+                        distribute the resulting work only under the same or similar license to this
+                        one.</item>
+                  </list>
+               </p>
+               <p>More information about this license is given on the <ref
+                  target="http://creativecommons.org">Creative Commons website</ref>.</p>
+            </availability>
          </publicationStmt>
+         
          <sourceDesc>
-            <p>Gondal</p>
+            <msDesc>
+               <msIdentifier>
+                  <country>India</country>
+                  <region>Jamnagar</region>
+                  <institution>Gujarat Ayurveda University Library</institution>
+                  <collection>Gondal Collection formerly of Jivarama Kalidasa Sastri</collection>
+                  <idno>34</idno>
+                  <altIdentifier type="EditionSiglum">
+                     <idno>G</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <p>This MS is described in <title>śrī bhuvaneśvarī pīṭh, goṃḍala – saurāṣṭra: hasta-
+                  likhita granthasūcī; Shri Bhuvaneshwari Pith, Gondal, Saurashtra, (India). Cata-
+                  logue &amp; Index of Manuscripts</title> (Goṇḍal: Śrī Bhuvaneśvarī Pīṭh, 1960), serial
+                  number 34, p. 26. The catalogue records the date of copying the MS as saṃ
+                  1996 (CE 1939/40), and the number of leaves as 37. The late date of copying
+                  suggests that Jīvarāma Kālidāsa Śāstri, who assembled the Gondal MS col-
+                  lection, may have had the manuscript copied for his library from another
+                  extant copy.
+                  The whole of the Śrī Bhuvaneśvarī Pīṭh Goṇḍal MS collection was trans-
+                  ferred to The Gujarat Ayurvedic University, Jamnagar, in about 1970, and
+                  is now housed there in the university library block.
+                  The manuscript was inspected briefly during a visit to Jamnagar in 1991,
+                  and a photocopy was received in early 1993. The manuscript does not 
+                  include drawings or ṭippaṇa.</p>
+            </msDesc>
          </sourceDesc>
+         
       </fileDesc>
-  </teiHeader>
+      
+      <revisionDesc>
+         <change when="2018-08-23" who="Dominik Wujastyk">Added new TEI header.</change>
+      </revisionDesc>
+   </teiHeader>
+   
   <text>
       <body>
          

@@ -5,26 +5,83 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
+
          <titleStmt>
-           <title>Rasendramaṅgala by Nāgārjuna</title>
+            <title ana="Chapter 1">Rasendramaṅgala chapter 1</title>
+            <author><name>Nāgārjuna Siddha</name></author>
+            <principal>Dominik Wujastyk</principal>
+            <respStmt>
+               <resp>transcription</resp>
+               <persName>Deepro Chakraborty</persName>
+            </respStmt>
          </titleStmt>
+
          <publicationStmt>
-            <p>L. D. Instutute, Ahmedabad</p>
+            <authority>Rasendramaṅgala Project</authority>
+            <distributor>Dominik Wujastyk</distributor>
+
+            <availability status="restricted">
+               <p>Copyright Notice</p>
+               <p>Copyright <persName>Dominik Wujastyk</persName> 2018</p>
+               <p>
+                  <ref target="https://creativecommons.org/licenses/by-sa/4.0/" type="licence"
+                     >Distributed by <persName>Dominik Wujastyk</persName> under a Creative Commons
+                     Attribution-ShareAlike License.</ref>
+               </p>
+               <p>Under this licence, you are free <list>
+                     <item>to Share — to copy, distribute and transmit the work</item>
+                     <item>to Remix — to adapt the work </item>
+                  </list></p>
+               <p>Under the following conditions:</p>
+               <p>
+                  <list>
+                     <item>Attribution — You must attribute the work in the manner specified by the
+                        author or licensor (but not in any way that suggests that they endorse you
+                        or your use of the work).</item>
+                     <item>Share Alike — If you alter, transform, or build upon this work, you may
+                        distribute the resulting work only under the same or similar license to this
+                        one.</item>
+                  </list>
+               </p>
+               <p>More information about this license is given on the <ref
+                     target="http://creativecommons.org">Creative Commons website</ref>.</p>
+            </availability>
          </publicationStmt>
 
          <sourceDesc>
-            <p>MS catalogue no. 1285, accession no. 9442</p>
+            <msDesc>
+               <msIdentifier>
+                  <country>India</country>
+                  <region>Ahmedabad</region>
+                  <institution>L. D. Institute</institution>
+                  <idno>9442</idno>
+                  <altIdentifier type="EditionSiglum">
+                     <idno>A1</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <p>L. D. Institute MS catalogue serial no. 1285, accession no. 9442. De- scribed in
+                  Puṇyavijayajī and Shah (1963–1968: v. 4), <title>Āc. Vijayasevasūri’s and Āc.
+                     Kṣāntisūri’s collections.</title> Old accession number 535. Text and ṭippaṇa,
+                  the latter not ascribed to anyone, but the same as that ascribed to Govindabhadra
+                  in other MSS. Library pagination 1–49. Scribal foliation 1–25. 13 lines/page, 47
+                  akṣaras/line of Devanāgarī from western India, with some pṛṣṭhamātrā vowels.
+                  Verses numbered throughout. Mar- ginal annotations and corrections throughout.
+                  Marginal illustration of al- chemical apparatus on leaf 2r, and 27 fuller
+                  illustrations on leaves 24v–25v.</p>
+            </msDesc>
          </sourceDesc>
-
       </fileDesc>
+
       <revisionDesc>
-         <listChange>
-            <change resp="Dominik Wujastyk" when="2018-06-13">Removed outer paragraph tags</change>
-            <change resp="Dominik Wujastyk" when="2018-06-13">added paragraph round the add
-               tags</change>
-         </listChange>
+         <change resp="Dominik Wujastyk" when="2018-06-13">Removed outer paragraph tags</change>
+         <change resp="Dominik Wujastyk" when="2018-06-13">added paragraph round the add
+            tags</change>
+         <change when="2018-08-23" who="Dominik Wujastyk">Updated TEI header.</change>
       </revisionDesc>
    </teiHeader>
+
+
+
    <text>
       <body>
 
