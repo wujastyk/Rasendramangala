@@ -11,3 +11,4 @@ The project managment website for this project is at https://wujastyk.net/qdpm/i
 A reference document is the unpublished draft article by Dominik Wujastyk, "[The Surviving MSS of the Rasendramaṅgala of Nāgārjuna Siddha](https://www.dropbox.com/s/ad37zbvmpb1jtd7/mss.tex-utf8.pdf?dl=0)".
 
 These transcriptions are being collated and processed through Charles Li's [Saktumiva](http://saktumiva.org/start) platform for producing and publishing critical editions of Sanskrit texts.
+

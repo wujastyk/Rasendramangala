@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-
-
     <teiHeader>
         <fileDesc>
 
@@ -83,12 +77,14 @@
 
     <text>
         <body>
-            <p>
+        <div>
                 <pb n="1a"/>
-                <add place="margin">1</add>
+                <note><add place="margin">1</add>
                 <add place="margin">SOME Where the folios are very dull in Prata and folio No.-4 to
                     9 are Contact: Mayur Shah, 10 Bharati Society, Patan, 384265 INDIA missing in
-                    original Prata</add> §O|| oṃ namo raseṃdrāya gurubhyo namaḥ|| <lb/>
+                    original Prata</add></note> 
+            <p>§O|| oṃ namo raseṃdrāya gurubhyo namaḥ||</p> 
+            <lb/>
                 <lg type="stanza">
                     <l> natvā raseṃdraṃ śivasaukhyakārakaṃ| apārasaṃsārasamudratārakaṃ| </l>
                     <l> sarvārthasiddhipradamukhyamaṃgalaṃ| graṃthaṃ pravakṣyāmi raseṃdramaṃgalaṃ||
@@ -105,12 +101,15 @@
                     <l>saptame viṣataṃtraṃ tu| aṣṭame guṇasaṃjñakaṃ||<num value="5">5</num>||</l>
                     <l> aṣṭādhyāyam iti proktaṃ| śāstre smin rasamaṃgale| </l>
                     <l> tatrādau maṃgalaṃ kṛtvā| maṃgalaṃ maṃgalāyate||<num value="6">6</num>||</l>
+                    </lg>
+                    
+                    <lg>
                     <l> aṇimādyaṣṭavibhūtido ghanaṃ| saṃsārapārapāradaḥ|| </l>
                     <l> muktvaikaṃ rasarājaṃ ca| bhūtale ko'nyosti jarāpaho paraḥ </l>
                     <l>baddhaḥ khecaratāṃ padaṃ naye <unclear unit="chars"
                         >tra</unclear>vyādhisamūhamūrchitaḥ| </l>
-                    <l>jārito janmajarāvināśato| kramito raṃjito bhuktimuktidaḥ yadi paṃcatvagataṃ
-                        dvisūtakaṃ| aśitaḥ syād amaratvakārakaḥ||<num value="8">8</num>
+                    <l>jārito janmajarāvināśato| kramito raṃjito bhuktimuktidaḥ</l> 
+                    <l>yadi paṃcatvagataṃ dvisūtakaṃ| aśitaḥ syād amaratvakārakaḥ||<num value="8">8</num>
                     </l>
                     <l>jalūkākāranibaddhasarūpadā<unclear unit="chars">ya</unclear>kṛtvā
                         sākāranirākāratāgataṃ hi sūtakaṃ || <num value="9">9</num>||</l>
@@ -133,7 +132,12 @@
                     <l>kiṃ va<unclear unit="chars">?</unclear>pa<unclear unit="chars">?</unclear>r
                         varayogaratnai|r na yāti tulyaṃ naranātha bhūtale| raseṃdrayogād
                         dharakoṭiraṃśitaḥ| tasmāt prayatnena raseṃdra sevyaḥ||<num value="16"
-                            >16</num>|| iti rasapraśaṃsā </l>
+                            >16</num>|| </l>
+                    </lg>
+              
+            <p>iti rasapraśaṃsā</p> 
+                                                                                  
+                            <lg>
                     <l>malaṃ viṣaṃ vahnigurutvacāpalaṃ| naisagikā doṣam+uśaṃti tajñā| utpāditau dvau
                         trapunāgasaṃbhavau| raseṃdrarājo kathayaṃti vaidyāḥ||<num value="17"
                             >17</num>||</l>
@@ -280,15 +284,18 @@
                         karoti kuṭilasya vadaṃti <unclear>saṃ???</unclear>nāgaśodhanaṃ|
                         arkonmattas+tu hipayahalinī kuṃcakī na kramamālā| guṃjā vahniḥ surapatiḥ
                         surā viśveṃ<unclear>gu</unclear>dīśvagaṃdhā|takrepiṣṭaṃ malaharatimidaṃ
-                        sarvalokaprasiddhaṃ vaṃgastaṃbhaṃ kṣaṇam+api kurute jyotiṣo nāmayogaḥ||<num
-                            value="65">65</num>||</l>
+                        sarvalokaprasiddhaṃ vaṃgastaṃbhaṃ kṣaṇam+api kurute jyotiṣo nāmayogaḥ||
+                        <num value="65">65</num>||</l>
                     <l>vaṃgaśodhanaṃ agastipuṣpaniryāso bhāvitā ca manaḥśilā| taccūrṇaṃ vihite gedhe
                         praticāpāya nikṣipet||</l>
                     <l>iti nāgārjunaviracite raseṃdramaṃgale rasoparasalohaśodhanādhikāraḥ prathamaḥ
                     </l>
                 </lg>
-            </p>
-            <p>
+        
+        </div>
+            
+            <div>
+            <lg>
                 <l>athāto vajrādau lohamāraṇadhānyādhikāra vyākhyāsyāmaḥ|</l>
                 <l>meṣaśṛṃgī bhujaṃgo sthi|kūrmapṛṣṭhaṃ śilājinu|stuhīlālārajaḥ śūnya|kāṃtapāṣāṇam
                     eva ca||<num value="1">1</num>||</l>
@@ -317,22 +324,22 @@
                 <l>kṣāratraya tuṣyakṣāraiś+ca paṃcabhiḥ| vajrārkakṣīrasaṃmiśraṃ| kalkaṃ
                     saṃpīṣayed+budhaḥ| vajra 0 gatau 0 vāruṇyādimato yoga|
                         vajra<unclear>??</unclear></l>
-                <add place="right margin">1</add>
-                <add place="right margin">ṇam+uttamaṃ| kīlālamāṣuviruṃdha| meṣaśṛṃgī
+            </lg><note>            <add place="right margin">1</add></note>
+                <note><add place="right margin">ṇam+uttamaṃ| kīlālamāṣuviruṃdha| meṣaśṛṃgī
                         ghaṭodbhavaḥ||<num value="15">15</num>|| kulatthako 0 vajrakaṃ vā
                         <unclear>?</unclear>vikrāṃtaṃ| puṭapākena mārayet| yogarājam+idaṃ proktaṃ|
                     māraṇaṃ gamanasya ca| drāvaṇaṃ sarvadhātūnāṃ| kurute nātra saṃśayaḥ|
                     asthiśṛṃkhalamadhyasthaṃ| kṛtvā vajraniruṃdhitaṃ| jalabhāṃḍena saṃkṣinnaṃ|
-                    saptāhadrāvatāṃ nayet|| iti vajravikrāṃtamāraṇaṃ</add>
-                <add place="left margin"><l>cūrṇīkṛtaṃ gaganapatrasamāranālaṃ| dhṛtvā dinaikam+atha
+                    saptāhadrāvatāṃ nayet|| iti vajravikrāṃtamāraṇaṃ</add></note>
+                <note><add place="left margin"><l>cūrṇīkṛtaṃ gaganapatrasamāranālaṃ| dhṛtvā dinaikam+atha
                         śoṣpacasūraṇasthaṃ| bhāvyaṃ rasaiḥ kadaliśṛṃgikarīrakīra|
                         raṃbīranīraghaṭajais+tu puṭaiḥ sametaṃ||<num value="18">18</num>||</l>
                     <l>piṃḍīkṛtaṃ tu va<unclear>?</unclear>śo malena| saṃśodhya koṣṭhagatam+āśu
                         dhamet evāgnau| satvaṃ pataṃti gaganasya caturvidhasya| tāsīruhasya bahuśo
                             sya<unclear>?</unclear>dhātavasya||<num value="19">19</num>||</l>
-                    phalatrayaṃ vahnibalābalā<unclear>bhra</unclear>|bhrūvalli</add>
+                    phalatrayaṃ vahnibalābalā<unclear>bhra</unclear>|bhrūvalli</add></note>
                 <pb n="2b"/>
-                <add place="top"><l>patrā<unclear>sra</unclear>kaṃ samādāya vakṣamāṇoṣadhaiḥ
+                <note><add place="top"><l>patrā<unclear>sra</unclear>kaṃ samādāya vakṣamāṇoṣadhaiḥ
                         saha|</l>
                     <l>ekatra marddayet+tāvat| yāvad+ekaṃ hi jāya<unclear>ta|</unclear></l>
                     <l><unclear>narsmā</unclear>guruṃ sa<unclear>rju</unclear>rasāṃ kṣadramī na
@@ -343,7 +350,8 @@
                     <l>ātape śoṣa<unclear>?ta?sya</unclear> śrāddhaṃ maṃcca
                             khadi<unclear>runale|</unclear></l>
                     <l><unclear>lo???dhamanī????dhi|</unclear>yāmadvayasya yogena sa<unclear>tra
-                            patati nirmalaṃ</unclear></l></add>
+                            patati nirmalaṃ</unclear></l></add></note>
+
                 <l>gopeṃdra<unclear>?</unclear>mātṛvāhakaḥ| ṣaḍbindukaṃ maṃḍalikā
                     rajāhoṃsāḥkhāśvagaṃdhā dvimukhī punarnavā| dīnārikā sūraṇa kaṃcukī ca| kīṭāriṇī
                     gokṣurakasya pāṭā| unmattako lāṃgalikā ca vīrā||<num value="21">21</num></l>
@@ -397,19 +405,19 @@
                 <l>kākinī guṃjāphalānāṃ saṃmasṛṇaṃ kṛtacūrṇam+ambaraṃ bahuśaḥ
                         kaliśatarudugdhabhāvita<unclear>saptā</unclear>he dhāmitaṃ dravati<add
                         place="above">||</add> gaganacūrṇaṃ ciraṃ tiṣṭhati</l>
-                <add place="bottom">ka<unclear>pikachacūrṇaṃtithā</unclear>guṃjā<unclear>cūrṇāṃ|
+                <note><add place="bottom">ka<unclear>pikachacūrṇaṃtithā</unclear>guṃjā<unclear>cūrṇāṃ|
                         samaṃ da?o samaṃ </unclear> aṃbara<unclear>dūr?ṃ|</unclear>bhāgaḥ
                     kapikachabhāgaḥ guṃjābhagaḥ| abhrakasamā<unclear>?bhaḥ vitaṃ māhātṛkṣadugdhena
                         dhāmitaṃ dravati</unclear>śaṃkhadrāvajravīrarasena tridinaṃ
                         mardi<unclear>??pe?taḥ </unclear>sarve+pi dhātavaḥ pānīyatāṃ prāpnuvaṃti
                     panasasya tathā jaṃbīrasya rasena marditāni a<unclear>bhra???ne nīratāṃ
-                        gāṃti</unclear></add>
-                <add place="left margin">āmalāṃ baheḍaṃ haritakī citraka dvibala bhūvalli gopeṃdra
+                        gāṃti</unclear></add></note>
+                <note><add place="left margin">āmalāṃ baheḍaṃ haritakī citraka dvibala bhūvalli gopeṃdra
                     mātrivāhaka ṣaṭpada maṃḍalikā āsaṃdhi sāṃgeḍī giraṇī sūraṇa khīrakaṃda vaḍa
-                    dhaturo javṣāra mārīṣāra taṃkaṇa lavaṇa ||</add>
+                    dhaturo javṣāra mārīṣāra taṃkaṇa lavaṇa ||</add></note>
                 <pb n="3a"/>
-                <add place="right margin"><num style="Devanāgarī">3</num></add> rasarūpaṃ
-                    <unclear>ku</unclear>suṃbhikātailaṃ saṃyuktaṃ<add place="above">||</add>
+                <note><add place="right margin"><num style="Devanāgarī">3</num></add> rasarūpaṃ
+                    <unclear>ku</unclear>suṃbhikātailaṃ saṃyuktaṃ<add place="above">||</add></note>
                 <l>kaṃcūkī kaṃdacūrṇaṃ nijarasaparibhāvita
                         samasta<unclear>?</unclear>samasta<unclear>?</unclear> lohāni|</l>
                 <l>toyasadṛśāni karoti gaganaṃ ca viśeṣaṇaṃ svarasena vajravalyā
@@ -443,10 +451,11 @@
                     ṣaḍāyasonāṃ kuliśakṛtīnāṃ| nirtthaghātaṃ kathitaṃ hi tajñaiḥ|<add place="above"
                         >||</add></l>
                 <l>mṛtāni lohāni rasā bhavaṃti| rasena yuktyāmadhanāśayaṃ<unclear>ta</unclear>|
-                    abhyāsayuktāphalaṃ tāti nāśaṃ kurvaṃti rukjanmajarāvināśaṃ||</l> iti
+                    abhyāsayuktāphalaṃ tāti nāśaṃ kurvaṃti rukjanmajarāvināśaṃ||</l>
+                        <p> iti
                 śrīmannāgārjunaviracite raseṃdramaṃgale
                 vajramāraṇasatvapātana-abhrakādidrutidrāvaṇaṃlohapāṇādhikāro dvitīyaḥ||2||</p>
-
+            </div>
         </body>
     </text>
 </TEI>
