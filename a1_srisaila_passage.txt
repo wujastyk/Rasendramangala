@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+      <titleStmt>
+        <title>Ahmedabad LDI 9442 [A1]: Srisaila</title>
+      </titleStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <collection>[collection]</collection>
+            <repository>[repository]</repository>
+            <institution>L. D. Institute</institution>
+            <placeName>
+              <settlement>Ahmedabad</settlement>
+              <region>Gujarat</region>
+              <country>India</country>
+            </placeName>
+            <idno>LDI</idno>
+            <idno type="NCC">[NCC identifier]</idno>
+            <idno type="siglum">A1</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Just the Śrīśaila section of chapter 4</summary>
+            <msItem n="1" defective="!false">
+            <!-- @defective: 'false' for complete, 'true' for incomplete -->
+              <author xml:lang="sa" role="author">Nāgārjuna Siddha</author>
+              <author xml:lang="sa" role="commentator">[commentator]</author>
+              <title xml:lang="sa">Rasendramaṅgala</title>
+              <title xml:lang="sa" type="commentary">[title of commentary]</title>
+  
+              
+              <textLang mainLang="sa-Deva">[Sanskrit in Devanāgarī script.]</textLang>
+              <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="pothi">
+            <!-- @form can be "pothi", "book", scroll", etc. -->
+              <supportDesc material="paper">
+              <!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. -->
+                <extent>
+                  <measure quantity="4" unit="folios"/>
+                  <!-- @unit can be "folios" or "pages" -->
+                  <dimensions type="leaf" unit="cm">
+                  <!-- @unit can be "cm" or "in" -->
+                    <height>[height]</height>
+                    <width>[width]</width>
+                  </dimensions>
+                  <dimensions type="written" unit="cm">
+                  <!-- dimensions of writing area -->
+                    <height>[height]</height>
+                    <width>[width]</width>
+                  </dimensions>
+                </extent>
+                <!-- the following <foliation> tags are examples -->
+              </supportDesc>
+              
+            </objectDesc>
+            <handDesc>
+              <handNote scope="sole" script="devanāgarī" medium="black ink">
+                <p>Copied by the scribe Ratnavimala, pupil of Varddhamāna Vimalagaṇi.</p>
+              </handNote>
+              <handNote scope="major" script="devanāgarī" medium="red ink">
+                <p>[description of another hand]</p>
+              </handNote>
+              <handNote scope="minor" script="english" medium="green highlighter">
+                <p>[description of another hand]</p>
+              </handNote>
+            </handDesc>
+            <additions>
+              <!-- the following additions are examples -->
+            </additions>
+            <bindingDesc>
+              <p>[description of cover, binding, and/or stringholes]</p>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate calendar="Vikrama" when="1737">Vikrama Saṃvat 1737 (AD 1681).</origDate>
+              <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+              <origPlace xml:lang="en">[place of production]</origPlace>
+            </origin>
+            <provenance>[record of ownership]</provenance>
+            <acquisition>[how it was acquired]</acquisition>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+
+    <revisionDesc>
+      <change when="2019-10-21">
+        <persName>[name of editor]</persName>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+
+  
+  <text xml:lang="sa-Deva">
+    <body>
+      <milestone n="4-srisaila"/>
+      <!-- @n is where the transcription begins, if not from the beginning of the manuscript -->
+      <div n="4" type="adhyaya">
+            <pb n="16v"/>
+            <lg type="verse" xml:id="RM4.36-39">
+               <l n="36">śrīsai<lb n="3"/>laparvatasthāsau siddho nāgārjunô
+                     mahān<caesura/> sarvasattropakārī<space quantity="4" unit="akṣara"
+                  /> bhogāguṇānvitaḥ 36</l>
+               <l n="37">prārthitô dadhatê śīghraṃ yasya 2 hi yādṛśaṃ<caesura/> dṛṣṭvāṃ tyāgaṃ
+                  bhogaṃ ca sūtasya<lb n="4"/> prasādataḥ 37</l>
+               <l n="38">sarvasa<space quantity="1" unit="akṣara"/>tvamahāvedhī sūtas tena
+                  tathaiva hi<caesura/> teṣāṃ madhye prallotaś ca ratnaghoṣaprabhākaraḥ 38</l>
+               <l n="39">kṛtāṃjalipuṭo bhūtvā nāgārjuno paristhitaḥ<caesura/> pṛcchate rasaka<lb
+                     n="5"/>rmmāṇi vidyādānaṃ dadasva me 39</l>
+            
+</lg>
+        
+            <p xml:id="RM4.39-40"><persName>nāgārjunovāca</persName></p>
+            <lg type="verse" xml:id="RM4.40-44">
+               <l n="40">sādhu 2 mahāprājña tuṣṭohaṃ bhaktivatsalaḥ<caesura/> kathayāmi nisaṃdeho
+                  yatvayā paripṛcchati<del>e</del> 40</l>
+              <l n="41">valipalitanāśaṃ ca tathā kāmaṃ yathā kāṃlasya taṃ canaṃ<caesura/>
+              yathā lohe tatha dihe kramate nātra saṃśayaḥ</l>
+              <l n="42">sahsrāyutalakṣaṃ ca koṭivedhī bhaved rasaḥ<caesura/>
+              tad ahaṃ saṃpravakṣyāmi sādhanaṃ yathāvidhi 42</l>
+              <l n="43">satvānāṃ bodhi nārthā ya sādhitā vaṭayakṣiṇī<caesura/>
+              dvādaśavanivasarvāṇi mahākteśaḥ kṛto mayā 43</l>
+              <l n="44">tatkāle dṛṣtadravyāṇi divyā cā śrutā mayā<caesura/> adṛṣṭaprārthitā paścāt dṛṣṭatvaṃ bhava sāṃprataṃ</l>
+            </lg>
+           
+           <p>śrīvaṭayakṣarāja uvāca</p>
+           <lg type="verse" xml:id="RM4.45">
+           <l n="45">sādhu 2 mahāsādhu ttadbhaktyā mahatta<unclear>yā</unclear><caesura/> 
+             yat kāryed kāni tāṃ bhadra tatsarvaṃ pradadāmy ahaṃ 45</l>
+           </lg>
+           <p>nāgārjunovāca</p>
+      
+        <lg type="verse" xml:id="RM4.46-47">
+             <l n="46">tuṣṭa tvaṃ yadi māṃ devi kṛṣṭā dvādaśavarṣakaîḥ<caesura/>
+             ātmasatyaṃ dade mahyaṃ tataḥ paścā dhuvāmy ahaṃ 46</l>
+             <l n="47">satyaṃ 2 punaḥ satyaṃ aho vācā tridhā kṛtā<caesura/>
+             yat kiṃchit prārthaye siddha tatsarvaṃ pramadāmy ahaṃ 47</l>
+             
+           
+            </lg>
+         </div>  </body>
+  </text>
+</TEI>
