@@ -142,9 +142,9 @@
   
                <l n="36">śrīśailaparvatastho'sau siddho nāgārjuno
                      mahān||<caesura/> sarvasattvopakārī ca sarvabhogaguṇānvitaḥ||36||</l>
-               <l n="37">prārthito dadhate śīghraṃ yasya yasyā hi yādṛśaṃ||<caesura/> 
+               <l n="37">prārthito dadhate śīghraṃ yasya yasya hi yādṛśaṃ||<caesura/> 
                  dṛṣṭvā tyāgaṃ ca bhogaṃ ca sūtakasya prasādataḥ||37||</l>
-               <l n="38">sarvasatvamahābodhī sūranas tathaiva ca||<caesura/> 
+               <l n="38">sarvasattvamahābodhī sūrasenas tathaiva ca||<caesura/> 
                  teṣāṃ madhye pradhānaṃ ca ratnaghoṣo prabhākaraḥ||38||</l>
                <l n="39">kṛtāṃjalipuṭo bhūtvā nāgārjuna purasthitaḥ||<caesura/> 
                  prachate rasakarmāṇi vidyādānaṃ dadasva me||39||</l>
@@ -152,10 +152,11 @@
                
 </lg>
               
-            <p xml:id="RM4.39-40">|śrī<persName>nāgārjunovāca</persName>||</p>
+            <p xml:id="nagarjuna-1" ana="speaker">|śrī<persName>nāgārjunovāca</persName>||</p>
+            
             <lg type="verse" xml:id="RM4.40-44">
-               <l n="40">sādhu sādhu mahāprājñaḥ tuṣṭohaṃ bhaktivatsalaḥ||<caesura/>
-                 kathayāmi na saṃdeho ya tvayā paripṛchitaḥ||</l>
+               <l n="40">sādhu sādhu mahāprājñaḥ tuṣṭo'haṃ bhaktivatsalaḥ||<caesura/>
+                 kathayāmi na saṃdeho yattvayā paripṛchitaḥ||</l>
               <l n="41">valipalitanāśaṃ ca tathā kāyasya vaṃcanaṃ||<caesura/>
               yathā lohaṃ tathā dehe kramate nātra saṃśayaḥ</l>
               <l n="42">sahasrāyutalakṣaṃ ca koṭivedhī bhaved rasaḥ||<caesura/>
@@ -164,14 +165,18 @@
               dvādaśāni ca varṣāṇi mahākleśaḥ kṛto mayā||</l>
               <l n="44">tatkāle dṛṣtidivyādivyavācā śrutā mayā||<caesura/> 
                 adṛṣṭvā prārthitā pa|ścāt dṛṣṭā cāṃbhava sāṃprataṃ||</l>
-            </lg>
+            
+</lg>
            
-           <p>||vaṭayakṣaṇy uvāca||</p>
+           <p xml:id="vatayaksini-1" ana="speaker">||vaṭayakṣaṇy uvāca||</p>
+           
           <lg type="verse" xml:id="RM4.45">
            <l n="45">||sādhu sādhu mahāsiddha tvadbhaktyā tu mahātmnanaḥ||<caesura/> 
              yat kārye kāṅkṣite bhadra tatsarvaṃ pradadāmy ahaṃ||</l>
            </lg>
-           <p>||śrīnāgārjunovāca|| ||</p>
+       
+           <p xml:id="nagarjuna-2" ana="speaker">||śrīnāgārjunovāca|| ||</p>
+           
            <lg type="verse" xml:id="RM4.46-47">
              <l n="46">tuṣṭā tvaṃ yadi mo devi kliṣṭā dvādaśavarṣayā||<caesura/>
              ātmajñatvaṃ dahe mahyaṃ tataḥ paścād bhavāmy ahaṃ||</l>

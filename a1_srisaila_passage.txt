@@ -96,15 +96,17 @@
 
   
   <text xml:lang="sa-Deva">
+	  
     <body>
-      <milestone n="4-srisaila"/>
+       <milestone unit="adhyaya" n="4-srisaila"/>
+
       <!-- @n is where the transcription begins, if not from the beginning of the manuscript -->
       <div n="4" type="adhyaya">
             <pb n="16v"/>
             <lg type="verse" xml:id="RM4.36-39">
                <l n="36">śrīsai<lb n="3"/>laparvatasthāsau siddho nāgārjunô
-                     mahān<caesura/> sarvasattropakārī<space quantity="4" unit="akṣara"
-                  /> bhogāguṇānvitaḥ 36</l>
+                     mahān<caesura/> sarvasattropakārī <space quantity="4" unit="akṣara"
+                  />bhogāguṇānvitaḥ 36</l>
                <l n="37">prārthitô dadhatê śīghraṃ yasya 2 hi yādṛśaṃ<caesura/> dṛṣṭvāṃ tyāgaṃ
                   bhogaṃ ca sūtasya<lb n="4"/> prasādataḥ 37</l>
                <l n="38">sarvasa<space quantity="1" unit="akṣara"/>tvamahāvedhī sūtas tena
@@ -114,7 +116,8 @@
             
 </lg>
         
-            <p xml:id="RM4.39-40"><persName>nāgārjunovāca</persName></p>
+            <p xml:id="nagarjuna-1" ana="speaker"><persName>nāgārjunovāca</persName></p>
+            
             <lg type="verse" xml:id="RM4.40-44">
                <l n="40">sādhu 2 mahāprājña tuṣṭohaṃ bhaktivatsalaḥ<caesura/> kathayāmi nisaṃdeho
                   yatvayā paripṛcchati<del>e</del> 40</l>
@@ -127,12 +130,15 @@
               <l n="44">tatkāle dṛṣtadravyāṇi divyā cā śrutā mayā<caesura/> adṛṣṭaprārthitā paścāt dṛṣṭatvaṃ bhava sāṃprataṃ</l>
             </lg>
            
-           <p>śrīvaṭayakṣarāja uvāca</p>
+           <p xml:id="vatayaksini-1" ana="speaker">śrīvaṭayakṣarāja uvāca</p>
+           
            <lg type="verse" xml:id="RM4.45">
            <l n="45">sādhu 2 mahāsādhu ttadbhaktyā mahatta<unclear>yā</unclear><caesura/> 
              yat kāryed kāni tāṃ bhadra tatsarvaṃ pradadāmy ahaṃ 45</l>
            </lg>
-           <p>nāgārjunovāca</p>
+          
+          
+           <p xml:id="nagarjuna-2" ana="speaker">nāgārjunovāca</p>
       
         <lg type="verse" xml:id="RM4.46-47">
              <l n="46">tuṣṭa tvaṃ yadi māṃ devi kṛṣṭā dvādaśavarṣakaîḥ<caesura/>

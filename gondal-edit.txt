@@ -676,7 +676,7 @@
                   dadasvame // </l>
                      </lg>
                
-                <p xml:id="srisaila00">śrīnāgā<lb/>rjuna uvāca // </p>
+                <p xml:id="nagarjuna-1" ana="speaker">śrīnāgā<lb/>rjuna uvāca // </p>
                 
                 <lg type="verse" xml:id="RM4.40-44">
                <l>sādhu sādhu mahāṃ prājña tuṣṭohaṃ bhakti vatsalaḥ // </l>
@@ -707,7 +707,9 @@
                <l>trikkaṭuka cūrṇa ca tath-a rasamānaṃ tadvi nikṣipet prajñaḥ // </l>
                <l>guḍapāka samānena ca vanhisthitā<lb/>nyauṣadhāni bhiṣak // </l>
                <l>uttāraṇīyamagnerbhūmau saṃsthāpanīyaṃ ca // </l>
-               <l>atha <title>paṃcāmṛtarasaḥ sarvvarogaharaḥ</title><pb n="14" type="verso"/></l>
+               </lg>
+               
+               <lg>><l>atha <title>paṃcāmṛtarasaḥ sarvvarogaharaḥ</title><pb n="14" type="verso"/></l>
                <l>mṛtarasapalamekaṃ satvamekaṃ gaḍucyā trikaṭukapala yugmaṃ raktacitrasya caiva // </l>
                <l>triphalapura kaṭū<lb/>kī netra saṃkhyā palāni iti militasamastaṃ sārasūtaṃ ca
                   paktvā // </l>
@@ -1485,7 +1487,8 @@
                <l>saṃstāpya madhyakoṣṭhe vyomā sitaharecīrṣtā rasayuktān //</l>
 
                <l>sūtasamāṃstrīstanyeśadvāṃstāṃyojayet pūrva tena tu //</l>
-               <l>pakkatāraṃ bhavati tadardhenavara <pb n="28r"/>kanakaṃ</l>
+               <l>pakkatāraṃ bhavati tadardenavara <milestone unit="PDF56"/>
+                  <milestone unit="28v"/> kanakaṃ</l>
                <l>śulvamapipakkvamebhiḥ hemasamaṃ vāhayettadutkarṣaṃ // </l>
 
                <l>tārasamen tu puṭitaṃ bhavati tadardhena kalyāṇaṃ //</l>
@@ -1501,7 +1504,8 @@
                <l>kāṃtābhrasārakuṃjara kanakāruṇaiḥ śṛṃgakalā śuddhāḥ //</l>
 
                <l> sa bhavetsāraṇavidhinā śatavedhīnāgabuddhikṛtaḥ //</l>
-               <l>cuṃbakarasaka khajāruṇaiḥ kāṃcana tīkṣṇena ghoṣa parivṛddhyā//</l>
+               <l>cuṃbakarasaka khajāruṇaiḥ kāṃcana tīkṣṇena ghoṣa
+                  parivṛddhyā//</l>
 
                <l>kiṃ śulvarasa paribhāvitamākṣika vā pāttujāyate bīja //</l>
                <l>hemendu kāṃtagairreka ṣaṭdvaya ca mūṣāsca //</l>
@@ -1521,10 +1525,12 @@
                <l>tārāriṣṭakalepetamiṣṭarajastārakūṭaṃ vā //</l>
                <l>mākṣīkadhātusatvaṃ caritamātreṇa sārakuṃbha samaḥ //</l>
 
-               <pb n="28v"/>
+               <milestone unit="29r"/>
+               <milestone unit="PDF59"/>
 
-               <l>yadārka pacalemādravati hi garuḍaṃ śatāṃśena //</l>
-               <l>vaṃgābhrakena śuddhaṃ ravidina saṃkhyātra kanaka rajataṃ vā //</l>
+               <l>caṃdrārka pacalemādravati hi garuḍaṃ śatāṃśena //</l>
+               <l>vaṃgābhrakena śuddhaṃ ravidina saṃkhyātra kanaka rajataṃ vā
+                  //</l>
 
                <l>bhavati hi viṃśati vedhī bījaṃ tattāra lepena //</l>
                <l>daśagagāmbujayuktaṃ tāradviguṇea sāritaḥ sūtaḥ //</l>
@@ -1548,9 +1554,11 @@
                <l>ghanasatvanāgabaṃgaiḥ bāhaśaḥ pariśodhayettutāra varaṃ //</l>
 
                <l>daśavalapūjābhirataḥ śuklamatau snehayuktaiśva //</l>
-               <l>śikhiparektadattakakāsīsa rahitābhr svarjisiṃdhukupparaviḥa //</l>
+               <l>śikhiparektadattakakāsīsa rahitābhr svarjisiṃdhukupparaviḥa
+                  //</l>
 
-               <l>yugapadvidā <pb n="29r"/>ghatrevālapañca catuṣaṣṭimṛdumānau //</l>
+               <l>yugapadvidā <pb n="29v"/>ghatrevālapañca catuṣaṣṭimṛdumānau
+                  //</l>
                <l>gasirakasiturarituradalagasiturapūrvakaṃkamaśaḥ //</l>
 
                <l>dalataradalaṃkaragadarapi yo mena tiṣaḍekaikaṃ // </l>
@@ -1560,9 +1568,11 @@
                <l>śyāma śilāṃjana mūlaka kāṃtāduṣavarta śaśāṃkaniśādriḥ //</l>
 
                <l>rasakamayūrakagrīvaka punarugratu śaṃkhaṃ saṃkhyādyaḥ //</l>
-               <l>catuḥ ṣaṣṭi kriyāri caraṇa saṃgraha caturaṣṭa śaṃkhairatyatamaiḥ //</l>
+               <l>catuḥ ṣaṣṭi kriyāri caraṇa saṃgraha caturaṣṭa śaṃkhairatyatamaiḥ
+                  //</l>
 
-               <l>tribhiḥ saṃyutairajiṇametat śreṣṭaṃ piḍamiha vihitaṃ rasāṣṭamāṃsena śatapuṭita</l>
+               <l>tribhiḥ saṃyutairajiṇametat śreṣṭaṃ piḍamiha vihitaṃ
+                  rasāṣṭamāṃsena śatapuṭita</l>
                <l>janjacūrṇaṃ rapi rasa paripītasatva salilakaraṃ</l>
 
                <l>ūḍunāgabhasmagalitagojalaśanapīnagaṃdhaṭaṃkaṇavīḍaṃ</l>
@@ -1580,7 +1590,7 @@
                <l>śubhatithinakṣatramuhūrte cottarāyaṇe bṛhayatturasaṃ //</l>
 
                <l>yavacicintārkadugdhaṃ tripuṭamādau carati rasaḥ kṣipraṃ //</l>
-               <l>maricaviṣāsurasṃdhuriyannaḥ sa <pb n="29v"/>kayātaka //</l>
+               <l>maricaviṣāsurasṃdhuriyannaḥ sa </l>
 
                <l>kākamācikulatthamapai pariharaḥ svayatnena kṣetrī kṛtvādekaṃ</l>
                <l>suratadvavaguṃ palāṃsa tailairvā //</l>
@@ -1610,7 +1620,7 @@
                <l n="36">śrīśailaparvatasyote śīghraṃ yasya kasya hi yādṛśaṃ //</l>
                <l n="37">draṣṭvā tyāgaṃ ca bhogaṃ ca sūtakasya prasādataḥ //</l>
 
-               <l n="38">sarvasatvamayā bodhī sūrasenastathaiva ca</l>
+               <l n="38">sarvasatvamayā bodhī sūrasenas tathaiva ca</l>
                <l>teṣāṃ madhye pradhānaśvara ratnaghoṣo prabhākaraḥ</l>
 
                <l n="39">kṛtāṃjali vuṭo bhūtvā <persName>nāgārjuna</persName>purasvitaḥ</l>
@@ -1718,7 +1728,7 @@
 
            </lg>
            
-               <p xml:id="srisaila2">śrī <persName ana="Vaṭayakṣiṇī">va ..ṇī</persName> uvāca //</p>
+               <p xml:id="vatayaksini-1" ana="speaker">śrī <persName ana="Vaṭayakṣiṇī">va ..ṇī</persName> uvāca //</p>
 
            <lg type="verse" xml:id="RM4.45">
   
@@ -1726,7 +1736,7 @@
                <l>yatāhvānitābhadra tatsarvamahadāmyahaṃ //</l>
            </lg>
 
-               <p xml:id="srisaila3"><persName>śrīnāgārjuna</persName> uvāca</p>
+               <p xml:id="nagarjuna-2" ana="speaker"><persName>śrīnāgārjuna</persName> uvāca</p>
            
            
              <lg type="verse" xml:id="RM4.46-47">  
@@ -1738,7 +1748,7 @@
            </lg>
            
 
-               <p xml:id="srisaila4"><persName>śrīnāgārjuna</persName> uvāva</p>
+               <p xml:id="nagarjuna-3" ana="speaker"><persName>śrīnāgārjuna</persName> uvāva</p>
 <lg>
                <l>yadi tvaṃ devi tuṣṭasi madbhātayā bhaktivatsalo //</l>
                <l>durlabhaṃ bhiṣulokeṣu rasabaṃdhanaṃ vadādhunā //</l>
@@ -1752,13 +1762,14 @@
                <l>bhojanaṃ vastratāṃvūlaṃ svasakhābhyo dadāmyahaṃ //</l>
                <l>ātmakhyātiṃ kariṣyāmi asmilsca pṛthītale //</l>
 
-               <l>tadupāyaṃ varārohe <pb n="31v"/> kathayasva prasādataḥ //</l>
+               <l>tadupāyaṃ varārohe <milestone unit="PDF65"/>
+                  <milestone unit="32r"/> kathayasva prasādataḥ //</l>
 
 </lg>
-               <p xml:id="srisaila5">śrī <persName>vaṭayakṣiṇī</persName> uvāca//</p>
+               <p xml:id="vatayaksini-2" ana="speaker">śrī <persName>vaṭayakṣiṇī</persName> uvāca//</p>
 
            <lg>
-               <l>yatkiṃcitprārthyate siddha tatsarvaṃ pradadāmite //</l>
+               <l>yatkiṃcit prārthyate siddha tatsarvaṃ pradadāmi te //</l>
                <l>kṛtakāryaṃ yathā tathyaṃ tiṣṭehaṃ tvatsamīpataḥ //</l>
 
                <l>sarvalakṣaṇasaṃpūrṇo yastu lakṣasya poṣakaḥ //</l>
@@ -1767,7 +1778,7 @@
                <l>mayā tasya śrūtaṃ vācyaṃ prārthitaḥ śālivāhanaḥ //</l>
                <l>yuṣmatsāmarthyayogena sādhayāmi mahārasaṃ // </l>
 </lg>
-               <p xml:id="srisaila6"><persName>śālivāhana</persName> uvāca</p>
+               <p xml:id="salivahana-1" ana="speaker"><persName>śālivāhana</persName> uvāca</p>
 <lg>
                <l>suvarṇaratna bhāṃḍāraṃ kumāreṇa ca suṃdarī //</l>
                <l>niveditaṃ mayātmāna ādeśo devadīyatā //</l>
@@ -1792,7 +1803,8 @@
 
                <l>karpūrāṇi vicitrāṇi na nā bhūṣāstathaiva ca //</l>
                <l>sarvamelāpakaṃ kṛtvā tataḥ karmasamārabhet</l>
-               <l>catuṣpad-areṇaṃ mālā <pb n="32r"/> vhaṃ vārisamanvitaṃ // </l>
+               <l>catuṣpad-areṇaṃ mālā <milestone unit="PDF64"/>
+                  <milestone unit="32v"/> kaṃbhaṃ vārisamanvitaṃ // </l>
 
                <l>sitacaṃdanaliptāṃgaṃ sitavastrāvaguṃṭhitaṃ //</l>
                <l>paṃcaratnasamaṃ cūrṇadīpākṣata samanvitaṃ //</l>
@@ -1834,9 +1846,10 @@
 
                <l>śrīḥ</l>
 
-               <pb n="32v"/>
+               <milestone unit="PDF67"/>
+               <milestone unit="33r"/>
 
-               <l>utpatat nipatate tis̤t̤ha tiṣṭhasureśvarī //</l>
+               <l>mā utpatat nipatate tis̤t̤ha tiṣṭhasureśvarī //</l>
                <l>sādhayitvā tu me kārya paścātsvarga gamiṣyati //</l>
 
                <l>pāne naiva tu maṃtreṇa kuryāt saptābhimaṃtritaṃ //</l>
@@ -1872,10 +1885,11 @@
                <l>evaṃ jñātvā prayatnena kuru karma vicakṣaṇaḥ //</l>
                <l>varṇa saṃkhyā pramāṇena nāgaṃ bhavati kāṃcanaṃ //</l>
 </lg>
-               <p>atha <title>kartarīrasabandhanaṃ</title></p>
+               <lg>
+               <l>atha <title>kartarīrasabandhanaṃ</title></l>
 
-               <pb n="33r"/>
-<lg>
+               <milestone unit="PDF66"/>
+               <milestone unit="33v"/>
                <l>athātaḥ pravakṣyāmi kartari rasabaṃdhanaṃ //</l>
                <l>uparatnāni saṃgṛhya bhūmi śaila latodbhāvaṃ </l>
 
@@ -1918,17 +1932,14 @@
                <!-- This is also the MS Koba2 folio 3r, line 10, end of verse 59ab. 
          Ko2 continues with Ratnaghoṣa and Nāgārjuna speaking. Ko2 completes with 129 verses. -->
 
-               <!-- This MS, G, continues for another 4 folios, 8 pages, to folio 37v. -->
-            
-</lg>
-         </div>
+  
+            </lg>
 
-         <!-- 
+            <!-- This MS, G, continues for another 4 folios, 7 pages, to folio 37v. -->
+            <!-- PDFs 69-75 (= ff 34r-37v) not typed-->
          
          
-         <pb n="28"/>
-         <note place="inline">ff. 29r - 37 (end) in the file Gondal_Kaksaputa Madhu.xml</note>
-         -->
+         </div>
 
       </body>
    </text>

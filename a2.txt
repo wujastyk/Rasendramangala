@@ -113,16 +113,16 @@
             <pb n="16v"/>
             <lg type="verse" xml:id="RM4.36-39">
                <l n="54">śrī<lb/>śailaparvatastho sau siddho nāgārjjunô
-                     mahān<caesura/>sarvasatvopakārī ca sarvabhogaguṇānvitaḥ 54</l>
-               <l n="55">prārthito dadane śīghraṃ yasya yasy<subst><del rend="marked above">ai</del><add place="right-margin">tya</add></subst> hi yādṛśaṃ<caesura/>56</l> 
+                     mahān<caesura/> sarvasatvopakārī ca sarvabhogaguṇānvitaḥ 54</l>
+               <l n="55">prārthito dadane śīghraṃ yasya ya<subst><del rend="marked above">sṣa</del><add place="right-margin">sya</add></subst> hi yādṛśaṃ<caesura/>56</l> 
                <l n="57">kṛtāṃjalipuṭo bhūtvā nāgārjjuna puna sthitaḥ||<pb/><caesura/> pṛcchate rasakarmāṇi vidyādānaṃ dadasva me 57</l>
                  
 </lg>
         
-            <p xml:id="RM4.39-40">
-<persName>śrīnāgārjuna uvāca</persName>
-</p>
+            <p xml:id="nagarjuna-1" ana="speaker"><persName>śrīnāgārjuna uvāca</persName></p>
+
             <lg type="verse" xml:id="RM4.40-44">
+				
                <l n="58">sādhu sādhu mahāprājña tuṣṭohaṃ bhaktavatsala<caesura/> kathayāmi na saṃdehaṃ
                   yatvayā paripṛṣṭitaṃ 5<subst><del>9</del><add>8</add></subst></l>       
 <l n="59"><metamark function="transposition marker">1</metamark>jīpalitanāśaṃ ca tathā kālasya vaṃcanaṃ<caesura/>
@@ -136,7 +136,7 @@ sahsrāyutalakṣaṃ ca koṭivedhī bhaved rasaḥ<metamark function="transpos
             
 </lg>
            
-           <p>śrīvaṭayakṣa eka vāca</p>
+           <p xml:id="vatayaksini-1" ana="speaker">śrīvaṭayakṣa eka vāca</p>
         
            <lg type="verse" xml:id="RM4.45">
            <l n="45">sādhu sādhu mahāsiddhaḥ tva<pb n="49"/>dbhaktyā nu mahātmmanaḥ 63<caesura/> 
@@ -149,9 +149,11 @@ sahsrāyutalakṣaṃ ca koṭivedhī bhaved rasaḥ<metamark function="transpos
                <l n="65">satyaṃ satyaṃ punaḥ satyaṃ aho vācas tridhā kṛtāḥ 65<caesura/>
              yat kiṃcit prārthase siddha tatsarvaṃ pramadāmy ahaṃ</l>
         
-          <p>śrīnāgārjuna uvāca</p>
+          <p xml:id="nagarjuna-2" ana="speaker">śrīnāgārjuna uvāca</p>
           
-             <l n="66">yadi tvaṃ devi tuṣṭāsi madbhaktyā bhaktavatsale<caesura/> 66 durlabhaṃ triṣu lokeṣu rasabaṃdhaṃ varānane<caesura/>yena kenāthūpāyena prakaromi mahādbhutaṃ 67</l> 
+             <l n="66">yadi tvaṃ devi tuṣṭāsi madbhaktyā bhaktavatsale<caesura/> 66 
+             durlabhaṃ triṣu lokeṣu rasabaṃdhaṃ varānane<caesura/>
+             yena kenāthūpāyena prakaromi mahādbhutaṃ 67</l> 
             </lg>
 
       </div>  

@@ -139,15 +139,17 @@
             <lg type="verse" xml:id="RM4.36-39">
                <l>śrīśailaparvatasthāyī siddho nāgārjuno mahān</l>
                <l>sarvasatvopakārī ca sarvabhāgyasamā[29r]nvataḥ </l>
-               <l>prārthito dadate śīghraṃ tenāpaśya hi yādṛśaṃ </l>
+               <l>prārthito dadate śīghraṃ tenā paśya hi yādṛśaṃ </l>
                <l>dṛṣṭvā tyāgaṃ ca bhogaṃ ca sūtakasya prasādataḥ</l>
                <l>sarvasatvamayo vedhī svarasenas tathaiva ca </l>
                <l>teṣāṃ madhyo pradānaṃ ca ratnaghoṣapratārakaḥ</l>
                <l>kṛtāṃjali puṭobhūtvā nāgārjunapurasthitaḥ </l>
                <l>pṛśchate rasakanyāṇi vidyādānaṃ dadasva me//</l>
-            </lg>
+            
+</lg>
 
-            <p xml:id="RM4.39-40"><persName>śrī nāgārjuna uvāca</persName></p>
+            <p xml:id="nagarjuna-1" ana="speaker"><persName>śrī nāgārjuna uvāca</persName></p>
+            
             <lg type="verse" xml:id="RM4.40-">
                <l>sādhu sādhu mahāmnājñā tuṣṭohaṃ bhaktivatsala </l>
                <l>kathayāmi na mandeho yat tvayā paripṛcchyatām </l>
@@ -161,35 +163,39 @@
                <l>adṛṣṭaprārthitā paścād dṛṣṭā tvaṃ bhavamāṃ prataṃ//</l>
             </lg>
 
-            <p>śrī vaṭayakṣiṇy uvāca</p>
+            <p xml:id="vatayaksini-1" ana="speaker">śrī vaṭayakṣiṇy uvāca</p>
+            
             <lg>
                <l>sādhu sādhu mahāsiddha tvadbhaktyā tu mahātmanā </l>
                <l>yatkāyahāritobhadra tatsarvaṃ pradadāmy aham</l>
             </lg>
 
-            <p><sic>nāgārjunuvāca</sic></p>
+            <p xml:id="nagarjuna-2" ana="speaker"><sic>nāgārjunuvāca</sic></p>
 
             <milestone n="f.29v" unit="folio"/>
+        
             <p>vaṭayakṣiṇy uvāca...</p>
 
-            <p>śrīnāgārjuna uvāca...</p>
+            <p xml:id="nagarjuna-3" ana="speaker">śrīnāgārjuna uvāca...</p>
 
-            <p>vaṭayakṣiṇy uvāca...</p>
+            <p xml:id="vatayaksini-2" ana="speaker">vaṭayakṣiṇy uvāca...</p>
 
-            <p>śālivāhana uvāca ...</p>
+            <p xml:id="salivahana-1" ana="speaker">śālivāhana uvāca ...</p>
 
             <milestone n="32r" unit="folio"/>
-            <p>ratnaghoṣa uvāca...</p>
+            
+            <p xml:id="ratnaghosa-1" ana="speaker">ratnaghoṣa uvāca...</p>
 
-            <p>nāgārjuna u[vāca]...</p>
+            <p xml:id="nagarjuna-4" ana="speaker">nāgārjuna u[vāca]...</p>
+            
             <milestone n="f.34v" unit="folio"/>
 
-            <p>ratnaghoṣa uvāca...</p>
+            <p xml:id="ratnaghosa-2" ana="speaker">ratnaghoṣa uvāca...</p>
 
-            <p>nāgārjuna uvāca...</p>
+            <p xml:id="nagarjuna-5" ana="speaker">nāgārjuna uvāca...</p>
             <milestone n="f.35v" unit="folio"/>
 
-            <p>śrī bhairava uvāca...</p>
+            <p xml:id="bhairava-1" ana="speaker">śrī bhairava uvāca...</p>
 
             <p>iti nāgārjunaviracite rasaratnākare traipaṭāmāhrasa ukta
                mṛtakhecarabandhaṃ samāptam iti</p>

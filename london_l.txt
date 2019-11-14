@@ -123,7 +123,7 @@
             <l>pṛcchate rasakarmāṇi vidyātānaṃ dadasva me| </l>
               </lg>
            
-              <p xml:id="RM4.39-40">nāgārjunovāca|</p>
+              <p xml:id="nagarjuna-1" ana="speaker">nāgārjunovāca|</p>
     
             <lg type="verse" xml:id="RM4.40-44">
               <l>sādhu sādhu mahāprājña tuṣṭo.ahaṃ bhaktivat?salaḥ| </l>
@@ -138,12 +138,14 @@
             <l>adṛṣṭaprārthitā paścāt dṛṣṭatvaṃ bhava sāmpratam| </l>
               </lg>
     
-            <p>śrīvaṭayakṣarāja uvāca|</p>
+            <p xml:id="vatayaksini-1" ana="speaker">śrīvaṭayakṣarāja uvāca|</p>
+            
     <lg type="verse" xml:id="RM4.45">
     <l>sādhu sādhu mahāsādhu nnarud bhakt{}yā maddattayā| </l>
             <l>yatkārye kāṃkṣitā bhadra tatsarvaṃ pradadāmyaham| </l>
       </lg>
-            <p>nāgārjunovāca| </p>
+    
+    <p xml:id="nagarjuna-2" ana="speaker">nāgārjunovāca| </p>
       
       <lg type="verse" xml:id="RM4.46-47">
             <l>tuṣṭaḥ tvaṃ yadi māṃ devi! dṛṣṭā.aṣṭādvādaśavarṣakaḥ| </l>
@@ -151,28 +153,31 @@
             <l>satyaṃ satyaṃ punaḥ satyaṃ aho! vācā tridhā kṛtā| </l>
             <l>yatkiṃcitprārthayese siddha! tatsarvaṃ pradadāmyaham| </l>
         </lg>
-            <p>śrīnāgārjunovāca| </p>
+            
+    <p xml:id="nagarjuna-3" ana="speaker">śrīnāgārjunovāca| </p>
     
-    <lg>
-            <l>yadi tvaṃ devi! tuṣṭāsi mad{}bhakt{}yābhaktivatsalaḥ| </l>
+    <lg type="verse" xml:id="RM4.48-52">
+            <l>yadi tvaṃ devi tuṣṭāsi madbhaktyā bhaktivatsalaḥ| </l>
             <l>durlabhaṃ triṣu lokeṣu rasabaṃdha--varānena| </l>
             <l>yenakenābhyupāyena prakaromi mahadad{}bhutam| </l>
             <l>sādhanaṃ sūtakasyāpi mṛtyudāridranāśanam| </l>
-            <l>parvatā gṛhaprāsādāḥ sa śailavanakānanāḥ| </l>
-            <l>kāṃcana mayā kariṣyāmi asti supṛthivītale| </l>
-            <l>devyupāyaṃ varārohe! kathaya svaprasādataḥ| </l>
+            <l>parvatā gṛhaprāsādāḥ saśailavanakānanāḥ| </l>
+            <l>kāṃcanamayā kariṣyāmi asti supṛthivītale| </l>
+            <l>devyupāyaṃ varārohe! kathayasva prasādataḥ| </l>
       </lg>
-            <p>vaṭayakṣyuvāca| </p>
     
-    <lg>
-            <l>yatkiṃcit prārthaye siddha, tatsarvaṃ pradadāmi te| </l>
+    <p xml:id="vatayaksini-2" ana="speaker">vaṭayakṣyuvāca| </p>
+    
+    <lg xml:id="RM53-">
+      
+      <l n="53">yatkiṃcit prārthaye siddha, tatsarvaṃ pradadāmi te| </l>
             <l>kuru kāryaṃ yathā tavyaṃ tiṣṭhe.ahaṃ tvatsamīpataḥ| </l>
             <l>sarvalakṣaṇasaṃpūrṇo yaḥ sūlakṣasya poṣakaḥ| </l>
             <l>tasya sparśāvalokena yuṣmat--siddhirbhaviṣyati| </l>
             <l>mayā tasya śrutaṃ vākyaṃ prārthitaśālivāhanaḥ| </l>
             <l>yuṣmatsāmarthyayogena sādhayāmi mahārasam| </l>
       </lg>
-            <p xml:id="srisaila6">śrīśālivāhanovāca| </p>
+            <p xml:id="salivahana-1" ana="speaker">śrīśālivāhanovāca| </p>
     
     <lg>
             <l>suvarṇaratnabhāṃḍāraṃ kumāro mama sundarī| </l>
@@ -270,7 +275,8 @@
             <l>jārito māritaścaiva punarjāritamāritaḥ| </l>
             <l>daśasaṃkrāntiniṣkarāṃto koṭivedhi mahārasaḥ| </l>
       </lg>
-            <p xml:id="srisaila7">ratnaghoṣa uvāca| </p>
+            
+            <p xml:id="ratnaghosa-1" ana="speaker">ratnaghoṣa uvāca| </p>
     
     <lg>
             <l>sādhayitvā prayatnena koṭivedhī mahārasaḥ| </l>

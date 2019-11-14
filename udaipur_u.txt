@@ -137,7 +137,7 @@
             <pb n="35v"/>
             <lg type="verse" xml:id="RM4.36-39">
                <l n="36">śrīśailaparvatastho sau<lb/> si|ddo nāgārjuno
-                     mahān||<caesura/> sarva copakārī ca sarva bhogaguṇānvitaḥ||</l>
+                     mahān||<caesura/> sarva copakārī ca sarvabhogaguṇānvitaḥ||</l>
                <l n="37">prārthanā dadhate śīghraṃ yasya yasyā hi yā<lb/><pb n="36r"/>dṛdṛśaṃ||<caesura/> 
                  dṛṣṭvo tyāgaṃ ca bhogaṃ ca sūtakasya prabhāvataḥ||</l>
                <l n="38">sarvasatvamahābodhī sūranas ta<add>ta</add>thaiva ca||<caesura/> 
@@ -147,7 +147,8 @@
             
 </lg>
               
-            <p xml:id="RM4.39-40">|śrī<persName>nāgārjunovāca</persName>||</p>
+            <p xml:id="nagarjuna-1" ana="speaker">|śrī<persName>nāgārjunovāca</persName>||</p>
+            
             <lg type="verse" xml:id="RM4.40-">
                <l n="40">sādhu sādhu mahāprājñaḥ tuṣṭohaṃ bhaktivatsalaḥ||<caesura/> 
                  kathayāmi na saṃdeho ya tvayā<lb/> paripṛchita<add place="above">ḥ</add>||</l>
@@ -161,12 +162,14 @@
                 adṛṣṭvā prārthitā pa|ścāt dṛṣṭā cāṃbhava sāṃprataṃ||</l>
             </lg>
            
-           <p>||vaṭayakṣaṇy uvāca||</p>
+           <p xml:id="vatayaksini-1" ana="speaker">||vaṭayakṣaṇy uvāca||</p>
            <lg>
            <l n="45">||sādhu sādhu mahā<lb/>siddha tvadbhaktyā tu mahātmnanaḥ||<caesura/> 
              yat kāryā<unclear>dkā</unclear>na te bhadra tatsarvaṃ pradadāmy ahaṃ||</l>
            </lg>
-           <p>||śrīnāgārjunovāca|| ||</p>
+           
+           <p xml:id="nagarjuna-2" ana="speaker">||śrīnāgārjunovāca|| ||</p>
+           
            <lg>
              <l n="46">tuṣṭā tvaṃ yadi mo devi kliṣṭā dvādaśavarṣayā||<caesura/>
              ātmajñatvaṃ dahe mahyaṃ tataḥ paścād bhavāmy ahaṃ||</l>
