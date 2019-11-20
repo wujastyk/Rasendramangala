@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+
+       <xenoData>
+      <stemma format="nexml">
+        <nex:nexml xmlns:xml="http://www.w3.org/XML/1998/namespace"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          generator="Bio::Phylo::Project v.0.58"
+          xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="0.9"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:nex="http://www.nexml.org/2009"
+          xmlns:map="http://phylomap.org/terms.owl#"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xsi:schemaLocation="http://www.nexml.org/2009 http://www.nexml.org/2009/nexml.xsd"
+          xmlns="http://www.nexml.org/2009"><otus id="os15">
+            <otu label="A1" id="ou16"/>
+            <otu id="ou20" label="A2"/>
+            <otu id="ou19" label="B"/>
+            <otu label="DW-Ed" id="ou18"/>
+            <otu id="ou21" label="G"/>
+            <otu label="J1" id="ou17"/></otus><trees id="ts2" otus="os15">
+            <tree xsi:type="nex:FloatTree" id="te4" label="'NJ'">
+              <node root="true" id="ne5"/>
+              <node otu="ou16" label="A1" id="ne6"/>
+              <node otu="ou17" label="J1" id="ne7"/>
+              <node id="ne8"/>
+              <node id="ne9"/>
+              <node id="ne12"/>
+              <node otu="ou18" id="ne10" label="DW-Ed"/>
+              <node otu="ou19" id="ne11" label="B"/>
+              <node otu="ou20" label="A2" id="ne13"/>
+              <node otu="ou21" id="ne14" label="G"/>
+              <edge id="edge6" target="ne6" length="0.0" source="ne5"/>
+              <edge length="0.026000137" source="ne5" id="edge7" target="ne7"/>
+              <edge length="0.022399548" source="ne5" target="ne8" id="edge8"/>
+              <edge length="0.0039000812" source="ne8" id="edge9" target="ne9"/>
+              <edge source="ne8" length="0.0064091394" id="edge12" target="ne12"/>
+              <edge target="ne10" id="edge10" source="ne9" length="0.008622104"/>
+              <edge source="ne9" length="0.025702838" target="ne11" id="edge11"/>
+              <edge source="ne12" length="0.020370368" id="edge13" target="ne13"/>
+              <edge length="0.041118305" source="ne12" id="edge14" target="ne14"
+              /></tree></trees></nex:nexml>
+      </stemma>
+    </xenoData>
+  
+    <fileDesc>
+      <titleStmt>
+        <title>[ProvisionalEdition]: Srisaila</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Rasendramangalam project at Saktumiva.org</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <placeName>
+              <settlement>Edmonton</settlement>
+              <region>[region]</region>
+              <country>Canada</country>
+            </placeName>
+            <institution>University of Alberta</institution>
+            <repository>[repository]</repository>
+            <collection>[collection]</collection>
+            <idno>[manuscript identifier]</idno>
+            <idno type="NCC">[NCC identifier]</idno>
+            <idno type="siglum">DW-Ed</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>[description of manuscript]</summary>
+            <msItem n="1" defective="true">
+              <!-- @defective: 'false' for complete, 'true' for incomplete -->
+              <author xml:lang="sa" role="author">Nāgārjuna Siddha</author>
+              <author xml:lang="sa" role="commentator">[commentator]</author>
+              <title xml:lang="sa">Rasendramaṅgala</title>
+              <title xml:lang="sa" type="commentary">[title of
+                commentary]</title>
+              <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+              <rubric xml:lang="sa"><milestone unit="folio" n="1v1"/>||
+                śrīvardhamānajineśvarāya namaḥ || śrīgurubhyo namaḥ ||</rubric>
+              <incipit xml:lang="sa"><milestone unit="folio" n="1v1"/>natvā
+                sureṃdraṃ śivasaukhyadāyakaṃ <add place="above">kārakaṃ</add>
+                apārasaṃsārasamudratārakaṃ</incipit>
+              <explicit xml:lang="sa"><milestone unit="folio" n="24v"/>śrīr
+                astuḥ kalyāṇam astuḥ śubhaṃ bhavatuḥ śreyo stuḥ sakalasajjanasya
+                śrīr astuḥ</explicit>
+
+              <textLang mainLang="sa-Deva">[Sanskrit in Devanāgarī
+                script.]</textLang>
+              <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="pothi">
+              <!-- @form can be "pothi", "book", scroll", etc. -->
+              <supportDesc material="paper">
+                <!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. -->
+                <extent>
+                  <measure quantity="999" unit="folios"/>
+                  <!-- @unit can be "folios" or "pages" -->
+                  <dimensions type="leaf" unit="cm">
+                    <!-- @unit can be "cm" or "in" -->
+                    <height>[height]</height>
+                    <width>[width]</width>
+                  </dimensions>
+                  <dimensions type="written" unit="cm">
+                    <!-- dimensions of writing area -->
+                    <height>[height]</height>
+                    <width>[width]</width>
+                  </dimensions>
+                </extent>
+                <!-- the following <foliation> tags are examples -->
+                <foliation n="1" ana="original">Scribal foliation
+                  1-25.</foliation>
+                <foliation n="2" ana="modern">Modern numerals written in pencil,
+                  centre-right margin, recto and verso.</foliation>
+                <condition>[whether the manuscript is complete, description of
+                  wear and damage]</condition>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1">
+                  <!-- @writtenLines is the number of lines of text per page. @ruledLines is the number of rulings that have been printed or impressed on a page, i.e. the number of lines in a blank notebook. -->
+                  <p>[description of marginal frame lines, etc.]</p>
+                </layout>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote scope="sole" script="devanāgarī" medium="black ink">
+                <p>Copied by the scribe Ratnavimala, pupil of Varddhamāna
+                  Vimalagaṇi.</p>
+              </handNote>
+              <handNote scope="major" script="devanāgarī" medium="red ink">
+                <p>[description of another hand]</p>
+              </handNote>
+              <handNote scope="minor" script="english"
+                medium="green highlighter">
+                <p>[description of another hand]</p>
+              </handNote>
+            </handDesc>
+            <additions>
+              <!-- the following additions are examples -->
+              <p>Marginal annotations and corrections throughout.</p>
+              <p>Marginal illustration of alchemical apparatus on leaf 2r, and
+                27 fuller illustrations on leaves 24v-25v.</p>
+            </additions>
+            <bindingDesc>
+              <p>[description of cover, binding, and/or stringholes]</p>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate calendar="Vikrama" when="1737">Vikrama Saṃvat 1737 (AD
+                1681).</origDate>
+              <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+              <origPlace xml:lang="en">[place of production]</origPlace>
+            </origin>
+            <provenance>[record of ownership]</provenance>
+            <acquisition>[how it was acquired]</acquisition>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2019-10-29">
+        <persName>[name of editor]</persName>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sa-Latn">
+    <body>
+
+      <!-- @n is where the transcription begins, if not from the beginning of the manuscript -->
+
+      <div n="4" type="adhyaya">
+
+        <lg type="verse" xml:id="RM4.36-39">
+          <l n="36" xml:id="srisaila01">śrīśailaparvatastho'sau siddho nāgārjuno
+            mahān||<caesura/> sarvasattvopakārī ca
+            sarvabhogaguṇānvitaḥ||36||</l>
+
+          <l n="37" xml:id="srisaila02">prārthito dadhate śīghraṃ yasya yasya hi
+            yādṛśaṃ||<caesura/> dṛṣṭvā tyāgaṃ ca bhogaṃ ca sūtakasya
+            prasādataḥ||37||</l>
+
+          <l n="38" xml:id="srisaila03">sarvasattvamahābodhī sūrasenas tathaiva
+            ca||<caesura/> teṣāṃ madhye pradhānaṃ ca
+            ratnaghoṣaprabhākaraḥ||38||</l>
+
+          <l n="39" xml:id="srisaila04">kṛtāṃjalipuṭo bhūtvā
+            nāgārjunapurasthitaḥ||<caesura/> prachate rasakarmāṇi vidyādānaṃ
+            dadasva me||39||</l>
+
+
+        </lg>
+
+        <p xml:id="nagarjuna-1" ana="speaker"
+            >|śrī<persName>nāgārjunovāca</persName>||</p>
+
+        <lg type="verse" xml:id="RM4.40-44">
+          <l n="40" xml:id="srisaila05">sādhu sādhu mahāprājñaḥ tuṣṭo'haṃ bhaktivatsalaḥ||<caesura/>
+            kathayāmi na saṃdeho yattvayā paripṛchitaḥ||</l>
+          <l n="41" xml:id="srisaila06">valipalitanāśaṃ ca tathā kālasya vaṃcanaṃ||<caesura/> yathā
+            lohe tathā dehe kramate nātra saṃśayaḥ</l>
+          <l n="42" xml:id="srisaila07">sahasrāyutalakṣaṃ ca koṭivedhī bhaved rasaḥ||<caesura/> tad
+            ahaṃ saṃpravakṣyāmi sādhanaṃ yathāvidhi||</l>
+          <l n="43" xml:id="srisaila08">satvānāṃ śodhanārthāya sādhitā vaṭayakṣiṇī||<caesura/>
+            dvādaśāni ca varṣāṇi mahākleśaḥ kṛto mayā||</l>
+          <l n="44" xml:id="srisaila09">tatkāle dṛṣtadravyāṇi divyavācā śrutā mayā||<caesura/>
+            adṛṣṭā prārthitā paścāt dṛṣṭatvaṃ bhava sāṃprataṃ||</l>
+
+        </lg>
+
+        <p xml:id="vatayaksini-1" ana="speaker">||vaṭayakṣaṇy uvāca||</p>
+
+        <lg type="verse" xml:id="RM4.45">
+          <l n="45" xml:id="srisaila10">||sādhu sādhu mahāsiddha tvadbhaktyā tu
+            mahātmananaḥ||<caesura/> yat kārye kāṅkṣite bhadra tatsarvaṃ
+            pradadāmy ahaṃ||</l>
+
+        </lg>
+
+        <p xml:id="nagarjuna-2" ana="speaker">||śrīnāgārjunovāca|| ||</p>
+
+        <lg type="verse" xml:id="RM4.46-47">
+          <l n="46" xml:id="srisaila11">tuṣṭā tvaṃ yadi māṃ devi kliṣṭā dvādaśavarṣayā||<caesura/>
+            ātmajñatvaṃ dade mahyaṃ tataḥ paścād bhavāmy ahaṃ||</l>
+          <l n="47" xml:id="srisaila12">satyaṃ satyaṃ punaḥ satyaṃ aho vācā tridhā kṛtā||<caesura/>
+            yat kiṃcit prārthase siddha tat sarvaṃ pramadāmy ahaṃ||</l>
+
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
