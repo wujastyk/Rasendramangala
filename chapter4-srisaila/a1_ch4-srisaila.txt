@@ -1,0 +1,734 @@
+<!DOCTYPE TEI SYSTEM "file:/home/dom/Dropbox/Xdrive/books/wujastyk/Rasendramangala/2019%20Rasendra%20XML%20Saktumiva%20transcriptions/provisional_edition.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+      <titleStmt>
+        <title>Ahmedabad LDI 9442 [A1]: Srisaila new</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Created in the context of a project at saktumiva.org</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <placeName>
+              <settlement>Ahmedabad</settlement>
+              <region>Gujarat</region>
+              <country>India</country>
+            </placeName>
+            <institution>L. D. Institute</institution>
+            <collection>[collection]</collection>
+            <idno>LDI</idno>
+            <idno type="NCC">[NCC identifier]</idno>
+            <idno type="siglum">A<sub>1</sub></idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Just the Śrīśaila section of chapter 4</summary>
+            <msItem defective="false" n="1">
+              <!-- @defective: 'false' for complete, 'true' for incomplete -->
+              <author role="author" xml:lang="sa">Nāgārjuna Siddha</author>
+              <author role="commentator" xml:lang="sa">[commentator]</author>
+              <title xml:lang="sa">Rasendramaṅgala</title>
+              <title type="commentary" xml:lang="sa">[title of commentary]</title>
+
+
+              <textLang mainLang="sa-Deva">[Sanskrit in Devanāgarī script.]</textLang>
+              <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+            </msItem>
+          </msContents>
+
+          <physDesc>
+
+            <objectDesc form="pothi">
+              <!-- @form can be "pothi", "book", scroll", etc. -->
+              <supportDesc material="paper">
+                <!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. -->
+                <extent>
+                  <measure quantity="4" unit="folios"/>
+                  <!-- @unit can be "folios" or "pages" -->
+                  <dimensions type="leaf" unit="cm">
+                    <!-- @unit can be "cm" or "in" -->
+                    <height>[height]</height>
+                    <width>[width]</width>
+                  </dimensions>
+                  <dimensions type="written" unit="cm">
+                    <!-- dimensions of writing area -->
+                    <height>[height]</height>
+                    <width>[width]</width>
+                  </dimensions>
+                </extent>
+                <!-- the following <foliation> tags are examples -->
+              </supportDesc>
+
+            </objectDesc>
+
+
+            <handDesc>
+              <handNote medium="black ink" scope="sole" script="devanāgarī">
+                <p>Copied by the scribe Ratnavimala, pupil of Varddhamāna Vimalagaṇi.</p>
+              </handNote>
+              <handNote medium="red ink" scope="major" script="devanāgarī">
+                <p>[description of another hand]</p>
+              </handNote>
+              <handNote medium="green highlighter" scope="minor" script="english">
+                <p>[description of another hand]</p>
+              </handNote>
+            </handDesc>
+
+            <scriptDesc>
+              <scriptNote xml:id="script-ṭha-ṭa">It is common for ṭh to be written as
+                ṭ.</scriptNote>
+            </scriptDesc>
+
+            <additions>
+              <!-- the following additions are examples -->
+            </additions>
+            <bindingDesc>
+              <p>[description of cover, binding, and/or stringholes]</p>
+            </bindingDesc>
+
+          </physDesc>
+
+          <history>
+            <origin>
+              <origDate calendar="Vikrama" when="1737">Vikrama Saṃvat 1737 (AD 1681).</origDate>
+              <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+              <origPlace xml:lang="en">[place of production]</origPlace>
+            </origin>
+            <provenance>[record of ownership]</provenance>
+            <acquisition>[how it was acquired]</acquisition>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+
+    <revisionDesc>
+      <change when="2020-07-06" who="Harshal Bhatt">Completed the transcription to srisaila164
+      </change>
+    </revisionDesc>
+  </teiHeader>
+
+
+  <text xml:lang="sa-Deva">
+
+    <body>
+      <milestone n="4-srisaila" unit="adhyaya"/>
+
+
+      <div n="4" type="adhyaya">
+
+        <l xml:id="srisaila01">śrīsai<lb n="3"/>laparvatasthāsau siddho nāgārjunô mahān
+          <caesura/>
+           sarvasattropakārī <space quantity="4" unit="akṣara"/>bhogāguṇānvitaḥ 36</l>
+
+        <l xml:id="srisaila02">prārthitô dadhatê śīghraṃ yasya 2 hi yādṛśaṃ
+          <caesura/>
+           dṛṣṭvāṃ tyāgaṃ bhogaṃ ca sūtasya<lb n="4"/> prasādataḥ 37</l>
+
+        <l xml:id="srisaila03"> sarvasa<space quantity="1" unit="akṣara"/>tvamahāvedhī sūtas tena
+          tathaiva hi
+          <caesura/>
+           teṣāṃ madhye prallotaś ca ratnaghoṣa prabhākaraḥ 38 </l>
+
+        <l xml:id="srisaila04">kṛtāṃjalipuṭo bhūtvā nāgārjunoparisthitaḥ
+          <caesura/>
+           pṛcchate rasaka<lb n="5"/>rmmāṇi vidyādānaṃ dadasva me 39</l>
+
+
+
+        <p ana="speaker" xml:id="nagarjuna-1">
+          <persName>nāgārjuno vāca</persName>
+        </p>
+
+        <!-- <lg type="verse"> -->
+        <l xml:id="srisaila05">sādhu 2 mahāprājña tuṣṭohaṃ bhaktivatsalaḥ
+          <caesura/>
+           kathayāmi nisaṃdeho yatvayā paripṛcchati<del>e</del> 40</l>
+
+        <l xml:id="srisaila06"> valipalitanāśaṃ ca tathā kāmaṃ yathā kāṃlasya taṃcanaṃ
+          <caesura/>
+           yathā lohe tatha dihe kramate nātra saṃśayaḥ </l>
+
+        <l xml:id="srisaila07">sahsrāyutalakṣaṃ ca koṭivedhī bhaved rasaḥ
+          <caesura/>
+           tad ahaṃ saṃpravakṣyāmi sādhanaṃ yathāvidhi 42</l>
+
+        <l xml:id="srisaila08">satvānāṃ bodhinārthāya sādhitā vaṭayakṣiṇī
+          <caesura/>
+           dvādaśavanivasarvāṇi mahākteśaḥ kṛto mayā 43</l>
+
+        <l xml:id="srisaila09"> tatkāle dṛṣṭadravyāṇi divyācā śrutā mayā
+          <caesura/>
+           adṛṣṭaprārthitā paścāt dṛṣṭatvaṃ bhava sāṃprataṃ 44 </l>
+        <!-- </lg> -->
+
+        <p ana="speaker" xml:id="vatayaksini-1">śrīvaṭayakṣarāja uvāca</p>
+
+        <!-- <lg type="verse"> -->
+
+        <l xml:id="srisaila10">sādhu 2 mahāsādhu ttadbhaktyā mahatta<unclear>yā</unclear>
+          <caesura/>
+           yat kāryed kāni tāṃ bhadra tat sarvaṃ pradadāmy ahaṃ 45</l>
+
+
+        <p ana="speaker" xml:id="nagarjuna-2">nāgārjuno vāca</p>
+
+
+        <l xml:id="srisaila11">tuṣṭa tvaṃ yadi māṃ devi kṛṣṭā dvādaśavarṣakaîḥ
+          <caesura/>
+           ātmasatyaṃ dade mahyaṃ tataḥ paścā dhuvāmy ahaṃ 46</l>
+
+        <l xml:id="srisaila12">satyaṃ 2 punaḥ satyaṃ aho vācā tridhā kṛtā
+          <caesura/>
+           yat kiṃchit prārthaye siddha tatsarvaṃ pramadāmy ahaṃ 47</l>
+
+        <p ana="speaker" xml:id="nagarjuna-2a">śrīnāgārjuna uvāca</p>
+
+        <l xml:id="srisaila13">yadi tvaṃ devi tuṣṭāsi madbhaktyā bhaktivatsalaḥ
+          <caesura/>
+           durlabhaṃ triṣu lokeṣu rasabaṃdha varānane 48</l>
+
+        <l xml:id="srisaila14"> yena kenā<del>yu</del>py upāyena prakaromi<lb/> mahadbhutaṃ
+          <caesura/>
+           sādanaṃ sūtakasyāpi mṛtyudāridranāśanaṃ 49 </l>
+
+        <l xml:id="srisaila15"> parvatā gṛhaprāsādā sasailavanakānanā
+          <caesura/>
+           kāṃcanamayā kariṣyāmi lokānāṃ hitakāmya<gap quantity="1" unit="chars"/> 50 </l>
+
+        <l xml:id="srisaila16">bhojanaṃ vastratāṃ<lb/>būlaṃ sasakhāye pradāpayet
+          <caesura/>
+           ātmakhyātaṃ kariṣyāmi asti supṛthivātalke 51</l>
+
+        <l xml:id="srisaila17">devy upāyaṃ varārohe kathayasva prasādataḥ</l>
+
+        <p ana="speaker" xml:id="vatayaksini-2"><persName>vaṭayakṣaṇy</persName> uvāca//</p>
+
+        <l xml:id="srisaila18">yat kiṃcit prārthyate siddha<pb n="16v"/> tat sarvaṃ pradadāmi te
+          <caesura/>
+           kuru kāryaṃ yathātathyaṃ tiṣṭe haṃ tvatsamīpataḥ 52</l>
+
+        <l xml:id="srisaila19">sarvalakṣaṇasaṃpūrṇo yas tu lakṣasya poṣakaḥ
+          <caesura/>
+           tasya sparśavalokena yuṣmasiddhir bhaviṣyati 53</l>
+
+        <l xml:id="srisaila20">mayā ta<lb/>sya śrutaṃ vākyaṃ prārthita śālivāhanaḥ
+          <caesura/>
+           yuṣmatsāmarthyayogena sādhayāmi mahārasaṃ 54</l>
+
+
+        <p ana="speaker" xml:id="salivahana-1">śrī <persName>śālivāhan</persName>vāca</p>
+
+        <l xml:id="srisaila21"> suvarṇaratnanāṃbhāraṃ kumāro masusuṃdarī
+          <caesura/>
+           niveditaṃ mayātmānaṃ ā<lb/>deśo deva dāyatāṃ 55 </l>
+
+        <l xml:id="srisaila22">sādhu 2 mahāprājña jñamādeśaprapālaka
+          <caesura/>
+           sādhayāmi na saṃdeho yuṣmatsatyena sādhaka 56</l>
+
+        <l xml:id="srisaila23">puṇyar anyaṃ pravakṣyāmi māḍavyena yathā kṛtaṃ
+          <caesura/>
+           rasoparasayoge<lb/>na siddhasūtaṃ susādhitaṃ 57</l>
+
+        <l xml:id="srisaila24">vi<unclear>dva</unclear>ṃ sulvāyasaṃ nāgaṃ yajñārthêṃ kāṃcanaṃ kṛtaṃ
+          <caesura/>
+           tasya pārśve vasiṣṭheêna rasakarmāvadhāritaṃ 58</l>
+
+        <l xml:id="srisaila25">śāsu vaśiṣṭamāḍavyaṃ gurupārśve mayā śrutaṃ
+          <caesura/>
+           tad ayaṃ saṃpra<lb/>vakṣyāmi sādhanaṃ ca yathāvidhiḥ 59</l>
+
+        <l xml:id="srisaila26">sahāyā śobhanā prājñā nirālasyā dṛḍhavraja
+          <caesura/>
+           tāktu līnāpāpahīnāś ca sarvadharmā jiteṃdriyāḥ <supplied rend="above">60</supplied>
+        </l>
+
+        <l xml:id="srisaila27">koṣṭikā vakranāṃlaṃ ca gomayāṃ gomaṃ<lb/>ryāgāni <emph
+            ana="scribal quotes">baṃdhanaṃ</emph>
+          <caesura/>
+           dhaminī lohapātrāṇi ūṣadhyo koṃjika viddhaṃ</l>
+
+        <l xml:id="srisaila28">karpūrāṇi vicitrāṇi nānā mūkhā tathaiva ca 61
+          <caesura/>
+           sarvamelāpakaṃ kṛtvā tata karmma samācaret</l>
+
+        <l xml:id="srisaila29">catu<del>ka</del>ṣkaṃ¦ taraṇaṃ mālākuṃbhaṃ vārisamanvitaṃ 62</l>
+
+        <l xml:id="srisaila30">sitacaṃdanaliptāṃga sitava<unclear>strāva</unclear>guṃvanaṃ
+          <caesura/>
+           paṃcaṃratnaṃ samaṃ cūrṇaṃ dīpākṣitasamanvitaṃ 63</l>
+
+        <l xml:id="srisaila31">paṭhan catuṣkamadhyasthaṃ sthāpayitvā mahā<lb/>muni
+          <caesura/>
+           caṃdanā gurūdhūpaiś ca naive<unclear>dhvai</unclear> vividhaîs tathā 64</l>
+
+        <l xml:id="srisaila32">mahāprājñā pravartavyā ciraṃ bhojaṃ ca kārayet
+          <caesura/>
+           kumārikās tathā pūjyā ājñā tu prārthayen naraḥ 65</l>
+
+        <l xml:id="srisaila33">yuṣmadājñāpra¦<lb/>sadena sādhayāmi mahārasaṃ
+          <caesura/>
+           ākṣai tāba<del>dva</del>d rasaṃ grāhyaṃ visuddha nirmmalaṃ dṛḍhaṃ 66</l>
+
+        <l xml:id="srisaila34">dravyaṃ rasāyane yogyaṃ tataḥ karmma samārabhêt
+          <caesura/>
+           sumṛṣṭaṃ pātitaṃ sūtaṃ sarvadoṣā<unclear>pti</unclear>taṃ tataḥ <num rend="below"
+            >67</num></l>
+
+        <l xml:id="srisaila35">rasakasatva<lb/> saṃyogā jīrṇam aṣṭaguṇe naraḥ
+          <caesura/>
+          <unclear>kṛṣṇā</unclear>bhrakasamaṃ sūta lolayitkā nu jārayet 68</l>
+
+        <l xml:id="srisaila36">samena gaṃdhakaṃ dadyāt agnisomaṃ na nirddahet
+          <caesura/>
+           tīkṣṇaṃ sulvaṃ sunāgaṃ ca samāvarttaṃ ca kā<lb/>
+          <interp type="saut-du-meme-au-meme">samā 69 varttaṃ ca kā</interp>rayet </l>
+
+        <l xml:id="srisaila37">kuṣmayaṃtrasya madhyasthaṃ jāritavyaṃ prayatnataḥ
+          <caesura/>
+           punar anyaṃ praka<sic>trā</sic>vyaṃ yathā carati kāṃcanaṃ 70</l>
+
+        <l xml:id="srisaila38">gokarṇī ca samākhyātā dvitīyā kṛṣṇamaṃjarī
+          <caesura/>
+           yathālābhe gṛhātavyā viśeṣo pa na labhyate 71</l>
+
+        <l xml:id="srisaila39">yatra deśe samupannā bhūtale vātha parvate
+          <caesura/>
+           samaye ta<del><unclear>tra</unclear></del>tra nirdiṣṭā yeneyaṃ saphalā bhavet 72</l>
+
+        <l xml:id="srisaila40">tasmāt sarvaprayatnena dṛśyamaṃtreṇa saṃgṛhet</l>
+
+        <l xml:id="srisaila41">
+          <gap extent="verse" reason="omitted"/>
+        </l>
+
+
+        <l xml:id="srisaila42"> yenedaṃ khanate brahmā yenedaṃ khanate hari 73
+          <caesura/>
+           tenāhaṃ khanayaṣyāmī paṃcasakhyena pāṇinā</l>
+
+        <l xml:id="srisaila43"><unclear>um̐</unclear>mātrā utpati patitoṣṭake tiṣṭa tiṣṭa sureśvarī
+          74
+          <caesura/>
+           sādha<pb n="17r"/>yitvā tu me kāryaṃ paścāt sarge gamiṣyasi </l>
+
+        <l xml:id="srisaila44">anenaiva tu maṃtreṇa kuryyāt saptābhimaṃtritaṃ 75
+          <caesura/>
+           utpādya karmasaṃyogāt bāyā suṣkāṃ tu kārayet </l>
+
+        <l xml:id="srisaila45">dadhnā sā madhukāṣṭena yā<lb/>vad bhasma na gachati 76
+          <caesura/>
+           sakalā sā bhaved devī mṛtyudāridranāśinī</l>
+
+        <l xml:id="srisaila46">uṣmayaṃtrasya madhyasthaṃ ūṣadhī rasakāṃcanaṃ 77
+          <caesura/>
+           athavā bīḍayogena jārayitu vicakṣaṇaḥ</l>
+
+        <l xml:id="srsaila47">urdhe va<lb/>hnirardhaś cāpa madhye tu ravisaṃsthitaḥ 78
+          <caesura/>
+           kāṃcanaṃ jāyate sūta agniṃ datvā muhurmuhuḥ</l>
+
+        <l xml:id="srisaila48">anena kramayogena yāvad dinacatuṣṭayaṃ 79
+          <caesura/>
+           sphoṭayej jalamadhyasthaṃ prakṣālya nirma<lb/>laṃ kuru</l>
+
+        <l xml:id="srisaila49">unmattamunipatrāṇi rajanī kācamācikā 80
+          <caesura/>
+           etāni samabhāgāni āranālena lepeṣayet </l>
+
+        <l xml:id="srisaila50">anena kramayogena yāvat saptadināvadhiḥ 81
+          <caesura/>
+           paścād vaṃdva pra<lb/>karttavyo dīvyauṣadhīrasena ca </l>
+
+        <l xml:id="srisaila51">kukaṭāṃḍanibhaṃ sūtaṃ cūrṇayitvā vicakṣaṇaḥ 82
+          <caesura/>
+           brahmapuṣpasya niryāsaṃ puṭaṃ catvāri dāpayet
+          <caesura/>
+           maṃjiṣṭākṛtaniryāsaṃ tenaivaṃ tādṛśaṃ kuru<lb/> 83</l>
+
+        <l xml:id="srisaila52">
+          <gap extent="verse" reason="omitted"/>
+        </l>
+
+        <l xml:id="srisaila53">mātuliṃgarasenaiva pum kaṃ ca dāpayet
+          <caesura/>
+           tataḥ śudhaṃ vijānīyāt vedhaṃ sulvasya dāpayet 84</l>
+
+        <l xml:id="srisaila54">evaṃ jñātvā prayatnena kuru karmma vicakṣaṇaḥ
+          <caesura/>
+           varṇaṃsaṃkhyāpramāṇena nāgaṃ bha<lb/>vati kocanaṃ 85</l>
+
+        <!-- karttārarasabaṃdhanaṃ -->
+
+        <l xml:id="srisaila55">athāṃtaḥ saṃpravakṣyāmi karttari rasabaṃdhanaṃ
+          <caesura/>
+           uparatnāni saṃgṛhya bhūmaśailalatodbhavaṃ 86</l>
+
+        <l xml:id="srisaila56">rasādiṣu saṃyuktaṃ karttarīrasabaṃdhanaṃ
+          <caesura/>
+           etāni samabhāgā<lb/>ni kapimūtreṇa bhāvayet 87
+          <caesura/>
+          <space quantity="2" unit="akṣara"/>sya kusumainaiva capalaṃ ca puṭeduḥ</l>
+
+        <l xml:id="srisaila57">hemadvādaśabhāgāś ca ṣaḍbhāgāś capalasya ca 88
+          <caesura/>
+           catuḥṣaṣṭi raseṃdrasya ekīkṛtya vimarddayet</l>
+
+        <l xml:id="srisaila58">gostanākāramūkhāyāṃ aṃdhayitvā puṭe budhaḥ 89</l>
+
+        <l xml:id="srisaila59">aparehani saṃprāpto dhāmayitvā tu sphoṭayet
+          <caesura/>
+           dvudhasphaṭikasaṃkhyāsaṃ subadhaṃ daśyāṃte rasaḥ 90
+          <caesura/>
+           paścā svagaṭamū<lb/>khāyāṃ samāva<del>vurtu</del>rtru kārayet
+          <caesura/>
+           jīrṇe rava dātavyaṃ ajīrṇe na ca dāpayet 91</l>
+
+        <l xml:id="srisaila60">catarviṃśaguṇaṃ hema sūtakaṃ grasate sadā
+          <caesura/>
+           samāṃsabhakṣaṇaṃ kuryāt punar anye tu sūta<lb/>ke 92</l>
+
+        <l xml:id="srisaila61">āruṣkaram utpalī sūrye nakṣatraṃ tu bhuvanodbhavaṃ
+          <caesura/>
+           śatāgnisaṃsthitā dy ete paṃcamī suvidāritā 93</l>
+
+        <l xml:id="srisaila62">ekaikasya tu madhyasthaṃ sthāpitavyaṃ dinatrayaṃ</l>
+
+        <l xml:id="srisaila63"> dhūmākulena yaṃ<del><unclear>tre</unclear></del>treṇa
+            sthāpita<unclear>mu</unclear>vyaṃ dinatrayaṃ 94
+          <caesura/>
+           eke beyaṃ yaṃtrayogena pātitavyaṃ prayatnataḥ</l>
+
+        <l xml:id="srisaila63a">viśrurdhṛṃ taṃ vijānīyāt vakrasvedena svedayet 95
+          <caesura/>
+           rāśivedevaputraiś ca caitre sūyā<lb/>lakeṣu ca</l>
+
+        <l xml:id="srisaila64">malayechasi yogena vedāgniparvalocanaiḥ 96
+          <caesura/>
+           etat sarvaṃ rasenaiva peṣayitvā rasasya ca</l>
+
+        <l xml:id="srisaila65">adhordhena pradātavyaṃ agnistho <space quantity="1" unit="akṣara"
+          />stati rasaḥ 97
+          <caesura/>
+           kurkaṭāṃḍanibhaṃ sūtaṃ<pb n="18r"/><gap extent="pada" reason="omitted"/></l>
+
+        <l xml:id="srisaila66">
+          <gap n="15" extent="verses" reason="omitted"/>
+        </l>
+
+        <!-- srisaila66 to srisaila80 are missing, Folio No. 17v is missing-->
+
+        <!-- [golabaṃdhanam] -->
+
+        <l xml:id="srisaila81">punar anyaṃ pravakṣāmi golabaṃ<gap extent="verse" reason="omitted"
+          /></l>
+
+        <l xml:id="srisaila92"><gap extent="pada" reason="omitted"/>va citraṃ ca prasuptaṃ ca
+          jalodare
+          <caesura/>
+           grāhiṇī durnāmakaṃ 15 gutvaṃ gaṃḍamālā śilās tathā</l>
+
+        <l xml:id="srisaila93">etai sarvai vinirmukto valipalitavīryasaḥ<lb/>16
+          <caesura/>
+           śatāni triṇi varṣāṇi jīvedvai karivikramaḥ</l>
+
+        <l xml:id="srisaila94">dutaṃ yugaṃ mukhe yasya guṇāya samudāhṛtaṃ 17</l>
+
+        <!-- [kolaka] -->
+
+        <l xml:id="srisaila95">atha ṣoḍaśapūrṇāni kolakāni rottamaiḥ
+          <caesura/>
+           hutāni muṣamadhye tu teṣu vakṣyā<lb/>mi ye guṇāḥ 19</l>
+
+        <l xml:id="srisaila96">nāsau chiṃdate śastreś ca pācakena na dahyate
+          <caesura/>
+           vāyuvego mahātejā śakratulyo mahāyaśaḥ 20</l>
+
+        <l xml:id="srisaila97">trailokye ca manohārī kāmadeva iva sthita
+          <caesura/>
+           ichayā jāyate tasya śadṛśo jāyate tvayā 21</l>
+
+        <l xml:id="srisaila98">tasya sparśanamātreṇa sarvalohāni kāṃcanaṃ
+          <caesura/>
+           punar anyaṃ pravakṣyāmi baṃdhaṃ su<unclear>rava</unclear>rārcito 22</l>
+
+        <!--  [sūtakāntabaṃdha] -->
+
+        <l xml:id="srisaila99">sūtakālāṃtakaṃ baṃdhaṃ yad uktaṃ parameṣṭinā
+          <caesura/>
+           hīnāṃge adhikāṃ<lb/>ga<unclear>ve vasvā</unclear>savān kuṣṭavāmanā 23</l>
+
+        <l xml:id="srisaila100">gatāṃdriyāṇi nā nayano jarāgragrasto jiteṃdriyaḥ
+          <caesura/>
+           jaḍaś ca gadado mūko gatihā<unclear>sa</unclear>s tathaiva ca 24</l>
+
+        <l xml:id="srisaila101">asaṃkatrayavinirmukto jīvaśe<lb/>ṣe ca tiṣṭati
+          <caesura/>
+           etad gaṃdhaprabhāvena samāvartto yadā bhavet 25</l>
+
+        <l xml:id="srisaila102">punar anyaṃ bhavet piṃḍaṃ nātra kāryavicāraṇā
+          <caesura/>
+           paṃcāmṛto mahāyogo dyukto saṃghātabhairave 26</l>
+
+        <l xml:id="srisaila103">vārākṣasau rāvaṇeva punas tatraiva bhāṣitaṃ
+          <caesura/>
+           nānetarahitaṃ kiṃcit trailokye sacarācare 27</l>
+
+        <l xml:id="srisaila104">pṛthivyāpas tathā tejo vāyur ākāśam eva ca
+          <caesura/>
+           koṭivedhī mahārasa mṛhyā piṃḍe koṣṭasu saṃyutaṃ 28</l>
+
+        <l xml:id="srisaila105">ekai<lb/>kasya tu madhyasthaṃ graṭikāṃ kārayedbudhaḥ
+          <caesura/>
+           guṭikāṃ paṃcamākhyātā ṣaṣṭaṃ jīvaṃ ca kevalaṃ 29</l>
+
+        <l xml:id="srisaila106">ṣaḍguṇaṃ paṃcastholasya tā<space quantity="1" unit="akṣara"/>mrāyāṃ
+          suśobhanaṃ
+          <caesura/>
+           ūrdhapuruṣamānaṃ tu puruṣārdha garbhamaṃ<lb/>ḍale</l>
+
+        <l xml:id="srisaila107">caturmukhaṃ kṛtaṃ koṣṭaṃ tasyopari niveśayet 30
+          <caesura/>
+           goghṛteṃ<del><unclear>ca</unclear></del> ca mā taila samabhāgāni melayet</l>
+
+        <l xml:id="srisaila108">pūrayitvā kuṭāhaṃ tu digdiśāpālapūjanaṃ 31
+          <caesura/>
+           kumārī pūjayet tatra ga<lb/>ṇapūjāṃ kusus tathā 32</l>
+
+        <l xml:id="srisaila109">catudikṣu baliṃ dadyāt yathoktaṃ gurubhāṣitaṃ
+          <caesura/>
+           dhamanaṃ tatra kuvvīta caturdikṣu śanai 2 34</l>
+
+        <l xml:id="srisaila110">sutaptaṃ ca vijānīyāt sṛṣṭibhū nirdhūmaṃ ca yathā bhavet
+          <caesura/>
+           caṃ<lb/>drārko ugraharakṣīrāśayo bhavanāni 35</l>
+
+        <l xml:id="srisaila111">namaskṛtyaṃ guruṃ devaṃ ātmānaṃ taṃtra nikṣipet
+          <caesura/>
+           sudagdhaṃ taṃ vijānīyāt sṛṣṭibhūtaṃ niyojayet 36</l>
+
+        <l xml:id="srisaila112">kalalaṃ ca bhavet sarvaṃ puna<lb/>ś cāyaṃ vinikṣipet</l>
+
+        <l xml:id="srisaila113">raktavarṇa vijānīyāt tejo tejā niyojayet 37
+          <caesura/>
+           māṃsapiḍaṃ bhaved yatra vāyus tatraiva nikṣipet </l>
+
+        <l xml:id="srisaila114">bhramaṃta hemasaṃkāśaṃ jīvatvaṃ tatra dāpayet 38
+          <caesura/>
+           kṛtvā tatra mahārāvaṃ tṛkāraṃ sūrapūjanaṃ</l>
+
+        <l xml:id="srisaila115">uttiṣṭati na saṃdeho pūrvāhne bhāskaro yathā 39
+          <caesura/>
+           divyatejo mahākāyo divyadṛṣṭimahābalaḥ</l>
+
+        <l xml:id="srisaila116">dṛśyate bhuvanaṃ sarvaṃ sasidha sarvasidhidaḥ 40 <pb n="18v"/>
+          <caesura/>
+           saptasidheṣu ye sidhā vimānaṃ preṣayaṃti te</l>
+
+        <p xml:id="srisaila116a"><persName>"ratnaghoṣo"</persName>vāca</p>
+
+        <l xml:id="srisaila117">bhūtakālāṃtakaṃ baṃdhaṃ yadā kartuṃ na śakyate
+          <caesura/>
+           anenaiva śarīreṇa kathaṃ sidhir bhaviṣyati 41</l>
+
+        <!-- [khecarabaṃdha] -->
+
+        <p xml:id="srisaila117a">śrī<persName>nāgārjuno</persName> vāca</p>
+
+        <l xml:id="srisaila118">punar anyaṃ pravakṣyāmi khecaraṃ baṃdham uttamaṃ
+          <caesura/>
+           yena bhakṣitamātreṇa surasāmānyatā bhavet 42</l>
+
+        <l xml:id="srisaila119">yavena viṃdhate tāraṃ nāgaṃ sulvāya saṃsitaṃ
+          <caesura/>
+           tadā tasya prakarttavyaṃ ratnasaṃskāram uttamaṃ <lb/>43</l>
+
+        <l xml:id="srisaila120">iṃdranīlaṃ mahānīlaṃ māṇikyaṃ mauktikaṃ tathā
+          <caesura/>
+           padmarāgaṃ tathā vajraṃ marakaṃ tamatam aṣṭamaṃ 44</l>
+
+        <l xml:id="srisaila121">athātaḥ saṃpravakṣyāmi ratnarāgasya jāraṇaṃ
+          <caesura/>
+           puṣpe kākasīro gṛ<unclear>tya</unclear> apūrvam ala<lb/>saṃyutaṃ 45</l>
+
+        <l xml:id="srisaila122">rāśipūrvaṃ viṣāṇyasthaṃ pūjayitvā tu pācayet
+          <caesura/>
+           anena viḍayogena hemakuliśajāraṇaṃ 46</l>
+
+        <l xml:id="srisaila123">tejāsanasya lomāni dagdhate bhūtavahninā
+          <caesura/>
+           marīcī <space quantity="1" unit="akṣara"/> suputrasya kacakarṇaṃ tu yatpayaḥ 47</l>
+
+        <l xml:id="srisaila124">sa ca tasya dine grāhyaṃ taccūrṇaṃ tena bhāvayet
+          <caesura/>
+           pādena tasya dātavyaṃ rasamūrdhni rdhniśiṣodbhavaṃ 48</l>
+
+        <l xml:id="srisaila125">asya cūrṇaviḍeśreṣṭaṃ sarvaratnasya melakaṃ
+          <caesura/>
+           jārayet pūrvayogena maṇa<lb/>nimaṇirāgasya 49 jāraṇaṃ</l>
+
+        <l xml:id="srisaila126">pūrvāparasya saṃyogāt lokaṃpālāya dāpayet
+          <caesura/>
+           tasya phaiṃlmūlaṃ phalaṃ grāhyaṃ nakṣatre yamadaivate 50</l>
+
+        <l xml:id="srisaila127">asya cūrṇaprabhāvena padmarāga<lb/>sya jāraṇaṃ
+          <caesura/>
+           vārāratne mahādisthaṃ punaḥ pūrveṇa vāṃtike 51</l>
+
+        <l xml:id="srisaila128">ghoṣayitvā <unclear>kṛ</unclear>taṃ cūrṇaṃ mahānīlarasaplutaṃ
+          <caesura/>
+           tīvralolārasenaiva modayitvā punaḥ 2 52</l>
+
+        <l xml:id="srisaila129">pāṭiṃlāṃti saṃ<lb/>yogāt yadā kale rajasvalā
+          <caesura/>
+           tasyā puṣparasenaiva kāryaṃ rakṣā yathocitā 53</l>
+
+        <l xml:id="srisaila130">kṣetrapālo dhanādhyakṣa śivo viṣṇu prajāpati
+          <caesura/>
+           mārtaṃḍaṃ yāvaṃtā bhūtvā lokapā<lb/>lāṣṭakai saha 54</l>
+
+        <l xml:id="srisaila131">caṃdanāgurudhūpaiś ca pūjayitvā prayatnataḥ
+          <caesura/>
+           namaskṛtya gurudevaṃ tato bhakṣenmahārasaṃ 55</l>
+
+        <l xml:id="srisaila132">godohanamātraṃ tu mūrchitaḥ sādhakeśvarāḥ
+          <caesura/>
+           uttiṣṭati na saṃ<lb/>deho trinetraś ca ścaturbhujaḥ 56</l>
+
+        <l xml:id="srisaila133">gaṇanātha tathā sidhā ye cānye gaṇanāyakā
+          <caesura/>
+           āgachaṃti puraṃ tasya sidhaviṃdyādharādayaḥ 57</l>
+
+        <l xml:id="srisaila134">paśyaṃti bhavanaṃ sarvaṃ vimānastho mahāmu<lb/>ne
+          <caesura/>
+           hārakaṃkaṇakarpūraiḥ kuṃḍalair mukuṭais tathā 58</l>
+
+        <l xml:id="srisaila135">śaṃkhakālāhanirghoṣerapsaro gītavādibhiḥ
+          <caesura/>
+           puṣpamālāpatākābhi kikiraṇāramaṃḍitaiḥ 59</l>
+
+        <l xml:id="srisaila136">khecaratvaṃ prayachaṃti yatra de<lb/>vo maheśvaraḥ
+          <caesura/>
+           kṛtāṃjali puṭā bhūtvā śivasyāgre vivasthita 60</l>
+
+        <p xml:id="srisaila136a">śrī<persName>bhairavo</persName>vāca</p>
+
+        <l xml:id="srisaila137">sāhastaṃ duḥśvaraṃ ghoraṃ adbhutaṃ ca kṛtaṃ prayāṃ
+          <caesura/>
+           tvadbhadbhaktyā tu hy ahaṃ tuṣṭo svachaṃda prativāraka<lb/>ḥ 61</l>
+
+        <l xml:id="srisaila138">sādhu 2 mahāprājña mama śukrasya sādhakaḥ
+          <caesura/>
+           svargre tiṣṭa ciraṃ kālaṃ yāvat tiṣṭa caṃdrārkatārakaḥ 62</l>
+
+        <l xml:id="srisaila139">rudrakanyā viṣṇukanyā brahmakanyās tathaiva ca
+          <caesura/>
+           bhuktā ca vipulān bhogān <pb n="19r"/>kalpāṃte muktabhājana 63 </l>
+
+        <l xml:id="srisaila140">iti śrīnāgārjuno viracite mahārara uktā khecarabaṃdha samāptaḥ
+          ..</l>
+
+        <!-- [jalūkādirasabaṃdhana] -->
+
+        <l xml:id="srisaila141">rase vīrye vipāke ca śudhaṃ tadviṃdusūtakaṃ
+          <caesura/>
+           tena janmajarāvyādhi harate sū<lb/>takaṃ bhuvi 1</l>
+
+        <l xml:id="srisaila142">khoṭaṃ padaṃ jalūkā ca bhasmaṃ caiva caturthakaṃ
+          <caesura/>
+           paṃcamo mūrttibadhaś ca mūrchitaḥ ṣaṣṭamo mataḥ 2</l>
+
+        <l xml:id="srisaila143">baṃdha ṣaḍvidhaḥ jñeyo saptamo mṛtasūtakaḥ
+          <caesura/>
+           ādraṃtvaṃ ca ghanatvaṃ ca cāpalyaṃ kuru tejasā 3</l>
+
+        <l xml:id="srisaila144">yasyaitāni tadasetetaṃ vidyādbhasmasūtakaṃ
+          <caesura/>
+           nānāvarṇa bhavetsūtaṃ vihāya ghanacāpalaṃ 4</l>
+
+        <l xml:id="srsaila145">lakṣaṇaṃ dṛśyate yasya mūrchitaṃ taṃ vadaṃti hi
+          <caesura/>
+           gurutvamaraṇetvaṃ ca teja<lb/>sā sūryasaṃnnibhaṃ 5</l>
+
+        <l xml:id="srisaila146">śiṣimadhye bhuvaṃ tiṣṭet vadhasūtasya lakṣaṇaṃ
+          <caesura/>
+           kṛṣṇaṃ svetaṃ tathā pītaṃ nīlaṃ vā bhasmasaṃnibhaṃ 6</l>
+
+        <l xml:id="srisaila147">capalatvaṃ yadā naṣṭaṃ bhasmasūtasya lakṣaṇaṃ
+          <caesura/>
+           nānāvarṇaṃ tathā sva<unclear>chaṃ</unclear> ghṛtaṃ yognau jalūkavat 7</l>
+
+        <l xml:id="srisaila148">vardhate sūtakaṃ yacca jaṃlūkābadhalakṣaṇaṃ
+          <caesura/>
+           svetaṃ pītaṃ gurutvaṃ ca mṛdusikyakasaṃnnibhaṃ 8</l>
+
+        <l xml:id="srisaila149">agnimadhye vyadā tiṣṭetpāṭa<unclear>vai</unclear>baṃdhasya lakṣaṇaṃ
+          <caesura/>
+           kukuṃ<lb/>ṭāṃḍābhanibhaṃ sūtaṃ lohavedhī bhāvadhī<unclear>nai</unclear> 9 bhaved yadā</l>
+
+        <l xml:id="srisaila150">āvarttitaṃ punas tadvat ṣoṭabadharasākṛti</l>
+
+        <l xml:id="srisaila150a">athavā"</l>
+
+        <l xml:id="srisaila151"><unclear>che</unclear>de snigdhaṃ mṛduṃ caiva śikhinā drāvato
+            <unclear>da</unclear> dravet
+          <caesura/>
+           akṣayaṃ kaṭhinaṃ e<lb/>śvataṃ ṣoṭabadhasya lakṣaṇaṃ 10</l>
+
+        <l xml:id="srisaila152">ṣodādayeṣu ye paṃca vihāya jalūkākṛti
+          <caesura/>
+           hatāgnau dhāmitaṃ tiṣṭet na tiṣṭedeka mūrchitaḥ 11</l>
+
+        <l xml:id="srisaila153">taruṇādityasaṃkāśo nānāvarṇavicakṣaṇa
+          <caesura/>
+           vedha<lb/>yeddehalohāni raṃjito rasabhairavaḥ 12</l>
+
+        <l xml:id="srisaila154">śodhanaṃ sūtakasyādau grāmamānamataḥ paraṃ
+          <caesura/>
+           jāraṇaṃ tvabhrakādīnāṃ sarvasatvamataḥ paraṃ 13</l>
+
+        <l xml:id="srisaila155">garbhabāhyadutiḥ paścāt suvarṇaṃ tadanaṃtaraṃ
+          <caesura/>
+           dīvyoṣa<unclear>dhī</unclear>puṭaṃ paścāt ratnabaṃdhamataḥ paraṃ 14</l>
+
+        <l xml:id="srisaila156">raṃjanaṃ ca tata proktaṃ sāraṇasyānusāraṇā
+          <caesura/>
+           tatopi kāraṇe deyaṃ sūtakasya vicakṣaṇaiḥ 15</l>
+
+        <l xml:id="srisaila157">enaṃ kramaṃ tu yo vetti tasya siddhirna saṃ<lb/>śayaḥ
+          <caesura/>
+           vedhakrāmaṃ vijānāti dehe lohe rasāyane 16</l>
+
+        <l xml:id="srisaila158">tasya janmajarāvyādhi naśyaṃte nātra saṃśayaḥ
+          <caesura/>
+           atraiva paṃcaratnāni nāgavaṃto tathāyasaṃ 17</l>
+
+        <l xml:id="srisaila159">krāmaṇaṃ rasarājasya auṣadhāt samavāpayet
+          <caesura/>
+           auṣadhaiḥ krāmate sūto yogamukti krameṇa hi 18</l>
+
+        <l xml:id="srisaila160">kramate vyādhisaṃghātaṃ grasate duṣṭarogakān
+          <caesura/>
+           tasmāt karmasaṃjñā yato ve<del>dhai</del>dyair ū pāca<del>ye</del>ret 19</l>
+
+        <l xml:id="srisaila161">krāmaṇena vinā sūto na krametvaiva viṃdhati
+          <caesura/>
+           dehalohāmayānsarvān vṛthā syāt kevala śramaḥ 20</l>
+
+        <l xml:id="srisaila162">yasya yogasya yo yogas tenaiva saha yojayet
+          <caesura/>
+           raseṃdro harate vyādhi narakuṃjaravyādhināṃ <lb/>21</l>
+
+        <l xml:id="srisaila163">vyādhim ādau parikṣetaṃ tato dadyā va bheṣajaṃ
+          <caesura/>
+           sūtakena samāyuktaṃ yojayec ca bhiṣagvaraḥ 22</l>
+
+        <l xml:id="srisaila164">iti śrīmannāgāṃrjuno viracite raseṃdramaṃgale
+            guṭikātvādutijalūkājāraṇādirasa<pb n="19v"/>baṃdhanaṃ nāma caturthodhyāyaḥ</l>
+
+
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>Bombay AS SC-19/2 [B]: ch3</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Rasendramangala project with Saktumiva.org</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <placeName> <settlement>Mumbai</settlement> <region>Maharashtra</region>
+                     <country>India</country> </placeName>
+                  <institution>Asiatic Society</institution>
+                  <repository>[repository]</repository>
+                  <collection>[collection]</collection>
+                  <idno>AS</idno>
+                  <idno type="NCC">[NCC identifier]</idno>
+                  <idno type="siglum">B</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>[description of manuscript]</summary>
+                  <msItem defective="true" n="1">
+                     <!-- @defective: 'false' for complete, 'true' for incomplete -->
+                     <author role="author" xml:lang="sa">Nāgārjuna Siddha</author>
+                     <author role="commentator" xml:lang="sa">Govindacandra</author>
+                     <title xml:lang="sa">Rasendramaṅgala</title>
+                     <title type="commentary" xml:lang="sa">Ṭippaṇa</title>
+                     <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+                     <rubric xml:lang="sa"><milestone n="1v1" unit="folio"/>|| śrīvardhamānajineśvarāya
+                        namaḥ || śrīgurubhyo namaḥ ||</rubric>
+                     <incipit xml:lang="sa"><milestone n="1v1" unit="folio"/>natvā sureṃdraṃ
+                        śivasaukhyadāyakaṃ <add place="above">kārakaṃ</add>
+                        apārasaṃsārasamudratārakaṃ</incipit>
+                     <explicit xml:lang="sa"><milestone n="24v" unit="folio"/>śrīr astuḥ kalyāṇam astuḥ
+                        śubhaṃ bhavatuḥ śreyo stuḥ sakalasajjanasya śrīr astuḥ</explicit>
+                     
+                     <textLang mainLang="sa">[Sanskrit in Devanāgarī script.]</textLang>
+                     <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="pothi">
+                     <!-- @form can be "pothi", "book", scroll", etc. -->
+                     <supportDesc material="paper">
+                        <!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. -->
+                        <extent> <measure quantity="23" unit="folios"/>
+                           <!-- @unit can be "folios" or "pages" --> <dimensions type="leaf" unit="cm">
+                              <!-- @unit can be "cm" or "in" -->
+                              <height>[height]</height>
+                              <width>[width]</width>
+                           </dimensions> <dimensions type="written" unit="cm">
+                              <!-- dimensions of writing area -->
+                              <height>[height]</height>
+                              <width>[width]</width>
+                           </dimensions> </extent>
+                        <!-- the following <foliation> tags are examples -->
+                        <foliation ana="original" n="1">Scribal foliation 1-25.</foliation>
+                        <foliation ana="modern" n="2">Modern numerals written in pencil, centre-right
+                           margin, recto and verso.</foliation>
+                        <condition>[whether the manuscript is complete, description of wear and
+                           damage]</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <!-- @writtenLines is the number of lines of text per page. @ruledLines is the number of rulings that have been printed or impressed on a page, i.e. the number of lines in a blank notebook. -->
+                           <p>[description of marginal frame lines, etc.]</p> </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote medium="black ink" scope="sole" script="devanāgarī"> <p>Copied by the scribe
+                        Ratnavimala, pupil of Varddhamāna Vimalagaṇi.</p> </handNote>
+                     <handNote medium="red ink" scope="major" script="devanāgarī"> <p>[description of
+                        another hand]</p> </handNote>
+                     <handNote medium="green highlighter" scope="minor" script="english"> <p>[description
+                        of another hand]</p> </handNote>
+                  </handDesc>
+                  <additions>
+                     <!-- the following additions are examples --> <p>Marginal annotations and corrections
+                        throughout.</p> <p>Marginal illustration of alchemical apparatus on leaf 2r, and 27
+                           fuller illustrations on leaves 24v-25v.</p> </additions>
+                  <bindingDesc>
+                     <p>[description of cover, binding, and/or stringholes]</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin> <origDate calendar="Vikrama" when="1737">Vikrama Saṃvat 1737 (AD
+                     1681).</origDate>
+                     <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+                     <origPlace xml:lang="en">[place of production]</origPlace> </origin>
+                  <provenance>[record of ownership]</provenance>
+                  <acquisition>[how it was acquired]</acquisition>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2020-06-01" who="Dominik Wujastyk"> Started on chapter 3</change>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text xml:lang="sa-Deva">
+      <body>
+         
+         <!-- @n is where the transcription begins, if not from the beginning of the manuscript -->
+         <div n="3" type="adhyaya">
+            
+            <!-- MS B, f.5r:8 -->
+            
+            <l xml:id="rm3.4">pittaṃ haṃti ca pittasaṃbhavagadān sarvvā<unclear>ñ ca</unclear> pittajvarān|
+               <caesura/>
+               kāsasvāsagalāmayān kṣayatṛṣā dāghaś ca śoṣaṃ bhṛ¦<lb/>śaṃ
+               <caesura/>
+               prajñāpāramitā niśīthasamaye śvapne prasādīkṛtaṃ
+               <caesura/>
+               nāmnā tīkṣṇa|mukhaṃ raseṃdramaṃgalaṃ śrīnāgabodhe budhaiḥ|</l>
+            
+            <l>tīkṣṇa mukho nāma rasaḥ|| sarvvavyādhiharaḥ|| cha||<lb/></l>
+            
+            <l>sulvaṃ </l> <!-- ... cf. Śarmā p. 50 ff-->
+         
+         </div>
+      </body>
+  </text>
+</TEI>

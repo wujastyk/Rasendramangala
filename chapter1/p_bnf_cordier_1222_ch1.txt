@@ -1,0 +1,638 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+      <titleStmt>
+        <title>P Paris BN 1222</title>
+        <author><name>Nāgārjuna Siddha</name></author>
+        <principal>Dominik Wujastyk</principal>
+      </titleStmt>
+      <publicationStmt>
+        <p>Rasendramangalam project at Saktumiva.org: chapter 1</p>
+      </publicationStmt>
+
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <placeName> <settlement>Paris</settlement> <region>[region]</region>
+              <country>France</country> </placeName>
+            <institution>Bibliothèque Nationale</institution>
+            <repository>[repository]</repository>
+            <collection>Collection Palmyr Cordier</collection>
+            <idno>BN Cordier 1222</idno>
+            <idno type="NCC">[NCC identifier]</idno>
+            <idno type="siglum">P</idno>
+          </msIdentifier>
+
+          <msContents>
+            <summary>[description of manuscript]</summary>
+            <msItem defective="true" n="1">
+              <!-- @defective: 'false' for complete, 'true' for incomplete -->
+              <author role="author" xml:lang="sa">Nāgārjuna Siddha</author>
+              <author role="commentator" xml:lang="sa">[commentator]</author>
+              <title xml:lang="sa">Rasendramaṅgala</title>
+              <title type="commentary" xml:lang="sa">[title of commentary]</title>
+              <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+              <rubric xml:lang="sa"><milestone n="1v1" unit="folio"/>|| śrīvardhamānajineśvarāya
+                namaḥ || śrīgurubhyo namaḥ ||</rubric>
+              <incipit xml:lang="sa"><milestone n="1v1" unit="folio"/>natvā sureṃdraṃ
+                śivasaukhyadāyakaṃ <add place="above">kārakaṃ</add>
+                apārasaṃsārasamudratārakaṃ</incipit>
+              <explicit xml:lang="sa"><milestone n="24v" unit="folio"/>śrīr astuḥ kalyāṇam astuḥ
+                śubhaṃ bhavatuḥ śreyo stuḥ sakalasajjanasya śrīr astuḥ</explicit>
+
+              <textLang mainLang="sa-Deva">[Sanskrit in Devanāgarī script.]</textLang>
+              <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+            </msItem>
+          </msContents>
+
+          <physDesc>
+            <objectDesc form="pothi">
+              <!-- @form can be "pothi", "book", scroll", etc. -->
+              <supportDesc material="paper">
+                <!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. -->
+                <extent> <measure quantity="35" unit="folios"/>
+                  <!-- @unit can be "folios" or "pages" --> <dimensions type="leaf" unit="cm">
+                  <!-- @unit can be "cm" or "in" -->
+                  <height>[height]</height>
+                  <width>[width]</width>
+                  </dimensions> <dimensions type="written" unit="cm">
+                  <!-- dimensions of writing area -->
+                  <height>[height]</height>
+                  <width>[width]</width>
+                  </dimensions> </extent>
+                <!-- the following <foliation> tags are examples -->
+                <foliation n="1" resp="scribe">Scribal foliation 1-25.</foliation>
+                <foliation n="2" resp="modern foliator">Modern numerals written in pencil,
+                  centre-right margin, recto and verso.</foliation>
+                <condition>[whether the manuscript is complete, description of wear and
+                  damage]</condition>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1">
+                  <!-- @writtenLines is the number of lines of text per page. @ruledLines is the number of rulings that have been printed or impressed on a page, i.e. the number of lines in a blank notebook. -->
+                  <p>[description of marginal frame lines, etc.]</p> </layout>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote medium="black ink" scope="sole" script="devanāgarī"> <p>Copied by the scribe
+                Ratnavimala, pupil of Varddhamāna Vimalagaṇi.</p> </handNote>
+              <handNote medium="red ink" scope="major" script="devanāgarī"> <p>[description of
+                another hand]</p> </handNote>
+              <handNote medium="green highlighter" scope="minor" script="english"> <p>[description
+                of another hand]</p> </handNote>
+            </handDesc>
+            <additions>
+              <!-- the following additions are examples --> <p>Marginal annotations and corrections
+              throughout.</p> <p>Marginal illustration of alchemical apparatus on leaf 2r, and 27
+              fuller illustrations on leaves 24v-25v.</p> </additions>
+            <bindingDesc>
+              <p>[description of cover, binding, and/or stringholes]</p>
+            </bindingDesc>
+          </physDesc>
+
+          <history>
+            <origin> <origDate calendar="Vikrama" when="1737">Vikrama Saṃvat 1737 (AD
+              1681).</origDate>
+              <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+              <origPlace xml:lang="en">[place of production]</origPlace> </origin>
+            <provenance>[record of ownership]</provenance>
+            <acquisition>[how it was acquired]</acquisition>
+          </history>
+
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2018-06-19"> Transcription from MS completed by <persName>Madhusudana
+        Rimal</persName> </change>
+    </revisionDesc>
+  </teiHeader>
+
+  <text xml:lang="sa-Latn">
+    <body>
+      <milestone n="1a1" unit="folio"/>
+      <!-- @n is where the transcription begins, if not from the beginning of the manuscript -->
+      <div n="1" type="adhyaya">
+        <p xml:id="namaskara"> 1<lb/>// śrī gaṇeśāya namaḥ//// </p>
+
+
+
+
+
+        <l xml:id="ch1.1">natvā surendraṃ śivasaukhyadāyakaṃ/
+          <caesura/>
+           athārasaṃsārasamudratārakaṃ
+          <caesura/>
+           sarvārthasiddhipradamukhyamaṃgalaṃ|
+          <caesura/>
+           graṃthaṃ<lb/> pravakṣyāmi raseṃdramaṃgalaṃ 1</l>
+
+
+
+        <l xml:id="ch1.2">raseṃdramaṃgalaṃ śrutvā yaś cikitsec cikitsakaḥ|
+          <caesura/>
+           tasya siddhir na saṃdeho svayaṃ nāgārjuno vravīt 2</l>
+
+
+
+        <l xml:id="ch1.3">rasopara<lb/>salohānāṃ rasādau sādhanaṃ tataḥ|</l>
+        <l>vajrādau māraṇaṃ vakṣo drāvaṇaṃ sarbadhātuṣu 3</l>
+
+
+
+        <l xml:id="ch1.4">tṛtīye rasasabaṃdhaṃ ca caturthe guṭikā vidhiḥ</l>
+        <l>vātādau sarba<lb/> rogeṣu cikitsāpaṃcadhā matā| 4|</l>
+
+
+
+        <l xml:id="ch1.5">citraṃ ca gaṃdhayuktyādi aṃjanaṃ ṣaṣṭhameṣu ca</l>
+        <l>saptame viṣataṃtraṃ ca aṣṭamaṃ gaṇasaṃjñakaṃ 5</l>
+
+
+
+        <l xml:id="ch1.6">aṣṭādhyāyam i<lb/>ti proktaṃ śāstre'smin rasamaṃgale</l>
+        <l>tatrādau maṃgalaṃ kṛtvā maṃgalaṃ maṃgalāyate 6</l>
+
+
+
+        <lg xml:id="rasasankhya">
+
+
+
+          <l xml:id="ch1.7">aṇimādyaṣṭaguṇair vibhūtido ghanasaṃsāramapārakapāradaḥ
+            <caesura/>
+             muktaikaṃ rasarājaṃ ca bhūtale ko npo py asti jarāpahoparaḥ</l>
+
+
+
+          <l xml:id="ch1.8">vaddhaṃ khecaratāṃ padāṃ mayai
+            <caesura/>
+             dvaratai vyādhisaṃmūhamūrcchitaḥ|
+            <caesura/>
+             jārīto janmavināśano
+            <caesura/>
+             kta<lb/>mito raṃjitabhuktimuktidaḥ 8</l>
+
+
+
+          <l xml:id="ch1.9">yadi paṃcatvagati hi sūtakaṃ
+            <caesura/>
+             asitaṃ syād amaratvakārakaṃ
+            <caesura/>
+             jalukākāranibaddha sarbajo
+            <caesura/>
+             graṃthitomanmatha<lb/>rūpadāyakaḥ 9</l>
+
+
+
+          <l xml:id="ch1.10">tasmākāragatiṃ girirājaṃ
+            <caesura/>
+             asitaṃ bhūcarabhūtasiddhidaṃ||
+            <caesura/>
+             pārāvāramapāradaṃ
+            <caesura/>
+             tasmāt kaḥ karuṇāparoparaḥ| </l>
+
+
+
+          <l xml:id="ch1.11">vrahmamūrtti<lb/>r avaddhaś ca vaddhaś cāryajanārdanaḥ||
+            <caesura/>
+             raṃjitaḥ krāmitaṃ sūtaḥ sākṣāt prātyakṣam īśvaraḥ||</l>
+
+
+
+          <l xml:id="ch1.12">tasmāt sevaya bhūpāla rasarājaṃ mahītale|
+            <caesura/>
+             nirijatvaṃ mahā<lb/> śatvaṃ yadīchet sadvimātmanaḥ||</l>
+
+
+
+          <l xml:id="ch1.13">śatāścamedhena kṛtena puṇyaṃ
+            <caesura/>
+             gaukoṭidānena gajeṃdrakoṭibhiḥ
+            <caesura/>
+             sūvarṇadānasamānadharmmaṃ
+            <caesura/>
+             nṛṇāṃ labhetsūtaka<lb/>darśanena||</l>
+
+
+
+          <l xml:id="ch1.14">yat sarbbatīrtheṣu kṛtābhiṣekaṃ
+            <caesura/>
+             puṇyair avāpyaṃs tridaśai sida
+            <caesura/>
+             ṣṭanityaṃ labhete manuṣyaḥ
+            <caesura/>
+             sākṣād rasasparśanasevanena||</l>
+
+
+
+          <l xml:id="ch1.15">ka<lb/>ruṇyapuṃjaharirāśa sarba sūpaṃ
+            <caesura/>
+             sākṣād raseṃdrathaṃsthitaṃ pṛthivyāṃ
+            <caesura/>
+             yevaina jānaṃti raseṃdrakarmmā
+            <caesura/>
+             ṇasyāṃ pṛthivyāṃ kathaṃ savaidya</l>
+
+
+
+          <l xml:id="ch1.16">kiṃ chalapalai<lb/> varivedyarājaḥ
+            <caesura/>
+             sa rājate bhūpatim agratastha
+            <caesura/>
+             naveti yau vai rasarājaveśanaṃ
+            <caesura/>
+             kāruṇyakīrti sa kathaṃ hi lebhe</l>
+
+
+
+          <l xml:id="ch1.17">sarvovadhānāṃ kriyayopayo<lb/>gataḥ
+            <caesura/>
+             sa chalapalair varayogaralaiḥ
+            <caesura/>
+             nāyāti tulyaṃ varayogibhūtale
+            <caesura/>
+             raseṃdrayogā chatakoṭir aṃśataḥ</l>
+        </lg>
+
+        <p>iti rasasaṃkhyā</p>
+
+
+
+        <l xml:id="ch1.18">malaṃ viṣaṃ va<lb/>ktigurūtvacāpalaṃ
+          <caesura/>
+           naisargikaṃ doṣavuśaṃti tajñāḥ upādhikodvon punāga saṃbhavau raseṃdrarāje sakathaṃ hi
+          vaidyaḥ</l>
+
+
+
+        <l xml:id="ch1.19">malena mūrchā śi<lb/>khinā ca dāyaṃ viṣeṇa mṛtyuḥ pravadaṃtisaṃtiḥ
+          gurūcca doṣeṇa karoti śūlaṃ na tiṣṭate taccapalatvadoṣān</l>
+
+
+
+        <l xml:id="ch1.20">dvau nāgavaṃgau pracalo ca doṣau<lb/> myustatprabhāvāt galagaṃḍarogā
+          avaddhamūlaṃ nihitaṃ pramādāt| karoti kruṣṭaṃ prabalaṃ raseṃdraḥ</l>
+
+
+
+        <l xml:id="ch1.21">tasmād ādau saṃproktā karmāṇy aṣṭāda<lb/> śāgni ca purācārye raseṃdrasya
+          jñātavyās te prayatnataḥ</l>
+
+
+
+        <l xml:id="ch1.22">saṃsvedanaṃ mardanamūrchanaṃ ca utthīpanaṃ pātanadīpanaṃ ca nivāsanaṃ
+          rudhanavāraṇaṃ<lb/> ca</l>
+
+
+
+        <l xml:id="ch1.23">saṃsāraṇaṃ krāmaṇavedhasogaṃ navetriyovai vapuṣi prayujanaṃ raseṃdrarāja
+          karoti māśaṃ</l>
+
+
+
+        <l xml:id="ch1.24">tasmāt sūtavidā sārddhaṃ sahāyair nipuṇai<lb/>r yutaḥ sarboskaramādāya
+          rasakarmma samārabhet</l>
+
+
+
+        <l xml:id="ch1.25">dve sahastre palānāṃtu sahastraṃ śatameva ca aṣṭāviṃśatpalāny eva
+          daśapaṃcaikam eva va </l>
+
+
+
+        <l xml:id="ch1.26">palā<pb n="2"/>rdve na ca saṃskārā karttavyaṃ sūtakasyantu sudine
+          śubhanakṣatre rasasodhanam ārabhet</l>
+
+
+
+        <l xml:id="ch1.27">phalatrayaṃ citrakaratkasarṣapāḥ kumārikānpāvṛha<lb/> tī kaṣāyaḥ vimardya
+          sūtaṃ tridināni yāvat vimucyate paṃcamalādidoṣaiḥ</l>
+
+
+
+        <l xml:id="ch1.28">saptavārasadhamūrchapātanaṃ tāmachamiśrita raseṃdrapiṣṭikāṃ<lb/> mucyate
+          sa gati doṣasūtakaṃ nāgavaṃgakagurūtvāpi cāpalaṃ</l>
+
+
+
+        <l xml:id="ch1.29">nāgabalāni balāvarṣābhū meṣaviṣāṇimulaṃ vananādaṃ ebhir
+          asairmaghitaṃ<lb/> tavasāraṃ svedamidaṃ tridinaṃ rasarāje</l>
+
+
+
+        <l xml:id="ch1.30">rasasya ṣoḍaśāṃśena uṣṇaṃ paṭurājikā
+          <caesura/>
+           ūrdvasaṃkhyātrayaṃ caiva āranālaṃ samānayet</l>
+
+
+
+        <l xml:id="ch1.31">sarba<lb/>dhānyasaṃdhānaṃtruṣavarjaṃ tu kārayet
+          <caesura/>
+           tatas traiva saṃdhāneti kṣipe doṣadhai rasai</l>
+
+
+
+        <l xml:id="ch1.31a">girakarṇā ca mītākṣī sahadevī punanāva|
+          <caesura/>
+           uragā trika<lb/>lā krāṃtā laghuparṇā śatāvarī</l>
+
+
+
+        <l xml:id="ch1.32">tena yuktaṃ rasaṃ svinnaṃ tridinaṃ mṛduvad dinā
+          <caesura/>
+           dolāyaṃtreṇa tīvreṇa mardayitvā punaḥ punaḥ</l>
+
+<label>svedanaṃ</label>
+
+        <l xml:id="ch1.33"> urṇā<lb/> haridrāḥ paṭur iṣṭikāmlaiḥ<caesura/> 
+          samāranālai grahadhūmamiśraiḥ<caesura/> 
+          siddhārtharāji tridināni svalpe<caesura/> 
+          samardanaṃ sutam uśaṃti saṃtaḥ</l>
+
+
+
+        <p>mardanaṃ</p>
+
+
+
+        <l xml:id="ch1.34">rāji<lb/> kārkapayakā ca mādhikā
+          <caesura/>
+           mevaśṛṃgirasakṛṇahemajaṃ
+          <caesura/>
+           āranālasahitaṃ sutā pācitaṃ
+          <caesura/>
+           saptavārarasarājamūrdhvaṃ</l>
+
+
+
+        <l xml:id="ch1.35">kaṃcu<lb/>kī ca guruḍī varāhikā
+          <caesura/>
+           naṃdinīśvara valāvarmūlinī
+          <caesura/>
+           sarpaballīrasarājamarditaṃ
+          <caesura/>
+           mūrchati bhūmati yāti paṃcatāṃ</l>
+
+
+
+        <l xml:id="ch1.36">utthāpanaṃ pātanaṃ pūrvava<lb/>t
+          <caesura/>
+           adhodvāpātanāyaśre pātayitvā mīyojayet
+          <caesura/>
+           kṣodrāmlalavaṇakṣāra māranālena saṃyutaḥ</l>
+
+
+
+        <l xml:id="ch1.37">dāpayed triṇi vārāṇi ahorātrānu sū<lb/>takaṃ
+          <caesura/>
+           sṛṣṭyāṃbujai yuto rodho hy agninā sūtakasya ca</l>
+
+
+
+        <label>rādhanaṃ</label>
+
+
+
+        <l xml:id="ch1.38">kakoṭikaṃbukīyogāyogayenuniyāmake nirmalas tejavān sūto jā<lb/>yate nātra
+          saṃśayaḥ</l>
+
+
+
+        <p>niyāmakaṃ</p>
+
+
+
+        <l xml:id="ch1.39">karatuṃḍī vāruḍī ṛṣichadā kanya kumārikā va vāyasī āsurī ca vijayā tathā
+          vanti dīpanaka<lb/> rā ca sūtake</l>
+
+
+
+        <l xml:id="ch1.40">aparāṇy agre vakṣyāmaḥ rasasodhanaṃ|
+          <caesura/>
+           kim atra citraṃ yadi rājavarttikaṃ śirīṣapuṣmādrasena bhāvitaṃ||
+          <caesura/>
+          <lb/> āruṇyakair utpalakai vipācitaṃ
+          <caesura/>
+           karoti tāraṃ tripuṭema kāṃcanaṃ</l>
+
+
+
+        <p>rājāvartta sodhanaṃ</p>
+
+
+
+        <l xml:id="ch1.41">kim atra citraṃ rasakesena rajasvalā
+          <caesura/>
+           kusume<lb/>na bhāvitaṃ krameṇa kṛtvā durageṇa raṃjitaṃ karoti śrutvaṃ tridinena kācanaṃ
+          rasakasodhanaṃ</l>
+
+
+
+        <l xml:id="ch1.42">kim atra citraṃ daradaṃ subhavitaṃ
+          <caesura/>
+           payena me<lb/> ṣā bahuśomlavargeḥ
+          <caesura/>
+           sitaṃ suvarṇākarmma tāpitaṃ
+          <caesura/>
+           karoti sākṣād vara kuṃkuma prabhaṃ</l>
+
+
+
+        <label>darada śuddhi</label>
+
+
+
+        <l xml:id="ch1.43">kulatthakodravakvāghairnaramūtre<lb/> ṇa pācayet
+          <caesura/>
+           cet sāmlātmma vargeṇa datvā kṣāraṃ paḍatrayaṃ</l>
+
+
+
+        <l xml:id="ch1.44">kim atra citraṃ kadalīrasena supācitaṃ sūraṇakaṃ dasaṃsthaṃ vātāri
+          tailena<lb/> kṛtena tāpyaṃ puṭema dagdhaṃ varasuddhameti</l>
+
+
+
+        <label>mākṣikasodhanaṃ</label>
+
+
+
+
+        <l xml:id="ch1.45">munikusumarasasubhāvitamanaḥśilāvārān<lb/> saptake śuddhyati kūṣmāṃḍa
+          salila svinnaḥ stālaḥ śuddhyati sākṣādinaikena
+          <caesura/>
+           kṣāraistehairādopaścādamlena bhāvitaṃ
+          <caesura/>
+           bahuśaḥ śuddhyaṃ<lb/> ti rasopi rasāna vi dhātavaḥ sarvān</l>
+
+
+
+        <label>aparavātaśuddhiḥ</label>
+
+
+
+        <l xml:id="ch1.46">kaḍalikāghanaravaḥ karavīrakīra
+          <caesura/>
+           jīvīranīraka piveta samāranālaiḥ
+          <caesura/>
+          <pb n="3"/> raktotpalaika ṣavasā samiśāgataila
+          <caesura/>
+           saṃpācitopi gaganaṃ rasarūpameti</l>
+
+
+
+        <label>saptarātreṇa abhrakaśuddhi </label>
+
+
+
+        <l xml:id="ch1.47"> śāmāśamīmadalakodravamā<lb/> ṣukaṃṇī
+          <caesura/>
+           śṛṃgī ghaṭodbhava ghanadhvanivetasaś ca
+          <caesura/>
+           kvāthaṃ kulitthajaghamīrajavāraśūra
+          <caesura/>
+           saṃpācito tridinaṃ pariśuddhyemeti</l>
+
+
+
+        <label>ghanīraṃ puna<lb/>rnavā sūraṃ sūraṇaṃ</label>
+
+
+
+        <l xml:id="ch1.48">vekrāṃta samaparipācitamamlasūtraiḥ
+          <caesura/>
+           kṣāras tathā paṭuvaśākaṣamehamiśrai
+          <caesura/>
+           kāthena kodravaku<lb/> lattha samudbhavena
+          <caesura/>
+           saṃsveditā tridinamāśrubhavaṃti śuddhāḥ</l>
+
+
+
+        <label>vaikrāṃśodhanaṃ</label>
+
+
+
+        <l xml:id="ch1.49">dvividvāvimalāpāvyāraṃbhātoyena saṃyutā javabhenavaji<lb/> dugdhena
+          tāmrapareṇa lepayet</l>
+
+
+
+        <l xml:id="ch1.50">agnau saṃtāpya nirguḍī rase kṣiptaṃ ca saptadhā māghārkasvarasenaiva
+          strulvaśuddhi bhaviṣyati</l>
+
+
+
+        <label>iti śulva</label>
+        <lb/>
+
+        <label>śuddhiḥ purata sarvalohasodhanaṃ</label>
+
+
+
+        <l xml:id="ch1.51">āmlavetasa dhānyāṃbu meṣito yena śuddhyati vimalā śuddhi palāṣā dhātavaḥ
+          sarve jaṃvīrarasabhāvi<lb/> tā karkoṭī śṛṃgīkātoye śudhyaṃte nātra saṃśayaḥ</l>
+
+
+
+        <l xml:id="ch1.52">sarvarasaśuddhiḥ vījamarakaphalāmla bhavetā śoṣina tridina paṃcamṛttikā
+          bhū<lb/> tibhasmaṃ lavaṇena saṃyutā sodhayaṃti ghuṭapākakāṃcanaṃ hema śodhanaṃ</l>
+
+
+
+        <l xml:id="ch1.53">nāgekṣārarājena drāvitaṃ śuddhimichati tārastrivārani<lb/> kṣipto
+          piśācītailamadhyataḥ</l>
+
+
+
+        <label>tāraśuddhiḥ</label>
+
+
+
+        <l xml:id="ch1.54">aho na citraṃ pṛthivī taṭe nara kṣāreṇa meṣīpayasā ghṛtena tālena vṛddha
+          druṃduniṣoḍa<lb/> śāṃśe bhavecca śuddhyaṃ śaśi saṃkha saṃnibhaṃ</l>
+
+
+
+        <label>atha</label>
+
+
+
+        <l xml:id="ch1.55">prakāśo dhṛtāṃ sulvamāroṭamapyavāṃbudhaḥ ṣaṭguṇena ca nāgena śodhayitvā
+          tato<lb/> budhaḥ</l>
+
+
+
+        <l xml:id="ch1.56">śritārvisiṃduvārasya rasamadhye tu ḍhālayet kuṣmāṃḍakarise paścāt
+          niṣekātsa sa dāpayet</l>
+
+
+
+        <l xml:id="ch1.57">tatas takre niśā vakre punaḥ<lb/> saptaivadāpayet śulvasya kālikā hyevaṃ
+          praṇaśyaṃti na saṃśayaḥ</l>
+
+
+
+        <l xml:id="ch1.58">śukatuṃḍa kiśukābhaṃ chede raktaṃ mṛduṃ tathā snigdhaṃ tāpena bha<lb/>
+          vati tatsukhaṃ kālikā rahitaṃ</l>
+
+
+
+        <label>sulvaśodhanaṃ</label>
+
+
+
+        <l xml:id="ch1.59">kṣāraṃ guḍahaṃsapadaṃ ca lākṣāraseghṛṣṭā rasadalāni paścāt saṃlepyakaṃ
+          kuṣṭhaniśā<lb/> nvitāstu śaddhānvitā śuddhyati saptavārān</l>
+        <label>āraśodhanaṃ</label>
+
+
+
+        <l xml:id="ch1.60">kṣāraṃ saṭaṃkaṇayutaṃ lavaṇāni paṃca jaṃvīranīraparibhāvita sapta<lb/>
+          vārān katkena ta teparilupya puṭena dugdhaṃ tārārasulva ghanadoṣam upaiti śuddhiṃ</l>
+
+
+
+        <label>ghoṣaśodhanaṃ</label>
+
+
+
+        <l xml:id="ch1.61">tārārasulva yaṃ ghana dohaṃ sālva<lb/> valpāmṛtaratnānimālikāṃ
+          phalatrayaṃ tuṃbarulohanighnakaḥ gopālikā gorasanā guḍurvāhayaṃ sarbbe giridoṣamāyasāt
+          tī</l>
+        <lb/>
+
+        <label>kṣṇaśodhanaṃ</label>
+
+
+
+        <l xml:id="ch1.62">gorīphalāni rajanī kṣurakaḥ kubera vījāni tuṃbaruyutāni ca mallikāyāḥ
+          kṣārāṇimokṣakaphalā sama<lb/> yurajāni saṃbhāvitāni payasā kuliśa drumasya</l>
+
+
+
+        <l xml:id="ch1.63">vārāṇi samavāraparivāritanāḥ nāgarājaṃ kalkena khalu śuddhimupai<lb/> ti
+          sadyaḥ yuktākrameṇādi silkapayeṇadullīsthaṃbhaṃ karoti kuṭilasya vadaṃti sataḥ</l>
+
+
+
+        <label>nāgaśodhanaṃ</label>
+
+
+
+        <l xml:id="ch1.64">arkonmutta susuhī bala<lb/> nīkaṃ sukīratnamālā guṃjāvadbhiḥ surapatisurā
+          iṃgudā vā svagaṃdhā takre piṣṭaṃ malaharamāṃdaṃ sarba loha prasiddhaṃ vaṃgasthaṃ
+          bhakṣaṇa<pb n="4"/>m api kurute jyotiṣo nāma yoga</l>
+
+
+
+        <label>baṃga śuddhi|</label>
+
+        <trailer>iti śrī prathamo'dhyāya||</trailer>
+
+      </div>
+    </body>
+  </text>
+</TEI>
