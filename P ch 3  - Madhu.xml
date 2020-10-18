@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         
+         <titleStmt>
+            <title ana="Chapter 1">Rasendramaṅgala chapter 1</title>
+            <author><name>Nāgārjuna Siddha</name></author>
+            <principal>Dominik Wujastyk</principal>
+            <respStmt>
+               <resp>transcription</resp>
+               <persName>Madhusudan Rimal</persName>
+            </respStmt>
+         </titleStmt>
+         
+         <publicationStmt>
+            <authority>Rasendramaṅgala Project</authority>
+            <distributor>Dominik Wujastyk</distributor>
+            
+            <availability status="restricted">
+               <p>Copyright Notice</p>
+               <p>Copyright <persName>Dominik Wujastyk</persName> 2018</p>
+               <p>
+                  <ref target="https://creativecommons.org/licenses/by-sa/4.0/" type="licence"
+                     >Distributed by <persName>Dominik Wujastyk</persName> under a Creative Commons
+                     Attribution-ShareAlike License.</ref>
+               </p>
+               <p>Under this licence, you are free <list>
+                  <item>to Share — to copy, distribute and transmit the work</item>
+                  <item>to Remix — to adapt the work </item>
+               </list></p>
+               <p>Under the following conditions:</p>
+               <p>
+                  <list>
+                     <item>Attribution — You must attribute the work in the manner specified by the
+                        author or licensor (but not in any way that suggests that they endorse you
+                        or your use of the work).</item>
+                     <item>Share Alike — If you alter, transform, or build upon this work, you may
+                        distribute the resulting work only under the same or similar license to this
+                        one.</item>
+                  </list>
+               </p>
+               <p>More information about this license is given on the <ref
+                  target="http://creativecommons.org">Creative Commons website</ref>.</p>
+            </availability>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>France</country>
+                  <region>Paris</region>
+                  <institution>Bibliothèque Nationale</institution>
+                  <collection>Palmyr Cordier</collection>
+                  <idno>1222</idno>
+                  <altIdentifier type="EditionSiglum">
+                     <idno>P</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <p>Described by Palmyr Cordier in ‘Récentes découvertes de MSS. medicaux sanskrits
+                  dans l’Inde (1898–1902). Mémoire présenté au Congrès des ori- entalistes de Hanoï
+                  (1902)’, Le Muséon, 1903, N. S. 4, p. 321–352. Also described in Jean Filliozat,
+                  “Liste des manuscrits de la collection Palmyr Cordier conservés a la Bibliothèque
+                  Nationale,” Journal asiatique 224 (1934), p. 161, entry 146 (1222):
+                  “Rasendramaṅgala, par Nāgārjuna, avec commentaire, 39 fol., incomplet.” Leaves
+                  1–35. 10 lines/page, 50 akṣaras/line of clear modern Devanāgarī. Most verses
+                  unnumbered. Parts of the MS have numerous interlinear corrections in Devanāgarī
+                  and Roman script, presumably attributable to Cordier. Covers the text followed by
+                  a ṭippaṇa.</p>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      
+      <revisionDesc>
+         <change when="2018-08-07" who="Dominik Wujastyk">Added new TEI header.</change>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <pb n="6b"/>
+         <l>jaṃbīranīranavasāraghanāmlavargaiḥ kṣārāśca paṃcalavaṇāni kaṭutrayaṃ ca</l>
+         <l>śigrudakaṃ surabhisūraṇavajrakaṃdai rebhisumardatarasaḥ 'scarate 'ṣṭalohān
+            vārajāraṇaviḍaṃ</l>
+         <l>athāto vātādau vyādhinigraharasayogā bhavaṃti</l>
+         <l>gaṃdhaṃ tālakamākṣikā yasarajaṃ sūteṃdramiśrīkṛtaṃ</l>
+         <l>pathyā tūṣaṇamagnimaṃtha surasā śṛṃgīviṣaṃṭaṃkaṇaṃ</l>
+         <l>datvā tailabalatale sumarditadṛḍhaṃ nirguḍīmuṃḍīrase</l>
+         <l>guṃjāyugmatitāni baddhaguṭikā nighṃti vātadṛḍhaṃ</l>
+         <l>svaṃchaṃdabheravorasasarbavātaharaḥ</l>
+         <l>tīkṣṇaṃ sulvasurāya saṃva gaganaṃ tāpāruhaṃ tāṃḍavaṃ</l>
+         <l>godaṃ taṃ rasarājamiśritasamaṃ ghṛtvā va khalve bhiṣak</l>
+         <l>drā gāramudāpayotanisinikaṃ dānvitāyāḥ mṛdā/></l>
+         <l>ghṛṣṭvā laṣṭirasai sātāmadhuḥ yutā gadyāṇamātrā vadī</l>
+         <l>pittaṃ haṃti ca pittasaṃbhavagadān sarvvān vai pittajvarān</l>
+         <l>kāśasvāsagalāmayā kṣaya tṛṣā dāghaśca śoṣaṃ bhṛśaṃ</l>
+         <l>prajñāpāramitāniśīvasamaye svapne prasādīkṛtaṃ</l>
+         <l>nāmnā tīkṣṇamukhaṃ raseṃdramamalaṃ śrīnāvavudho budhaiḥ</l>
+         <l>tīkṣāmukhonāmarasaḥ sarvāpittahara sulvaṃ tālakatāṃḍavaṃ dhaniyame sūteṃdragolaṃ
+            kṛtaṃ</l>
+         <l>kāśmīraṃ suradālirāyakakaṭukāko sātakīseṃdhavaṃ</l>
+         <l>nirguṃḍī dravaghaṣṭaguṭikākāthe pyariṣṭhethavā</l>
+         <l>śleṣmāṇaṃ vinihaṃti śīrṣajagadān saṃkoca śulvorasaḥ</l>
+         <l>śleṣmaharaḥ sutaṃ sulvaśilālivā saraghanaṃ kūṭaṃ samiśrīkṛtaṃ</l>
+         <l>kuṣṭaṃ nāgavalā vidārī vivarī śrīkaṃṭhamairaṃḍakaḥ</l>
+         <l>datvā khalvatale vimarditadṛḍhaṃ varṣābhuvottherase</l>
+         <l>gadyāṇaikamitā nibaddhaguṭikā <pb n="7a"/> tadvātapittaṃ jayet</l>
+         <l>maṃthānabhairavo rasapātapittaharaḥ</l>
+         <l>abhraṃ tālakatāmratīkṣṇasaurabharajaṃ sūtasamānānvitaṃ</l>
+         <l>bhāgīphalakaṭuphaladhānyakāṃbubhivavāśśṛṃgī susuṃṭhī śivā</l>
+         <l>etai parbakaṭakādraveṇa nigaditā gadyāṇamātrāvaṭī</l>
+         <l>ghṛṣṭvā baddhabalīṭa haṃti sahasā ślemānvitaṃ mārutaṃ</l>
+         <l>gaganagarbhonāmarasaḥ kaphavātaharaḥ</l>
+         <l>saṃsutaka sulvagaṃdhakarasaḥ kṣārānalaṃ padmakaṃ</l>
+         <l>trāyaṃti kaṭajasya bījamamṛtābhūmiṃbayuktā vaṭī</l>
+         <l>kṛtvā parpakadraveṇa matimānūbhāṭā nihaṃti bhṛśaṃ</l>
+         <l>vṛkṣecaṃdranipātamaṃdiramidaṃ pittaṃ ca śleṣmānvitaṃ</l>
+         <l>kāṃtavalabhonā marasaḥ pittakaphaharaḥ</l>
+         <l>tālaṃ jāpyajagaṃdhakaṃ ca vimalaṃ tāṃtāratīkṣṇābhrakam</l>
+         <l>maṃḍura kuliśaḥ surāyasaghanaṃ ebhiḥ samaṃ sūtakaṃ </l>
+         <l>vadhyā biṃduvāramadhukaṃ śṛṃgīviṣaṃ taṃkaṇaṃ</l>
+         <l>bolā citrakalāṃgalī samarivairviśvopalpā viṣā</l>
+         <l>ebhiḥ sarba samāṃśakai suvadhinādvauguṃjamātrā vaṭī</l>
+         <l>badhātaṃ madhukasya rasena śoṣitamidaṃnasya prapāne matā</l>
+         <l>kṛtvā netrayugāṃjanaṃ ca vidhinā tatsaṃnipātaṃ jayet</l>
+         <l>jayamaṃgalomarasaḥ sannipātaharaḥ</l>
+         <l>suddhasūtasya bhāgaikaṃ tāmracūrṇa ca tatsaṃ</l>
+         <l>dvau bhāgau gaṃdhakasyaika trin bhāgān kaṭutrayaṃ</l>
+         <l>vanhi datvānubhāgaikaṃ kāṣṭabhāgasamanvitaṃ</l>
+         <l>jvālāmukhīrasetprājña sarbamekatra marddayet</l>
+         <l>guṭikā madhughṛtebaddhā badirā sthipramāṇataḥ</l>
+         <l>vaḍavāramukharasaṃ proktaṃ prasūtirvātanāśanaṃ</l>
+         <l>kṛtvā gaṃdhakapiṣṭikāṃ ca gaganaṃ tāpāruhoḍaṃbaraṃ</l>
+         <l>kāṃtaṃ bhrāmakacūrṇakaḥ sūtakasamaṃ vaikrāṃtatā<pb n="7b"/>lānvitaṃ</l>
+         <l>pathyā nūṣaṇarājavṛkṣamamarīkūṣmāṃḍatoye kṛtā</l>
+         <l>siddhā sūtavaṭī nihaṃti sahasā sarvābhighātaṃ mahat</l>
+         <l>gaṃdhāsma piṣṭīgaganaṃ va siṃdhavaṃ sauvvarvalaṃ graṃthika ca vyacitrakaiḥ</l>
+         <l>kṛṣṇāmajājīrṇa śivā ca suṃṭhī samāṃśairguṭikāgnikārī</l>
+         <l>sarvājīrṇa haro rasaḥ</l>
+         <l>gaṃdhāśma gaganaṃ sutīkṣṇaharajaṃ sarve samāṃśaiḥ kṛtaṃ</l>
+         <l>mākṣikaṃ jaraṇaṃ kaṇākṛtamari puṃsīṃ barbalaṃ saiṃdhavaṃ</l>
+         <l>vavyaṃ citraka nāgaraṃ samaricaṃ pathyānvitaṃ graṃthakaṃ </l>
+         <l>dvejāmajīmodaveta sasamaṃ kuṣṭatva jīrṇāpahaṃ</l>
+
+         <l><title>gaṃdhakādyo rasaḥ</title> ajīrṇe</l>
+
+         <l>gaṃdhāśmacūrṇena ghanaṃ sumāritaṃ raseṃdrarājasya śatena vāritam</l>
+         <l>kaṣāyavargeṇa dṛḍhaṃ sumūrchitaṃ nihaṃti vātajvaravātarogaṃ</l>
+
+         <l> <title>meghanādarasasarvajvaraharaḥ</title> </l>
+
+         <l>gaṃdhakena hataṃ vrahmā sasūtena vāre guṭikāsyā</l>
+         <l>haṃsanādo rasapittajvaraharaḥ suvarṇaṃ vārisaṃ sūtamaṣṭamāṃśe</l>
+         <l>yadā bhavet marditaṃ jvaradūta kāthaiḥ sannipātaṃ vyapohati /</l>
+
+         <l><title>nāgendra nāma rasaḥ sannipātaharaḥ</title> </l>
+
+         <l>hemaṃ tu ṣoḍaśāṃsena vārito piyadārasaḥ syān</l>
+         <l>mūrchitakaṣāyeṇa sarvāgaṃtu jvarāpahaḥ</l>
+         <l>suślakṣṇaṃ tīkṣṇācūrṇaṃ samasūtasya vāritaṃ</l>
+         <l>kāṃcanārase ghṛṣṭaṃ sarvātīsāranāśamaṃ</l>
+
+         <l><title>khagendro nāma rasaḥ</title></l>
+
+         <l>sarvātītaharaḥ maṃḍurā sasorāya sasocūrṇa samasūtasya vāritam</l>
+         <l>daṃtīdraveṇa saṃghṛṣṭaṃ raktapittaharaṃ paraṃ </l>
+
+         <l><title>mṛgāṃko nāma rasaḥ raktapittaharaḥ</title></l>
+
+         <l>kāṃtagaṃdhakasahitaṃ sūtevārṇavataṃ kṛtaṃ bhasma</l>
+         <l>mūkhāyatre nihitaṃ sākṣāt yakṣma nihaṃtyāśru bhasmasūta <pb n="8a ka yakṣmīroge"/></l>
+
+         <l>svetaṃ pītaṃ tathā raktaṃ śyāmaṃ kṛṣṇā caturdaśaṃ</l>
+         <l>jayate nātra saṃdeho ekavarṇa krameṇa hi</l>
+         <l>sarveṣāṃ cottamaṃ de kṛṣṇaṃ vijñātavyaṃ prayatnataḥ</l>
+         <l>pītagaṃdhakasaṃyuktaṃ kumārīrasasaṃyutaṃ</l>
+
+         <l>kṛṣṇāvarṇā bhaved bhasma devānāmapi durlabhaṃ</l>
+         <l><title>bhasmasūtakasarvvarogaharaḥ</title></l>
+
+         <l>nirpuṃḍīrasasaṃyuktaṃ capalena samanvitaṃ</l>
+
+         <l>spāravarṇaṃ bhavedbhasma dāḍimīkusumopamaṃ</l>
+         <l>vārāhīrasasaṃyuktaṃ rasakena samanvitaṃ</l>
+         <l>śyāmavarṇaṃ bhavetsūtaṃ valipalitanāśanaṃ</l>
+
+         <l>abhrakaṃ hemavījaṃ tu sarvatrātra yojayet</l>
+         <l>rasakṛṣṇāmṛtaṃdevaṃ sarvāmayaviśodhanaṃ</l>
+
+         <l>jvarādhikāro ye proktā lohacūrṇaśveta tejasā</l>
+         <l>anena kramayogena sarbe bhasmatva gachati</l>
+
+         <l>rasahemasamaṃ madyapīṭhikārdvena gaṃdhakaṃ</l>
+         <l>dvipadārajanī raṃbhā marddayet ṭaṃkaṇānvitaṃ</l>
+
+         <l>naṣṭapiṣṭaṃ ca śukaṃ ca aṃdhamūkhāṃ nidhāpayet</l>
+         <l>tukhāgni laghu puṭaṃ datvā yāvat bhasmatvamāgataṃ</l>
+
+         <l>bhakṣaṇāt sādhakeṃdrasya divyadehamavāpnuyāt</l>
+         <l>sarvavyādhijarāhaṃti palamekaṃ tu sūtakaṃ</l>
+
+
+         <l><title>hemaṃ bhasmasūtakaḥ</title></l>
+
+
+         <l>punparanyatpravakṣyāmi vaikāṃtavidhilakṣaṇaṃ</l>
+         <l>vaikrāṃta hastamāyānaṃ kasya loke daridratā</l>
+
+         <l>te ca saptavidhā proktā karma tasyāpyanekadhā</l>
+         <l>svetā rakta pītānīlā pārāpata prabhā</l>
+
+         <l>mayuragalakaṃ prakhyāsasameratkaka prabhā</l>
+         <l>teṣāmarka pravakṣyāmi yādṛśaṃ yasya jāyate</l>
+
+         <l>svetaṃ cūrṇamet sūkṣmaṃ vyāghredāra kipet</l>
+         <l>svedayecca divārātrau tridenaṃ yāvat sūryate</l>
+
+         <l>sukhedaṃ ca tato jñātvā prakṣipet pāradaṃ tataḥ</l>
+         <l>tata kṣaṇā jñāyate bhasma haya <pb n=""/> mūtreṇa mardayet</l>
+
+         <l>sunirvāṇaṃ tato jñātvā palepalaśataṃ kṣipet</l>
+         <l>tāre tu jāyate bhasma viśuddhāsphuṭikā kṣatiḥ</l>
+
+         <l>tatsūtaṃ bhūtayed bhasma samabhāge vivakṣaṇa</l>
+         <l>tārayedmataṃ sūte haya sūtreṇa mardyet</l>
+
+         <l>aṃdhamūkhāṃ dadedagni vārṣikaṃ cāruṣodbhavaiḥ</l>
+         <l>ahorātraṃ trirātraṃ bā bhavedagnisahorasaḥ</l>
+
+         <l>spṛṣeta sarbalohāni rajataṃ ca kariṣyati</l>
+         <l>rakte caiva kṛte karmmadājarādāridra nāśanaṃ</l>
+
+         <l>tasmin vyāghrīpadīkaṃde arddhayāmaṃ tu śodhayet</l>
+         <l>bhāvayet saptavārāśca saptacaivaścapalaṃ tathā</l>
+
+
+         <l>tasyaiva phalamekaṃ tu kṣiped dve mapale budhaḥ</l>
+         <l>bhasma tacca bhavetsarbaṃ punarhema śate kṣipet</l>
+
+         <l>bhasme tu jāyate sarbaṃ śuddhahemaprabhaṃ samaṃ</l>
+         <l>tad bhaśma raseṃdre tu punaradvena melayet</l>
+
+         <l>bhavedagni sahyeṣastato rasavaro bhavet</l>
+         <l>viṃdhate sarbalohāni kanakaṃ bhavati śobhanaṃ </l>
+
+         <l>dīparidranāśanaṃ sūtaṃ sarbalohānukaṃpanaṃ</l>
+         <l>pītaṃ tu hemakārī syāt vyāghrīkaṃdena kheditaṃ</l>
+
+         <l>bhāvito aśvamūtreṇa pāradīyo mahārasaḥ</l>
+         <l>palaṃ palaśate kṣipya punarhemaśataṃ kṣipet</l>
+
+         <l>hemasūtena tatsūto koṭivedhā bhavedrasaḥ</l>
+         <l>kṛṣṇavaikrāntakaṃ vakṣye vyāghrīkaṃdagataṃ budhaḥ</l>
+
+         <l>aśvamūtreṇa taṃ svedyadinamekaṃ vivakṣaṇaḥ</l>
+         <l>tato svinnaṃ ca vaikrāṃtaṃ bhāgamekaṃ samāharet</l>
+
+         <l>śuddhasūtakabhāgaikaṃ ṣalvedaṃ mardayet tataḥ</l>
+         <l>sūtasamāyuktāṃ pīṭhikāṃ kārayet budhaḥ</l>
+
+         <l>viṃdhāna sarvalohāni sparśamātreṇa tāratāṃ</l>
+
+         <l>svetavarṇaṃ tu vaikrāṃtaṃ āmlaveta sabhāvitaṃ</l>
+         <l>marditaṃ saptarātreṇa tenaiva dravate dravaṃ</l>
+
+         <l>tadravaṃ śuddha sūtaṃ <pb n="9a"/> madhunā saha marditaṃ</l>
+         <l>tena bhakṣitamātreṇa pāśameka na jāyate</l>
+
+         <l>puruṣo nātra saṃdeho dviraṣṭha varṣā kṛtiḥ</l>
+         <l>tāmravarṇaṃ ca vaikrāṃtaṃ hiṃgulena samanvitaṃ</l>
+
+         <l>marditaṃ cāmlavargeṇa hemādyā bhasmakārakāṃ</l>
+         <l>tena bhasmasūmaṃ sūtaṃ baṃdha māyāti nānyathā</l>
+
+         <l>tenaiva sparśamātreṇa sarbbalohāni viṃdhati</l>
+         <l>vaikrāṃtasya palaṃ hyekaṃ hemnaścaiva palaṃ tathā</l>
+
+         <l>pāradasya pale dve tu khalve saṃsthāpya lataḥ</l>
+         <l>bīlaraṃḍārajomūtre mardaye tu vicakṣaṇaḥ</l>
+
+         <l>athavā dvau mahauṣadhau kaṭu tu vyomattaravāruṇā</l>
+         <l>bhūdhātrā madhujīvaṃtyo vyāghrī votpalasārivau</l>
+
+         <l>aṃjanā cakṣurā siddhau sarpākṣara luṃṣikā</l>
+         <l>mādūṇako vāpi dyau saṃdhyoveṃdravāruṇī</l>
+
+         <l>yugalau va yathābhāse strīmūtreṇa peṣayet</l>
+         <l>naṣṭapīṣṭaṃ ca śuṣkaṃ ca aṃdhamūkhaṃ nidhāpayet</l>
+
+         <l>karṣa tu ṣāgninā bhomau mṛdusvedene svedayet /</l>
+         <l>ahorātraṃ trivābhaśmaṃ bhavati śobhanaṃ raktikārddhaṃ</l>
+
+         <l>pramāṇena bhakṣayet madhusarpiṣā trikaṭutriphalāyuktaṃ</l>
+         <l>kṛnnāvāgnibalābalaṃ sarbataṃ bhakṣayet yāvat ajarāmaratāṃ bhavet</l>
+
+         <l>rāyadākṣmadi sarvarogabhasmasūtakaṃ </l>
+         <l>dehalohaṃ bhavedyena sarvāmaya vivarjitaṃ</l>
+
+         <l>rasoparasalohānāṃ sarveṣāṃ ca pṛthak pṛthak</l>
+         <l>anyai susatvavījaiśca piṣṭiṃ kṛtvā same samāṃ</l>
+
+         <l>mārayet sarvavadhinā garbhayaṃtre tuṣāgninā</l>
+         <l>garbhayaṃtraṃ pravakṣyāmi piṣṭikābhasmakārakaṃ</l>
+
+         <l>caturaṃguladīryeṇa vistāreṇa triṃgulaṃ</l>
+         <l>makhāṃ mṛnmayā kṛtvā sudṛḍhāṃ vartulāṃ kārayedbudhaḥ</l>
+
+         <l>viśabhāniloṃṇasya bhāgamekaṃ tu guggulaṃ</l>
+         <l>suślakṣṇe peṣayitvā tu toyaṃ datvā <pb n="9b"/> punaḥ punaḥ</l>
+
+         <l>mūkhāṃ lepaṃ draḍhaṃ baddhā loṇārddha mṛttikāṃ budhaḥ </l>
+         <l>karṣaṃ tuṣāgninā bhūmau mṛdusvedet svedayet</l>
+
+         <l>ahorātraṃ trirātraṃ vā raseṃdro bhasmatāṃ vrajet</l>
+         <l>valipaṃpatana paṃca kriyā jogena raṃjita</l>
+
+         <l>palamātreṇa bhuktena jīvedvarṣaśataṃ śataṃ</l>
+         <l>atyalpaṃ nātitīkṣṇaṃ ca śākināni parivarjayet</l>
+
+         <l>bhojanaṃ cāpi kurvīta payasā ṣaṣṭhikodataṃ</l>
+         <l>triguṇaṃ parihārasyādvātā tapa vivarjitaṃ</l>
+
+         <l>na krodho na ca vai ciṃtā na kartavyā sadābudhaiḥ</l>
+         <l>sarvaśāstrakṛte naivaṃ guṃjāmātraṃ tu bhakṣayet</l>
+
+         <l>kramukaḥ śaśimādyuktaṃ tāvunena samanvitaṃ </l>
+         <l>prātaruthāya bhuṃjīta siddhaṃ tu sitakarmmaṇā</l>
+
+         <l>evaṃ bhasma mayākhyātaṃ aparaṃ ca kathaṃ śṛṇu</l>
+         <l>yaḥ sūtaṃ bhakṣayennityaṃ kriyāyoga samanvitaṃ</l>
+
+         <l>sarvavyādhinirmukto ataromarastathā keśādaṃtā caiva</l>
+         <l>jāyaṃte ca punarnavādivyadṛṣṭi pravarteta sūtasya prabhāvataḥ</l>
+
+         <l>rāyayakṣmaṇi bhasma sūtakarasakriyā</l>
+         <l>kāṃtācīrṇaṃ kṛtaṃ pūrvyogavidhānataḥ</l>
+
+         <l>bhakṣitaṃ kramayogena sarvagulmaṃ vināśayet</l>
+         <l>caṃḍālīrākṣasī vātha kuṃḍalo godbhavairajaḥ </l>
+
+         <l>bājaṃ sūtaṃ ca vaikrāṃtaṃ mardayetpraharadvayaṃ </l>
+         <l>śuṣkaṃ tu golakaṃ kṛtvā aṃdhamūkhāṃ nidhāpayet</l>
+
+         <l>tāṃ ca śuṣkaṃ tataḥ kṛtvā tuṣakarṣāgninā puṭaṃ</l>
+         <l>ekarātriṃ trirātraṃ vā bhasmaṃ bhavati śobhanaṃ mehavyādhiharorasaḥ</l>
+
+         <l>piṣṭāgaṃdhakaṃadhye ghanapiṣṭaṃ sulvapiṣṭimaghaścaiva</l>
+         <l>saṃpāvitaḥ sumuṃcitodyupayuktohaṃti kuṣṭādīna</l>
+
+         <l><title>saṃkāca golakaḥ udaṃbarakuṣṭaharaḥ</title></l>
+
+         <pb n="10a"/>
+         <l>suddhaṃ rasaṃ śoṇika yāranāle saṃmarthya ṣalve kṛta naṣṭapiṣṭhaṃ</l>
+         <l>samānagaṃdhena bhasmaṃ bhavet pātanayaṃtrayogāt</l>
+
+         <l>svasthaṃ punastadrasamarditaṃ taṃ sagaṃdhakaṃ tuccakaṃ saṃyutaṃ ca</l>
+         <l>saṃyojya mukhāṃ dhanuṣāgnikvaṃ yāvat bhavet bhasma tato grahītvā</l>
+
+
+         <l>tat svalvasutvena caṭaṃ kaṇena na sa nāgarāmāgadhikāyutena gomāyāti</l>
+         <l>tadeva sūtaṃ saṃkocanā meti jane prasiddhaṃ saṃkocagolakaṃ citrakuṣṭaharaḥ </l>
+
+         <l>phalaṃ trayaṃ gaṃdhakasūtakasya phalaṃ tathā trīṇi kaṭutrayasya</l>
+         <l>nidhāya ṣalva tridimāni ghṛṣṭaṃ svārācikārdrādrakavanhitoye</l>
+
+         <l>taṃ tāmravarṇaṃ samasūtakānvitaṃ kṛtvā ca piṣṭiṃ pacitāśmo śāmadhye</l>
+         <l>caṃdraprasaṃnāmarasaprasiddhaṃ vināśakṛtkaṃkuṇa kuṣtaroge</l>
+
+         <l>candraprabhonāmarasaḥ kaṇakuṣṭhaharaḥ sūtakasya palagṛhyaṃ kaṃkuṇakuṣṭaharaḥ</l>
+
+         <l>sūtakasya palaṃ gṛhyaṃ tūryāṃśeśakayuddhaṃ viṣaṃ </l>
+         <l>tatsamagaṃdhakaṃ sūlvaṃ cūrṇaṃ kṛtvā tu nikṣipet</l>
+
+         <l>kṛtvā kajjalakāmādau palaṃ datvā ca gaṃdhakaṃ</l>
+         <l>ghṛtābhyaktaṃ ca ta cūrṇaṃ pacedāya sabhājane</l>
+
+         <l>bāvadravatvamāyāti tatakṣātaṃ vinikṣipet</l>
+         <l>paṭṭe vā kadalīpatre siddhe papīṭikārasaṃ</l>
+
+         <l><title>parppaṭīnāmarasaḥ</title></l>
+
+         <l>carmākhya kuṣṭaharaḥ viṣṇukrāṃtokamūlā janajanitapayā kṣīrajā śaṃkhapuṣpī</l>
+         <l>gokaṇīdevadālvī sadaladalayutā kṣaudrasaṃjīvanāśca</l>
+
+         <l>sarpākṣī meghanādā madamuditamahāgniniṭikā vetasaṃ ca </l>
+         <l>vrahmāvārā rudaṃtī munivaramaparo vrahmavṛkṣasya sāraṃ</l>
+
+         <l>etairevoṣadhaiḥ <pb n="10b"/> sarvaiḥ yathālābhe bhiṣagvaraḥ </l>
+         <l>rasaṃ pramardakāṭametai tiryāsa puṃsataḥ </l>
+
+         <l>paścāt sarbaviśuddhaṃ ca sa pramāṇācca dviguṇaṃ </l>
+         <l>kṛtvāṃta sthiti sūte vanhi sthelohapātre ca</l>
+
+         <l>vigalitagātre prakṣipatsurasaṃrasāccaturthabhāgena</l>
+         <l>karppūrāya sa sukhaṃlvaṃ kṣiptvā samutīrya</l>
+
+         <l>sūryaprabhonāmarasaḥ puṃḍanīkakuṣṭhaharaḥ</l>
+         <l>pūrvvaṃ yāni viśodhitāni puṭe kāṃtābhrasulvāni ca</l>
+
+         <l>pratyekaṃ suhare ca gaṃdhakasamānyetāni kṛtvā tataḥ</l>
+         <l>taccūrṇaṃ ca ghṛtaṃ ca sādhitarasaṃ caitākrameṇaṃ bhiṣak</l>
+
+         <l>tasmiṃ ruvaṃ sthiramānasā ca sahasā kvāthe sutame kṣipet</l>
+         <l>paṃcāmṛte mūlena ca daśamūlenāṣṭamūlena</l>
+
+         <l>madhusaṃjīvanīmārkavavidārīnamūlena ca kvāthaḥ</l>
+         <l>gaḍūcī hastākaṇī ca mūṃsalī muṃḍīkā tathā</l>
+
+         <l>śatāvarīpaṃca pacaite kvāthaḥ paṃcāmṛtaumataḥ</l>
+         <l>ṛṣabhakaḥ jīvakayuktaṃ medāyuktaṃ ca ṛddhivṛddhāṃ ca</l>
+
+         <l>kākolādvayayuktaṃ kāthaḥ kathitoṣṭavargasya</l>
+         <l>śrīpaṇī ca nāca vṛhatī ca vasaṃtadūtīvyāghrī ceṣṭeṃ</l>
+
+         <l>vuvāruṇī varaśālīparṇī ca vilvagokṣirameva ca</l>
+         <l>supṛṣti paṇīkvātho vudheśca kathitodasamūlasaṃjñaḥ</l>
+
+         <l>jvalanaste tat sarbaśatairebhisarbaṃ pācanīyāvaṃtaṃ pacanīyaṃ</l>
+         <l>prabhātato yāvadastamanaṃ pākāvasānasamaye jñātvā tatraiva citrakaṃ </l>
+
+         <l>deḍī trikaṭucūrṇa ca tathā prakṣipparasamānena</l>
+         <l>guḍapānasamānena ca vanhisya mahaus̤adhaṃ bhiṣajaḥ</l>
+
+         <l>uttarārayaṇīyamagneḥ susthāne sthāpanīyaṃva</l>
+         <l>paṃcāmṛto nāmara <pb n="11a"/>saḥ mṛṣya jīvaka kuṣṭaharaḥ</l>
+
+         <l>gaṃdhābhrakasulvaṃ ca tāpyaṃ ca śilatadravaiḥ</l>
+         <l>etaisamāṃ samādāya āmlavargeṇa mardayet</l>
+
+         <l>āmlavetasaṃyuktaṃ madhvājyena vimiśritaṃ</l>
+         <l>marditaṃ tridinaṃ yāvat garaṃ datvāṣṭamāṃśataḥ</l>
+
+         <l>guṃjāyugmaṃtramātreṇa tato baddhvā dṛḍhāṃ vaṭī</l>
+         <l>eka laṃkeśvaro nāma śatārukuṣṭanāśanaḥ</l>
+
+         <l><title>bahuvṛṇāśatārukuṣṭaharaḥ</title></l>
+
+         <l>tīkṣṇakāṃtānūpātakaṃ gaṃdhakāṃ ca samāśataḥ</l>
+         <l>dviguṇaṃ sūtakaṃ tatra daśāṃ śekya ṣukaṃ</l>
+
+         <l>ekaṃ kṛtvā dṛḍhaṃ mardya śatamūlīrasena ca</l>
+         <l>majiṣṭādikaṣāyeṇa mahākvāthena ca tatpunaḥ</l>
+
+         <l>pakvāmūkhāṃ tata sthāpya aṃdhayet sudṛḍhaṃ budhaḥ</l>
+         <l>nikṣipe śarkaṇa yaṃtre śanairmṛddhagni nāthecet</l>
+
+         <l>bhaśmībhavati tatsarva kṛṣṇamāṇikyasannibhaṃ</l>
+         <l>svāṃgaṃvasītalaṃ kuryāt tatottārya prayatnataḥ</l>
+
+         <l>nāmnāṇikyakhaṃḍoyaṃ ekasaṃjñakakuṣṭahā</l>
+         <l>sūtaṃ tāpyo hṛvaṃgaṃdhaṃ śilājaśakyaṃ kaṃ viṣaṃ</l>
+
+         <l>ekīkṛtvā samānena sulvatīkṣṇāmayorajaḥ</l>
+         <l>kācamācī karkoṭī suradālīrasena ca</l>
+
+         <l>mardayetridinaṃ yāvadbhasmatvamāgadhikaṃ</l>
+         <l>rasaṃ kuṣṭeśvaro nāma carmmakuṣṭaparaṃ haraṃ </l>
+
+         <l><title>kuṣṭeśvaronāmarasaḥ carmmakuṣṭaharaḥ</title></l>
+
+         <l>śivaśukrasuṭaṃkaṇagaṃdharajaḥ sulvīthasakuṣṭasamāgadhikaṃ</l>
+         <l>rasamarditamānulamekadinaṃ aṣṭādaśakuṣṭaṃ nihaṃti bhṛśaṃ </l>
+
+         <l><title>pratāpalaṃkeśvaro nāmarasaḥ</title></l>
+
+         <l>asādhyakuṣṭahara ūrddhathonigataṃ sūtaṃ dagdhaśaṃkhaniśādvayaṃ</l>
+         <l>asanasya ca kalkaṃ tu yojayennālikārasaṃ amṛtākaṃdacūrṇaṃ tu śilāyamu samākṣikaṃ</l>
+
+         <l>kāṃtyamadhvājya sahitaṃ sarba <pb n="11b"/> kuṣṭebulepane </l>
+
+         <l><title>visarjaharakuṣṭaharaḥ</title></l>
+
+         <l>sūtakaṃ saṃṣacūrṇaṃ tu rajanyottaravāruṇī</l>
+         <l>kṣāriṇī prayunāṭaśca meghanādo munistathā</l>
+
+         <l>strīpayaḥ kṣodrasaṃyuktaṃ gomūtre kāṃlikena tu</l>
+         <l>ekatramardayitvā tu tena sarbbaṃ pralepayet</l>
+
+         <l>dadrukīṭabhakuṣṭāni maṇḍalāni vacarcikā</l>
+         <l>mardanāni tyayogena naśyaṃte nātra saṃśayaḥ</l>
+
+         <l>mayūramekṣikakṣāradvineśetrikaṭustathā</l>
+         <l>kṣāraṃ ca ṭaṃkaṇaṃ kṣāraṃ sūlvacūrṇaṃ tu sūtakaṃ</l>
+
+         <l>ekīkṛtvā ca saṃmardya meṣaśṛṃgīrasena ca</l>
+         <l>dadrukīṭabhasiddhāni lepamātreṇa naśyati</l>
+
+         <l>gaṃdhāśma piṣṭikākṣāraṃ sūlvacūrṇaṃ tu sūtakaṃ</l>
+         <l>mūlakārdhakamarditaṃtarasena rasalepanaṃ </l>
+
+         <l>lepanādvarāt sarbasadvākuṣṭaharaṃ paraṃ siddhakuṣṭaharaḥ</l>
+
+         <l>pāmākvircike proktālepadugdhaṃghapiṣṭikā kaṭutailena pācayet</l>
+         <l>tanmadhyepiṣṭikā pācyā prayatnena bhiṣagūraḥ</l>
+
+         <l>tatodhṛtya prayatnena yathāna vrajate rasaḥ</l>
+         <l>tato yojayedvaidyabheṣajāni prayatnataḥ</l>
+
+         <l>trikaṭukvāmustā viḍaṃgaṃ citrakaṃ viṣaṃ</l>
+         <l>samabhāgāni vaitāni pathyā ca triguṇādviṣe</l>
+
+         <l>madhunā mardayitvā tu guṭikā kārayedbhiṣak </l>
+         <l>guṃjārddhapramāṇena ekaikāṃca bhakṣayet</l>
+
+         <l>jñātvā balābalaṃ satvaṃ dvevādāpayet punaḥ</l>
+         <l>athavā guṣṭikā sārddhā pathyā rogān na pīḍāte </l>
+
+         <l>śaṃkāṃ ca piṣṭikādyeṣā prasūtirvātanāśinaḥ</l>
+         <l>anyenevātajākuṣṭā snān sarbān vyapohati</l>
+
+         <l>saṃkoca piṣṭikādyorasaḥ prasūtirvāta kuṣṭaharaḥ</l>
+         <l>ghanasya piṣṭikāvāryā sulvasyāpyathavānuddhaḥ </l>
+
+         <l>gaṃdhakāṃtasthitā pācyā sarpiṣā saṃyute na ca /</l>
+         <l>paṃcāgniṃ vacū<pb n="12a"/> rṇaṃ ca viḍaṃgā citrakaṃ viṣa</l>
+
+         <l>kaṭutrikaṃ vacā pustā vyādhighātaṃ tathaiva ca</l>
+         <l>samabhāgāni caitāni pathyā ca triguṇā bhavadve</l>
+
+         <l>ajāmūtreṇa saṃpīḍrā guṭikāṃ kārayedbudhaḥ</l>
+         <l>vadarāsthi pramāṇena ekaikāpittakuṣṭahā</l>
+
+         <l>sabale dve pradātavyā kṣīṇe cārddhā pradāpayet</l>
+         <l>ekaviṃśadine naiva pittakuṣṭaṃ vināśanaḥ</l>
+
+         <l><title>ghanasaṃkocakonāmarasaḥ pittakuṣṭaharaḥ</title></l>
+
+         <l>kanakagaganamulvaiḥ piṣṭikā ghārayitvā</l>
+         <l>valivasarajamadhye telayogyena pācyā</l>
+
+         <l>trikaṭukaghanavanhiṃ tvagniḍaṃgaṃ viṣaṃ ca</l>
+         <l>samaghṛtaviṣamānā traiguṇāsyātrivā ca</l>
+
+         <l>ajasalilatatoyaṃ gharṣayitvā nibaddhā</l>
+         <l>pravaramavara guṭikāṃ sāguṃjamātrābhiṣagniḥ</l>
+
+         <l>asitakramakrameyaṃ arddhamekadvipaṃca</l>
+         <l>prajahati varakuṣṭaṃ śleṣmajaṃ nātra cittaṃ</l>
+
+         <l>kanakasaṃkoco nāmarasaḥ śleṣmakuṣṭaharaḥ</l>
+         <l>gaganakanakatāmraṃ mānamātreṇatvā</l>
+
+         <l>rasavara kṛtapiṣṭyā saurabhāṃte vipakṣā</l>
+         <l>samayutakṛtamebhisthālakaṃ bolatāpyaṃ</l>
+
+         <l>viṣamanala puyāga śṛṃgakā miṃduvāraṃ</l>
+         <l>surabhimadhukaṣāyaṃ ṭaṃkaṇaṃ kṣāravaṃdhyā</l>
+
+         <l>kalaśapicuviśālā śṛṃgī verāmlapiṣṭā vadaravadamita nivaddhā /</l>
+         <l>śoṣitābhirghaṭībhiḥ vijahati vara kuṣṭaṃ sannipātotthitaṃ hi</l>
+
+         <l>gaganādyo rasaḥ sannipātaharaḥ kuṣṭaharaḥ kuṣṭa</l>
+         <l>piṃgapāta pāḍalārkamiśraṃ sūteṃdragolaṃ kṛtaṃ</l>
+
+         <l>maṃḍūraṃ gaganaṃ surāyasarajastāpāruhaṃ gaṃdhakaṃ</l>
+         <l>kaumārīdravamardiṃtastravidhināṃ pakaṃ tuṣāgnau puṭe</l>
+
+         <l>tadbhasmaṃ pravadaṃti sūtanipuṇānaśī śirogāpahaṃ</l>
+         <l><title>tīkṣṇamukho nāma rasaḥ purnāmamaropiharaḥ</title></l>
+
+         <l>manaḥ śi<pb n="12b"/>lātālakamaṃvaraṃ varaṃ tīkṣṇa tadāri kuñjaraṃ</l>
+         <l>tāpīruhaṃ kāṃtarajaṃ rasena kumārividhyā suradālī ghṣṭaṃ</l>
+
+         <l>mūkhāgataṃ kaṃkariṣānalena puṭena dugdhaṃ varabhasmeti</l>
+         <l>na bhasma sūtaṃ pravadaṃtisaṃnaḥ gudāmapānāṃ ca bhagaṃdare hitaṃ</l>
+
+         <l>ghanagarbhonāmarasaḥ</l>
+
+         <l>tāraṃ tāmrasūyutahemasūtakasaṃ kṛtvā pṛthakgolaka</l>
+         <l>tāpyaṃ tulyakakāntamatrakaraye vaikrāntamabhiryutaṃ</l>
+
+         <l>datvā khalvatataile sumarditarase vyādhi suvarṣābhūve</l>
+         <l>nāginyo rasaghananādajena matimān kṣatvā punargolakaṃ</l>
+
+         <l>taṃ pakaṃ vacarā ramena sahasā yatnena taṃvālojala</l>
+         <l>yāvadbhasma bhave kṛtoti nipuṇaśrottārayet kṣṛkaḥ</l>
+
+         <l>tasmā daśamāṃsakyukaviṣaṃ gaṃdhāsmacūrṇānvitaṃ</l>
+         <l>ghaṣṭaṃ tuṃgarase naveta sayutaṃ talpāṃḍurogāpahaṃ</l>
+
+         <l><title>saṃkocabhasmasūtakaṃ pāṃḍuroge</title></l>
+
+         <l>devadālī rase ghṛṣṭāṃ mudvasulvasya piṣṭikāṃ</l>
+         <l>gaṃdhāśmacūrṇa saṃyuktāṃ matpugryāṃ kāmalāṃ japet</l>
+
+         <l>piṣṭikā kāmalāmaye halīmake prayoktavyaṃ </l>
+         <l>śuddhakāṃtasya piṣṭikāṃtīkṣṇagaṃdharajopetāṃ yuktyāhaṃti</l>
+
+         <l>halīmake gaṃdhakena samāyuktaṃ kṛtvā sūtasya piṣṭikāṃ</l>
+         <l>yuktyā tāṃ tāmrapātreṇa hi paṃcavidhāṃ jayet</l>
+
+         <l>gaṃdhakapiṣṭikāhikkāsvāso abhrakaṃ haravīryaṃ ca</l>
+         <l>tīkṣṇa sulvaṃ sama samarddharase ghṛṣṭaṃ triphalāgastirasena ca</l>
+
+         <l>āmlavetasa saṃyukto baddhā ca sudṛḍhāvaḍhāyu </l>
+         <l> yuktyāva bhakṣitāvāpikā saṃpaṃcavidhaṃ jayet</l>
+
+         <l>kāsagaṃdhaṃ piṣṭisamāyuktaṃ tālaṃ tāpyaṃ ca gaṃdhakaṃ</l>
+         <l>yuktyā bhasmamānītaṃ kṛṣṇācharddi <pb n=" 13a"/> nivārakaṃ</l>
+
+         <l><title>bhasmasūtakaṃ kṛṣṇachardiharaṃ</title></l>
+
+         <l>satāvarī rase ghṛṣṭāṃ tuthasulvasya piṣṭikāṃ</l>
+         <l>pāvitāṃ kaṭutailena mūtrakṛchra prayojayet</l>
+
+         <l><title>sulva piṣṭikāmūtrakṛchre</title></l>
+
+         <l>javarāmayeṣu yatproktaṃ rasaṃ vā bhasmasūtakaṃ</l>
+         <l>taccaivātra prayoktavyaṃ upadeśe kuraṃṭake</l>
+
+         <l>kuruṣopadeśe gaṃdhakākṣāratāmrasya kṛtvaikatra ca piṣṭikāṃ </l>
+         <l>tatsamaṃ abhrakaṃ ślakṣṇaṃ gaṃdhakaṃ paṃcamāṃsata</l>
+
+         <l>viṣaṃ paṃca ṣoḍaśāṃśe madvaubhāgau sūtakasya ca</l>
+         <l>ekīkṛtya prayatnena naṃbīrasamarditān</l>
+
+         <l>bhājane mṛnmaye sthāpya triphalākāthe vipācayet</l>
+         <l>daśamūlaśatāvaryo kvāthokīgho pācyau krameṇadi</l>
+
+         <l>tatottārya prayatnena vaṭakān kārayedbudhaḥ</l>
+         <l>guṃjātrayapramāṇena asirudbhogaśūjanit</l>
+
+         <l>triṣṭaṣṭonāmarasaḥ rudgo godāvarttaśulajit</l>
+
+         <l>kṛtvā samesamāṃ piṣṭi hema sulvamathā pivā</l>
+         <l>daśāṃśena viṣaṃ sūtaṃ srotojana samanvitaṃ</l>
+
+         <l>mulinā rasasaṃyukta devadājīrasena ca</l>
+         <l>praharatritayaṃ marghaṃ golakaṃ kārayedbudhaḥ</l>
+
+         <l>suślakṣṇaṃ ca śuṣkaṃ ca tailagaṃdhāśma madhyataḥ</l>
+         <l>pacet kramakrameṇaiva vaṭikāṃ kārayedbudhaḥ</l>
+
+         <l>guṃjātraya pramāṇena bhakṣayedunmāda śāṃtaye</l>
+
+
+         <l><title>hemapiṣṭī sarvonmādaharā</title></l>
+
+
+         <l>stotojanaṃ satagaraṃ sūtasṛṣṭi trayānvitaṃ</l>
+         <l>ekīkṛtvā tu saṃmardya daśāṃśe śakyupakaṃ viṣam</l>
+
+         <l>devadālīrase prājño yāvadyā matuyaṃ bhavet</l>
+         <l>kṛtvā tu golakaṃ śuddhaṃ pācitaṃ gaṃdhamadhyataḥ</l>
+
+         <l>tepi guṭikā kāryā guṃjātraya pramāṇataḥ</l>
+         <l>bhakṣitā kramayogena sarvāpasmāranāśinī</l>
+
+         <l>hematāratāmrapiṣṭikās <pb n="13b"/> arvāpasmāraharā</l>
+         <l>gaṃdhaṃ tālakatāpya jaṃ sugagana.m tīkṣṇaṃ samānānvitaṃ </l>
+
+         <l>tāmraṃ cūrṇitabhāgamāśritagaraṃ sarbaivinighnaṃ rasaṃ</l>
+         <l>ekīkṛtya susiduvāramamalaṃ pālāsakarkoṭikāśisūraṇamagni</l>
+
+         <l>maṃthmariṇī kṛṇārasaimardayet kṛtvātdvaragolakaṃ suśiṣitaṃ</l>
+         <l>gaṃdhā śma siddhārthajaṃ tailemadya vipācitaṃ ca matimān yuktyāvabaddhā</l>
+
+         <l>--- ṭivātonmādasusannipātajagadān śralānudāvarttakān</l>
+         <l>gulmāṣṭīlajamapasmārarujo sarvāṃśca yuktyānayet</l>
+
+
+         <l>pratāpalaṃkeśvoro nāmarasaḥ sarbavātajvaraharaḥ</l>
+
+         <l>rājāvartaṃrajaḥ sulvaṃ sūte garbhaniyojataṃ</l>
+         <l>yaṣṭīmadhurase ghṛṣṭe ghṛtamadhye vipācitaṃ</l>
+
+         <l>madhānpaśarkarāgāḍhaṃ jayet sarbamadātpayaṃ</l>
+
+
+         <l><title>madātpayaharorasaḥ</title></l>
+
+         <l>tīkṣṇābhrakāṃtasurabhāgaraṃ ca tālaṃ ca tāpyaṃ caritaṃ raseṃdraṃ</l>
+         <l>kaumārakaṃde kramabhasmanītaṃ visarppanāśedrāvadaṃti saṃtaḥ</l>
+
+
+         <l><title>visarpanāśanarasaḥ</title></l>
+
+         <l>maṃḍuratīkṣṇaṃ sulabhaṃ vacāritaṃ sūtaṃ</l>
+         <l>sūtaṃ balātoyanighṛṣṭapakvāṃ</l>
+         <l>punarnavā ghanaravāpya ghamojalena syādbhasmasūtaṃ svayādyāpahārī</l>
+
+         <l><title>bhasmasūtakarasaḥ</title></l>
+
+         <l>svayathāpahārī sūlvaṃ sūtaṃ samaṃ kṛtvā khalve datvā dinatrayaṃ</l>
+         <l>nāgaparṇī valā pārthā meghanādā punarbhavā</l>
+
+         <l>aprasūtā gavāṃ mūtre mardayitvā tataḥ puṭe</l>
+         <l>vakrayaṃtrasthitaṃ prājñaṃ jāyate bhasmasūtakaṃ</l>
+
+         <l><title>bhāsmasūtakaṃ nāmarasaḥ</title></l>
+
+         <l>śrīpadagalagraṃthi arbudaṃ sarbaharaḥ pūrvayannihitaṃ nāge</l>
+         <l>sūteṃdrasamacāritaṃ tutthakaṃ dviguṇaṃ datvā karūraṃ śāṇamātrataḥ</l>
+
+         <l>droṇapuṣpī rase ghṛṣṭaṃ tāto jātīrasena ca kṛtaṃ tadgola<pb n="14a"/>kaṃ</l>
+         <l>sarbaṃ abhisyaṃdavināśanaṃ abhisyaṃdogaṃdhakena hataṃ sutvaṃ samasūtavāritaṃ</l>
+
+         <l>sauvīrāṃjanasaṃyuktaṃ karppāsatvadapeṣitaṃmavukarpūrasaṃyuktaṃ punaḥ</l>
+         <l>kṣiprārkkabhājane tilaparṇāraseghṛṣṭaṃ netrāsthaṃ vātarogachat</l>
+
+         <l><title>sulvacūrṇonāmarasaḥ</title></l>
+
+         <l>netravātaroge tīkṣṇaṃ cūrṇaṃ ca raseṃdrasamacāritaṃ</l>
+         <l>dvighnaṃ rasāṃ janaṃ datvā ghṛṣṭaṃ varṣābhuve rase</l>
+
+         <l>dinaṃ yāvatsarppetaśarkarāmadhuyojayet</l>
+         <l>tadrasaṃ netramadhyasthaṃ pittāmaya haraṃ paraṃ</l>
+
+         <l>kāṃtacūrṇaṃ ca sulvaṃ ca raseṃdrasamacāritaṃ</l>
+         <l>dviguṇa maṃjanaṃ datvā mālatā nilaparṇikā</l>
+
+         <l>apāmārgarase ghṛṣṭaṃ dadhitā tāmrātā bhājane</l>
+         <l>tatsūtaṃ locane saṃstvā śleṣmarogavināśanaṃ</l>
+
+         <l>raseṃdrabhujagau tulyau tābhyāṃ dviguṇabhaṃjanaṃ</l>
+         <l>īṣat karpūrasaṃ yuktaṃ daśāṃśe śakyuphaṃ viṣam</l>
+
+         <l>valānāmabalākṛṣṇā mālayātyā pārthive rasaiḥ</l>
+         <l>tāmrapātrasya madhyasthaṃ mardaye tridinaṃ bhiṣak</l>
+
+         <l>yuktyā tāmranayanamadhyasthaṃ sannipātarujāpaham</l>
+         <l>viṣpātaṃ rasarājasya sarbanetrarujāpahaṃ</l>
+
+         <l>gaṃdhakādviguṇaṃ sūtaṃ sauvīraṃ vāṣṭamāṃśatoḥ </l>
+         <l>kapittharasasaṃghṛṣṭaṃ aṃjanaṃ timirāpahaṃ</l>
+
+         <l>nāgaṃ sutvaṃ tavā tīkṣṇaṃ gaṃdhakāṃjana sūtakaṃ </l>
+         <l>tridvitroṭakapāṃcatripaṃcabhāgakrameṇa hi /</l>
+
+         <l>tāmrapātre sthite ghṛṣṭaṃ valā nāgabalārasaiḥ</l>
+         <l>sauvīramājyamadvaktaṃ dhātrīdārvyabhayākṣaja</l>
+
+         <l>rase vadarā nalepakkvaṃ rasaṃ netrāmayaṃ jayet /</l>
+         <l>rasāṃjanaṃ tuththaṃākṣikaṃ niśephalatrayaṃ <pb n="14b"/>
+         </l>
+
+         <l>vyoṣaviḍaṃgasiṃdhujaṃ prapuṃḍarīkajalasaṃbhavaṃ ghanaṃ</l>
+         <l>ājyena ghṛṣṭaṃ payasā ca vartiḥ chāyā prasukī nayanāmayān jayet</l>
+
+         <l>smavarttinetraroge vyoṣaṃ tri aṃjanaṃ tuvyaṃktunaṭī siṃdhu</l>
+         <l>maidhavaṃ vilāsthisītalaṃ mūtraṃ ajākṣīreṇa peṣayet</l>
+
+         <l>rasanāśayettimiraṃ kāvaṃpaḍalaṃ arbudha tathā</l>
+         <l>adhikāni tu māsāṃsi yadudūraṃ na paśyati</l>
+
+         <l>netrarogarasayogāḥ gaganāya sagaṃdhakasulvarajaḥ</l>
+         <l>ajamūtrasubhāvitasūtasamaṃ triphalārasamardaya</l>
+
+
+         <l>ghṛṣṭavaraṃ śravaṇāmaya sarbabināśakaraṃ</l>
+
+
+         <l><title>mahārasonāmarasaḥ</title></l>
+
+
+         <l>śravaṇarogaharaḥ sūlabhārajagaṃdhasūtasamaṃ</l>
+         <l>girakarṇī rase kṛtagolavaraṃ </l>
+         <l>magadhārasasuvirase tridina</l>
+         <l>marditaghaṇaghoṇārujārtiharaṃ</l>
+
+
+         <l><title>gaṃdhamardanonāmarasaḥ</title></l>
+
+
+         <l>pratirūpāyaharaḥ nṛpamākṣikatutthaśilālinibhaṃ śilajaṃ mahiṣāṣyo raseṃdramiti </l>
+         <l>vinighṛṣṭaraseṃ paci saptadinaṃ vadanasya rujeti marevardūtaṃ</l>
+
+
+         <l><title>taraṇipratāponāmarasaḥ</title></l>
+
+
+         <l>vadanāmayaharaḥ vimalena nivaddha raseṃdravaraṃ damaṇikatigarbhaniyuktiparaṃ</l>
+         <l>siṃdhukaṭutrayaghṛṣṭavaraṃ galaśuṃḍilā mayanāśakaraṃ</l>
+
+
+         <l><title>gaṃdhajakonāmarasaḥ</title></l>
+
+
+         <l>kaṃvāmayaharaḥ gaganaṃsyādraseṃvīrṇa tīkṣṇa sutvaṃ surāyasaḥ</l>
+         <l>vamaya raseghṛṣṭaṃ sūryāvarttavināśanaṃ</l>
+
+
+         <l><title>gaganasukhonāmarasaḥ</title></l>
+
+         <l>śirorogaharaḥ abhrakaṃ tālakaṃ tāpyaṃ śilājit</l>
+         <l>kunaṭīrajaṃbhūlatāsatvasaṃyuktaṃ</l>
+
+         <l>canakāmlasubhāvitaṃ trikaṭutriphalāyāvāsuradāli rasamarditaṃ</l>
+         <l>dvijeṃdranāmasūtoyaṃ viṣadoṣaṃvuṃtaṃ jāyet</l>
+
+
+         <l>gaṃdhe vā<pb n=" 15a"/> tāmratāre vā kṛtvāday bhasmasūtakaṃ</l>
+         <l>yuktyākrame prayoktavyāṃ yotidoṣavināśanaṃ </l>
+
+         <l>tāmre samaṃsūte vīrṇaṃ yuktyā prayojitaṃ grahadoṣaghna</l>
+         <l>vālānasyādraseṃdraṃ na saṃśayaḥ</l>
+
+         <p>iti śrīnāgārjune viracite raseṃdramaṃgale bhasmasūtaka nāma tṛtīyodhyāyaḥ // </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         <p>Some text here.</p>
+      </body>
+   </text>
+</TEI>
