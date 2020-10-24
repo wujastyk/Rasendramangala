@@ -451,7 +451,7 @@
           <caesura/>
            triguṇaṃ ca bhaved vedhaḥ kramayogena<lb/> yojayet </l>
 
-        <l xml:id="srisaila68">kuru karma yathā nyāyaṃ siddhaṃ bhavati tadrasaṃ
+        <l xml:id="srisaila68">kuru karma yathā nyāyaṃ siddhaṃ bhavati tad rasaṃ
           <caesura/>
            jārito māritaś caiva punar jāritabhāritaḥ </l>
 

@@ -1,4 +1,3 @@
-<!DOCTYPE TEI SYSTEM "file:/home/dom/Dropbox/Xdrive/books/wujastyk/Rasendramangala/2019%20Rasendra%20XML%20Saktumiva%20transcriptions/provisional_edition.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
     <fileDesc>
@@ -603,7 +602,7 @@
 
         <l xml:id="srisaila68"> kuru karma yathā nyāyaṃ siddhaṃ bhavati taṃ rasaṃ 19
           <caesura/>
-           jārito māritaś cai<lb/>va punarjjāritamāritaḥ </l>
+           jārito māritaś cai<lb/>va punar jjāritamāritaḥ </l>
 
 
 

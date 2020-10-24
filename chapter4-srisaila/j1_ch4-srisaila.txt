@@ -430,7 +430,7 @@
 
         <l xml:id="srisaila68">kuru karma yathā nyāyāṃ siddhirbhavati tādṛśaṃ
           <caesura/>
-           jārito ścaiva puna jārite mārita</l>
+           jārito ś caiva puna jārite mārita</l>
 
         <l xml:id="srisaila69">dasasaṃkrāṃtenikrāṃtī koṭivedhī mahārasaḥ</l>
 

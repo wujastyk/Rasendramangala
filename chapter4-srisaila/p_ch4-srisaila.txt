@@ -424,7 +424,7 @@
 
         <l xml:id="srisaila68">kuru karma yathānyāyaṃ siddhaṃ bhavati tadrasaṃ
           <caesura/>
-          jārito māritaś caiva punarjāritamāritaḥ</l>
+          jārito māritaś caiva punar jāritamāritaḥ</l>
 
         <l xml:id="srisaila69">daśasaṃkrāṃti nikrāṃto koṭivedhī mahārasaḥ</l>
 
@@ -780,7 +780,7 @@
 
         <l xml:id="srisaila149">a<lb/>gnimadhye yadā tiṣṭetpāṭavaṃdhasya lakṣaṇaṃ
           <caesura/>
-          kukuṭāṃḍanibhaṃ sūtaṃ lohavedhī bhaveyadā</l>
+          kukuṭāṃḍanibhaṃ sūtaṃ lohavedhī bhave yadā</l>
 
         <l xml:id="srisaila150">āvarttitaṃ punas tadvat ṣoṭabaddharasākṛtiḥ</l>
 
@@ -792,7 +792,7 @@
 
         <l xml:id="srisaila152">ṣoṭādayeṣu ye paṃca vihāya jalūkā<lb/>kṛti
           <caesura/>
-          hatāgnau dhāmitaṃ tiṣṭet na tiṣṭedekamūrchitaḥ</l>
+          hatāgnau dhāmitaṃ tiṣṭet na tiṣṭed ekamūrchitaḥ</l>
 
         <l xml:id="srisaila153">taruṇādityasaṃkāśo nānāvarṇavicakṣaṇa
           <caesura/>

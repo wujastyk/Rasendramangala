@@ -601,6 +601,10 @@
 
           <p xml:id="rm3.95a">saṃ parppaṭīnāmarasaḥ carmmākhya---kuṣṭaharaḥ| </p>
 
+          <l xml:id="rm3.96"><gap extent="1" unit="verse"/></l>
+          <l xml:id="rm3.97"><gap extent="1" unit="verse"/></l>
+          <l xml:id="rm3.98"><gap extent="1" unit="verse"/></l>
+
           <l xml:id="rm3.99">viṣṇukrāṃtokabhūlā jana--janitapayā kṣīrajāśaṃkha--puṣpī|
             <caesura/>
              gokarṇī deva ḍhālī sadaladala--yutā kṣaudra--saṃjīvanāśca|
@@ -761,6 +765,15 @@
              pāmāvicarcike proktā lepadagdhaṃ dvipiṣṭikā|
             <caesura/>
              kuṭutailena pācayet| </l>
+
+          <l xml:id="rm3.133"><gap extent="1" unit="verse"/></l>
+          <l xml:id="rm3.134"><gap extent="1" unit="verse"/></l>
+          <l xml:id="rm3.135"><gap extent="1" unit="verse"/></l>
+          <l xml:id="rm3.136"><gap extent="1" unit="verse"/></l>
+          <l xml:id="rm3.137"><gap extent="1" unit="verse"/></l>
+          <l xml:id="rm3.138"><gap extent="1" unit="verse"/></l>
+          <l xml:id="rm3.139"><gap extent="1" unit="verse"/></l>
+          <l xml:id="rm3.140"><gap extent="1" unit="verse"/></l>
 
           <l xml:id="rm3.140b">tanmadhye piṣṭikāpācyā prayatnena bhiṣagvaraḥ| </l>
 
@@ -1141,8 +1154,10 @@
             <caesura/>
              chāyā pramuṣkīnayanā mayān jayet| </l>
 
-          <gap unit="verse" n="3"/>
-
+          <l xml:id="rm3.201"><gap extent="1" unit="verse"/></l>
+          <l xml:id="rm3.202"><gap extent="1" unit="verse"/></l>
+          <l xml:id="rm3.203"><gap extent="1" unit="verse"/></l>
+          
           <p xml:id="rm3.200a">sma varttinetraroge</p>
 
           <l xml:id="rm3.204">vyoṣaṃ tri<unclear>?</unclear>aṃjanaṃ

@@ -508,7 +508,7 @@
           <caesura/>
           triguṇaṃ ca bhaved vadvaḥ kramakrameṇa yojitaṃ |</l>
 
-        <l xml:id="srisaila68">kuru karmma yathā nyāyaṃ siddhaṃ bhavati tadrasaṃ ||40
+        <l xml:id="srisaila68">kuru karmma yathā nyāyaṃ siddhaṃ bhavati tad rasaṃ ||40
           <caesura/>
           jārito māritaś caiva punar jāritamā<unclear extent="2" unit="syllables"/> |</l>
 

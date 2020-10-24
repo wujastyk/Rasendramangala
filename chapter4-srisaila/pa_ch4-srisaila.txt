@@ -401,9 +401,9 @@
         <caesura/>
         triguṇena bhaved vaṃdvaḥ kramakrameṇa yojanaṃ| 41 </l>
 
-      <l xml:id="srisaila68">kuru karma yathānyāyaṃ| sidhaṃ bhavati tadrasaṃ|
+      <l xml:id="srisaila68">kuru karma yathānyāyaṃ| sidhaṃ bhavati tad rasaṃ|
         <caesura/>
-        jārito māritaś caiva| punarjāritamāritaḥ 42</l>
+        jārito māritaś caiva| punar jāritamāritaḥ 42</l>
 
       <l xml:id="srisaila69">daśasaṃkrātinikrāṃto| koṭivedhī mahārasaḥ|</l>
 

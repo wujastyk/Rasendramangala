@@ -447,8 +447,9 @@
                     <caesura/>
                      rājikārdhārdhamātreṇa parvatāny api vidyati|| </l>
 
-                <l xml:id="rm4.4.129">bhakṣaṇāt tasya sūtasya bhaveddrusamo naraḥ<lb/>krīḍate
-                    saptalokeṣu śivarūpaparākramaḥ|| </l>
+                <l xml:id="rm4.4.129">bhakṣaṇāt tasya sūtasya bhaveddrusamo naraḥ<lb/> 
+                <caesura/>
+                krīḍate saptalokeṣu śivarūpaparākramaḥ|| </l>
 
                 <p xml:id="rm4.276">atha <title>rase sarvvalohānāṃ krāmaṇaṃ</title>|| </p>
 
@@ -483,7 +484,7 @@
                 <p xml:id="rm4.291">atha <title>rase drutīnāṃ jāraṇā baṃdhāśca</title><pb n="24"
                     /></p>
 
-                <l xml:id="rm4.4.136">abhra haṃma drutiḥ sūtaṃ trayamekatra melayet||
+                <l xml:id="rm4.4.136">abhra haṃma drutiḥ sūtaṃ trayam ekatra melayet||
                     <caesura/>
                      krāmaṇe ca mūṣāyāṃ lepaṃ daṃtvā vicakṣaṇaḥ|| </l>
 
@@ -491,17 +492,17 @@
                     <caesura/>
                      śatavedhī bhavet so hi tārāre mlecchasaṃyute|| </l>
 
-                <l xml:id="rm4.4.138">tasya ma<lb/>dhye yadādeyaṃ abhrahemadrutiḥ samā||
+                <l xml:id="rm4.4.138">tasya ma<lb/>dhye yadā deyaṃ abhrahemadrutiḥ samā||
                     <caesura/>
                      karṣaṃ tuṣāgninā svedyaṃ yāvat sūtāvaśoṣitaṃ|| </l>
 
-                <l xml:id="rm4.4.139">sahasravedhī<lb/>bhavet sūto nātrakāryā vicāraṇā||
+                <l xml:id="rm4.4.139">sahasravedhī<lb/> bhavet sūto nātrakāryā vicāraṇā||
                     <caesura/>
                      sakalaiḥ saṃkalaibaddho daśaguṇo vedha varddhate|| </l>
 
                 <l xml:id="rm4.4.140">saptasaṃkali<lb/>kābaddha koṭivedhi mahārasaḥ||
                     <caesura/>
-                     śarīrārtha sadā bhuṃjedguṃjāmātraṃ vicakṣaṇaḥ|| </l>
+                     śarīrārtha sadā bhuṃjed guṃjāmātraṃ vicakṣaṇaḥ|| </l>
 
                 <l xml:id="rm4.4.141">trikaṭubhiphalāyuktaṃ<lb/>ghṛtena madhunā saha||
                     <caesura/>
@@ -542,13 +543,13 @@
 
                 <l xml:id="rm4.4.151">ārābhrahemadru<lb/>tayaḥ pāradena samanvitāḥ||
                     <caesura/>
-                     nāgaṃ tu prativāpena śatāṃ śaistaṃbhaved bhavaṃ|| </l>
+                     nāgaṃ tu prativāpena śatāṃśais taṃ bhaved bhavaṃ|| </l>
 
-                <l xml:id="rm4.4.152.1">ghoṣābhratāradrutaya pāradena<lb/>samanvitāḥ||
+                <l xml:id="rm4.4.152.1">ghoṣābhratāradrutaya pāradena<lb/> samanvitāḥ||
                     <caesura/>
                      nāgasya prativāpena staṃbham āyāti tatkṣaṇāt|| </l>
 
-                <l xml:id="rm4.4.153">ārakrāṃtadrutirhemni pāradena sama<lb/>nvitāḥ||
+                <l xml:id="rm4.4.153">ārakrāṃtadrutir hemni pāradena sama<lb/>nvitāḥ||
                     <caesura/>
                      nāgasya prativāpena staṃbho bhavati śatāṃśataḥ|| </l>
 
@@ -637,7 +638,7 @@
 
                 <l xml:id="rm4.4.171">vyāghrīvṛhatiphalarasasūrāṇā tīkṣṇaṃ ca kanakapatrāṇi||
                     <caesura/>
-                     kapikacchuvajravallīḥ<lb/>pippalīkāmabiṃbikācūrṇam|| </l>
+                     kapikacchuvajravallīḥ<lb/> pippalīkāmabiṃbikācūrṇam|| </l>
 
                 <l xml:id="rm4.4.172">anyāvarttitanāgaṃ harabīaṃ bhāvayed imair dravyaḥ||
                     <caesura/>
@@ -646,7 +647,7 @@
                 <p xml:id="rm4.378">atha <title>strīdrāvaṇaṃ</title>|| </p>
 
                 <l xml:id="rm4.379">ṭaṃkaṇapippalīkāmaṃ sūraṇakarpūramā<lb/>tuluṃgarasaiḥ|| </l>
-                <l xml:id="rm4.380">kṛtvāt māṃgulilepaṃ strīṇāṃ bhaga drāvaṇaṃ param|| </l>
+                <l xml:id="rm4.380">kṛtvāt māṃgulilepaṃ strīṇāṃ bhagadrāvaṇaṃ param|| </l>
 
                 <p xml:id="rm4.381">atha <title>vīryastaṃbhaḥ</title>|| </p>
 
@@ -875,9 +876,9 @@
                 <l xml:id="rm4.510"> yāvarajaṃ dhātusamaṃ marddanaṃ bījapūrarasaiḥ||</l>
                 <l xml:id="rm4.511">viṣatailaghṛtasiṃdhuṣoḍaśakamalenduvedhakarāḥ||</l>
                 <l xml:id="rm4.512">harivarggahita satvā capala samāḥ sthāpayed viabhaṃḍe</l>
-                <l xml:id="rm4.513">māsa catuṣṭayametatpaṭudhānye sadyajedhakaraḥ||</l>
-                <l xml:id="rm4.514">kanakasamena samaṃ kuryādvapaṃcamākṣike paścāt</l>
-                <l xml:id="rm4.515">ādye lāṃbujalepāt saṃpāditarasaḥ syācśabdavedhakaraḥ||</l>
+                <l xml:id="rm4.513">māsa catuṣṭayam etat paṭudhānye sadyajedhakaraḥ||</l>
+                <l xml:id="rm4.514">kanakasamena samaṃ kuryād vapaṃcamākṣike paścāt</l>
+                <l xml:id="rm4.515">ādye lāṃbujalepāt saṃpāditarasaḥ syāc śabdavedhakaraḥ||</l>
                 <l xml:id="rm4.516">parivartitarasakavaraṃ kanakayutaṃ dhāmayadvavṛśaḥ||</l>
                 <l xml:id="rm4.517">tārāriṣṭakalepetamiṣṭarajastārakūṭaṃ vā||</l>
                 <l xml:id="rm4.518">mākṣīkadhātusatvaṃ caritamātreṇa sārakuṃbha samaḥ||</l>

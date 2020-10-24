@@ -199,7 +199,7 @@
          yat kiṃcit prārthase siddha tatsarvaṃ pramadāmy ahaṃ||</l>
 
       <!--************** below taken from provisional edition and being updated against MS U-->
-      
+
       <p ana="speaker" xml:id="nagarjuna-3">śrī<persName>nāgārju<lb/>no</persName>vāca||||</p>
       <l xml:id="srisaila13">yadi tvaṃ devi tuṣṭāsi madbhaktyā bhaktivachale||
         <caesura/>
@@ -449,10 +449,9 @@
         <caesura/>
          triguṇaṃ ca bhaved baṃdhaḥ kramaḥ krameṇa yojitaṃ|| </l>
 
-      <l xml:id="srisaila68">kuru karma yathā nyāyaṃ siddhaṃ bhavati tadrasaṃ||
+      <l xml:id="srisaila68">kuru karma yathā nyāyaṃ siddhaṃ bhavati tad rasaṃ||
         <caesura/>
-         jārito mārita<lb/>
-        <pb n="39r"/>ś caiva punarjāritamāritaḥ|| </l>
+         jārito mārita<lb/><pb n="39r"/>ś caiva punar jāritamāritaḥ|| </l>
 
       <l xml:id="srisaila69">daśasaṃkrāṃtiniṣkrāṃtā koṭivedhī bhaved rasaḥ|| </l>
 
@@ -535,7 +534,7 @@
          cāmaratā<unclear>va</unclear>kārakaṃ|| </l>
 
       <!-- Vandana end (40)-85 -->
-     
+
 
       <l xml:id="srisaila86">sugaṃdhalepalatāṃbujaṃ karpuraṃ kuṃkumāguruṃ<lb/>||
         <caesura/>
@@ -606,10 +605,12 @@
           resp="scribe">ṃ</del>||
         <caesura/>
          paṃcāmṛ<lb/><pb n="40v"/>paṃ<unclear extent="1" unit="character"/>to mahāyogaḥ ukto
-        <hi>maṃthānabhairave</hi>|| </l>
+          <hi>maṃthānabhairave</hi>|| </l>
 
-      <l xml:id="srisaila103">vīrākṣasaura<subst><del>vai</del><add>ve</add></subst>ṇaiva
-        punas tatraiva bhāṣitaṃ||
+      <l xml:id="srisaila103">vīrākṣasaura<subst>
+          <del>vai</del>
+          <add>ve</add>
+        </subst>ṇaiva punas tatraiva bhāṣitaṃ||
         <caesura/>
          nānena rahitaṃ kiṃcit trai<lb/>lokye sacarācare|| </l>
 
@@ -664,7 +665,7 @@
       <l xml:id="srisaila116">dṛśyate bhuvanaṃ sarvaṃ sa siddhaḥ sarvasiddhidaḥ||
         <caesura/>
          saptasiddheṣu ye siddhā vimānaṃ preṣayaṃti <lb/><pb n="40r"/>te|| </l>
-      
+
       <l>ardhayojanavistīrṇaṃ ghaṃṭācāmarabhūṣitaṃ||
         <caesura/>
          dīptaṃ hemam ayaṃ divyaṃ maṇiratne suśobhitaṃ||
@@ -691,17 +692,16 @@
         <caesura/>
          tasminn ekārṇave ghore naṣṭe sthāvarajaṃgame||<lb/>
         <caesura/>
-         devā yatra vilīyaṃte sa siddhas tatra līyate|| </l> 
-      
-      <p xml:id="srisaila116a"><hi><persName>|| ratnaghoṣa </persName></hi> uvāca||||
-      </p>
-      
+         devā yatra vilīyaṃte sa siddhas tatra līyate|| </l>
+
+      <p xml:id="srisaila116a"><hi><persName>|| ratnaghoṣa </persName></hi> uvāca|||| </p>
+
       <l xml:id="srisaila117">bhūtakālāṃtakaṃ baṃdhaṃ yadā karttuṃ na śakya<lb/>te||
         <caesura/>
          anenaiva śarīreṇa kathaṃ siddhirbhaviṣyati|| </l>
 
       <p xml:id="srisaila117a"><hi style="bold"><persName>|| nāgārjuno</persName></hi>vāca|||| </p>
-      
+
       <l xml:id="srisaila118">punaranyaṃ pravakṣyāmi khecaraṃ baṃdhamutta<lb/>maṃ||
         <caesura/>
          yena bhakṣitamātreṇa surasāmānyatā bhavet|| </l>
@@ -712,7 +712,7 @@
 
       <l xml:id="srisaila120">iṃdranīla mahānīla māṇikyaṃ mauktikaṃ tathā|| padmarāgaṃ tathā vajraṃ
           margajaḥ<lb/><pb n="41v"/> karmamaṣṭamaṃ|| asyā|| </l>
-      
+
       <l xml:id="srisaila121">athātaḥ saṃpravakṣyāmi ratnarāgasya jāraṇaṃ||
         <caesura/>
          puṣpe kākaśiraṃ grāhyaṃ apūrvamala<lb/>saṃyutaṃ|| </l>
@@ -731,8 +731,8 @@
 
       <l xml:id="srisaila125">asya cūrṇaviḍaṃ śreṣṭaṃ sarvaratnasya mela<lb/>kaṃ||
         <caesura/>
-         jāyetpūrvaprayogeṇa maṇirāgasya jāraṇaṃ||  150|| </l>
-      
+         jāyetpūrvaprayogeṇa maṇirāgasya jāraṇaṃ|| 150|| </l>
+
       <l xml:id="srisaila126">pūrvāparasya saṃyogāt lokapālī yadā bhavet||
         <caesura/>
          tasya<lb/> mūlaphalaṃ grāhyaṃ nakṣatre yamadaivate|| </l>
@@ -744,11 +744,11 @@
       <l xml:id="srisaila128">śoṣayitvā <unclear>hṛ</unclear>taṃ cūrṇaṃ mahānīlarasaplutaṃ||
         <caesura/>
          tāmralolārasenaiva mardayitvā punaḥ punaḥ||</l>
-      
+
       <l xml:id="srisaila128.1"> iṃdra<lb/>nīlamahānīlam araktaṃ ketakaṃ tathā||
         <caesura/>
          uṣmayaṃtreṇa madhyasthaṃ jāritavyaṃ punaḥ punaḥ|| </l>
-      
+
       <l xml:id="srisaila129">pāṭiyāti ca saṃyo<lb/>gāt yadā kāle rajasvalā||
         <caesura/>
          tasthā puṣparasenaiva kārya ra<unclear>kṣā</unclear> yathocitā|| </l>
@@ -782,7 +782,7 @@
          kṛtāṃjalīpuṭo bhūtvā śivasyāgre vyavasthitaḥ|| </l>
 
       <p xml:id="srisaila136a">||śrī<hi style="bold"><persName>bhairavo </persName></hi>vāca|| </p>
-      
+
       <l xml:id="srisaila137">sahasraṃ puṣkaraṃ ghoraṃ a<lb/>dbhūtaṃ cekṣitaṃ tvayā||
         <caesura/>
          tvadbhaktyānu <unclear>hya</unclear>haṃ tuṣṭo svachaṃdapraticārakaḥ|| </l>
@@ -800,8 +800,8 @@
           n="42v"/><gap n="20" unit="akṣara"/><unclear>|</unclear>rasa utkṛṣṭa ta ṣecara vau ṣaṭ||
         iti samāptaḥ|||| <lb/></p>
 
-<!-- some end of section her -->
-      
+      <!-- some end of section her -->
+
       <l xml:id="srisaila141">rasavīryavipāke ca sudhāvadbiṃdusūtakaṃ||
         <caesura/>
          tena janmajarāvyādhi harate sūtakaṃ bhuvi||</l>
@@ -895,8 +895,8 @@
          sūtakena samāyuktaṃ yojayec ca bhiṣagvaraḥ|| <lb/>|||||| </l>
 
       <l xml:id="srisaila164">iti śrīnāgārjunaviracite raseṃdramaṃgale
-          guṭikāsatva<unclear>dutijalūkā</unclear>jāraṇādi<unclear extent="1" unit="syllable"/>rasabaṃdhanaṃ <unclear>nā</unclear>ma
-        catu<lb/>rtho dhyāyaḥ|| </l>
+          guṭikāsatva<unclear>dutijalūkā</unclear>jāraṇādi<unclear extent="1" unit="syllable"
+        />rasabaṃdhanaṃ <unclear>nā</unclear>ma catu<lb/>rtho dhyāyaḥ|| </l>
 
       <trailer>||śrīkalyāṇam astu||||śrī||||śrī|| śrī||||</trailer>
       <!-- End of Vandana Lele's transcription -->

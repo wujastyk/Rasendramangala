@@ -467,7 +467,7 @@
 
         <l xml:id="srisaila68">kuru karma yathā nyāyaṃ siddhaṃ bhavati tad rasam|
           <caesura/>
-           jārito māritaś caiva punarjāritamāritaḥ| </l>
+           jārito māritaś caiva punar jāritamāritaḥ| </l>
 
 
         <l xml:id="srisaila69">daśasaṃkrāntiniṣkarāṃto koṭivedhi mahārasaḥ| </l>
