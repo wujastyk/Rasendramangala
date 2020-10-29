@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+      <titleStmt>
+        <title>Pa Patan 8930 [Pa]: ch.3 </title>
+        <author><name>Nāgārjuna Siddha</name></author>
+        <principal>Dominik Wujastyk</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Rasendramangalam project at Saktumiva.org</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <placeName>
+              <settlement>Patan</settlement>
+              <region>Gujarat</region>
+              <country>India</country>
+            </placeName>
+            <institution>Śrī Hemacandrācārya Jainajñānamandira</institution>
+            <repository>[repository]</repository>
+            <collection>Śrī Sāgara Gacchano Jaina Jñānabhaṃdāra collection</collection>
+            <idno>8930</idno>
+            <idno type="NCC">[NCC identifier]</idno>
+            <idno type="siglum">Pa</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>MS described in Puṇyavijayajī (1972: 329–435). </summary>
+            <msItem defective="true" n="1">
+              <!-- @defective: 'false' for complete, 'true' for incomplete -->
+              <author role="author" xml:lang="sa">Nāgārjuna Siddha</author>
+              <author role="commentator" xml:lang="sa">[commentator]</author>
+              <title xml:lang="sa">Rasendramaṅgala</title>
+              <title type="commentary" xml:lang="sa">[title of commentary]</title>
+              <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+              <rubric xml:lang="sa"><milestone n="1v1" unit="folio"/>|| śrīvardhamānajineśvarāya
+                namaḥ || śrīgurubhyo namaḥ ||</rubric>
+              <incipit xml:lang="sa"><milestone n="1v1" unit="folio"/>natvā sureṃdraṃ
+                śivasaukhyadāyakaṃ <add place="above">kārakaṃ</add>
+                apārasaṃsārasamudratārakaṃ</incipit>
+              <explicit xml:lang="sa"><milestone n="24v" unit="folio"/>śrīr astuḥ kalyāṇam astuḥ
+                śubhaṃ bhavatuḥ śreyo stuḥ sakalasajjanasya śrīr astuḥ</explicit>
+              <textLang mainLang="sa">[Sanskrit in Devanāgarī script.]</textLang>
+              <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="pothi">
+              <!-- @form can be "pothi", "book", scroll", etc. -->
+              <supportDesc material="paper">
+                <!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. -->
+                <extent>
+                  <measure quantity="21" unit="folios"/>
+                  <!-- @unit can be "folios" or "pages" -->
+                  <dimensions type="leaf" unit="cm">
+                    <!-- @unit can be "cm" or "in" -->
+                    <height>[height]</height>
+                    <width>[width]</width>
+                  </dimensions>
+                  <dimensions type="written" unit="cm">
+                    <!-- dimensions of writing area -->
+                    <height>[height]</height>
+                    <width>[width]</width>
+                  </dimensions>
+                </extent>
+                <!-- the following <foliation> tags are examples -->
+                <foliation n="1" resp="scribe">Scribal foliation 1-25.</foliation>
+                <foliation n="2" resp="modern foliator">Modern numerals written in pencil,
+                  centre-right margin, recto and verso.</foliation>
+                <condition>[whether the manuscript is complete, description of wear and
+                  damage]</condition>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1">
+                  <!-- @writtenLines is the number of lines of text per page. @ruledLines is the number of rulings that have been printed or impressed on a page, i.e. the number of lines in a blank notebook. -->
+                  <p>[description of marginal frame lines, etc.]</p>
+                </layout>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote medium="black ink" scope="sole" script="devanāgarī">
+                <p>Copied by the scribe Ratnavimala, pupil of Varddhamāna Vimalagaṇi.</p>
+              </handNote>
+              <handNote medium="red ink" scope="major" script="devanāgarī">
+                <p>[description of another hand]</p>
+              </handNote>
+              <handNote medium="green highlighter" scope="minor" script="english">
+                <p>[description of another hand]</p>
+              </handNote>
+            </handDesc>
+            <additions>
+              <!-- the following additions are examples -->
+              <p>Marginal annotations and corrections throughout.</p>
+              <p>Marginal illustration of alchemical apparatus on leaf 2r, and 27 fuller
+                illustrations on leaves 24v-25v.</p>
+            </additions>
+            <bindingDesc>
+              <p>[description of cover, binding, and/or stringholes]</p>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate calendar="Vikrama" when="1737">Vikrama Saṃvat 1737 (AD 1681).</origDate>
+              <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+              <origPlace xml:lang="en">[place of production]</origPlace>
+            </origin>
+            <provenance>[record of ownership]</provenance>
+            <acquisition>[how it was acquired]</acquisition>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+
+    <revisionDesc>
+      <change when="2020-06-07" who="Harshal Bhatt">Began transcription</change>
+      <change when="2020-06-17" who="Harshal Bhatt">Completed transcription at srisaila164</change>
+      <change when="2020-10-02" who="Vandana Bhatt">Completed transcription of rm3</change>
+    </revisionDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <div>
+        <p xml:id="rm3.0">athāto rasabaṃdhādhikāraṃ<unclear>vyā</unclear><lb/>khyāsyāmaḥ| </p>
+        <l xml:id="rm3.1">jaṃbīranīranabasāraghanāmlavargaiḥ|
+          <caesura/>
+          <unclear extent="1" unit="character"/>rāś ca paṃca<unclear extent="1" unit="character"
+          />lavaṇāni kaṭutrayaṃ ca|
+          <caesura/>
+           śigrudakaṃ surabhisūraṇavajrakaṃdai|
+          <caesura/>
+           rebhiḥ<lb/>sumar<unclear>de</unclear>tarasaḥ ścarateṣṭalohān|</l>
+        <l>vārajāraṇaviḍam| </l>
+        <p xml:id="rm3.1a">athāto vātādau vyādhinigraharasayogā bha<unclear>van</unclear>ti||</p>
+        <l xml:id="rm3.2">gandhaṃ tālakamākṣikāyasarajaṃ<lb/> sūtendre miśrīkṛtaṃ|
+          <caesura/>
+           padhyā<unclear>bhū</unclear>ṣaṇamagnimanthasurasā śṛṃgī viṣaṃ ṭaṃkaṇaṃ|
+          <caesura/>
+           datvā <unclear>kha</unclear>lvatale <unclear>su</unclear>mardditadṛḍhaṃ
+          nirguṃḍīmuṃḍīrasai|
+          <caesura/>
+           guṃjāyugma<lb/>mitāni baddhaguṭikā nighnanti vātaṃ dṛḍhaṃ || </l>
+
+        <p xml:id="rm32a"><add place="above" cause="correcting_metathesis"
+          >ni</add>svacchandabhairavo rasaḥ <unclear>sa</unclear>arvavātaharaḥ|| </p>
+
+        <l xml:id="rm3.3">tīkṣṇaṃ sulva<unclear>su</unclear>rāya<unclear>saṃ</unclear>ca gaganaṃ
+          tāpīruhaṃ tāṃḍavam|
+          <caesura/>
+           go<lb/>dantam rasarājamiśritasamaṃ dhṛtvā ca khalve bhiṣak|
+          <caesura/>
+           drākṣāgāra mṛdāpayota<unclear>bhi</unclear>sinikaṃ dānvitāyāḥ mṛdā|
+          <caesura/>
+           ghṛ<unclear extent="1" unit="character"/> yaṣṭirasaiḥ satā ma<lb/>dhuyutā
+          gadyāṇamātrāvaṭī| 1 |.. </l>
+
+        <l xml:id="rm3.4">pittaṃ haṃti ca pittasaṃbhava gadān sarvān <unclear>vai</unclear>
+            pitta<unclear>jva</unclear>rān|
+          <caesura/>
+           kāśasvā<unclear>sa</unclear>galāmayā kṣayatṛṣā dāgha<lb/>
+          <add> place="bottom"koṭiśopi balaṃ sute| vakṣe cā yutamaṃca ca|sahasraṃ cāhivaṃge ca|
+            <caesura/>
+             sahasrārdhamudaṃbare|svarṇe śatamato rūpye|
+            <caesura/>
+             nā<unclear extent="2" unit="character"/>kāṃtalohaje|tāpye ṣaṣṭiguṇaṃ jñeyaṃ|
+            <caesura/>
+             dhātūnām kramśaṃ<lb/>bahvaṃ<unclear extent="2" unit="character"/> 38<lb/></add>
+        </l>
+      </div>
+    </body>
+  </text>
+</TEI>
