@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
         <fileDesc>
             <titleStmt>
-                <title>London Wellcome [L]: Commentary</title>
+                <title>London Wellcome [L]: Rasendramaṅgala commentary</title>
             </titleStmt>
             <publicationStmt>
                 <p>Created by Dominik Wujastyk for use in Saktumiva</p>
