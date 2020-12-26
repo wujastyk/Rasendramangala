@@ -10,8 +10,11 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <placeName> <settlement>Patan</settlement> <region>Gujarat</region>
-                            <country>India</country> </placeName>
+                        <placeName>
+                            <settlement>Patan</settlement>
+                            <region>Gujarat</region>
+                            <country>India</country>
+                        </placeName>
                         <institution>Śrī Hemacandrācārya Jainajñānamandira</institution>
                         <repository>[repository]</repository>
                         <collection>Śrī Sāgara Gacchano Jaina Jñānabhaṃdāra collection</collection>
@@ -28,13 +31,14 @@
                             <title xml:lang="sa">Rasendramaṅgala</title>
                             <title type="commentary" xml:lang="sa">[title of commentary]</title>
                             <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
-                            <rubric xml:lang="sa"><milestone n="1v1" unit="folio"/>|| śrīvardhamānajineśvarāya
-                                namaḥ || śrīgurubhyo namaḥ ||</rubric>
+                            <rubric xml:lang="sa"><milestone n="1v1" unit="folio"/>||
+                                śrīvardhamānajineśvarāya namaḥ || śrīgurubhyo namaḥ ||</rubric>
                             <incipit xml:lang="sa"><milestone n="1v1" unit="folio"/>natvā sureṃdraṃ
                                 śivasaukhyadāyakaṃ <add place="above">kārakaṃ</add>
                                 apārasaṃsārasamudratārakaṃ</incipit>
-                            <explicit xml:lang="sa"><milestone n="24v" unit="folio"/>śrīr astuḥ kalyāṇam astuḥ
-                                śubhaṃ bhavatuḥ śreyo stuḥ sakalasajjanasya śrīr astuḥ</explicit>
+                            <explicit xml:lang="sa"><milestone n="24v" unit="folio"/>śrīr astuḥ
+                                kalyāṇam astuḥ śubhaṃ bhavatuḥ śreyo stuḥ sakalasajjanasya śrīr
+                                astuḥ</explicit>
                             <textLang mainLang="sa">[Sanskrit in Devanāgarī script.]</textLang>
                             <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
                         </msItem>
@@ -44,55 +48,70 @@
                             <!-- @form can be "pothi", "book", scroll", etc. -->
                             <supportDesc material="paper">
                                 <!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. -->
-                                <extent> <measure quantity="21" unit="folios"/>
-                                    <!-- @unit can be "folios" or "pages" --> <dimensions type="leaf" unit="cm">
+                                <extent>
+                                    <measure quantity="21" unit="folios"/>
+                                    <!-- @unit can be "folios" or "pages" -->
+                                    <dimensions type="leaf" unit="cm">
                                         <!-- @unit can be "cm" or "in" -->
                                         <height>[height]</height>
                                         <width>[width]</width>
-                                    </dimensions> <dimensions type="written" unit="cm">
+                                    </dimensions>
+                                    <dimensions type="written" unit="cm">
                                         <!-- dimensions of writing area -->
                                         <height>[height]</height>
                                         <width>[width]</width>
-                                    </dimensions> </extent>
+                                    </dimensions>
+                                </extent>
                                 <!-- the following <foliation> tags are examples -->
                                 <foliation n="1" resp="scribe">Scribal foliation 1-25.</foliation>
-                                <foliation n="2" resp="modern foliator">Modern numerals written in pencil,
-                                    centre-right margin, recto and verso.</foliation>
-                                <condition>[whether the manuscript is complete, description of wear and
-                                    damage]</condition>
+                                <foliation n="2" resp="modern foliator">Modern numerals written in
+                                    pencil, centre-right margin, recto and verso.</foliation>
+                                <condition>[whether the manuscript is complete, description of wear
+                                    and damage]</condition>
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="1">
                                     <!-- @writtenLines is the number of lines of text per page. @ruledLines is the number of rulings that have been printed or impressed on a page, i.e. the number of lines in a blank notebook. -->
-                                    <p>[description of marginal frame lines, etc.]</p> </layout>
+                                    <p>[description of marginal frame lines, etc.]</p>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote medium="black ink" scope="sole" script="devanāgarī"> <p>Copied by the scribe
-                                Ratnavimala, pupil of Varddhamāna Vimalagaṇi.</p> </handNote>
-                            <handNote medium="red ink" scope="major" script="devanāgarī"> <p>[description of
-                                another hand]</p> </handNote>
-                            <handNote medium="green highlighter" scope="minor" script="english"> <p>[description
-                                of another hand]</p> </handNote>
+                            <handNote medium="black ink" scope="sole" script="devanāgarī">
+                                <p>Copied by the scribe Ratnavimala, pupil of Varddhamāna
+                                    Vimalagaṇi.</p>
+                            </handNote>
+                            <handNote medium="red ink" scope="major" script="devanāgarī">
+                                <p>[description of another hand]</p>
+                            </handNote>
+                            <handNote medium="green highlighter" scope="minor" script="english">
+                                <p>[description of another hand]</p>
+                            </handNote>
                         </handDesc>
                         <additions>
-                            <!-- the following additions are examples --> <p>Marginal annotations and corrections
-                                throughout.</p> <p>Marginal illustration of alchemical apparatus on leaf 2r, and 27
-                                    fuller illustrations on leaves 24v-25v.</p> </additions>
+                            <!-- the following additions are examples -->
+                            <p>Marginal annotations and corrections throughout.</p>
+                            <p>Marginal illustration of alchemical apparatus on leaf 2r, and 27
+                                fuller illustrations on leaves 24v-25v.</p>
+                        </additions>
                         <bindingDesc>
                             <p>[description of cover, binding, and/or stringholes]</p>
                         </bindingDesc>
                     </physDesc>
+                    
                     <history>
-                        <origin> <origDate calendar="Vikrama" when="1737">Vikrama Saṃvat 1737 (AD
-                            1681).</origDate>
+                        <origin>
+                            <origDate calendar="Vikrama" when="1737">Vikrama Saṃvat 1737 (AD
+                                1681).</origDate>
                             <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
-                            <origPlace xml:lang="en">[place of production]</origPlace> </origin>
+                            <origPlace xml:lang="en">[place of production]</origPlace>
+                        </origin>
                         <provenance>[record of ownership]</provenance>
                         <acquisition>[how it was acquired]</acquisition>
                     </history>
+                    
                 </msDesc>
-                
+
             </sourceDesc>
         </fileDesc>
 
@@ -225,8 +244,9 @@
 
                 <p xml:id="rm4.74">vajrāṃgasuṃdarī nāma guṭikā| </p>
 
-                <l xml:id="rm4.75">akara--taru--vimānāt sūtakaṃ tatra vighnaṃ, <caesura/>
-                    mṛtamavimadya hema--<unclear>?</unclear>ṣoḍaśāṃśe prayuktaṃ| </l>
+                <l xml:id="rm4.75">akara--taru--vimānāt sūtakaṃ tatra vighnaṃ,
+                    <caesura/>
+                     mṛtamavimadya hema--<unclear>?</unclear>ṣoḍaśāṃśe prayuktaṃ| </l>
                 <l xml:id="rm4.76">yugapadi ravikalpā toyadhṛṣṭaṃ vipakvaṃ, </l>
                 <l xml:id="rm4.77">guṭakamṛma nāmā suṃdaraḥ syān na citraṃ|| </l>
                 <l xml:id="rm4.78">māsam ekaṃ tu vaktrasthā guṭikā divyarūpiṇī| </l>
@@ -249,12 +269,17 @@
                 <p xml:id="rm4.91">abhrakabaddhaguṭikā adṛṣṭīkaraṇe </p>
 
                 <l xml:id="rm4.92">satvaṃ vyomaj<unclear>?</unclear>a--cakrajaṃ ca sunakaṃ
-                    <caesura/> candraṃ rasavi tāṃḍavaṃ <caesura/> kāṃtatīkṣṇasurāyasaṃ mṛtadṛḍhaṃ
-                    <caesura/> sūtaṃ kṛtaṃ tatsamaṃ </l>
+                    <caesura/>
+                     candraṃ rasavi tāṃḍavaṃ
+                    <caesura/>
+                     kāṃtatīkṣṇasurāyasaṃ mṛtadṛḍhaṃ
+                    <caesura/>
+                     sūtaṃ kṛtaṃ tatsamaṃ </l>
 
                 <label>4.45</label>
                 <l xml:id="rm44.45">vaktrasthaṃ rasagolakaṃ| ratikaraṃ sarvārdha saṃdhāmahaṃ
-                    <caesura/> varṣeke nihanti doṣanicayaṃ kalpāyuṣo jāyate| </l>
+                    <caesura/>
+                     varṣeke nihanti doṣanicayaṃ kalpāyuṣo jāyate| </l>
 
                 <p xml:id="rm4.96">arkādiguṭikā| </p>
 
@@ -466,7 +491,9 @@
 
                 <label>4.110</label>
                 <l xml:id="rm4.4.110">halottamākhyaṃ kuhaḍaṃ vīva<unclear>jrī</unclear>| etaistu
-                    sūtaṃ <caesura/> dṛḍhapakṣachedaḥ| </l>
+                    sūtaṃ
+                    <caesura/>
+                     dṛḍhapakṣachedaḥ| </l>
                 <l xml:id="rm4.238a">pīṭhikā pūrvavat| </l>
 
                 <label>4.112</label>
@@ -550,20 +577,23 @@
 
                 <label>4.126</label>
                 <l xml:id="rm4.4.126">taiḥ sparśanamātreṇa| kṣaṇā<unclear>dva</unclear>dvaita sūtakaḥ||<lb/>
-                    <caesura/> abhrakaṃ bī<add place="above">?</add>jaṃha<unclear>raṃ</unclear> ca|
+                    <caesura/>
+                     abhrakaṃ bī<add place="above">?</add>jaṃha<unclear>raṃ</unclear> ca|
                     ṣoḍaśāṃśena kāṃcanaṃ| </l>
 
 
                 <label>4.127</label>
                 <l xml:id="rm4.4.127">dhmātaṃ <gap n="5" unit="char"/> pragaṭamūkhāyāṃ
-                        ra<unclear>sacūrṇe</unclear>na vedhayet| <caesura/> dakṣiṇāvartti
-                        <unclear>naṃ</unclear> dhmātaṃ| hara<lb/>bījena melakaṃ| <add place="above"
-                        >62</add></l>
+                        ra<unclear>sacūrṇe</unclear>na vedhayet|
+                    <caesura/>
+                     dakṣiṇāvartti <unclear>naṃ</unclear> dhmātaṃ| hara<lb/>bījena melakaṃ| <add
+                        place="above">62</add></l>
 
                 <label>4.128</label>
                 <l xml:id="rm4.4.128">mūkhā tyatkā varārohe <unclear>ti</unclear>ṣṭate
-                        khagavadra<unclear>saṃ</unclear>| <caesura/>
-                        rājikā<unclear>rddhārddha</unclear>mānena| sarvalohāniṃ viṃdhati| <add
+                        khagavadra<unclear>saṃ</unclear>|
+                    <caesura/>
+                     rājikā<unclear>rddhārddha</unclear>mānena| sarvalohāniṃ viṃdhati| <add
                         place="above">63</add></l>
 
 
@@ -577,8 +607,9 @@
 
                 <label>4.130</label>
                 <l xml:id="rm4.4.130">vajrakaṃdaṃ gaḍucīva| u<unclear>cca</unclear>ṭādisamanvitaṃ|
-                    <caesura/> abhrakaṃ grasate sī<unclear>ghraṃ</unclear> anyathā
-                        na<unclear>gni</unclear> saṃgamaṃ|<add place="above">?</add>
+                    <caesura/>
+                     abhrakaṃ grasate sī<unclear>ghraṃ</unclear> anyathā na<unclear>gni</unclear>
+                        saṃgamaṃ|<add place="above">?</add>
                 </l>
 
                 <label>4.131</label>
@@ -594,74 +625,92 @@
                             tuṣāmau<unclear>a</unclear>dya yāvadviśeṣatoṣā<unclear n="4" unit="char"
                         />sahasravadhīrasaḥ na| ca kārya vicāraṇā 4</add> strīrajas tathā<gap n="1"
                         unit="char"/>
-                    <caesura/> strīstanyaṃ ca li<unclear>ptaṃ</unclear> tu| sarva dvaṃdvānumelanaṃ| </l>
+                    <caesura/>
+                     strīstanyaṃ ca li<unclear>ptaṃ</unclear> tu| sarva dvaṃdvānumelanaṃ| </l>
 
                 <label>4.132</label>
                 <l xml:id="rm4.4.132">jīvaṃ hi vyoṣa<add place="above">?</add> pāṣāṇāiḥ|
-                    kroṣṭajiṣkāsu bhāvitaṃ| <caesura/> kāmaṇaṃ sarvalohāni|
-                    <unclear>dru</unclear>tīnāṃ<lb/> sarvamelanaṃ||<add place="above">62</add>
+                    kroṣṭajiṣkāsu bhāvitaṃ|
+                    <caesura/>
+                     kāmaṇaṃ sarvalohāni| <unclear>dru</unclear>tīnāṃ<lb/> sarvamelanaṃ||<add
+                        place="above">62</add>
                 </l>
 
                 <label>4.133</label>
                 <l xml:id="rm4.4.133">aśvasva lālāla<add place="above"
-                        >ma</add><unclear>sunā</unclear>rdrakaṃ tathā| <caesura/>
-                        vaṃsa<unclear>sya</unclear> patrāṇi saṭaṃkaṇāni| <caesura/> eṣaḥ praveśo
-                    gaganasya sūte| <caesura/> sarvāyasaṃ va<unclear>jra</unclear>viśe<lb/>ṣataś
-                        ca||<add place="above">?</add>
+                        >ma</add><unclear>sunā</unclear>rdrakaṃ tathā|
+                    <caesura/>
+                     vaṃsa<unclear>sya</unclear> patrāṇi saṭaṃkaṇāni|
+                    <caesura/>
+                     eṣaḥ praveśo gaganasya sūte|
+                    <caesura/>
+                     sarvāyasaṃ va<unclear>jra</unclear>viśe<lb/>ṣataś ca||<add place="above"
+                        >?</add>
                 </l>
 
                 <label>4.134</label>
-                <l xml:id="rm4.4.134">raṃjate viṃdhate sūtaḥ| kramate ca na saṃśayaḥ| <caesura/>
-                    kāṃcane raṃjate tāraṃ| maṇimantramukhaṃ ga<unclear>jam|</unclear>
+                <l xml:id="rm4.4.134">raṃjate viṃdhate sūtaḥ| kramate ca na saṃśayaḥ|
+                    <caesura/>
+                     kāṃcane raṃjate tāraṃ| maṇimantramukhaṃ ga<unclear>jam|</unclear>
                 </l>
 
                 <label>4.135</label>
                 <l xml:id="rm4.4.135">kāṃcīpaṭola vaikrāntaṃ| vajra<lb/>lohaṃ sadaivakaṃ||
-                    <caesura/> eteṣāṃ drāvaṇe sarve| jāyate ca rasena tuṃ| </l>
+                    <caesura/>
+                     eteṣāṃ drāvaṇe sarve| jāyate ca rasena tuṃ| </l>
 
                 <label>4.136</label>
-                <l xml:id="rm4.4.136">abhrahemadrutisūtaṃ| trayamekatra melayet| <caesura/>
-                        krāmaṇe<add place="above">na</add> ca mūkhā<lb/>yāṃ| lepaṃ datvā vicakṣaṇaḥ
+                <l xml:id="rm4.4.136">abhrahemadrutisūtaṃ| trayamekatra melayet|
+                    <caesura/>
+                     krāmaṇe<add place="above">na</add> ca mūkhā<lb/>yāṃ| lepaṃ datvā vicakṣaṇaḥ
                         <add place="above">71</add>| </l>
 
                 <label>4.137</label>
                 <l xml:id="rm4.4.137">ka<unclear>rṣai</unclear> tuṣāgninā bhūme| svedena
-                        milat<unclear>te</unclear> kṣanāt| <caesura/> śatavedhi bha<unclear>vaet
-                        so</unclear> hi| tārāremlecha saṃ<unclear>dyutaṃ</unclear>| </l>
+                        milat<unclear>te</unclear> kṣanāt|
+                    <caesura/>
+                     śatavedhi bha<unclear>vaet so</unclear> hi| tārāremlecha
+                        saṃ<unclear>dyutaṃ</unclear>| </l>
 
                 <label>4.138</label>
                 <l xml:id="rm4.4.138"><add place="right margin">tārapītalatrāṃbuyutaṃ
                             śatāṃśe<unclear>sthaṃbha</unclear>yati 5 </add>tasya madhye<lb/>
-                        ya<unclear>dā</unclear> deyaṃ| abhrahemadrutīsamā| <caesura/> karṣaṃ
-                    tūṣāgninā svadya| yāvat sūtāva<gap n="1" unit="char"/>śeṣitaṃ| <add
+                        ya<unclear>dā</unclear> deyaṃ| abhrahemadrutīsamā|
+                    <caesura/>
+                     karṣaṃ tūṣāgninā svadya| yāvat sūtāva<gap n="1" unit="char"/>śeṣitaṃ| <add
                         place="above">?</add></l>
 
                 <label>4.139</label>
                 <l xml:id="rm4.4.139">sahasravedhī bhavet sūto<add place="above">?</add> nātra
                         kā<unclear>rya vi</unclear>cāraṇā|<lb/>
-                    <caesura/> saṃkalaiḥ sakalair baddho| daśaguṇe vedha vardhate| <add
-                        place="above"><unclear>?</unclear></add></l>
+                    <caesura/>
+                     saṃkalaiḥ sakalair baddho| daśaguṇe vedha vardhate| <add place="above"
+                            ><unclear>?</unclear></add></l>
 
                 <label>4.140</label>
-                <l xml:id="rm4.4.140">sapta saṃkulikābaddhaḥ| koṭivedhī mahārasaḥ| <caesura/>
-                    śarīrārthe yadā bhakṣet| guṃjā<unclear>mekāṃ</unclear><lb/> vicakṣaṇaḥ| <add
+                <l xml:id="rm4.4.140">sapta saṃkulikābaddhaḥ| koṭivedhī mahārasaḥ|
+                    <caesura/>
+                     śarīrārthe yadā bhakṣet| guṃjā<unclear>mekāṃ</unclear><lb/> vicakṣaṇaḥ| <add
                         place="above"><unclear>?</unclear></add></l>
 
                 <label>4.141</label>
-                <l xml:id="rm4.4.141">trikaṭutriphalāyutkaṃ| ghṛtena madhunā saha| <caesura/> jīraṇe
-                    jīrṇena saṃgrāhyaṃ| yāva<unclear>tsyācā</unclear>vāṣṭaratkikā<add place="above"
-                            ><unclear>?</unclear></add> śatā di<gap n="2" unit="char"/>ko| </l>
+                <l xml:id="rm4.4.141">trikaṭutriphalāyutkaṃ| ghṛtena madhunā saha|
+                    <caesura/>
+                     jīraṇe jīrṇena saṃgrāhyaṃ| yāva<unclear>tsyācā</unclear>vāṣṭaratkikā<add
+                        place="above"><unclear>?</unclear></add> śatā di<gap n="2" unit="char"/>ko| </l>
                 <lb/>
 
                 <label>4.142</label>
                 <l xml:id="rm4.4.142"><unclear n="4" unit="char"/>paryaṃtaṃ| saṃkalair yat gataṃ
-                    rasaṃ| <caesura/> jīvet tena pramāneṇa| vaktratvalī yathā rasaḥ<add
-                        place="above">77</add> | </l>
+                    rasaṃ|
+                    <caesura/>
+                     jīvet tena pramāneṇa| vaktratvalī yathā rasaḥ<add place="above">77</add> | </l>
 
                 <label>4.143</label>
                 <l xml:id="rm4.4.143"><unclear>he</unclear>makrāṃtaṃ drutīś caiva|
-                        śuddhasū<unclear>tai</unclear> samanvitaṃ| <caesura/>
-                    ve<lb/>dhaṃpūrvapramāṇena| śatādyāṃkoṭimuttamāḥ| </l>
+                        śuddhasū<unclear>tai</unclear> samanvitaṃ|
+                    <caesura/>
+                     ve<lb/>dhaṃpūrvapramāṇena| śatādyāṃkoṭimuttamāḥ| </l>
 
                 <label>4.144</label>
                 <l xml:id="rm4.4.144">saṃkalaiḥ saṃkalair baddhaḥ| <add place="left margin"
@@ -677,8 +726,10 @@
 
                 <label>4.146</label>
                 <l xml:id="rm4.4.146">vedhayet sarvayoge<unclear>na</unclear>| bhakṣayet
-                    pūrvavidhānataḥ| <caesura/> hemaṃ sulvaṃ tathā kāṃtaṃ| sūddhaṃ sūle
-                    sa<lb/>manvitaṃ <add place="above"><unclear>?</unclear></add>| </l>
+                    pūrvavidhānataḥ|
+                    <caesura/>
+                     hemaṃ sulvaṃ tathā kāṃtaṃ| sūddhaṃ sūle sa<lb/>manvitaṃ <add place="above"
+                            ><unclear>?</unclear></add>| </l>
 
                 <label>4.147</label>
                 <l xml:id="rm4.4.147">viṃdhate pūrvavidhā<unclear>ne</unclear>na| bhakṣayet
@@ -689,7 +740,8 @@
 
                 <label>4.149</label>
                 <l xml:id="rm4.4.149"><gap extent="2" reason="omitted" unit="verse"/>
-                    <caesura/> labhate vaiṣṇavaṃ sthānaṃ| vi<unclear>ṣṇutu</unclear>lya
+                    <caesura/>
+                     labhate vaiṣṇavaṃ sthānaṃ| vi<unclear>ṣṇutu</unclear>lya
                         parākrama<unclear>ṃ</unclear>| </l>
 
                 <label>4.150cd</label>
@@ -698,35 +750,42 @@
                         sātata<unclear>nu</unclear>r bhavet| </l>
 
                 <label>4.151</label>
-                <l xml:id="rm4.4.151">ārābhrahema<unclear>yu</unclear>tayaḥ| pāradena samanvitā| <caesura/>
+                <l xml:id="rm4.4.151">ārābhrahema<unclear>yu</unclear>tayaḥ| pāradena samanvitā|
+                    <caesura/>
                     <add place="bottom">haimsthāne dadet taraṃ| tarakammā<unclear n="5" unit="char"
                         />| vedhayeta <unclear n="2" unit="char"/>natā<unclear n="13" unit="char"/>
                     </add>nāgaṃ tu prativāsena| śatāṃse sthaṃbhaye dhruvaṃ| </l>
 
                 <label>4.152.1</label>
-                <l xml:id="rm4.4.152.1">gho<lb/>ṣābhranāradyutayaḥ| pāradena samanvitā| <caesura/>
-                    nāgasya prativāsena| sthaṃbho bhavati śatāṃśakaiḥ| </l>
+                <l xml:id="rm4.4.152.1">gho<lb/>ṣābhranāradyutayaḥ| pāradena samanvitā|
+                    <caesura/>
+                     nāgasya prativāsena| sthaṃbho bhavati śatāṃśakaiḥ| </l>
 
                 <label>4.152.1</label>
                 <l xml:id="rm4.4.152.1b">ghoṣakāṃtastathā tāraiḥ| pāradena<lb/> samanvitaṃ|
-                    <caesura/> vaṃgasya prativāsena| sthaṃbhaṃ ta<unclear>c ca</unclear> śatāṃśakaiḥ| </l>
+                    <caesura/>
+                     vaṃgasya prativāsena| sthaṃbhaṃ ta<unclear>c ca</unclear> śatāṃśakaiḥ| </l>
 
                 <label>4.153</label>
                 <l xml:id="rm4.4.153">ārakrāṃti<unclear>druti</unclear>hemnā| pāradena samanvitaṃ|
-                    <caesura/> nāgasya prati<unclear n="3" unit="char"/><lb/> sthaṃbho bhavati
-                    nānyathā| </l>
-                <l xml:id="rm4.4.153a">tīkṣṇaghoṣa tathā tāraṃ| pāradena samnvitā| <caesura/>
-                        vaṃ<unclear>ga</unclear>sya prativāpe<unclear>na|</unclear>sthaṃbhate ca
+                    <caesura/>
+                     nāgasya prati<unclear n="3" unit="char"/><lb/> sthaṃbho bhavati nānyathā| </l>
+                <l xml:id="rm4.4.153a">tīkṣṇaghoṣa tathā tāraṃ| pāradena samnvitā|
+                    <caesura/>
+                     vaṃ<unclear>ga</unclear>sya prativāpe<unclear>na|</unclear>sthaṃbhate ca
                         <unclear n="3" unit="char"/>taḥ| </l>
                 <l xml:id="rm4.4.153b">evaṃ drutīnāṃ yogā<lb/>c ca| mayā khyātā vidhānā<unclear
                         extent="1" unit="char"/>
-                    <caesura/> anena drutī<unclear n="2" unit="char"/>na| dehalohaka<unclear n="1"
-                        unit="char"/>rasaḥ|| atha jalūkā<unclear extent="2" unit="char"/>
+                    <caesura/>
+                     anena drutī<unclear n="2" unit="char"/>na| dehalohaka<unclear n="1" unit="char"
+                    />rasaḥ|| atha jalūkā<unclear extent="2" unit="char"/>
                 </l>
                 <l xml:id="rm4.4.153c">sūte<unclear>garbha</unclear> niyojite
                     <unclear>?</unclear>tha kanake pā<pb n="11v"
-                    />dārdhanāgetha<unclear>vā</unclear>| <caesura/> paṃcāṃ<unclear>g
-                    puca</unclear>śalmalīkṛtamadaḥ <unclear>śleṣmāṃ</unclear>tabījaistathā| </l>
+                    />dārdhanāgetha<unclear>vā</unclear>|
+                    <caesura/>
+                     paṃcāṃ<unclear>g puca</unclear>śalmalīkṛtamadaḥ
+                    <unclear>śleṣmāṃ</unclear>tabījaistathā| </l>
                 <l xml:id="rm4.4.153d">ta<unclear>?</unclear>vajitakokilā<add place="right margin"
                         >eraṃḍa</add>khyaphalakaṃ <unclear>cū</unclear>rṇaṃ
                         tilaṃ<unclear>ja</unclear>patrikā taptakhalvatale<lb/> nidhāya mṛdita<add
@@ -737,22 +796,27 @@
 
                 <label>4.157</label>
                 <l xml:id="rm4.4.157">caṃdra ṭaṃka<unclear>ṇa</unclear>kāmapippali<unclear n="2"
-                        unit="char"/>khinnā bhavet te jinī| <caesura/> tapte kha<lb/>lvatale
-                    sumarddanavidhiḥ trisaptakaṃ yatnato| <caesura/> nārīṇāṃ ma<unclear>t</unclear>
-                        harṣanā<unclear>ccā</unclear>naṃkarākhya <add place="above"
-                        cause="correcting_metathesis">khyā</add>tā jalūkāvarā| <add place="above"
-                        >?</add></l>
+                        unit="char"/>khinnā bhavet te jinī|
+                    <caesura/>
+                     tapte kha<lb/>lvatale sumarddanavidhiḥ trisaptakaṃ yatnato|
+                    <caesura/>
+                     nārīṇāṃ ma<unclear>t</unclear> harṣanā<unclear>ccā</unclear>naṃkarākhya <add
+                        place="above" cause="correcting_metathesis">khyā</add>tā jalūkāvarā| <add
+                        place="above">?</add></l>
 
                 <label>4.158</label>
                 <l xml:id="rm4.4.158">bālecāṃṣṭāṃgulī yojyā| yovane<unclear>na</unclear>
-                    daśāṃgu<lb/>lī| <caesura/> dvādaśāṃgulapragalbhā ca| jalūkā trividhā matā|<add
-                        place="left margin">iti jālūkārasaḥ</add></l>
+                    daśāṃgu<lb/>lī|
+                    <caesura/>
+                     dvādaśāṃgulapragalbhā ca| jalūkā trividhā matā|<add place="left margin">iti
+                        jālūkārasaḥ</add></l>
 
                 <label>4.159</label>
                 <l xml:id="rm4.4.159">munipatrarasaṃ ceva| śa<add place="above"
                         cause="correcting_metathesis">śā</add>lālmalī
-                    challivā<unclear>sa</unclear>ṇā| <caesura/> jātīmūlasya toyaṃ
-                        <unclear>ca</unclear>|
+                    challivā<unclear>sa</unclear>ṇā|
+                    <caesura/>
+                     jātīmūlasya toyaṃ <unclear>ca</unclear>|
                         hasti<unclear>pā</unclear><lb/>toyasaṃvyuta<unclear>ṃ</unclear>| </l>
 
                 <l xml:id="rm4.344">śleṣmāṃta phalaṃ <unclear>cai</unclear>va| vipakvaṃ śrīphalasya
@@ -760,8 +824,9 @@
 
                 <l xml:id="rm4.345">kokilākhyasya cūrṇena| mardayet pāradaṃ budhaḥ| </l>
 
-                <l xml:id="rm4.346">jalūkā jāyate dīvyā| rāmā janama<lb/>noharā| <caesura/> yojyā
-                        <unclear>vai</unclear>kāmakāle tu| kāmayet kāminī svayaṃ| </l>
+                <l xml:id="rm4.346">jalūkā jāyate dīvyā| rāmā janama<lb/>noharā|
+                    <caesura/>
+                     yojyā <unclear>vai</unclear>kāmakāle tu| kāmayet kāminī svayaṃ| </l>
 
                 <p xml:id="rm4.347">dvitīyajalūkā||</p>
 
@@ -773,11 +838,12 @@
 
                 <label>4.163</label>
                 <l xml:id="rm4.4.163">bhānuḥ svarajinasakhyā| pramāṇasūtakaṃ gṛhītadīnāraṃbhe
-                    <caesura/> aṃkullarājavṛ<lb/>kṣe| kumārī rasaśodhanaṃ kuryāt </l>
+                    <caesura/>
+                     aṃkullarājavṛ<lb/>kṣe| kumārī rasaśodhanaṃ kuryāt </l>
 
                 <l xml:id="rm4.352">śaśir eṣā <unclear>ṣa</unclear>rakarṇī| kokilākhyāyā
                     mārgrakanakānāṃ| cūrṇaiḥ </l>
-                
+
                 <l xml:id="rm4.353">sa ekaviṃśa<unclear>ti</unclear>dināni parimarddayet<lb/>
                         samyak<add place="above">"</add>
                 </l>
@@ -788,7 +854,8 @@
 
                 <l xml:id="rm4.357">tīrase bhāvitāṃ <unclear>bhrā</unclear>ṇāṃ| teṣāṃ
                         rati<lb/>saṃga<unclear>mo</unclear>
-                    <caesura/> nmattāni kālāsī madhye| jalūkā prayogāt|| </l>
+                    <caesura/>
+                     nmattāni kālāsī madhye| jalūkā prayogāt|| </l>
 
                 <p xml:id="rm4.359">catu<unclear>rthā</unclear> jalūkā| </p>
 
@@ -797,8 +864,9 @@
                 <l xml:id="rm4.361">surasārasasaṃ<lb/>vyuktaṃ| ṭaṃkaṇena samanvitam| </l>
 
                 <label>4.167</label>
-                <l xml:id="rm4.4.167">tridinaṃ mardayitvā tu| golakaṃ ca rasodbhavaṃ| <caesura/>
-                    liṃgāgre sonikṣaptaṃ ca| yāvadā<unclear>yuṣya</unclear>kiṃkarī </l>
+                <l xml:id="rm4.4.167">tridinaṃ mardayitvā tu| golakaṃ ca rasodbhavaṃ|
+                    <caesura/>
+                     liṃgāgre sonikṣaptaṃ ca| yāvadā<unclear>yuṣya</unclear>kiṃkarī </l>
 
                 <p xml:id="rm4.364">madanamo<lb/>dakaḥ</p>
 
@@ -823,13 +891,16 @@
 
                 <label>4.171</label>
                 <l xml:id="rm4.4.171">vyāghrī<lb/> vṛhatīphalarasa sūraṇatīkṣṇābhrakatakapatrāṇi|
-                    <caesura/> kapi kachu vajra<unclear n="1" unit="char"
+                    <caesura/>
+                     kapi kachu vajra<unclear n="1" unit="char"
                         />nyāmlapippalikāmaṃ<unclear>ci</unclear>ka|cūrṇaṃ </l>
 
                 <label>4.172</label>
                 <l xml:id="rm4.4.172">agnyāvattita nāgaṃ<lb/> harabījaṃ bhā<unclear>va</unclear>yed
-                    dinaiḥ| dravyaiḥ <caesura/> smaravalayaṃ kṛ<unclear>tyevaṃ</unclear> vanitānāṃ
-                        drā<unclear>va</unclear>ṇaṃ pa<unclear n="2" unit="char"/>
+                    dinaiḥ| dravyaiḥ
+                    <caesura/>
+                     smaravalayaṃ kṛ<unclear>tyevaṃ</unclear> vanitānāṃ drā<unclear>va</unclear>ṇaṃ
+                        pa<unclear n="2" unit="char"/>
                 </l>
 
                 <p xml:id="rm4.378">smaravalayaṃ||</p>
@@ -847,13 +918,15 @@
 
                 <label>4.174</label>
                 <l xml:id="rm4.4.174">sūtakagaṃdhakatālaśilādyaiḥ| gairikakālasamāṃśa<lb/>māṃsaiḥ|
-                    <caesura/> viṣṇudhīradharetaru dhīraśuṣkaiḥ| <unclear>sopi</unclear>
-                    karaṃjaphalaiḥ pariyutkaṃ </l>
+                    <caesura/>
+                     viṣṇudhīradharetaru dhīraśuṣkaiḥ| <unclear>sopi</unclear> karaṃjaphalaiḥ
+                    pariyutkaṃ </l>
 
                 <label>4.175</label>
                 <l xml:id="rm4.4.175">sādhunaraś ca punaḥ kharake<unclear>śaiḥ</unclear>|| veṣṭrā
-                    karaṃjaphalaṃ susama<lb/>staṃ| <caesura/> pāṇigatāṃ ratisevanakāle| sthaṃbhan
-                        vīryabhara<unclear>spa</unclear>na citraṃ| </l>
+                    karaṃjaphalaṃ susama<lb/>staṃ|
+                    <caesura/>
+                     pāṇigatāṃ ratisevanakāle| sthaṃbhan vīryabhara<unclear>spa</unclear>na citraṃ| </l>
 
                 <p xml:id="rm4.388">vīryastaṃbhaḥ||</p>
 
@@ -909,10 +982,13 @@
                 <l xml:id="rm4.411">śitaśatapādāṣarjūrajīvaviśeṣaḥ| </l>
 
                 <label>4.183</label>
-                <l xml:id="rm4.4.183">kā<lb/>liṃdīsuphalovinihatāṃ svarṇaṃ sa gorocanā <caesura/>
-                    kṛṣṇonmatta sulvatārakuliśaṃ sulvāyasaṃ <unclear>vyuṃṣa</unclear>yā <caesura/>
-                    etat sūtasamanvitaṃ budhajano<lb/> vakreṇa saṃdhāryate| <caesura/>
-                    vīryasthaṃbhakara vidagdhavanitā vyāmohakāmāṃ kuśaṃ| </l>
+                <l xml:id="rm4.4.183">kā<lb/>liṃdīsuphalovinihatāṃ svarṇaṃ sa gorocanā
+                    <caesura/>
+                     kṛṣṇonmatta sulvatārakuliśaṃ sulvāyasaṃ <unclear>vyuṃṣa</unclear>yā
+                    <caesura/>
+                     etat sūtasamanvitaṃ budhajano<lb/> vakreṇa saṃdhāryate|
+                    <caesura/>
+                     vīryasthaṃbhakara vidagdhavanitā vyāmohakāmāṃ kuśaṃ| </l>
 
                 <p rend="bold">kāmāṃku<unclear>śo</unclear> nāma rasayogaḥḥ| </p>
 
@@ -921,21 +997,27 @@
                 <label>4.184</label>
                 <l xml:id="rm4.4.184">karpūraṃ<add place="inline">madhu</add><lb/> ṭaṃkaṇaṃ
                     munirasaṃ <unclear>tu</unclear>lyā<unclear n="1" unit="char"/>samaṃ sūtakaṃ|
-                    <caesura/> taiḥ kalkair vinivāryatati nivaḍaṃ liṃgaṃ svakaṃ lepayet| <caesura/>
-                    sthitvā yāma <unclear>tavyāṃ</unclear><lb/>bunā dhvajavaraṃ prakṣālayettaṃ tato|
-                    <caesura/> vīryastaṃbhanameva<add place="above">e<unclear>naṃ</unclear></add>
+                    <caesura/>
+                     taiḥ kalkair vinivāryatati nivaḍaṃ liṃgaṃ svakaṃ lepayet|
+                    <caesura/>
+                     sthitvā yāma <unclear>tavyāṃ</unclear><lb/>bunā dhvajavaraṃ prakṣālayettaṃ
+                    tato|
+                    <caesura/>
+                     vīryastaṃbhanameva<add place="above">e<unclear>naṃ</unclear></add>
                         ka<unclear>thi</unclear>taṃ prauḍhāṃganādarppahaṃ||<add place="above"
                         >?</add>
                 </l>
 
                 <label>4.185</label>
                 <l xml:id="rm4.4.185">jalaśuka<unclear>pi</unclear>chagaṃdhāvṛhatyugrā
-                    sasarṣa<lb/>pā <caesura/> ya<unclear n="3" unit="char"/> ca māṃsīva padmapatraṃ
-                    saseṃdhavaṃ| </l>
+                    sasarṣa<lb/>pā
+                    <caesura/>
+                     ya<unclear n="3" unit="char"/> ca māṃsīva padmapatraṃ saseṃdhavaṃ| </l>
 
                 <label>4.186</label>
-                <l xml:id="rm4.4.186">madhunā lepayel liṃgaṃ| mardanā nityameva ca| <caesura/>
-                    sthūlaṃ ca bhavati dīrghaṃ| vanitānāṃ va saṃkaraṃ|| </l>
+                <l xml:id="rm4.4.186">madhunā lepayel liṃgaṃ| mardanā nityameva ca|
+                    <caesura/>
+                     sthūlaṃ ca bhavati dīrghaṃ| vanitānāṃ va saṃkaraṃ|| </l>
                 <pb n="12v"/>
                 <l xml:id="rm4.4.186a"><add place="top margin"><unclear n="14" unit="char"/>dāpayet
                             <unclear n="3" unit="char"/>taṃ| <unclear n="3" unit="char"/>śamānena|
@@ -949,7 +1031,8 @@
 
                 <label>4.187</label>
                 <l xml:id="rm4.4.187">gajapippalisitasūtaṃ| rajanīnavanīta turaṃga gaṃdhā ca|
-                    <caesura/> lepo karoti vṛddhiṃ| bhagaliṃga payodhara śravaṇā|</l>
+                    <caesura/>
+                     lepo karoti vṛddhiṃ| bhagaliṃga payodhara śravaṇā|</l>
 
                 <p xml:id="rm4.424"> caturvi<lb/>dhivṛddhiḥ| </p>
 
@@ -969,22 +1052,26 @@
                 <label>4.189</label>
                 <l xml:id="rm4.4.189"
                     >daradā<unclear>ṭhu</unclear>ddhara<unclear>se</unclear>ndrapātanayaṃtre
-                    salilayogena| <caesura/> ādāya ni<unclear>puṇabuddhaḥ</unclear> pā<lb/>dāṃśena
-                    jārayet| kha<unclear>lve</unclear> sūtva </l>
+                    salilayogena|
+                    <caesura/>
+                     ādāya ni<unclear>puṇabuddhaḥ</unclear> pā<lb/>dāṃśena jārayet|
+                        kha<unclear>lve</unclear> sūtva </l>
 
                 <label>4.190</label>
                 <l xml:id="rm4.4.190">gaṃdhakasiṃdhū<unclear n="1" unit="char"/><add place="above"
                             ><unclear n="1" unit="char"/></add>
-                        tāmravallīrasamardī<unclear>to</unclear> rasa ś <caesura/>
-                        cara<unclear>ti</unclear> lohāni| jāraya<unclear>ti</unclear> ca
+                        tāmravallīrasamardī<unclear>to</unclear> rasa ś
+                    <caesura/>
+                     cara<unclear>ti</unclear> lohāni| jāraya<unclear>ti</unclear> ca
                         <unclear>vi</unclear>dhināmarditasutaḥ| </l>
 
                 <p xml:id="rm4.436">a<unclear>bhra</unclear><lb/>kajāraṇapiḍam| </p>
 
                 <label>4.191</label>
                 <l xml:id="rm4.4.191">mākṣikasa<unclear>tvamā</unclear>dāya pādāṃśe ca
-                        jāra<unclear>ye</unclear>t| <caesura/> tatopi sarvasatvāni
-                        drāva<unclear>tsūta</unclear>ga<unclear>rbha</unclear>taḥ| </l>
+                        jāra<unclear>ye</unclear>t|
+                    <caesura/>
+                     tatopi sarvasatvāni drāva<unclear>tsūta</unclear>ga<unclear>rbha</unclear>taḥ| </l>
 
                 <label>4.192</label>
                 <l xml:id="rm4.4.192">kanakaṃ jārayet paścāt| <unclear>samaṃ</unclear><lb/>jīrṇaṃ tu
@@ -992,31 +1079,36 @@
                 <l xml:id="rm4.4.192a"><add place="left margin">?</add></l>
                 <label>4.194cd</label>
                 <l xml:id="rm4.194cd">dviguṇaṃ tri<unclear>gu</unclear>ṇaṃ caiva yāvajjarati
-                    <caesura/> ṣaḍ<gap n="3" unit="char"/>ṇaṃ <add place="left margin">?</add></l>
+                    <caesura/>
+                     ṣaḍ<gap n="3" unit="char"/>ṇaṃ <add place="left margin">?</add></l>
 
                 <label>4.195ab</label>
                 <l xml:id="rm4.195ab">jārayitvā tu tataḥ kṛtvā tu jāraṇāt| </l>
 
                 <label>4.196</label>
                 <l xml:id="rm4.4.196">pratisāraṇaṃ tataḥ<lb/> kuryāt tato
-                        gaṃ<unclear>dha</unclear>ka<unclear>sā</unclear>hikaṃ| <caesura/>
-                    lohamūkhādvayaṃ kṛtvā| dvādaśāṃgulamānataḥ| </l>
+                        gaṃ<unclear>dha</unclear>ka<unclear>sā</unclear>hikaṃ|
+                    <caesura/>
+                     lohamūkhādvayaṃ kṛtvā| dvādaśāṃgulamānataḥ| </l>
 
                 <label>4.197</label>
                 <l xml:id="rm4.4.197">cakradvayaṃ mukhaṃ<add place="above">?</add>
                     <unclear>vā</unclear>laṃ tanmukho parivi<unclear>nyasa</unclear><lb/>t|
-                    <caesura/> ekasmāt sū<unclear>ta</unclear>kaṃ śuddhaṃ
-                        anya<unclear>smā</unclear><add place="above">t</add> śuddhagaṃdhakaṃ| </l>
+                    <caesura/>
+                     ekasmāt sū<unclear>ta</unclear>kaṃ śuddhaṃ anya<unclear>smā</unclear><add
+                        place="above">t</add> śuddhagaṃdhakaṃ| </l>
 
                 <label>4.198</label>
-                <l xml:id="rm4.4.198">sūtakasyādhaḥ toyaṃ syāt| gaṃdhādho vahnidīpanaṃ| <caesura/>
-                    anena krameṇaivaṃ| <unclear>ṣa</unclear><lb/>ḍguṇaṃ gaṃdhakaṃ dadet| </l>
+                <l xml:id="rm4.4.198">sūtakasyādhaḥ toyaṃ syāt| gaṃdhādho vahnidīpanaṃ|
+                    <caesura/>
+                     anena krameṇaivaṃ| <unclear>ṣa</unclear><lb/>ḍguṇaṃ gaṃdhakaṃ dadet| </l>
 
                 <label>4.199</label>
                 <l xml:id="rm4.4.199">tata<add place="above"><unclear>u</unclear></add>dhṛtya<gap
-                        n="1" unit="char"/> yatnena pakvabījaṃ tu kārayet| <caesura/>
-                        jaṃbīranīra<add place="above">?</add><unclear extent="1" unit="char"
-                    />bhāvite cūllīlavaṇaṃ ca gaṃdhakaṃ bahuśaḥ</l>
+                        n="1" unit="char"/> yatnena pakvabījaṃ tu kārayet|
+                    <caesura/>
+                     jaṃbīranīra<add place="above">?</add><unclear extent="1" unit="char"/>bhāvite
+                    cūllīlavaṇaṃ ca gaṃdhakaṃ bahuśaḥ</l>
 
                 <l xml:id="rm4.455">lohā<gap n="1" unit="char"/>ni<lb/> samastāni<add
                         place="left margin">jarayati</add> vidhinā <add place="above"
@@ -1029,60 +1121,70 @@
 
                 <label>4.201</label>
                 <l xml:id="rm4.4.201">bahuśo gṛha| kumārihayārimehā<lb/>
-                        rasabhāvi<unclear>no</unclear> rasaś carati <caesura/> gaṃdhakacūrṇaṃ
-                    sariśūktisaṃpuṭe jarati jalanasthavi<unclear>nuṃ</unclear><add place="above"
-                        >||</add>
+                        rasabhāvi<unclear>no</unclear> rasaś carati
+                    <caesura/>
+                     gaṃdhakacūrṇaṃ sariśūktisaṃpuṭe jarati jalanasthavi<unclear>nuṃ</unclear><add
+                        place="above">||</add>
                 </l>
 
                 <label>4.202</label>
                 <l xml:id="rm4.4.202">śubhakanakapādacāri<unclear>to</unclear>
                         kramaparipā<unclear>dyā</unclear> samaṃ <unclear>jā</unclear><lb/>raye<add
-                        place="above">t</add> yāvat <caesura/> jālinihalinirasena vimardya
-                        samaya<unclear>sā</unclear>ra<add place="above"><unclear>ye</unclear></add>t
-                        paścāt<add place="above">12</add>
+                        place="above">t</add> yāvat
+                    <caesura/>
+                     jālinihalinirasena vimardya samaya<unclear>sā</unclear>ra<add place="above"
+                            ><unclear>ye</unclear></add>t paścāt<add place="above">12</add>
                 </l>
 
                 <label>4.203</label>
                 <l xml:id="rm4.4.203">haritālonma<unclear>tā</unclear><add place="above"
                         >bī</add><unclear>ja</unclear>stailena rasamardi<unclear>to</unclear>
-                        surani<add place="right margin">gaṃdhaka</add>yogena <caesura/>
-                    tridi<lb/>nair baṃdhayati rasaṃ mūsigataṃ
+                        surani<add place="right margin">gaṃdhaka</add>yogena
+                    <caesura/>
+                     tridi<lb/>nair baṃdhayati rasaṃ mūsigataṃ
                     go<unclear>vyeṣva</unclear>vipakvaṃ</l>
 
                 <label>4.204</label>
                 <l xml:id="rm4.4.204">tadrasaṃ dhautamākṣikaṃ tīkṣṇasulvarajaḥ| śaśi<add
                         place="above"><unclear>?</unclear></add>
-                    <caesura/> māṃsamekataḥ kṛtvā devadālīra<lb/>sena ca<add place="above">14</add>| </l>
+                    <caesura/>
+                     māṃsamekataḥ kṛtvā devadālīra<lb/>sena ca<add place="above">14</add>| </l>
 
                 <label>4.205</label>
                 <l xml:id="rm4.4.205">marddavyet madhusarppibhyāṃ tridinaṃ
-                        yāva<unclear>tsū</unclear>ryate <caesura/>
-                    aṃ<unclear>dha</unclear>mūkhāgataṃ śuṣkaṃ dhāmayet khadirānale| </l>
+                        yāva<unclear>tsū</unclear>ryate
+                    <caesura/>
+                     aṃ<unclear>dha</unclear>mūkhāgataṃ śuṣkaṃ dhāmayet khadirānale| </l>
 
                 <label>4.206</label>
                 <l xml:id="rm4.4.206">akṣayaṃ jāyate ṣoṭaṃ| ta<lb/>ruṇāditya<gap extent="1"
-                        unit="char"/><unclear>saṃnvi</unclear>taṃ| <caesura/>
+                        unit="char"/><unclear>saṃnvi</unclear>taṃ|
+                    <caesura/>
                     <unclear>tena</unclear> vi<unclear>ddhaṃ</unclear>śatāṃśena| tāraṃ bha<gap
                         extent="2" unit="char"/> kāṃcanaṃ| </l>
 
                 <label>4.207</label>
                 <l xml:id="rm4.4.207">aṣṭānavati <unclear extent="6" unit="char"
                         />ṣṭahāṭakasyaika<unclear>ḥ</unclear>
-                    <caesura/> sūtasya kā<lb/> bhāgā śatāṃśa<unclear>viddhavi</unclear><gap
-                        extent="1" unit="char"/> khyā<unclear>tau</unclear>
+                    <caesura/>
+                     sūtasya kā<lb/> bhāgā śatāṃśa<unclear>viddhavi</unclear><gap extent="1"
+                        unit="char"/> khyā<unclear>tau</unclear>
                 </l>
 
                 <label>4.208</label>
                 <l xml:id="rm4.4.208">athavā<add place="above"><unclear>||</unclear></add>
                         a<unclear>pa</unclear>hi<unclear>śo</unclear>dhanaṃ su<gap extent="2"
-                        unit="char"/> rasena <unclear>raṃ</unclear>jitaṃ <caesura/>
+                        unit="char"/> rasena <unclear>raṃ</unclear>jitaṃ
+                    <caesura/>
                     <unclear>dvau bhāgau</unclear> tasya sulvasya ekatārasya
                         gāla<unclear>ye</unclear>t<lb/>
                 </l>
 
                 <label>4.209</label>
                 <l xml:id="rm4.4.209">vedhayet siddhasūte<unclear>na</unclear> śatāṃśana ca
-                    buddhimān| <caesura/> kanakaṃ jāya<unclear>te divyā de</unclear>
+                    buddhimān|
+                    <caesura/>
+                     kanakaṃ jāya<unclear>te divyā de</unclear>
                         vābhara<unclear>ṇamuttamaṃ|</unclear> vyataḥ| </l>
 
                 <label>4.210</label>
@@ -1098,20 +1200,25 @@
                                 unit="char"/>mātra<unclear n="5" unit="char"/></add><lb/> tau <add
                             place="above">ca</add>mahārasau| śuddha <unclear>pā</unclear>rīmalavā
                         kanakaṃ jāyeta daiva| taranamuttamaṃ</add>
-                    <caesura/> anṣonṣaṃ baṃdhamāyāti| tārakāṃvanakārakau| <add place="above"
-                    >?</add></l>
+                    <caesura/>
+                     anṣonṣaṃ baṃdhamāyāti| tārakāṃvanakārakau| <add place="above">?</add></l>
 
                 <label>4.211</label>
                 <l xml:id="rm4.4.211">abhrakaṃ harabījaṃ ca<add place="above">|</add> ṣoḍaśāṃśena
-                    kāṃcanaṃ| <caesura/> dhmānaṃ pragaṭamāvāṃtaṃ ratnacūrṇena ve<lb/>ṣṭayet| </l>
+                    kāṃcanaṃ|
+                    <caesura/>
+                     dhmānaṃ pragaṭamāvāṃtaṃ ratnacūrṇena ve<lb/>ṣṭayet| </l>
 
                 <label>4.212</label>
-                <l xml:id="rm4.4.212">mukhāṃtpakvā raseṃdraṃ tu| tiṣṭaṃte khagavadyathā| <caesura/>
-                        rājikā<unclear>rdvā</unclear> pramāṇaṃ na parvatānapi viṃdhati| </l>
+                <l xml:id="rm4.4.212">mukhāṃtpakvā raseṃdraṃ tu| tiṣṭaṃte khagavadyathā|
+                    <caesura/>
+                     rājikā<unclear>rdvā</unclear> pramāṇaṃ na parvatānapi viṃdhati| </l>
 
 
                 <l xml:id="rm4.4.213">praṇi<unclear>patya</unclear> mahā<unclear>de</unclear>vaṃ|
-                    vakṣye sarvahi<lb/>tārdhakaṃ| <caesura/> kṣapuṭaṃ sarvasiddhikaraṃ|</l>
+                    vakṣye sarvahi<lb/>tārdhakaṃ|
+                    <caesura/>
+                     kṣapuṭaṃ sarvasiddhikaraṃ|</l>
                 <l xml:id="rm4.492">gaṃdhakadaradaśilātālaiḥ| kāsī sāṃtāpya gairikā<add
                         place="above">yāḥ|</add></l>
                 <l xml:id="rm4.493">saṃsthā<unclear>pya</unclear> madhyakoṣṭe vyomā
@@ -1376,10 +1483,10 @@
                         place="above">68</add></l>
 
                 <l xml:id="rm4.607">kapotakācamācī| kula<unclear>tha</unclear>mayi parihara
-                    <caesura/> svayatnena<add place="above">|</add> kṣetrī<lb/> kṛtvā dehaṃ|
-                    suratarukaṃ gūrpalā<gap n="1" unit="char"/><unclear>sati</unclear><add
-                        place="above">laṃ|</add> va<add place="above" cause="correcting_metathesis"
-                        >vā</add>
+                    <caesura/>
+                     svayatnena<add place="above">|</add> kṣetrī<lb/> kṛtvā dehaṃ| suratarukaṃ
+                        gūrpalā<gap n="1" unit="char"/><unclear>sati</unclear><add place="above"
+                        >laṃ|</add> va<add place="above" cause="correcting_metathesis">vā</add>
                 </l>
 
                 <l xml:id="rm4.609">palamupayutkī jīvati<add place="above"
@@ -1404,6 +1511,7 @@
                 </l>
                 <l xml:id="rm4.619">mātṛkayā<add place="above">?</add>ti <add place="above"
                     >ba</add>ddhaṃ nā ge<unclear>tpāṃ</unclear>ye tvarita<lb/>kāmasya</l>
+
 
             </div>
         </body>
