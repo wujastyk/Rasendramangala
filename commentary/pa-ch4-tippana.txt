@@ -526,7 +526,7 @@
                 <l xml:id="T">hema abhrakasatva vā sulva bījasthāne sarvasthāne prayojayet| </l>
 
                 <l xml:id="T">bhasmasūtakayoge<unclear>ṣu rasa</unclear> he<lb/>mabhama<unclear>ṃ</unclear>
-                    kṛtvā tadardhaṃgaṃdhakaṃ datvā dvipadīstrī tasyā <unclear>puṣpe</unclear>ṇa
+                    kṛtvā tadardhaṃ gaṃdhakaṃ datvā dvipadīstrī tasyā <unclear>puṣpe</unclear>ṇa
                     rajanīraṃbhārasena ṭaṃkaṇena saha ṣalve saṃmardya gaḍukayaṃtreṇa badhavitvā
                         ta<pb n="19v"/>to aṃdhamūkhāyāṃ īṣat gaṃdhakena saha tuṣāgninā
                         pu<unclear>ṭhe</unclear>t bhasma sūtakaṃ bhavati| </l>
