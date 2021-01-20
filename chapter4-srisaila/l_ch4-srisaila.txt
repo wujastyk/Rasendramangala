@@ -477,7 +477,7 @@
 
         <l xml:id="srisaila70">sādhayitvā prayatnena koṭivedhī mahārasaḥ|
           <caesura/>
-           śarīreṇaiva tat sarvaṃ bhavati niḥ phalam| </l>
+           śarīreṇaiva tat sarvaṃ bhavati niḥphalam| </l>
 
 
         <p xml:id="nagarjuna-4">nāgārjunovaca|</p>

@@ -466,7 +466,7 @@
       <l xml:id="srisaila71">katha<unclear>yo |</unclear><lb/>mi na saṃdeho mārkkaṃḍena ca yatkṛtaṃ
         ||
         <caesura/>
-         dīrghāyuḥ kārakaṃ bhūme rasasiddhirasāyane|| </l>
+         dīrghāyuḥ kārakaṃ bhūme rasasiddhi rasāyane|| </l>
 
       <l xml:id="srisaila72">śatapalaṃm ubhayā nāma akṣadhā<lb/><unclear>tryā</unclear>tathaiva ca
         ||

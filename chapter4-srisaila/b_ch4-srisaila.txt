@@ -522,7 +522,7 @@
 
         <p xml:id="nagarjuna70a"><persName>nāgārjuna</persName>uvāca ||</p>
 
-        <l xml:id="srisaila71">kathayāmi na saṃdeho mārkkaṃḍena yathā|kṛtaṃ |
+        <l xml:id="srisaila71">kathayāmi na saṃdeho mārkkaṃḍena yathā| kṛtaṃ |
           <caesura/>
           dīrghāyukārakaṃ bhūme rasasiddhe rasāyane ||43</l>
 

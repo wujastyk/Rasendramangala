@@ -580,7 +580,7 @@
            jārito māritaś caiva punar jāritamāritaḥ| </l>
 
         <label>69</label>
-        <l xml:id="srisaila69">daśasaṅkrāntiniṣkarānto koṭivedhi mahārasaḥ| </l>
+        <l xml:id="srisaila69">daśasaṅkrāntiniṣkrāntaḥ koṭivedhī bhaved rasaḥ| </l>
 
         <p ana="speaker" xml:id="ratnaghosa69a"><hi style="bold"
             ><persName>ratnaghoṣa</persName></hi> uvāca| </p>
@@ -588,14 +588,14 @@
         <label>70</label>
         <l xml:id="srisaila70">sādhayitvā prayatnena koṭivedhī mahārasaḥ|
           <caesura/>
-           śarīreṇaiva tat sarvaṃ bhavati niḥphalam| </l>
+           śarīreṇa vinā tat sarvaṃ bhavati niṣphalam| </l>
 
         <p xml:id="srisaila70a">nāgārjun'ovaca|</p>
 
         <label>71</label>
-        <l xml:id="srisaila71">kathayāmi na sandeho mārttaṇḍa yena yat kṛtam|
+        <l xml:id="srisaila71">kathayāmi na sandeho mārkkaṇḍena  yathā kṛtam|
           <caesura/>
-           dīrghāyuṣkarabhūmo rasasiddhe rasāyane| </l>
+          dīrghāyuḥ kārakaṃ bhūme rasasiddhe rasāyane| </l>
 
         <label>72</label>
         <l xml:id="srisaila72">śataphalam abhayānām akṣadhātryā tathaiva ca|
