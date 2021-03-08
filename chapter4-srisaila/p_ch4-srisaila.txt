@@ -437,11 +437,11 @@
 
         <p xml:id="nagarjuna70a"><persName>nāgārjuno</persName>vāca</p>
 
-        <l xml:id="srisaila71">kathayāmi na saṃdeho mārtaṃḍa yena<add place="below"
+        <l xml:id="srisaila71">kathayāmi na saṃdeho mārtaṃḍayena<add place="below"
             >mārkaṇḍeyena</add> yat kṛtaṃ
           <caesura/>
           dīrghā<add place="below">rghā</add>yu<unclear>ṣka</unclear>ra<add place="above"
-          >ka</add>bhūmau rasasiddhe rasāyane .</l>
+          >ka</add><pc> </pc>bhūmau rasasiddhe rasāyane .</l>
 
         <l xml:id="srisaila72">śata<del>pha</del><add place="below">pa</add>mabhayā<pb n="27v"
           />nāmakṣadhātryā tathaiva <del>ca</del>.

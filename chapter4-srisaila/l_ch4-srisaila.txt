@@ -483,9 +483,9 @@
         <p xml:id="nagarjuna-4">nāgārjunovaca|</p>
 
 
-        <l xml:id="srisaila71">kathayāmi na saṃdeho mārttaṇḍa yena yat kṛtam|
+        <l xml:id="srisaila71">kathayāmi na saṃdeho mārttaṇḍayena yat kṛtam|
           <caesura/>
-           dīrghāyuṣkarabhūmo rasasiddhe rasāyane| </l>
+           dīrghāyuṣkara<pc> </pc>bhūmo rasasiddhe rasāyane| </l>
 
         
         <l xml:id="srisaila72">śataphalam amayānām akṣa dhātryā tathaiva ca|

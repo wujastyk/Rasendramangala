@@ -371,9 +371,9 @@
 
         <p xml:id="nagarjuna70a"><hi style="bold"><persName>nāgārjuno</persName></hi>vācaḥ</p>
 
-        <l xml:id="srisaila71">kathayāmi na<lb/> saṃdeho mārttaṃḍa yena yat kṛtam
+        <l xml:id="srisaila71">kathayāmi na<lb/> saṃdeho mārttaṃḍayena yat kṛtam
           <caesura/>
-           dīrghāyuṣkarabhūmo rasasiddhe rasāyane </l>
+           dīrghāyuṣkara<pc> </pc>bhūmo rasasiddhe rasāyane </l>
 
         <l xml:id="srisaila72">śataphalam abhayānām akṣadhātryā tatheva<pb n="21v"/> ca
           <caesura/>

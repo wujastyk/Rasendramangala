@@ -623,7 +623,7 @@
 
         <p xml:id="nagarjuna-4">śrīnāgārjjuna uvāca <lb/></p>
 
-        <l xml:id="srisaila71"> kathayāmi na saṃdehaṃ mārkkaṃḍe yena yat kṛtaṃ
+        <l xml:id="srisaila71"> kathayāmi na saṃdehaṃ mārkkaṃḍeyena yat kṛtaṃ
           <caesura/>
            dīrghāyuḥkamakaṃ bhūme rasa<lb/>siddhe rasāyane 22 </l>
 

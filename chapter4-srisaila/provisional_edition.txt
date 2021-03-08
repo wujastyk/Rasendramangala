@@ -593,9 +593,9 @@
         <p xml:id="srisaila70a">nāgārjun'ovaca|</p>
 
         <label>71</label>
-        <l xml:id="srisaila71">kathayāmi na sandeho mārkkaṇḍena  yathā kṛtam|
+        <l xml:id="srisaila71">kathayāmi na sandeho mārkkaṇḍeyena  yat kṛtam|
           <caesura/>
-          dīrghāyuḥ kārakaṃ bhūme rasasiddhe rasāyane| </l>
+          dīrghāyuḥkārakaṃ bhūme rasasiddhe rasāyane| </l>
 
         <label>72</label>
         <l xml:id="srisaila72">śataphalam abhayānām akṣadhātryā tathaiva ca|

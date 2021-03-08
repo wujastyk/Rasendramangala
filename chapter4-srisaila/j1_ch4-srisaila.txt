@@ -479,9 +479,9 @@
 
         <p ana="speaker" xml:id="nagarjuna70.10"><persName>nāgārjuno</persName>vāca</p>
 
-        <l xml:id="srisaila71">kathayāmi na saṃ<lb/>deho mārtaṃḍe yena yatkṛta
+        <l xml:id="srisaila71">kathayāmi na saṃ<lb/>deho mārtaṃḍeyena yat kṛta
           <caesura/>
-          dīrghāyuṣkarabhūmau rasasiddhe rasāyane</l>
+          dīrghāyuṣkara<ps> </ps>bhūmau rasasiddhe rasāyane</l>
 
         <l xml:id="srisaila72">śataphalamabha<lb/>yānāmakṣadhātryā tathaiva ca
           <caesura/>

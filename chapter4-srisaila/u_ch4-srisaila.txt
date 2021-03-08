@@ -463,10 +463,10 @@
          śarīreṇa vinā devasarvaṃ bhavati niṣphalaṃ|| </l>
 
       <p xml:id="nagarjuna70a">arjunovāca|| </p>
-      <l xml:id="srisaila71">katha<unclear>yo |</unclear><lb/>mi na saṃdeho mārkkaṃḍena ca yatkṛtaṃ
+      <l xml:id="srisaila71">katha<unclear>yo |</unclear><lb/>mi na saṃdeho mārkkaṃḍena ca yat kṛtaṃ
         ||
         <caesura/>
-         dīrghāyuḥ kārakaṃ bhūme rasasiddhi rasāyane|| </l>
+         dīrghāyuḥkārakaṃ bhūme rasasiddhi rasāyane|| </l>
 
       <l xml:id="srisaila72">śatapalaṃm ubhayā nāma akṣadhā<lb/><unclear>tryā</unclear>tathaiva ca
         ||

@@ -456,7 +456,7 @@
 
       <p xml:id="srisaila70.10"><persName>nāgārjuna</persName>uvāca</p>
 
-      <l xml:id="sirsaila71">katha<lb/>yāmi na saṃdeho| mārttaṃḍe yena yatkṛtam|
+      <l xml:id="sirsaila71">katha<lb/>yāmi na saṃdeho| mārttaṃḍeyena yat kṛtam|
         <caesura/>
         dīrghāyuṣkara bhūmo| rasasiddhe rasāyane| 59</l>
 

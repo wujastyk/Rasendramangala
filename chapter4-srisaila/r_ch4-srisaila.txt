@@ -466,7 +466,7 @@
         <p xml:id="nagarjuna70a">nāgājuna u</p>
         <l xml:id="srisaila71">kathayāmi na sandeho mākāṇḍena yathā<lb/> kṛtaṃ
           <caesura/>
-           dīrghāyuḥ kārakaṃ bhūme rasasiddhe rasāyane </l>
+           dīrghāyuḥkārakaṃ bhūme rasasiddhe rasāyane </l>
 
         <l xml:id="srisaila72">śatapalamabhayānāṃ cākṣa dhātryāstathaiva
           <caesura/>
