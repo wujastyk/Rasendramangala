@@ -600,7 +600,7 @@
         <label>72</label>
         <l xml:id="srisaila72">śataphalam abhayānām akṣadhātryā tathaiva ca|
           <caesura/>
-           kathitaṃ jalaṃ śatāṣṭau bhāgavaṣṭāv aśoṣitam| </l>
+           kathitaṃ jalaṃ śatāṣṭau bhāgam aṣṭāv aśeṣam| </l>
 
         <label>73</label>
         <l xml:id="srisaila73">ghṛtamadhusitayā yuktaṃ vyoṣacitraṃ daśāṃsake|

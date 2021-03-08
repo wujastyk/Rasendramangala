@@ -447,7 +447,7 @@
 
         <l xml:id="srisaila72">sata<lb/>phalaṃ mūbhayānāṃmakṣū dhātrā tathaiva ca 63
           <caesura/>
-           sakathīta jala satāṣṭo bhāgamaṣṭāv aseṣa </l>
+           sakathīta jala satāṣṭo bhāgam aṣṭāv aseṣa </l>
 
         <l xml:id="srisaila73">ghṛtamadhurādyaṃ<lb/> vyoṣacītraṃ dasāṃsai
           <caesura/>

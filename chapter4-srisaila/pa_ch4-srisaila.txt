@@ -462,7 +462,7 @@
 
       <l xml:id="srisaila72">śataṃ phalamabhayānā| makṣadhātryā tathaiva ca|
         <caesura/>
-        kathita<lb/>jalaṃ śatāṣṭau| bhāgamaṣṭāvaśeṣitaṃ| 60</l>
+        kathita<lb/>jalaṃ śatāṣṭau| bhāgam aṣṭāv aśeṣitaṃ| 60</l>
 
       <l xml:id="srisaila73">ghṛtamadhusitayā muktaṃ| vyoṣacitraṃ daśāṃsake||
         <caesura/>

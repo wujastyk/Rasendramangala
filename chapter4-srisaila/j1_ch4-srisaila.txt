@@ -485,7 +485,7 @@
 
         <l xml:id="srisaila72">śataphalamabha<lb/>yānāmakṣadhātryā tathaiva ca
           <caesura/>
-          thinaṃ jalaṃśaḥ tīṣṭau bhāgamaṣṭāvaśeṣitaṃ</l>
+          thinaṃ jalaṃśaḥ tīṣṭau bhāgam aṣṭāv aśeṣitaṃ</l>
 
         <l xml:id="srisaila73">ghṛtamadhu<lb/>sitayā yukta vyoṣacitradaśāṃśena
           <caesura/>

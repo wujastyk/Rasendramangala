@@ -528,7 +528,7 @@
 
         <l xml:id="srisaila72"><unclear>śatapalamalayānāṃ</unclear><lb/>makṣadhātryā tathaiva ca |
           <caesura/>
-          kkathita jalaśatāṣṭau bhāgamaṣṭāvaśeṣaṃ |</l>
+          kkathita jalaśatāṣṭau bhāgam aṣṭāv aśeṣaṃ |</l>
 
         <l xml:id="srisaila73">ghṛtamadhuśata||rādyaṃ vyoṣacitraṃ daśāṃśai
           <caesura/>

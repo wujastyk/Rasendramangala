@@ -447,7 +447,7 @@
           />nāmakṣadhātryā tathaiva <del>ca</del>.
           <caesura/>
           kathi<unclear>taṃ</unclear> ja<unclear>laṃ</unclear> śatāṣṭau
-            bhāgamaṣṭāvaśe<del>ṣitaṃ</del><add place="above">ṣaṃ .</add></l>
+            bhāgam aṣṭāv aśe<del>ṣitaṃ</del><add place="above">ṣaṃ .</add></l>
 
         <l xml:id="srisaila73">ghṛtamadhusitayā yuktaṃ vyoṣacitraṃ daśāṃsa<add place="above"
             >saṃ</add>ke

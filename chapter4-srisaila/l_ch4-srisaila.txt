@@ -490,7 +490,7 @@
         
         <l xml:id="srisaila72">śataphalam amayānām akṣa dhātryā tathaiva ca|
           <caesura/>
-           kathitaṃ jalaṃ śatāṣṭau bhāgavaṣṭāv aśoṣitam| </l>
+           kathitaṃ jalaṃ śatāṣṭau bhāgav aṣṭāv aśoṣitam| </l>
 
         
         <l xml:id="srisaila73"><pb n="55"/>ghṛtamadhusitayā yuktaṃ vyoṣacitraṃ daśāṃsake|

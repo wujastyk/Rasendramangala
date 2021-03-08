@@ -470,7 +470,7 @@
 
         <l xml:id="srisaila72">śatapalamabhayānāṃ cākṣa dhātryāstathaiva
           <caesura/>
-           kvathita jala śa<lb/>tāṣṭau bhāgamaṣṭāvaśeṣaṃ </l>
+           kvathita jala śa<lb/>tāṣṭau bhāgam aṣṭāv aśeṣaṃ </l>
 
         <l xml:id="srisaila73"><unclear>hṛ</unclear>tamadhuśata gadyaṃ vyoṣacittraṃ daśāṃśe
           <caesura/>
