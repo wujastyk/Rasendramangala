@@ -314,17 +314,17 @@
                 <l xml:id="T70">suragaṃdhakaityādi surendrapiti| </l>
 
                 <l xml:id="T71">gaṃdhakaṃ rasaṃ samānena ka jalūkāṃ kṛtvā| gaṃḍukayaṃtreṇa baṃdhayitvā mākṣikadhotasadyādi bayaḥ| 
-                samāṃśenāparāṇi mardayedityarthaḥ| </l>
+                samāṃśenāparāṇi mardayed ity arthaḥ| </l>
 
                 <l xml:id="T72">godantaṃ tālakaṃ t<unclear extent="1" unit="syllable"/>avvasūtakaṃ samam| paṃcamāhiṣeṇa saha vāṭikāṃ 
-                baddhvā saṃsoṣya| jālikāyaṃtreṇa rasaṃ baṃdhayitvā tato aparāṇipi icchāguṭikāṃ kārayedityarthaḥ| </l>
+                baddhvā saṃsoṣya| jālikāyaṃtreṇa rasaṃ baṃdhayitvā tato aparāṇipi icchāguṭikāṃ kārayed ity arthaḥ| </l>
 
                 <l xml:id="T73">golaṃ kṛtamiti ko'rthaḥ| </l>
 
                 <l xml:id="T74">sulvasutakapiṣṭikāṃ kṛtvā mūkhāyaṃtre tārakeṇa baṃdhayitvā bhojayet| </l>
 
                 <l xml:id="T75">sakuṭaḥ rātikā samasūtena patrāṇi lepayitvā| śilā manaḥ śilā| alāṃ haritālaṃ tālakaṃ samāṃśena 
-                mūkhāyaṃtreṇa bhasmaṃ kṛtvā miśrayedityarthaḥ| </l>
+                mūkhāyaṃtreṇa bhasmaṃ kṛtvā miśrayed ity arthaḥ| </l>
 
                 <l xml:id="T76">saurasajā gaṃdhakacūrṇaṃ samasūtakena kajjalīkṛtvā vākīyaṃtreṇa nāgṛhītvā melayet| </l>
 
@@ -362,13 +362,13 @@
                 <l xml:id="T90">sūtakasya aṣṭamāṃśena suvarṇaṃ vārayitvā tadabhāve sulvaṃ vā </l>
 
                 <l xml:id="T91">samagaṃdhakena kajjalikāṃ kṛtvā gaḍukayaṃtreṇa vedhayitvā sannipātajvaraharakvāthena tridinaṃ mardayitvā sūtakaṃ 
-                mākṣikaṃ bolarḍa<unclear extent="1" unit="syllable"/>bolamityādi sannipātacikitsakoktayogena melayedityarthaḥ| </l>
+                mākṣikaṃ bolarḍa<unclear extent="1" unit="syllable"/>bolamityādi sannipātacikitsakoktayogena ed ity arthaityarthaḥ| </l>
 
                 <l xml:id="T92">ṣoḍaśāṃśena tāraṃ rasasya vārayitvā tālakena samaṃ mūkhāyaṃtreṇa mārayitvā śeṣaṃ pūrvavat| </l>
 
                 <l xml:id="T93">athālīsāreṇa sulvapatrāṇi samarasagaṃdhakaṃ cūrṇayitvā lepayitvā īṣallaghu <pb n="67"/>puṭena kārayet| </l>
 
-                <l xml:id="T94">tataḥ kāṃcanāratvakrasena tridinaṃ mardayitvā atīsāracikitsokta yogaiḥ krameṇa melayedityarthaḥ| </l>
+                <l xml:id="T94">tataḥ kāṃcanāratvakrasena tridinaṃ mardayitvā atīsāracikitsokta yogaiḥ krameṇa ed ity arthaityarthaḥ| </l>
 
                 <l xml:id="T95">pāṃḍur<unclear extent="1" unit="syllable"/>āyasacūrṇakuṭhāracch<unclear extent="1" unit="syllable"/>innalohatvāt 
                 triphalāyā rasena khalve mardayitvā īṣatgaṃdhakena saha vārayitvā grahaṇīyogena yojayet| </l>
@@ -548,7 +548,7 @@
 
                 <l xml:id="T156">pakvaṃ bījaṃ rasauparasauparasalohasutvasyopari nirvāhayitvā tatsutvaṃ
                 paṃcadaśakasuvarṇebhyaḥ same melayitvā gaṃdhaka daradatulpake saṃmāṃśena cūrṇena
-                vāpaṃ pratidattvā svarṇasyopari prāka sutvapaṭuṇaṃ uttārayedityarthaḥ| </l>
+                vāpaṃ pratidattvā svarṇasyopari prāka sutvapaṭuṇaṃ uttārayed ity arthaḥ| </l>
 
                 <l xml:id="T157">śubhanakaṃ pakvabījaṃ surabhigaṃdhakaṃ śaśitāraṃ dravaprakaraṇaṃ samāptam| </l>
 
@@ -581,7 +581,7 @@
 
                 <l xml:id="T166">brahmapuṣpaṃ vagakulaṃ kāśmirasya kuṃsuṃbhasya uparatnāni uparasāni bhūmi śailodrabhavaṃ 
                 bhūmilatā sattvām| śilāmākṣikaṃ sattvaṃ naktakusumaṃ karajaṃ puṣpaṃ svamāṃsabhakṣaṇaṃ baddhasūte
-                melāpayedityarthaḥ| </l>
+                melāpayed ity arthaḥ| </l>
 
                 <l xml:id="T167">āruṣkaraḥ bhallātakaḥ| </l>
 

@@ -141,7 +141,7 @@
 
                 <l xml:id="T1">pītāṃbarodhavalijinnāgakṣaya<lb/>bahalarāgagaruḍacaraḥ|
                     <caesura/>
-                    sa jayati haririvahara<unclear>jāṃ</unclear>| vidalitabhavadainyaduḥkhaharaḥ|| </l>
+                    sa jayati harir iva hara<unclear>jāṃ</unclear>| vidalitabhavadainyaduḥkhaharaḥ|| </l>
 
                 <l xml:id="T2">saptaviṃśati<unclear>si</unclear>ddhānā mataṃm ālokya
                         ya<unclear>tna</unclear><lb/>taḥ|
@@ -649,7 +649,7 @@
 
                 <l xml:id="T137">tasya sūtvaṃ ādiśa<unclear>ṣṭe</unclear>na mākṣikaḥ| </l>
 
-                <l xml:id="T138">rājā<unclear>vartta</unclear>kaśca<lb/> sa<unclear>ttvā</unclear>
+                <l xml:id="T138">rājā<unclear>vartta</unclear>kaś ca<lb/> sa<unclear>ttvā</unclear>
                     nigrāhyāni </l>
 
                 <l xml:id="T139">ebhiḥ samāvarttaye <unclear>ityarthaḥ</unclear>| </l>

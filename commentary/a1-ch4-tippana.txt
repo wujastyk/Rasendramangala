@@ -166,10 +166,10 @@
 
             <l xml:id="T11">"atha saptaviṃśatisiddhānāha"</l>
 
-            <l xml:id="T12">āmumaścaṃdra<lb/>senaśca laṃkeśaśca visāradaḥ
+            <l xml:id="T12">āmumaś caṃdra<lb/>senaś ca laṃkeśaś ca visāradaḥ
             <caesura/>kapālāmatamāṃḍavyo bhāskaraḥ surasenakaḥ 1<lb/>
-            <caesura/>ratnaghoṣa<del>sya</del>śca śaṃbhuśca tathaikā ratnavāhanā
-            <caesura/>iṃdra dogomukhaścaiva kaṃbalirvyāḍireva ca 2
+            <caesura/>ratnaghoṣa<del>sya</del>ś ca śaṃbhuś ca tathaikā ratnavāhanā
+            <caesura/>iṃdra dogomukhaś caiva kaṃbalirvyāḍireva ca 2
             <caesura/>nā<lb/>gārjuna sarāviṃdo nāgabodhiryaśodharaḥ
             <caesura/>ṣaṃḍakapāliko brahmā goviṃdo laṃpako hariḥ 3
             <caesura/>saptaviṃśati bhūpeṃdrā . rasasiddhā prakīrttitāḥ
@@ -188,13 +188,13 @@
             <caesura/>graṃthaṃ pravakṣyāmi raseṃdramaṃgalaṃ 6</l>
 
             <l xml:id="T15">raśme mahāsūtastrinetha trilocana
-            <caesura/>harabījaścaiva bījetho ca rasāyaṇaḥ</l>
+            <caesura/>harabījaś caiva bījetho ca rasāyaṇaḥ</l>
 
-            <l xml:id="T16">pāradaśca bhuva<lb/>ṇāṃkhyo mahāva<unclear>hni</unclear>stathaiva ca 7
+            <l xml:id="T16">pāradaś ca bhuva<lb/>ṇāṃkhyo mahāva<unclear>hni</unclear>stathaiva ca 7
             <caesura/>lokeśaḥ khecaro dīvyaḥ saubhāgyaparamo mataḥ</l>
 
-            <l xml:id="T17">śikhi hemanidhiścaiva anaṃto jñānameva ca 8
-            <caesura/>sūkṣmaśāṃtaprabhūścaiva kalikāṃ<lb/>takaraḥ paraḥ
+            <l xml:id="T17">śikhi hemanidhiś caiva anaṃto jñānameva ca 8
+            <caesura/>sūkṣmaśāṃtaprabhūś caiva kalikāṃ<lb/>takaraḥ paraḥ
             <caesura/>etāni rasanāmāni jñātavyāni prayatnataḥ 9</l>
 
             <!--oops! The sequence skips two numbers here. 
@@ -411,7 +411,7 @@
 
             <!-- new section guṭikā -->
 
-            <l xml:id="T109">atha kuṣṭe sulve piṣṭikāṃ kṛtvā gaṃdhakaṃ kaṭutaile prapā<unclear>śca</unclear> taṃtra piṣṭikāṃ kṣipet</l>
+            <l xml:id="T109">atha kuṣṭe sulve piṣṭikāṃ kṛtvā gaṃdhakaṃ kaṭutaile prapā<unclear>ś ca</unclear> taṃtra piṣṭikāṃ kṣipet</l>
 
             <l xml:id="T110">samagaṃdhakasūtaṃ vālukāgaḍūkayaṃtreṇa baṃdhayitvā tataḥ palatrayaṃ gaṃdhaketyādi melayet</l>
 
@@ -476,7 +476,7 @@
 
             <l xml:id="T137">tasya satvaṃ ādiśabdena mākṣikaḥ</l>
 
-            <l xml:id="T138">rājavarttakaśca satvāni grāhyāni</l>
+            <l xml:id="T138">rājavarttakaś ca satvāni grāhyāni</l>
 
             <l xml:id="T139">ebhi samāvarttaye ityarthaḥ</l>
 
@@ -749,7 +749,7 @@
 
             <l xml:id="T240">kumārastriśatāḥ mṛtayuvā paṃcaśatāvarṣe sṭhavirasyāttataḥ</l>
 
-            <l xml:id="T241">paraṃ vā lohe lohaṃ na yoktavyaṃ deho mṛ<unclear>dva</unclear>sṭhiraśca</l>
+            <l xml:id="T241">paraṃ vā lohe lohaṃ na yoktavyaṃ deho mṛ<unclear>dva</unclear>sṭhiraś ca   </l>
 
             <l xml:id="T242">śeṣeṣu lohaṃ yuṃjīta tatra kālena yāvatā 
             <caesura/>ā<lb/>yavadguṇaḥ kumārasya yutaḥ syādviguṇena saḥ</l>
