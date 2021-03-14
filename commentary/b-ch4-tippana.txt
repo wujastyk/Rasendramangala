@@ -113,29 +113,29 @@
 
                 <l xml:id="T-0">oṃ namo gaṇapataye|| </l>
 
-                <l xml:id="T1">pītāṃbarothavaliji|<lb/>nnāgakṣayabahalarāgagaruḍavaraḥ|
+                <l xml:id="T1">pītāṃbaro thavaliji<lb/>n nāgakṣayabahalarāgagaruḍavaraḥ|
                     <caesura/>
-                     sa jayati haririvaharajovidali|ta<unclear>bhava</unclear>daityaduḥkhakaraḥ||1 </l>
+                     sa jayati harir iva harajo vidali|ta<unclear>bhava</unclear>daityaduḥkhakaraḥ||1 </l>
 
-                <l xml:id="T2">saptaviṃśatisi<unclear>ddhā</unclear>nāmatamāṃlokya yatna<lb/>taḥ|
+                <l xml:id="T2">saptaviṃśatisi<unclear>ddhā</unclear>nām atam āṃlokya yatna<lb/>taḥ|
                     <caesura/>
                     <unclear>a</unclear>nāśāmunighaṃṭāni jñatvādao vaidyakatrayaṃ ||2</l>
 
 
-                <l xml:id="T3">deśedeśebhidhāna<unclear>syā</unclear>dauṣadhānāṃ
-                        pṛtha<unclear>k</unclear> pṛtha<unclear>k</unclear>
+                <l xml:id="T3">deśedeśebhidhāna<unclear> syā</unclear>d auṣadhānāṃ
+                        pṛtha<unclear>k</unclear>pṛtha<unclear>k</unclear>
                     <caesura/>
                      taṃ viditvā <unclear>ca dhā</unclear>tūnāṃ
                     pāraṃparyopad<unclear>e</unclear>|<lb/>śataḥ||3 </l>
 
                 <l xml:id="T4">asaṃśayaṃ sugūḍhārthaspaṣṭīkaraṇahetave|
                     <caesura/>
-                     raseṃdramaṃgalasyedaṃ ṭṭippaṇaṃ racayāmyahaṃ||4 </l>
+                     raseṃdramaṃgalasyedaṃ ṭṭippaṇaṃ racayāmy ahaṃ||4 </l>
 
                 <l xml:id="T4a">racayāmi karttāhaṃ paramahaṃsaparivrājakādā<lb/>ryabhagavan
-                        pūjyapādamaṣṭāviṃśati<unclear>maṃ</unclear> rasasiddhiṃ śrīmad
+                        pūjyapādam aṣṭāviṃśati<unclear>maṃ</unclear> rasasiddhiṃ śrīmad
                     <caesura/>
-                     goviṃdacaṃdrākhyaṃ kiṃ tat ṭṭipaṇakaṃ syādraseṃdramaṃgalasya
+                     goviṃdacaṃdrākhyaṃ kiṃ tat ṭṭipaṇakaṃ syād raseṃdramaṃgalasya
                         raseṃdramaṃgalābhi<unclear>dhā</unclear>nagraṃthasya|<lb/>
                     <unclear>susaṃvedeṣu gūḍhārthasya|</unclear></l>
 
@@ -144,14 +144,14 @@
 
                 <l xml:id="T4c"><unclear>su</unclear>gūḍhārthaḥ <unclear>ṣaṣṭa</unclear>śobhanāni
                     gūḍhārthāni yatra <unclear>sa</unclear> thaiva ca<lb/>ta<unclear>yoḥ</unclear>
-                    spaṣṭīkaraṇahetāvityarthaḥ|</l>
+                    spaṣṭīkaraṇahetāv ity arthaḥ|</l>
 
                 <l xml:id="T4d"><unclear extent="1" unit="char"/>kṛtvā
                     <unclear>prartha</unclear>mādi maṃgalaṃ jayatu</l>
 
                 <l xml:id="T5">ko asau harajaḥ| harā<unclear extent="1" unit="char"/>ptaharajaḥ|
                     <caesura/>
-                     pārajamityarthaḥ| </l>
+                     pārajam ity arthaḥ| </l>
 
                 <l xml:id="T5a">ka iva harir iva<pb n="19r"/> yathā haristathā harajaḥ</l>
 
@@ -165,7 +165,7 @@
 
                 <l xml:id="T5d">balināmā<lb/> kaściddaitya gaja<unclear>ta</unclear>jita
                         parābhavi<unclear>taṃ</unclear>yena asau balijit| nāgakṣaya nagān patragān
-                        kṣaya<unclear>ṃ</unclear> nayaṃtīiti nāgatameva kṣaya</l>
+                        kṣaya<unclear>ṃ</unclear> nayaṃtīiti nāgatam eva kṣaya</l>
 
                 <l xml:id="T5e"><unclear>va</unclear>halarāga <gap extent="1" reason="omitted"
                         unit="line"/>
