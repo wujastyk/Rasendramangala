@@ -12,3 +12,5 @@ A reference document is the unpublished draft article by Dominik Wujastyk, "[The
 
 These transcriptions are being collated and processed through Charles Li's [Saktumiva](http://saktumiva.org/start) platform for producing and publishing critical editions of Sanskrit texts.  See also [the Rasendramaṅgala start page](https://saktumiva.org/wiki/wujastyk/rasendramangala/start) at that site.
 
+Research assistants who have worked on this project include Madhusudana Rimal, Deepro Chakraborty, and Jane Allred, Vandana Lele and Harshal Bhatt.  
+Financial support for this project has been provided from the Singhmar Chair endowment support at the University of Alberta.
