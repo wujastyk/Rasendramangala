@@ -485,10 +485,10 @@
 
         <l xml:id="srisaila71">kathayāmi na saṃdeho mārttaṇḍayena yat kṛtam|
           <caesura/>
-           dīrghāyuṣkara<pc> </pc>bhūmo rasasiddhe rasāyane| </l>
+          dīrghāyuṣ<pc> </pc>kara<pc> </pc>bhūmo rasasiddhe rasāyane| </l>
 
         
-        <l xml:id="srisaila72">śataphalam amayānām akṣa dhātryā tathaiva ca|
+        <l xml:id="srisaila72">śataphalam amayānām akṣadhātryā tathaiva ca|
           <caesura/>
            kathitaṃ jalaṃ śatāṣṭau bhāgav aṣṭāv aśoṣitam| </l>
 

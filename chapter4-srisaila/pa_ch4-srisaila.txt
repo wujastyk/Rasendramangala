@@ -458,11 +458,11 @@
 
       <l xml:id="sirsaila71">katha<lb/>yāmi na saṃdeho| mārttaṃḍeyena yat kṛtam|
         <caesura/>
-        dīrghāyuṣkara bhūmo| rasasiddhe rasāyane| 59</l>
+        dīrghāyuṣ<pc> </pc>kara bhūmo| rasasiddhe rasāyane| 59</l>
 
-      <l xml:id="srisaila72">śataṃ phalamabhayānā| makṣadhātryā tathaiva ca|
+      <l xml:id="srisaila72">śataṃ phalam abhayānā|m akṣadhātryā tathaiva ca|
         <caesura/>
-        kathita<lb/>jalaṃ śatāṣṭau| bhāgam aṣṭāv aśeṣitaṃ| 60</l>
+        kathita<lb/><pc> </pc>jalaṃ śatāṣṭau| bhāgam aṣṭāv aśeṣitaṃ| 60</l>
 
       <l xml:id="srisaila73">ghṛtamadhusitayā muktaṃ| vyoṣacitraṃ daśāṃsake||
         <caesura/>

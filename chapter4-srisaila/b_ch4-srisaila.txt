@@ -524,11 +524,11 @@
 
         <l xml:id="srisaila71">kathayāmi na saṃdeho mārkkaṃḍena yathā| kṛtaṃ |
           <caesura/>
-          dīrghāyukārakaṃ bhūme rasasiddhe rasāyane ||43</l>
+          dīrghāyu<pc> </pc>kārakaṃ bhūme rasasiddhe rasāyane ||43</l>
 
-        <l xml:id="srisaila72"><unclear>śatapalamalayānāṃ</unclear><lb/>makṣadhātryā tathaiva ca |
+        <l xml:id="srisaila72"><unclear>śatapalam alayānāṃ</unclear><lb/>m akṣadhātryā tathaiva ca |
           <caesura/>
-          kkathita jalaśatāṣṭau bhāgam aṣṭāv aśeṣaṃ |</l>
+          kkathita jala<pc> </pc>śatāṣṭau bhāgam aṣṭāv aśeṣaṃ |</l>
 
         <l xml:id="srisaila73">ghṛtamadhuśata||rādyaṃ vyoṣacitraṃ daśāṃśai
           <caesura/>

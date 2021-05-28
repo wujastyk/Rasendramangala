@@ -595,12 +595,12 @@
         <label>71</label>
         <l xml:id="srisaila71">kathayāmi na sandeho mārkkaṇḍeyena  yat kṛtam|
           <caesura/>
-          dīrghāyuḥkārakaṃ bhūme rasasiddhe rasāyane| </l>
+          dīrghāyuḥ<pc> </pc>kārakaṃ bhūme rasasiddhe rasāyane| </l>
 
         <label>72</label>
-        <l xml:id="srisaila72">śataphalam abhayānām akṣadhātryā tathaiva ca|
+        <l xml:id="srisaila72">śatapalam abhayānām <caesura/>akṣadhātryā tathaiva |
           <caesura/>
-           kathitaṃ jalaṃ śatāṣṭau bhāgam aṣṭāv aśeṣam| </l>
+          kvathitaṃ jalaṃ śatāṣṭau <caesura/> bhāgam aṣṭāv aśeṣam| </l>
 
         <label>73</label>
         <l xml:id="srisaila73">ghṛtamadhusitayā yuktaṃ vyoṣacitraṃ daśāṃsake|

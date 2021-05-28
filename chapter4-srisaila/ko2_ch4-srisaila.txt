@@ -443,11 +443,11 @@
 
         <l xml:id="srisaila71">kathayāmī na saṃdeho mārkaṃḍena yatnakṛtaṃ
           <caesura/>
-           dirghāyūkārakaṃ bhūme rasasi<unclear>dhe</unclear> rasāyano 62 </l>
+          dirghāyū<pc> </pc>kārakaṃ bhūme rasasi<unclear>dhe</unclear> rasāyano 62 </l>
 
-        <l xml:id="srisaila72">sata<lb/>phalaṃ mūbhayānāṃmakṣū dhātrā tathaiva ca 63
+        <l xml:id="srisaila72">sata<lb/>phalaṃm ūbhayānāṃm akṣūdhātrā tathaiva ca 63
           <caesura/>
-           sakathīta jala satāṣṭo bhāgam aṣṭāv aseṣa </l>
+          sakathīta jala<pc> </pc>satāṣṭo bhāgam aṣṭāv aseṣa </l>
 
         <l xml:id="srisaila73">ghṛtamadhurādyaṃ<lb/> vyoṣacītraṃ dasāṃsai
           <caesura/>

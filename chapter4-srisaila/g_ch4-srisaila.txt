@@ -412,11 +412,11 @@
                 
                 <l xml:id="srisaila71">kathayāmi na saṃdeho mārkaṃḍena yathā kṛtaṃ||
                     <caesura/>
-                    dīrghāyuṣkārakaṃ bhū<unclear>mo</unclear> rasasiddhe rasāyane|| </l>
+                    dīrghāyuṣ<pc> </pc>kārakaṃ bhū<unclear>mo</unclear> rasasiddhe rasāyane|| </l>
         
                 <l xml:id="srisaila72">śatapa<lb/>lam abhayānāṃ pakvadhātryās tathaiva||
                     <caesura/>
-                    kvathitajalaṃ śatāṣṭau bhāgam aṣṭāv aśeṣaṃ|| </l>
+                    kvathita jalaṃ śatāṣṭau bhāgam aṣṭāv aśeṣaṃ|| </l>
                
                 <l xml:id="srisaila73">ghṛtamadhuśata<lb/>saṃkhyāṃ vyoṣacitraṃ daśāṃsaiḥ
                     <caesura/>

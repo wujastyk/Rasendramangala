@@ -466,12 +466,12 @@
       <l xml:id="srisaila71">katha<unclear>yo |</unclear><lb/>mi na saṃdeho mārkkaṃḍena ca yat kṛtaṃ
         ||
         <caesura/>
-         dīrghāyuḥkārakaṃ bhūme rasasiddhi rasāyane|| </l>
+         dīrghāyuḥ<pc> </pc>kārakaṃ bhūme rasasiddhi rasāyane|| </l>
 
-      <l xml:id="srisaila72">śatapalaṃm ubhayā nāma akṣadhā<lb/><unclear>tryā</unclear>tathaiva ca
+      <l xml:id="srisaila72">śatapalaṃm ubhayā nāma akṣadhā<lb/><unclear>tryā</unclear> tathaiva ca
         ||
         <caesura/>
-         kathitajalaśatāṣṭau bhāgam aṣṭāv aśeṣaṃ</l>
+        kathita<pc> </pc>jala<pc> </pc>śatāṣṭau bhāgam aṣṭāv aśeṣaṃ</l>
 
       <l xml:id="srisaila73">ghṛtadhṛtamaghurā<unclear extent="1" unit="syllable"/>vyoṣacitraṃ
         daśāṃśaiḥ||

@@ -416,6 +416,8 @@
           <gap n="15" extent="verses" reason="omitted"/>
         </l>
 
+
+
         <!-- srisaila66 to srisaila80 are missing, Folio No. 17v is missing-->
 
         <!-- [golabaṃdhanam] -->

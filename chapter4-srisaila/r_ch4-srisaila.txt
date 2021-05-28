@@ -466,11 +466,11 @@
         <p xml:id="nagarjuna70a">nāgājuna u</p>
         <l xml:id="srisaila71">kathayāmi na sandeho mākāṇḍena yathā<lb/> kṛtaṃ
           <caesura/>
-           dīrghāyuḥkārakaṃ bhūme rasasiddhe rasāyane </l>
+          dīrghāyuḥ<pc> </pc>kārakaṃ bhūme rasasiddhe rasāyane </l>
 
-        <l xml:id="srisaila72">śatapalamabhayānāṃ cākṣa dhātryāstathaiva
+        <l xml:id="srisaila72">śatapalam abhayānāṃ cākṣadhātryās tathaiva
           <caesura/>
-           kvathita jala śa<lb/>tāṣṭau bhāgam aṣṭāv aśeṣaṃ </l>
+           kvathita jala<pc> </pc>śa<lb/>tāṣṭau bhāgam aṣṭāv aśeṣaṃ </l>
 
         <l xml:id="srisaila73"><unclear>hṛ</unclear>tamadhuśata gadyaṃ vyoṣacittraṃ daśāṃśe
           <caesura/>

@@ -481,11 +481,11 @@
 
         <l xml:id="srisaila71">kathayāmi na saṃ<lb/>deho mārtaṃḍeyena yat kṛta
           <caesura/>
-          dīrghāyuṣkara<ps> </ps>bhūmau rasasiddhe rasāyane</l>
+          dīrghāyuṣ<pc> </pc>kara<pc> </pc>bhūmau rasasiddhe rasāyane</l>
 
-        <l xml:id="srisaila72">śataphalamabha<lb/>yānāmakṣadhātryā tathaiva ca
+        <l xml:id="srisaila72">śataphalam abha<lb/>yānām akṣadhātryā tathaiva ca
           <caesura/>
-          thinaṃ jalaṃśaḥ tīṣṭau bhāgam aṣṭāv aśeṣitaṃ</l>
+          thinaṃ jalaṃ śaḥtīṣṭau bhāgam aṣṭāv aśeṣitaṃ</l>
 
         <l xml:id="srisaila73">ghṛtamadhu<lb/>sitayā yukta vyoṣacitradaśāṃśena
           <caesura/>
@@ -808,7 +808,7 @@
 
         <l xml:id="srisaila160">kramate vyādhisaṃghātaṃ trasate duṣṭate <unclear>rā</unclear>kān
           <caesura/>
-          tasmātkarmasaṃjñā<lb/>ya tato vaidyarūpācarat</l>
+          tasmāt karmasaṃjñā<lb/>ya tato vaidyarūpācarat</l>
 
         <l xml:id="srisaila161">kārmaṇenaṃ vinā sūto na kramen vevaṃ vidhati
           <caesura/>

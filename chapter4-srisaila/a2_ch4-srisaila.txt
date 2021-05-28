@@ -625,14 +625,14 @@
 
         <l xml:id="srisaila71"> kathayāmi na saṃdehaṃ mārkkaṃḍeyena yat kṛtaṃ
           <caesura/>
-           dīrghāyuḥkamakaṃ bhūme rasa<lb/>siddhe rasāyane 22 </l>
+          dīrghāyuḥ<pc> </pc>kamakaṃ bhūme rasa<lb/>siddhe rasāyane 22 </l>
 
 
 
 
         <l xml:id="srisaila72"> śata<unclear>pa</unclear>lam abhayānām akṣadhātryos tathaiva ca
           <caesura/>
-           kva<lb/>thitajalaśatāṣṭau bhāgam aṣṭāv aśeṣaṃ </l>
+          kva<lb/>thita<pc> </pc>jala<pc> </pc>śatāṣṭau bhāgam aṣṭāv aśeṣaṃ </l>
 
         <l xml:id="srisaila73"> ghṛtamadhusitayā<unclear>ṭhāṃ</unclear> vyo<lb/>ṣacitraṃ daśāṃśai
           <caesura/>
