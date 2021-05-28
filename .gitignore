@@ -1,0 +1,8 @@
+.ftpquota
+Branches
+*.zip
+*.xpr
+*.bak
+start.*
+working*.txt
+chapter*-other/
