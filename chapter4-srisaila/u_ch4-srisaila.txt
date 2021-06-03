@@ -471,12 +471,15 @@
       <l xml:id="srisaila72">śatapalaṃm ubhayā nāma akṣadhā<lb/><unclear>tryā</unclear> tathaiva ca
         ||
         <caesura/>
-        kathita<pc> </pc>jala<pc> </pc>śatāṣṭau bhāgam aṣṭāv aśeṣaṃ</l>
+         kathita<pc> </pc>jala<pc> </pc>śatāṣṭau bhāgam aṣṭāv aśeṣaṃ</l>
 
-      <l xml:id="srisaila73">ghṛtadhṛtamaghurā<unclear extent="1" unit="syllable"/>vyoṣacitraṃ
-        daśāṃśaiḥ||
+      <l xml:id="srisaila73">ghṛtadhṛtamadhurā<unclear extent="1" unit="syllable"/>
         <caesura/>
-         rasapaladaśasiddhaṃ lohacūrṇaṃ mṛtaṃ ca </l>
+        vyoṣacitraṃ daśāṃśaiḥ||
+        <caesura/>
+         rasapaladaśasiddhaṃ
+        <caesura/>
+         lohacūrṇaṃ mṛtaṃ ca </l>
 
       <l xml:id="srisaila74">giriyutasamam abhraṃ
         <caesura/>

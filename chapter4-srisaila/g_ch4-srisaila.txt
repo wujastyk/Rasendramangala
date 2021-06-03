@@ -461,7 +461,7 @@
                 
                 <l xml:id="srisaila82">gaṃdhakābhrakāṃtasahitaṃ bhānuratnādikāṃcanaṃ||
                     <caesura/>
-                    samajīrṇarasendrasya<lb/> baṃdhaṃ <unclear>kṛ</unclear>tvānugolakam|| </l>
+                    samajīrṇarasendrasya<lb/> baṃdhaṃ <unclear>kṛ</unclear>tvā nu golakam|| </l>
                 
                 <l xml:id="srisaila83">rasendraḥ paṃcalohāni samabhāgāni melayet||<note place="foot">Like
                     Rasārṇava 18.196</note>

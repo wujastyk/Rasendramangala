@@ -42,7 +42,9 @@
               <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
             </msItem>
           </msContents>
+
           <physDesc>
+
             <objectDesc form="pothi">
               <!-- @form can be "pothi", "book", scroll", etc. -->
               <supportDesc material="paper">
@@ -86,6 +88,11 @@
                 <p>[description of another hand]</p>
               </handNote>
             </handDesc>
+            <scriptDesc>
+              <scriptNote xml:id="script-ba-va"><foreign xml:lang="sa">ba</foreign> and <foreign
+                  xml:lang="sa">va</foreign> not distinguished.</scriptNote>
+            </scriptDesc>
+            
             <additions>
               <!-- the following additions are examples -->
               <p>Marginal annotations and corrections throughout.</p>
@@ -95,7 +102,9 @@
             <bindingDesc>
               <p>[description of cover, binding, and/or stringholes]</p>
             </bindingDesc>
+
           </physDesc>
+
           <history>
             <origin>
               <origDate calendar="Vikrama" when="1737">Vikrama Saṃvat 1737 (AD 1681).</origDate>
@@ -572,8 +581,13 @@
 
         <l xml:id="srisaila63a">viśuddhaṃ taṃ vijānīyāc cakrasvedena svedayet 14
           <caesura/>
-           <choice><sic>śa</sic><corr evidence="conjecture">rā</corr></choice>śi<lb/>vedavapuś caiva caitre <subst>
-            <del rend="overwritten">su</del><add>sū</add></subst>ryālepeṣu ca </l> 
+          <choice>
+            <sic>śa</sic>
+            <corr evidence="conjecture">rā</corr>
+          </choice>śi<lb/>vedavapuś caiva caitre <subst>
+            <del rend="overwritten">su</del>
+            <add>sū</add>
+          </subst>ryālepeṣu ca </l>
 
         <l xml:id="srisaila64"> melayet śaśiyogena vedāṃ hi parva<lb/>locanaiḥ 15
           <caesura/>
@@ -625,14 +639,14 @@
 
         <l xml:id="srisaila71"> kathayāmi na saṃdehaṃ mārkkaṃḍeyena yat kṛtaṃ
           <caesura/>
-          dīrghāyuḥ<pc> </pc>kamakaṃ bhūme rasa<lb/>siddhe rasāyane 22 </l>
+           dīrghāyuḥ<pc> </pc>kamakaṃ bhūme rasa<lb/>siddhe rasāyane 22 </l>
 
 
 
 
         <l xml:id="srisaila72"> śata<unclear>pa</unclear>lam abhayānām akṣadhātryos tathaiva ca
           <caesura/>
-          kva<lb/>thita<pc> </pc>jala<pc> </pc>śatāṣṭau bhāgam aṣṭāv aśeṣaṃ </l>
+           kva<lb/>thita<pc> </pc>jala<pc> </pc>śatāṣṭau bhāgam aṣṭāv aśeṣaṃ </l>
 
         <l xml:id="srisaila73"> ghṛtamadhusitayā<unclear>ṭhāṃ</unclear> vyo<lb/>ṣacitraṃ daśāṃśai
           <caesura/>

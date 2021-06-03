@@ -416,7 +416,7 @@
 
       <l xml:id="srisaila82">gaṃdhakābhra<lb/>kāṃtaṃ sahitaṃ bhānuratnāni kāṃcanaṃ|
         <caesura/>
-        samajīrṇaṃ raseṃdrasya| baṃdhaṃ kṛ<unclear>dbhā</unclear>nugolakaṃ|
+        samajīrṇaṃ raseṃdrasya | baṃdhaṃ kṛ<unclear>dbhā</unclear> nu golakaṃ|
         <unclear>50</unclear></l>
 
       <l xml:id="srisaila83">raseṃdrapaṃcalohāni| samabhāgāni lepayet|

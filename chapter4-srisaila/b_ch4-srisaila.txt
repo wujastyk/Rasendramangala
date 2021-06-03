@@ -76,6 +76,11 @@
               <handNote medium="green highlighter" scope="minor" script="english"> <p>[description
                 of another hand]</p> </handNote>
             </handDesc>
+            <scriptDesc>
+              <scriptNote xml:id="script-ba-va"><foreign xml:lang="sa">ba</foreign> and <foreign
+                xml:lang="sa">va</foreign> not distinguished.</scriptNote>
+            </scriptDesc>
+            
             <additions>
               <!-- the following additions are examples --> <p>Marginal annotations and corrections
               throughout.</p> <p>Marginal illustration of alchemical apparatus on leaf 2r, and 27
