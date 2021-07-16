@@ -485,7 +485,7 @@
 
         <l xml:id="srisaila79"><unclear>vri</unclear>ṣabha i<lb/>va vīceṣṭā meghaghaṃbhīragoṣa
           <caesura/>
-           sūragajam īva loke snāta haṃtā sūnityaṃ </l>
+           sūragajam īva loke snātahaṃtāsū nityaṃ </l>
 
         <l xml:id="srisaila80">prabhavatu ṣalū loke<lb/> caṃdratārārkaji<unclear> vī</unclear> 67 </l>
 

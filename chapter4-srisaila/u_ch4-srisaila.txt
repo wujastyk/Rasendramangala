@@ -512,7 +512,7 @@
 
       <l xml:id="srisaila79">vṛṣa<lb/>bha iva viceṣṭīm abhragaṃbhīraghoṣaḥ||
         <caesura/>
-         suragajam iva loke<unclear>snā</unclear>tahaṃtāstu nityaṃ</l>
+         suragajam iva loke<unclear> snā</unclear>tahaṃtās tu nityaṃ</l>
 
       <l xml:id="srisaila80">prasavati ṣalu loke caṃdratārārka<lb/><pb n="39v"/>jīvī|| </l>
 

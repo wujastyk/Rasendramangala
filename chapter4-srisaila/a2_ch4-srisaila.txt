@@ -674,7 +674,7 @@
         <l xml:id="srisaila78"> jalada iva <add place="above-line"> ca </add> yuṣmān <lb/>
           kuṃcitāgrāgrakeśas turaga iva viśuddhaḥ sa<unclear>ka</unclear>viś citrakārī </l>
 
-        <l xml:id="srisaila79"> vṛṣa<lb/>bhagati viceṣṭīm agragaṃbhīraṣoyaḥ
+        <l xml:id="srisaila79"> vṛṣa<lb/>bhagativiceṣṭīm agragaṃbhīraṣoyaḥ
           <caesura/>
            suragaja iva loke śrāṃtahaṃtā<lb/>su nityaṃ </l>
 

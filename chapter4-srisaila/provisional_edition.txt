@@ -752,17 +752,17 @@
               <title>Rasārṇava</title> 12.367ab (Ray 1910, 269).</item>
             
             <item target="srisaila78-n2">
-              <quote>
-                jalada iva vapuṣmān kuñcitāgrāgrakeśaḥ <caesura/>turaga iva viśuddhaḥ satkaviś citrakārī
+              <quote>jalada iva vapuṣmān kuñcitāgrāgrakeśaḥ <caesura/>turaga iva viśuddhaḥ satkaviś citrakārī
               </quote><title>Ānandakanda</title> 1.23.568ab (ĀK 1952, p. 441).
             </item>
           </list>
         </div2>
 
+
         <label>79</label>
-        <l xml:id="srisaila79">vṛṣabhagativiceṣṭo abhragaṃbhīraghoṣaḥ|
+        <l xml:id="srisaila79">vṛṣabha iva viceṣṭīm abhragaṃbhīraghoṣaḥ|
           <caesura/>
-           suragaja iva loke śrāntarey,dantāsu nityam | </l>
+           suragaja iva loke śrāntadantāsu nityam | </l>
 
         <div2 xml:id="srisaila79-app" target="#srisaila79" type="apparatus">
           <list type="Parallels">
@@ -772,8 +772,7 @@
               <title>Rasārṇava</title> 12.367cd (Ray 1910, 269).</item>
             
             <item target="srisaila79-n2">
-              <quote>
-                vṛṣabhagativiceṣṭo mandagambhīraghoṣaḥ <caesura/>suragaja iva loke candratārārkajīvī
+              <quote>vṛṣabhagativiceṣṭo mandagambhīraghoṣaḥ <caesura/>suragaja iva loke candratārārkajīvī
               </quote><title>Ānandakanda</title> 1.23.568cd (ĀK 1952, p. 441).
             </item>
           </list>

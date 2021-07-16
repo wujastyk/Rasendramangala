@@ -510,7 +510,7 @@
 
         <l xml:id="srisaila79">vṛṣabhaga<unclear>|</unclear><lb/>tiviciṣṭī mātra gambhīraghoṣaḥ
           <caesura/>
-           turaga <unclear>dra</unclear> loke śrānta hantāstu nityaṃ </l>
+           turaga <unclear>dra</unclear> loke śrāntahantās tu nityaṃ </l>
 
         <l xml:id="srisaila80">prabhavati khalu loke caṃdratārārka<lb/>jīvī </l>
 

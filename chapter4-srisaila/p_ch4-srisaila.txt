@@ -484,7 +484,7 @@
 
         <l xml:id="srisaila79">vṛṣabhagativiceṣṭo abhrakāṃ gabhīraghoghaḥ
           <caesura/>
-          suragaja iva loke śrāṃtadaṃtā sunityaṃ</l>
+          suragaja iva loke śrāṃtadaṃtāsu nityaṃ</l>
 
         <l xml:id="srisaila80">prabhavati khalu loke caṃ<lb/>dratārārkajī|vī</l>
 

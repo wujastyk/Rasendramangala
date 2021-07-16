@@ -523,7 +523,7 @@
         <l xml:id="srisaila78">jala<lb/>da iva ca yuṣmān kuṃcitāgnāgrakeśā turaga
             <unclear>dha</unclear>va viśuddha satkaviś catrakārī</l>
 
-        <l xml:id="srisaila79">vṛ<lb/>ṣa bhagati viceṣṭo abhrakāṃ gaṃbhīraghoṣa
+        <l xml:id="srisaila79">vṛ<lb/>ṣabhagativiceṣṭo abhrakāṃ gaṃbhīraghoṣa
           <caesura/>
            suragaja iva loke śrāṃtadaṃtaṃ sunityaṃ</l>
 

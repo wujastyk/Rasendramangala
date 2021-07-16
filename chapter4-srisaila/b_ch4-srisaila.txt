@@ -569,9 +569,9 @@
           turaga iva viśuddhaḥ satkaviś citrakārī</l>
 
         <l xml:id="srisaila79">vṛṣabhagativi<unclear extent="2" unit="syllables"
-          />ṣṭhīmabhragaṃbhīraghoṣaḥ
+          />ṣṭhīm abhragaṃbhīraghoṣaḥ
           <caesura/>
-          <unclear extent="4" unit="syllables"/>iva loke śrāṃta haṃtāsu nityaṃ ||46</l>
+          <unclear extent="4" unit="syllables"/>iva loke śrāṃtahaṃtāsu nityaṃ ||46</l>
 
         <l xml:id="srisaila80">prabhavati khalu loke caṃdratārārkajīvī ||<unclear extent="1"
           unit="syllable"/>||</l>

@@ -444,7 +444,8 @@
                 
                 <l xml:id="srisaila79">vṛṣabhasamagatir vai abhragaṃbhīraghoṣaḥ||
                     <caesura/>
-                    suragaja iva lokeśa<unclear extent="1" unit="akṣara"/> daṃtāsu<lb/> nityaṃ| | </l>
+                    suragaja iva loke śa<unclear extent="1" unit="akṣara"/>daṃtāsu<lb/> nityaṃ| | </l>
+                
                 
                 <l xml:id="srisaila80"><unclear>atha</unclear> golabaṃdhanam āha ||</l>
                 

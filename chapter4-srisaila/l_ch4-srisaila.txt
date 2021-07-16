@@ -519,9 +519,9 @@
           <caesura/>
            turaga iva viśuddhaḥ satkaviś citrakārī | </l>
 
-        <l xml:id="srisaila79">vṛṣabhagati viveṣṭo abhrakāṃ gaṃbhīraghoghaḥ|
+        <l xml:id="srisaila79">vṛṣabhagativiveṣṭo abhrakāṃ gaṃbhīraghoghaḥ|
           <caesura/>
-           suragaja iva loke śrānta daṃtāsu nityam | </l>
+           suragaja iva loke śrāntadaṃtāsu nityam | </l>
 
         <l xml:id="srisaila80">prabhavati khalu loke caṃdratārārkajīvī| | </l>
 
