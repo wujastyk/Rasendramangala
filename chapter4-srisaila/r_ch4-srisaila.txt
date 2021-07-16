@@ -492,13 +492,13 @@
           <caesura/>
            lohapātrastha māmaṃ
           <caesura/>
-           mumṛtadita nu śuddhaṃ
+           mumṛtaditanuśuddhaṃ
           <caesura/>
-           kalkamava variṣṭaṃ </l>
+           kalkam ava variṣṭaṃ </l>
 
         <l xml:id="srisaila76">lihi śatamayanakāle vāmane<unclear>bhrā</unclear>vamevī |
           <caesura/>
-          <lb/> ghanani viḍasu gandhi matamātaṃgadarpaṃ </l>
+          <lb/> ghananiviḍasugandhi matamātaṃgadarpaṃ </l>
 
         <l xml:id="srisaila77">vigata<del>ma</del><add>sa</add>kaladoṣaḥ sarvadigdivācakṣaḥ
           <caesura/>

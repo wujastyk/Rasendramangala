@@ -151,7 +151,7 @@
            durlabhaṃ triṣu lokeṣu rasabaṃ<lb/>dha varānane|</l>
         <l xml:id="srisaila14"> yena kenāṣ upāyena prakaromi mahadbhutam
           <caesura/>
-           sādhanaṃ sūtakasyāpi mṛtyudāridranāśanam| </l>
+           sādhanaṃ sūtakasyāpi mṛtyudāridranāśanam | </l>
         <l xml:id="srisaila15">parvatā gṛhaprā<lb/>sādā sasailavanakānanā
           <caesura/>
            kāṃcanamayā kariṣyāmi lokānāṃ hitakāmyayā</l>
@@ -397,11 +397,11 @@
 
         <l xml:id="srisaila75">ahimaraktakṛtacūtkaṃ lohapātreṇa māsaṃ
           <caesura/>
-           sadina na tu suddhaṃ kalkam enaṃ variṣṭaṃ</l>
+           sadinanatusuddhaṃ kalkam enaṃ variṣṭaṃ</l>
 
         <l xml:id="srisaila76">lihati śayanakāle<lb/> mīmanetrārddhasevī
           <caesura/>
-           dhanani vi<unclear>ḍa</unclear>su saṃdhe mattamāttaṃgada<unclear>rppā</unclear> </l>
+           dhananivi<unclear>ḍa</unclear>susaṃdhe mattamāttaṃgada<unclear>rppā</unclear> </l>
 
         <l xml:id="srisaila77">vigatasakaladoṣaḥ sarvadigdivyacakṣuḥ
           <caesura/>

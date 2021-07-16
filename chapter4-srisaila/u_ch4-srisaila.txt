@@ -493,22 +493,22 @@
         <caesura/>
          lohapatrasthamāsaṃ||
         <caesura/>
-         pratidinatana śuddhaḥ
+         pratidinatanaśuddhaḥ
         <caesura/>
-         kalkametaṃ variṣṭāṃ </l>
+         kalkam etaṃ variṣṭāṃ </l>
 
       <l xml:id="srisaila76">lihati śayanakāle vāmanetrarddhase<lb/>vī||
         <caesura/>
-         dhananiviḍasusiddhe mattamātaṃgadarpā</l>
+         dhananiviḍasusiddhe mattamātaṃgadarpā </l>
 
       <l xml:id="srisaila77">vigatasakaladoṣaḥ sarvadikdivyacakṣuḥ||
         <caesura/>
          madana iva sukāṃtiḥ kā<lb/>minīnāṃ pravīṇaḥ </l>
 
-      <l xml:id="srisaila78"><unclear>ja</unclear>lada iva ca yuṣmān kuṃcitā yāgrake<unclear
+      <l xml:id="srisaila78"><unclear>ja</unclear>lada iva ca yuṣmān kuṃcitāyāgrake<unclear
           extent="1" unit="syllable"/>śān||
         <caesura/>
-         turaga iva viśuddhaḥ satkavīścitrakārī</l>
+         turaga iva viśuddhaḥ satkavīś citrakārī</l>
 
       <l xml:id="srisaila79">vṛṣa<lb/>bha iva viceṣṭīm abhragaṃbhīraghoṣaḥ||
         <caesura/>

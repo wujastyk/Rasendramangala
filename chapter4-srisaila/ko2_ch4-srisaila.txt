@@ -109,7 +109,7 @@
 
         <p>||1|</p>
 
-        <p><unclear>om</unclear>|| atha nāgārjūnakṛtarasaratnākarasya cartho adhyāya prārabhyate </p>
+        <p><unclear>om</unclear>| | atha nāgārjūnakṛtarasaratnākarasya cartho adhyāya prārabhyate </p>
 
         <l xml:id="srisaila01">śrīsīlaparvata<unclear>syo</unclear><lb/>sau sidho nāgārjūno māhānḥ
           <caesura/>
@@ -170,7 +170,7 @@
            yatā kecita prārtha<unclear>se</unclear>sīdhiḥ ta śarvaṃ pradadāmy ahaṃ 12<pb n="1r"/>
         </l>
 
-        <l xml:id="srisaila13">|| yadi tvaṃ devī tuṣṭāsiḥ mabhaktyā bhaktīvachaleḥ
+        <l xml:id="srisaila13">| | yadi tvaṃ devī tuṣṭāsiḥ mabhaktyā bhaktīvachaleḥ
           <caesura/>
            durlabhaṃ triṣu lokaṣū rasabaṃdhaṃ varānane 13 </l>
 
@@ -467,13 +467,13 @@
           <caesura/>
            lohapātrastha māsaṃ
           <caesura/>
-           pratidāna tana sū<lb/>dhaṃ
+           pratidānatanasū<lb/>dhaṃ
           <caesura/>
            kalkam etaṃ variṣṭāṃ </l>
 
         <l xml:id="srisaila76"><unclear>liṃ</unclear>hati sayanakāle vāṃmanetrārdhasevī 65
           <caesura/>
-           ghaṃnani biḍa<unclear extent="1" unit="syllable"/>sidhe matamātaṃ<lb/>gadarpā </l>
+           ghaṃnanibiḍa<unclear extent="1" unit="syllable"/>sidhe matamātaṃ<lb/>gadarpā </l>
 
         <l xml:id="srisaila77">vigatasakaladoṣa saṃrvadikdivyacakṣū
           <caesura/>
@@ -530,7 +530,7 @@
 
         <l xml:id="srisaila90">ālaṃgane ca vaktavye parsanaṃ ca sūsobhane
           <caesura/>
-           maithūne mardane caiva sūrāpā vā vilocanā 76 || <lb/><pb n="4v"/>
+           maithūne mardane caiva sūrāpā vā vilocanā 76 | | <lb/><pb n="4v"/>
         </l>
 
         <l xml:id="srisaila91">vālmīkaṃ mūṣarogāṃ ca cakṣūśrotādināsikā

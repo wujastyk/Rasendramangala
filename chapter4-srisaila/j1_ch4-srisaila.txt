@@ -30,8 +30,8 @@
               <title xml:lang="sa">Rasendramaṅgala</title>
               <title type="commentary" xml:lang="sa">Ṭippaṇa</title>
               <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
-              <rubric xml:lang="sa"><milestone n="1v1" unit="folio"/>|| śrīvardhamānajineśvarāya
-                namaḥ || śrīgurubhyo namaḥ ||</rubric>
+              <rubric xml:lang="sa"><milestone n="1v1" unit="folio"/>| | śrīvardhamānajineśvarāya
+                namaḥ | | śrīgurubhyo namaḥ ||</rubric>
               <incipit xml:lang="sa"><milestone n="1v1" unit="folio"/>natvā sureṃdraṃ
                 śivasaukhyadāyakaṃ <add place="above">kārakaṃ</add>
                 apārasaṃsārasamudratārakaṃ</incipit>
@@ -218,11 +218,11 @@
 
         <l xml:id="srisaila19">sarvalakṣaṇasaṃpūrṇo yaḥ sūlakṣasya poṣakaḥ|
           <caesura/>
-           tasya sparśāvalokena yuṣmatsiddhir bhaviṣyati| </l>
+           tasya sparśāvalokena yuṣmatsiddhir bhaviṣyati | </l>
 
         <l xml:id="srisaila20">mayā tasya śrutaṃ vākyaṃ prārthitaśālivāhanaḥ|
           <caesura/>
-           yuṣmatsāmarthyayogena sādhayāmi mahārasam| </l>
+           yuṣmatsāmarthyayogena sādhayāmi mahārasam | </l>
 
 
         <p ana="speaker" xml:id="salivahana-1">śrīśālivāhanobāca </p>
@@ -234,7 +234,7 @@
 
         <l xml:id="srisaila22">sādhu sādhu ma¦<lb/>hāprājña mamādeśaḥ prapālakaḥ
           <caesura/>
-           sādhayāmi na saṃdeho yuṣmatsatyena sādhakaḥ| </l>
+           sādhayāmi na saṃdeho yuṣmatsatyena sādhakaḥ | </l>
 
         <p>ṣaṣṭyādhyā¦<lb/>ya saṃpūrṇṇaḥ</p>
 
@@ -300,7 +300,7 @@
 
         <l xml:id="srisaila38">gokarṇī ca samā<lb/>khyāto dvitīyā kṛṣṇamaṃjarī
           <caesura/>
-           yathālābhe gṛhītavyā viśeṣo pa na labhyate| </l>
+           yathālābhe gṛhītavyā viśeṣo pa na labhyate | </l>
 
         <l xml:id="srisaila39">yatra de<lb/>śe samutpannā bhūtale vātha parvate|
           <caesura/>
@@ -444,6 +444,8 @@
           <caesura/>
            ghanam uttama yena bhakṣitamātreṇa naro bhavati vīryavān</l>
 
+<!-- later in this MS -->
+
         <l xml:id="srisaila82">gaṃdhakābhrakāṃsahitaṃ bhānuratnāni kācanaṃ
           <caesura/>
            samajīrṇe raseṃdrasya vaṃdha<lb/>kṛdbhānugālakaṃ</l>
@@ -499,13 +501,13 @@
           <caesura/>
            rasasahitasubhāvyaṃ
           <caesura/>
-           taṃdulairvilvakāṃjikaiḥ</l>
+           taṃdulair vilvakāṃjikaiḥ</l>
 
-        <l xml:id="srisaila75">ahimaraktakṛta cū<unclear>ktaṃ</unclear>
+        <l xml:id="srisaila75">ahimaraktakṛtacū<unclear>ktaṃ</unclear>
           <caesura/>
            lohapātreṇa māsaṃ
           <caesura/>
-           sadina na tu śuddhaṃ
+           sadinanatuśuddhaṃ
           <caesura/>
            kalkamenaṃ variṣṭaṃ</l>
 
@@ -519,7 +521,7 @@
            madana iva sukāti kāminīnā pracārāḥ</l>
 
         <l xml:id="srisaila78">jala<lb/>da iva ca yuṣmān kuṃcitāgnāgrakeśā turaga
-            <unclear>dha</unclear>va viśuddha satkaviścatrakārī</l>
+            <unclear>dha</unclear>va viśuddha satkaviś catrakārī</l>
 
         <l xml:id="srisaila79">vṛ<lb/>ṣa bhagati viceṣṭo abhrakāṃ gaṃbhīraghoṣa
           <caesura/>
@@ -530,6 +532,8 @@
         <l xml:id="srisaila81">punaḥratnaṃ pravakṣyāmi golavaṃdhavaci<lb/>trakaṃ
           <caesura/>
            vaprasupūṃcajalodare </l>
+        
+<!--        82-91 occur earlier in this MS -->
 
         <l xml:id="srisaila92">grāhiṇī durnāmakaṃ gutva gaṃdhamālāśilāstathā </l>
 

@@ -460,15 +460,15 @@
           <caesura/>
           rasasahitamubhāvyaṃ
           <caesura/>
-          taṃḍulairvilva kāṃjikaiḥ</l>
+          taṃḍulair vilvakāṃjikaiḥ</l>
 
         <l xml:id="srisaila75">ahimaraktakṛtacūtkaṃ
           <caesura/>
           lohopā<lb/>treṇa māsaṃ
           <caesura/>
-          sadina na tu suddhaṃ
+          sadinanatusuddhaṃ
           <caesura/>
-          kalkamenaṃ variṣṭaṃ</l>
+          kalkam enaṃ variṣṭaṃ</l>
 
         <l xml:id="srisaila76">lihati śayanakāle mīmanetrārddhasevī
           <caesura/>
@@ -480,7 +480,7 @@
 
         <l xml:id="srisaila78">jalada iva ca yuṣmān kucitāgrāgrakeśāḥ
           <caesura/>
-          turaga iva vi<lb/>śuddhaḥ satkaviścitrakārī</l>
+          turaga iva vi<lb/>śuddhaḥ satkaviś citrakārī</l>
 
         <l xml:id="srisaila79">vṛṣabhagativiceṣṭo abhrakāṃ gabhīraghoghaḥ
           <caesura/>

@@ -30,8 +30,8 @@
               <title xml:lang="sa">Rasendramaṅgala</title>
               <title type="commentary" xml:lang="sa">Ṭippaṇa</title>
               <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
-              <rubric xml:lang="sa"><milestone n="1v1" unit="folio"/>|| śrīvardhamānajineśvarāya
-                namaḥ || śrīgurubhyo namaḥ ||</rubric>
+              <rubric xml:lang="sa"><milestone n="1v1" unit="folio"/> || śrīvardhamānajineśvarāya
+                namaḥ | | śrīgurubhyo namaḥ ||</rubric>
               <incipit xml:lang="sa"><milestone n="1v1" unit="folio"/>natvā sureṃdraṃ
                 śivasaukhyadāyakaṃ <add place="above">kārakaṃ</add>
                 apārasaṃsārasamudratārakaṃ</incipit>
@@ -304,12 +304,12 @@
         
         
 <l xml:id="srisaila18">yatkiṃcit prārthyate siddha tatsarvaṃ
-          pradadāmi te|| <caesura/> kṛtakāryaṃ yathā tathyaṃ tiṣṭe haṃ
+          pradadāmi te| | <caesura/> kṛtakāryaṃ yathā tathyaṃ tiṣṭe haṃ
           tvatsamīpataḥ||</l>
         
         
 <l xml:id="srisaila19">sarvalakṣaṇasaṃpūrṇo yastu lakṣasya
-          poṣakaḥ|| <caesura/> tasya sparśāvalokena
+          poṣakaḥ| | <caesura/> tasya sparśāvalokena
           yuṣmatsiddhir bhaviṣyati||</l>
         -->
 
@@ -375,13 +375,13 @@
 
         <l xml:id="srisaila33">yuṣmadājñāpras<del>o</del>ādena sādhayāmi<lb/> mahārasam 85
           <caesura/>
-           ādau tāvad rasaṃ grāhyaṃ viśuddhaṃ nirmalaṃ dṛḍham| </l>
+           ādau tāvad rasaṃ grāhyaṃ viśuddhaṃ nirmalaṃ dṛḍham | </l>
 
 
 
         <l xml:id="srisaila34">dravye<lb/> rasāyane yogy<del>e</del>aṃ tataḥ karma samārambhet 86
           <caesura/>
-           su<unclear>mṛ</unclear>ṣṭaṃ pātitaṃ sūtaṃ sa<lb/>rvadoṣo<unclear>jhi</unclear>taṃ tataḥ| </l>
+           su<unclear>mṛ</unclear>ṣṭaṃ pātitaṃ sūtaṃ sa<lb/>rvadoṣo<unclear>jhi</unclear>taṃ tataḥ | </l>
 
 
 
@@ -432,7 +432,7 @@
 
         <l xml:id="srisaila42">oṃ yenedaṃ khanate vrahmā yenedaṃ<lb/>khanate raviḥ||
           <caesura/>
-           hariḥ|| tenāhaṃ khanayiṣyāmi paṃcaśākhena pāṇi<lb/>nā 93</l>
+           hariḥ| | tenāhaṃ khanayiṣyāmi paṃcaśākhena pāṇi<lb/>nā 93</l>
 
 
         <p xml:id="srisaila42a">oṃ mā </p>
@@ -523,7 +523,7 @@
 
         <l xml:id="srisaila54"> evaṃ jñātvā prayatnena kuru karma vicakṣaṇaḥ 5
           <caesura/>
-           varṇasaṃkhyāpramā<lb/>ṇena nāgaṃ bhavati kāṃcanaṃ ||ch|| </l>
+           varṇasaṃkhyāpramā<lb/>ṇena nāgaṃ bhavati kāṃcanaṃ ||ch| | </l>
 
 
 
@@ -663,16 +663,16 @@
 
 
 
-        <l xml:id="srisaila76"> lihati śayanakāle vāmanetrārddhasevī ghananivi<lb/>ḍasu saṃdhir
+        <l xml:id="srisaila76"> lihati śayanakāle vāmanetrārddhasevī <caesura/>ghananivi<lb/>ḍasusaṃdhir
           mattamāttaṃgadaryyo </l>
 
         <l xml:id="srisaila77"> vigatasakaladoṣaḥ sarvadig vidavyacakṣu<lb/>r madana iva sukāṃtiḥ
-          kāminīnāṃ pravīraḥ 25 </l>
+          kāminīnāṃ pravīraḥ<pc> </pc> 25 </l>
 
 
 
         <l xml:id="srisaila78"> jalada iva <add place="above-line"> ca </add> yuṣmān <lb/>
-          kuṃcitāgrāgrakeśas turaga iva viśuddhaḥ sa<unclear>ka</unclear>viścitrakārī </l>
+          kuṃcitāgrāgrakeśas turaga iva viśuddhaḥ sa<unclear>ka</unclear>viś citrakārī </l>
 
         <l xml:id="srisaila79"> vṛṣa<lb/>bhagati viceṣṭīm agragaṃbhīraṣoyaḥ
           <caesura/>
@@ -825,7 +825,7 @@
 
         <l xml:id="srisaila110"> sutaptaṃ ca vijānīyān nirdhūmaṃ ca yadā bhave<lb/>t 55
           <caesura/>
-           caṃdrarkke tu grahā ṛkṣāraśayoḥ bhuvanāni ca | </l>
+           caṃdrarkke tu grahā ṛkṣāraśayoḥ bhuvanāni ca  | </l>
 
         <l xml:id="srisaila111"> namaskṛ<lb/>tya guruṃ devam ātmānaṃ tavraṣṭi nirkṣapet 56
           <caesura/>
