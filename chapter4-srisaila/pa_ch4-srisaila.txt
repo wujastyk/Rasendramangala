@@ -268,7 +268,7 @@
 
       <l xml:id="srisaila37">ūṣmayaṃtrasya madhyasthaṃ | jā<lb/>ritavyaṃ prayatnataḥ | 11
         <caesura/>
-        punaranyaṃ prakarttavyaṃ | yathā carati kāṃcanaṃ|</l>
+        punar anyaṃ prakarttavyaṃ | yathā carati kāṃcanaṃ|</l>
 
       <l xml:id="srisaila38">gokarṇī ca samākhyātā | dvitīyā kṛṣṇamaṃjarī | 12
         <caesura/>
@@ -502,7 +502,7 @@
 
       <l xml:id="srisaila80">prabhavati khalu loke caṃdratārārkajīvī| | 64</l>
 
-      <l xml:id="srisaila81">punaranyaṃ pravakṣyāmi | go<lb/>laṃ va vibhitraṃ ca|
+      <l xml:id="srisaila81">punar anyaṃ pravakṣyāmi | go<lb/>laṃ va vibhitraṃ ca|
         <caesura/>
         <gap extent="pada" reason="omitted"/>prasuptaṃ ca jalodare</l>
 
@@ -547,7 +547,7 @@
         <caesura/>
         etadgaṃdhaprabhāvena | samāvarto yadā bhavet|</l>
 
-      <l xml:id="srisaila102">punaranyaṃ bhavetpiṃḍaṃ | nātra kāryavicāraṇā | <unclear>72</unclear>
+      <l xml:id="srisaila102">punar anyaṃ bhavetpiṃḍaṃ | nātra kāryavicāraṇā | <unclear>72</unclear>
         <caesura/>
         paṃcāmṛto mahāyogo | <unclear>u</unclear>kto <persName>maṃthānabhaira<pb n="16v"/>ve</persName></l>
 
@@ -617,7 +617,7 @@
 
       <p xml:id="srisaila117a">śrī<persName>nāgārjuna</persName>uvāca</p>
 
-      <l xml:id="srisaila118">punaranyaṃ pravakṣyāmi | kheca<lb/>raṃ baṃdham uttamaṃ|
+      <l xml:id="srisaila118">punar anyaṃ pravakṣyāmi | kheca<lb/>raṃ baṃdham uttamaṃ|
         <caesura/>
         yena bhakṣitamātreṇa | surasāmānyato bhavet | 93</l>
 

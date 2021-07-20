@@ -489,7 +489,7 @@
 
         <l xml:id="srisaila80">prabhavatu ṣalū loke<lb/> caṃdratārārkaji<unclear> vī</unclear> 67 </l>
 
-        <l xml:id="srisaila81">pūnyaravya pravakṣāmī golakaṃbaṃdham ūtama
+        <l xml:id="srisaila81">pūnyar avya pravakṣāmī golakaṃ baṃdham ūtama
           <caesura/>
            tena bhakṣītamātreṇa bhave nara<lb/> jarāmara 68 </l>
 

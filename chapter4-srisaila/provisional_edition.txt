@@ -798,17 +798,17 @@
 
 
         <p>
-          <hi>[Golabandhana]</hi>
+          <hi>[Golabandha]</hi>
         </p>
 
         <label>81</label>
         <l xml:id="srisaila81">punar anyaṃ pravakṣyāmi golabandhanam uttamam|
           <caesura/>
-           yena bhakṣitamātreṇa naro bhavati vīryavān | </l>
+           yena bhakṣitamātreṇa bhaven naro 'jarāmaraḥ| </l>
 
         <div2 xml:id="srisaila81-app" target="#srisaila81" type="apparatus">
           <list type="Parallels">
-            <item target="#srisaila81-n1"><quote>punar anyat pravakṣyāmi golabandham uttamam |
+            <item target="#srisaila81-n1"><quote>punar anyat pravakṣyāmi golakaṃ bandham uttamam |
                 <caesura/>
                  yena bhakṣitamātreṇa jāyate hy ajarāmaraḥ</quote>
               <title>Rasārṇava</title> 18.194 (Ray 1910, 430).</item>

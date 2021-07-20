@@ -514,9 +514,9 @@
 
         <l xml:id="srisaila80">prabhavati khalu loke caṃdratārārka<lb/>jīvī </l>
 
-        <l xml:id="srisaila81">punar anyaṃ pravakṣyāmi golavandhanamutumam
+        <l xml:id="srisaila81">punar anyaṃ pravakṣyāmi golavandhanam utumam
           <caesura/>
-           yena bhāṣitamātreṇa naro bhavatyajarāmaraḥ</l>
+           yena bhāṣitamātreṇa naro bhavaty ajarāmaraḥ</l>
 
         <l xml:id="srisaila82">gaṃdhābhra<lb/>kānta sahitaṃ bhānuratnāni kāṃcanam
           <caesura/>

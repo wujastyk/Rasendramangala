@@ -518,7 +518,7 @@
 
       <l xml:id="srisaila81">punar anyaṃ pravakṣyāmi golakaṃ baṃdham uttamaṃ||
         <caesura/>
-         tena bhakṣitamātreṇa bhaven narajārāmaraḥ|| </l>
+         tena bhakṣitamātreṇa bhaven nara jārāmaraḥ|| </l>
 
       <l xml:id="srisaila82">gaṃdhābhrakāṃtasahi<lb/>taṃ bhānuratnārikāṃcanaṃ||
         <caesura/>

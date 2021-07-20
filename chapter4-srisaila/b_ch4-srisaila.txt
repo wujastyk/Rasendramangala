@@ -580,7 +580,7 @@
 
         <l xml:id="srisaila81"><unclear>puna</unclear>r anyaṃ pravakṣyāmi golavaṃdhanam uttamaṃ |
           <caesura/>
-          yena bhakṣita mātreṇa naro bhavaty ajarāmaraḥ ||<lb/>47</l>
+          yena bhakṣitamātreṇa naro bhavaty ajarāmaraḥ ||<lb/>47</l>
 
         <l xml:id="srisaila82">gaṃdhābhrakāṃtasahitaṃ bhānuratnādi kāṃcanaṃ |
           <caesura/>

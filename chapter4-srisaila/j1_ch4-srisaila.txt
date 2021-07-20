@@ -529,9 +529,9 @@
 
         <l xml:id="srisaila80">pra<lb/>bhavati khalu loke caṃdratārārkajīvī <unclear>5</unclear></l>
 
-        <l xml:id="srisaila81">punaḥratnaṃ pravakṣyāmi golavaṃdhavaci<lb/>trakaṃ
+        <l xml:id="srisaila81">punaḥ ratnaṃ pravakṣyāmi golavaṃdha vaci<lb/>trakaṃ
           <caesura/>
-           vaprasupūṃcajalodare </l>
+           vaprasupūṃ ca jalodare </l>
         
 <!--        82-91 occur earlier in this MS -->
 

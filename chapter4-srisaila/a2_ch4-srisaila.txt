@@ -682,7 +682,7 @@
 
 
 
-        <l xml:id="srisaila81">punar anyapra<lb/>vakṣyāmi golavaṃdhanam uttamaṃ
+        <l xml:id="srisaila81">punar anya pra<lb/>vakṣyāmi golavaṃdhanam uttamaṃ
           <caesura/>
            yena bhakṣitamātreṇa naraḥ syād ajarā<pb n="55v"/>maraḥ 27</l>
 
