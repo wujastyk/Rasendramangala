@@ -236,7 +236,7 @@
          yuṣmāt sāmarthyayogena <del>yuṣmatsiddhi bhaviṣyati|| mahā</del> sādhayāmi mahārasaṃ|||| </l>
 
       <p ana="speaker" xml:id="salivahana-1">iti <persName>śālivāhana</persName> uvāca||||</p>
-      <l xml:id="srisaila21">suvarṇaratnabhāṃḍāraṃ kumāro madasundarī||<pb n="36v"/>
+      <l xml:id="srisaila21">suvarṇaratnabhāṃḍāraṃ kumāro mada<pc> </pc>sundarī||<pb n="36v"/>
         <caesura/>
          niveditaṃ mayātmānaṃ ādeśo devi dīyatāṃ|| </l>
 
@@ -520,21 +520,21 @@
         <caesura/>
          tena bhakṣitamātreṇa bhaven nara jārāmaraḥ|| </l>
 
-      <l xml:id="srisaila82">gaṃdhābhrakāṃtasahi<lb/>taṃ bhānuratnārikāṃcanaṃ||
+      <l xml:id="srisaila82">gaṃdhābhrakāṃtasahi<lb/>taṃ bhānuratnāri<pc> </pc>kāṃcanaṃ||
         <caesura/>
          samajīrṇaraseṃdrasya subaṃdhaṃ kṛtagolakaṃ|| </l>
 
-      <l xml:id="srisaila83">raseṃdrapaṃcalohāni samabhāgāni melayet<lb/>||
+      <l xml:id="srisaila83">raseṃdra<pc> </pc>paṃcalohāni samabhāgāni melayet<lb/>||
         <caesura/>
          sa<del rend="crossed out">pta</del>ptapaṃcottarāś caiva yavāstu golakasya ca|| </l>
 
-      <l xml:id="srisaila84">ayopi yuddhe mama sasiprabhākaraṃ
+      <l xml:id="srisaila84">ayo pi yuddhe mama sasiprabhākaraṃ
         <caesura/>
          karaṃbitaṃ sūtakajānū|| golakaṃ </l>
 
-      <l xml:id="srisaila85">narasya vṛkṣastham idaṃ rasāyanarasāyana
+      <l xml:id="srisaila85">narasya vṛkṣastham idaṃ rasāyana
         <caesura/>
-         cāmaratā<unclear>va</unclear>kārakaṃ|| </l>
+        rasāyana cāmaratā<unclear> va</unclear> kārakaṃ|| </l>
 
       <!-- Vandana end (40)-85 -->
 

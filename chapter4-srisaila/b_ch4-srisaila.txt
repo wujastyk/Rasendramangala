@@ -256,7 +256,7 @@
 
 
 
-        <l xml:id="srisaila21">suvarṇaratnabhāṃḍāraṃ kumārī manasuṃdarī|
+        <l xml:id="srisaila21">suvarṇaratnabhāṃḍāraṃ kumārī mana<pc> </pc>suṃdarī|
           <caesura/>
            nivêditaṃ mayātmāna.m ādêśô dêva dīyatā.m||98</l>
 
@@ -584,11 +584,11 @@
 
         <l xml:id="srisaila82">gaṃdhābhrakāṃtasahitaṃ bhānuratnādi kāṃcanaṃ |
           <caesura/>
-          samajīrṇa raseṃdrasya vaṃdhaṃ <unclear>kṛtvā tu</unclear> golakaṃ ||48</l>
+          samajīrṇaraseṃdrasya vaṃdhaṃ <unclear>kṛtvā tu</unclear> golakaṃ ||48</l>
 
         <l xml:id="srisaila83"><unclear>raseṃdraṃ paṃca</unclear>lohāni samabhāgāni melayet |
           <caesura/>
-          sapta<unclear>paṃco</unclear>ttarāścai<pb n="16v"/>va yavāsu golakasya ca ||49</l>
+          sapta<unclear>paṃco</unclear>ttarāś cai<pb n="16v"/>va yavāsu golakasya ca ||49</l>
 
         <l xml:id="srisaila84">ayo pi yad visasīprabhāraka
           <caesura/>

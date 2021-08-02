@@ -540,13 +540,13 @@
           <caesura/>
            saprapañcottarāś caiva ya<unclear>vā</unclear> sugolakasya ca | </l>
 
-        <l xml:id="srisaila84">ayo'pi yad dhemaśaśipramākāṃ,
+        <l xml:id="srisaila84">ayo 'pi yad dhemaśaśipramākāṃ,
           <caesura/>
           <unclear>ka</unclear>raṃbitaṃ sūtakajātagolakam | </l>
 
-        <l xml:id="srisaila85">narasya vakṣaḥsthamidaṃ rasāyanam,
+        <l xml:id="srisaila85">narasya vakṣaḥstham idaṃ rasāyanam,
           <caesura/>
-           vāmaratā ca tāvakārakam | </l>
+           vāmaratā ca tāva kārakam | </l>
 
         <l xml:id="srisaila86">sugaṃdhalepatāṃbūlaṃ karpūrakuṃkumāguruṃ|
           <caesura/>

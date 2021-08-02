@@ -218,7 +218,7 @@
 
         <p ana="speaker" xml:id="salivahana-1">śrī <persName>śālivāhan</persName>vāca</p>
 
-        <l xml:id="srisaila21"> suvarṇaratnanāṃbhāraṃ kumāro masusuṃdarī
+        <l xml:id="srisaila21"> suvarṇaratnanāṃbhāraṃ kumāro masu<pc> </pc>suṃdarī
           <caesura/>
            niveditaṃ mayātmānaṃ ā<lb/>deśo deva dāyatāṃ 55 </l>
 

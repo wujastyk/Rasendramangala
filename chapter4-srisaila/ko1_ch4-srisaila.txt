@@ -435,7 +435,7 @@
 
         <l xml:id="srisaila85">narasya vakṣyastham idaṃ rasāyanaṃ
           <caesura/>
-           vāmaratā ca tāvakārakam </l>
+           vāmaratā ca tāva kārakam </l>
 
         <l xml:id="srisaila86">su<lb/>gaṃdhalepatāṃbūlaṃ karpūraṃ kuṃkumāguruṃ
           <caesura/>

@@ -493,9 +493,9 @@
           <caesura/>
            tena bhakṣītamātreṇa bhave nara<lb/> jarāmara 68 </l>
 
-        <l xml:id="srisaila82">gaṃdhābhrakāṃta sahītaṃ bhāṃnūratnāri kaṃcanaṃ
+        <l xml:id="srisaila82">gaṃdhābhrakāṃta<pc> </pc>sahītaṃ bhāṃnūratnāri kaṃcanaṃ
           <caesura/>
-           samajirṇa raseṃdrasya sūbaṃdhaṃ kṛtagola<lb/>ka 69 </l>
+           samajirṇaraseṃdrasya sūbaṃdhaṃ kṛtagola<lb/>ka 69 </l>
 
         <l xml:id="srisaila83">raseṃdraṃ paṃcalohāni samabhāgāni prelayet
           <caesura/>
@@ -507,9 +507,9 @@
            karabītaṃ sūtakajātagolaka <lb/></l>
 
         <l xml:id="srisaila85">tarasya vṛ<unclear>kṣastha</unclear>mā<unclear extent="1"
-            unit="syllable"/> rasāyara<lb/>sāyana
+            unit="syllable"/> rasāya
           <caesura/>
-           cāṃmaratā ca kārakaṃ 71 </l>
+         ra<lb/>sāyana  cāṃmaratā ca kārakaṃ 71 </l>
 
         <l xml:id="srisaila86">sūgaṃdhaṃlepatāṃbūlaṃ karpūraṃ <unclear>ku</unclear>kamāṃgūru
           <caesura/>

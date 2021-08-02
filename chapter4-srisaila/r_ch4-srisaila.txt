@@ -236,7 +236,7 @@
 
         <p ana="speaker" xml:id="salivahana-1"><persName>śālivāhana</persName> uvāca</p>
 
-        <l xml:id="srisaila21"> suvarṇaratnabhāṃḍa¦<pb n="29v"/>raṃ kumārī madasundarī
+        <l xml:id="srisaila21"> suvarṇaratnabhāṃḍa¦<pb n="29v"/>raṃ kumārī mada<pc> </pc>sundarī
           <caesura/>
            niveditaṃ mayātmānaṃ ādeśo deva dīyatām </l>
 
@@ -525,15 +525,15 @@
         <l xml:id="srisaila83">ra<del>me</del><add>se</add>ndraṃ paṃcalohā<lb/>ni samabhāgāni
           melayet
           <caesura/>
-           saptapaṃcotaraś caiva yāvāṃstu golaka<del>mya</del><add>sya</add> tu </l>
+           saptapaṃcotaraś caiva yāvāṃs tu golaka<del>mya</del><add>sya</add> tu </l>
 
         <l xml:id="srisaila84">ayo pi dvaś ca śaśīprabhākāraṃ<lb/>
           <caesura/>
            karambhitāṃ mūta<gap n="2" unit="akṣara"/>golakaṃ </l>
 
-        <l xml:id="srisaila85">narasya vakṣasyamidaṃ ramāyanaṃ ra<del>mā</del><add>sā</add>yana
+        <l xml:id="srisaila85">narasya vakṣasyam idaṃ ramāyanaṃ
           <caesura/>
-           vāmaratā ca kārakam </l>
+          ra<del>mā</del><add>sā</add>yana vāmaratā ca kārakam </l>
 
         <l xml:id="srisaila86">sugaṃdha<lb/>lepānāṃmūlaṃ karpūraṃ kuṃkumāguruṃ
           <caesura/>

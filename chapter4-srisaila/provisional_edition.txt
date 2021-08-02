@@ -9,7 +9,7 @@
         <p>Rasendramangalam project at Saktumiva.org: chapter 4</p>
       </publicationStmt>
       <sourceDesc>
-        <msDesc>
+        <msDesc>  
           <msIdentifier>
             <placeName>
               <settlement>Edmonton</settlement>
@@ -331,7 +331,7 @@
         <p ana="speaker" xml:id="salivahana-1">śrī<persName>śālivāhano</persName>vāca</p>
 
         <label>21</label>
-        <l xml:id="srisaila21">suvarṇaratnabhāṃḍāraṃ kumāro mama sundarī|
+        <l xml:id="srisaila21">suvarṇaratnabhāṃḍāraṃ kumārī mama sundarī|
           <caesura/>
            niveditaṃ mayātmānaṃ ādeśo deva dīyatām||</l>
         <label>22</label>
@@ -802,7 +802,7 @@
         </p>
 
         <label>81</label>
-        <l xml:id="srisaila81">punar anyaṃ pravakṣyāmi golabandhanam uttamam|
+        <l xml:id="srisaila81">punar anyaṃ pravakṣyāmi golakaṃ bandham uttamam|
           <caesura/>
            yena bhakṣitamātreṇa bhaven naro 'jarāmaraḥ| </l>
 
@@ -816,9 +816,9 @@
         </div2>
 
         <label>82</label>
-        <l xml:id="srisaila82">gandhakābhrakāntaṃ sahitaṃ bhānuratnāni kāñcanam|
+        <l xml:id="srisaila82">gandhābhrakāntasahitaṃ bhānuratnāni kāñcanam|
           <caesura/>
-           samajīrṇaṃ rasendrasya bandhaṃ kṛtvā tu golakam | </l>
+           samajīrṇarasendrasya bandhaṃ kṛtvā tu golakam | </l>
 
         <div2 xml:id="srisaila82-app" target="#srisaila82" type="apparatus">
           <list type="Parallels">
@@ -836,7 +836,7 @@
         <label>83</label>
         <l xml:id="srisaila83">rasendraṃ pañcalohāni samabhāgāni lepayet|
           <caesura/>
-           saprapañcottarāś caiva yvā sugolakasya ca | </l>
+           saptapañcottarāś caiva yavās tu golakasya ca | </l>
         
         <div2 xml:id="srisaila83-app" target="#srisaila83" type="apparatus">
           <list type="Parallels">
@@ -848,7 +848,7 @@
         
         
         <label>84</label>
-        <l xml:id="srisaila84">ayo'pi yad dhemaśaśiprabhākaram
+        <l xml:id="srisaila84">ayo 'pi yad dhemaśaśiprabhākaram
           <caesura/>
            karaṃbitaṃ sūtakajātagolakam | </l>
         
@@ -865,12 +865,19 @@
         <label>85</label>
         <l xml:id="srisaila85">narasya vakṣaḥstham idaṃ rasāyanam
           <caesura/>
-           vāmaratā ca tāv akārakam | </l>
+           rasāyanaṃ cāmaratāṃ ca kārakam | </l>
+        
+        <div2 xml:id="srisaila85-app" target="#srisaila85" type="apparatus">
+          <list type="Parallels">
+            <item target="#srisaila85-n1"><quote>vaktre sthitam idaṃ golaṃ cāmaratāpradāyakam/</quote>
+              <title>Rasārṇava</title> 18.198bc (Ray 1910, 431).</item>
+          </list>
+        </div2>
 
         <label>86</label>
         <l xml:id="srisaila86">sugandhalepatāṃbūlaṃ karpūrakuṅkumāgurum|
           <caesura/>
-           śrīṣaḍaṃ mṛganābhiś ca kaṅkolajātikā phalaṃ||
+           śrīkhaṇḍaṃ mṛganābhiś ca kaṅkolajātikāphalaṃ||
         </l>
         
         <div2 xml:id="srisaila86-app" target="#srisaila86" type="apparatus">
@@ -882,9 +889,12 @@
         </div2>
 
         <label>87</label>
-        <l xml:id="srisaila87">sugandhāni dravyāṇi khānipānāni yā navi
+        <l xml:id="srisaila87">sugandhāni dravyāṇi khānapānāni yāni ca
           <caesura/>
-           muktisthānīva sarvāṇi kramaṇaitāni rasasya ca | </l>
+           bhuktisthānāni sarvāṇi krameṇaitāni rasasya ca | </l>
+
+
+
 
         <label>88</label>
         <l xml:id="srisaila88">yasyāgra kucivīkeśā gamā vai pasalocanā|
@@ -948,7 +958,7 @@
         <label>98</label>
         <l xml:id="srisaila98">tasya sparśanamātreṇa sarvalohāni kāñcanam|
           <caesura/>
-           punar anyaṃ pravakṣyāmi bandhaṃ sukharārcitāḥ | </l>
+            punar anyaṃ pravakṣyāmi bandhaṃ sukharārcitāḥ | </l>
 
 
 
@@ -1055,10 +1065,6 @@
         <l xml:id="srisaila117">bhūtakālāntakaṃ bandhaṃ yadā kartuṃ na śakyate|
           <caesura/>
            anenaiva śarīreṇa kathaṃ siddhir bhaviṣyati | </l>
-
-
-
-
 
 
         <p>

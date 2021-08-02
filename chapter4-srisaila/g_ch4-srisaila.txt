@@ -460,14 +460,13 @@
                     <caesura/>
                     yena bhakṣita<pb n="34r"/>mātreṇa naraḥ syād ajarāmaraḥ| | </l>
                 
-                <l xml:id="srisaila82">gaṃdhakābhrakāṃtasahitaṃ bhānuratnādikāṃcanaṃ||
+                <l xml:id="srisaila82">gaṃdhakābhrakāṃtasahitaṃ bhānuratnādi<pc> </pc>kāṃcanaṃ||
                     <caesura/>
                     samajīrṇarasendrasya<lb/> baṃdhaṃ <unclear>kṛ</unclear>tvā nu golakam| | </l>
                 
-                <l xml:id="srisaila83">rasendraḥ paṃcalohāni samabhāgāni melayet||<note place="foot">Like
-                    Rasārṇava 18.196</note>
+                <l xml:id="srisaila83">rasendraḥ paṃcalohāni samabhāgāni melayet||
                     <caesura/>
-                    saprapaṃcottarāś caiva<lb/> yavāstu golakasya ca| | </l>
+                    saprapaṃcottarāś caiva<lb/> yavās tu golakasya ca| | </l>
                 
                 <l xml:id="srisaila84"> ayo pi baddhemaśaśīprabhākaraṃ
                     <caesura/>
@@ -475,7 +474,7 @@
                 
                 <l xml:id="srisaila85">nara<lb/>sya cakṣustham idaṃ rasāyanaṃ
                     <caesura/>
-                    rasāyanaṃ cāmaratāpradāyanaṃ| | </l>
+                    rasāyanaṃ cāmaratā<pc> </pc>pra<pc> </pc>dāyanaṃ| | </l>
                 
                 <l xml:id="srisaila86">sugaṃdhalepatāṃbūlaṃ karpūrakuṃkumāguru <lb/>
                     <caesura/>

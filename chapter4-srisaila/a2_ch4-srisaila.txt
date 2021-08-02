@@ -281,7 +281,7 @@
 
 
 
-        <l xml:id="srisaila21">suvarṇaratnabhāṃḍāraṃ kumā<lb/>rī madanasundarī
+        <l xml:id="srisaila21">suvarṇaratnabhāṃḍāraṃ kumā<lb/>rī madana<pc> </pc>sundarī
           <caesura/>
            niveditaṃ mayātmānaṃ ādeśo deva dīyatāṃ 74 <lb/></l>
 
@@ -693,14 +693,14 @@
 
         <l xml:id="srisaila83">rasendre paṃcalohāni samabhāgān ime layet
           <caesura/>
-           saptapaṃcottarāścaiva yavā<lb/>stur golakasya ca 29</l>
+           saptapaṃcottarāś caiva yavā<lb/>s tur golakasya ca 29</l>
 
 
 
-        <l xml:id="srisaila84"> ayo'pi yaddhemaśaśīprabhāka<surplus>rā</surplus>raṃ karaṃvitaṃ<lb/>
+        <l xml:id="srisaila84"> ayo 'pi yad dhemaśaśīprabhāka<surplus>rā</surplus>raṃ karaṃvitaṃ<lb/>
           sūtakajātakolakaṃ </l>
 
-        <l xml:id="srisaila85"> narasya vakṣaḥsthamidaṃ rasāyanaṃ rasāyanaṃ cā<lb/>maratāṃ ca
+        <l xml:id="srisaila85"> narasya vakṣaḥstham idaṃ rasāyanaṃ rasāyanaṃ cā<lb/>maratāṃ ca
           kārakaṃ 30 </l>
 
 

@@ -235,7 +235,7 @@
         <l xml:id="srisaila23">puṇya<add place="above">na</add>r anyaṃ pravakṣyāmi māṃḍavyena yathā
           kṛtam
           <caesura/>
-           rasoparasayogena siddha sūtaṃ susādhitam</l>
+           rasoparasayogena siddhasūtaṃ susādhitam</l>
 
         <l xml:id="srisaila24">viddhaṃ<lb/> sulvāyasaṃ nāgaṃ yajñārthe kāṃcanaṃ kṛtam
           <caesura/>
@@ -502,13 +502,13 @@
           <caesura/>
           saptapaṃcottarāś caiva yavā sugo<lb/>lakasya ca</l>
 
-        <l xml:id="srisaila84">ayopi yadhemaśaśiprabhākaraṃ
+        <l xml:id="srisaila84">ayo pi yad hemaśaśiprabhākaraṃ
           <caesura/>
           karaṃvitaṃ sūtakajātagolakaṃ</l>
 
-        <l xml:id="srisaila85">narasya vakṣasthamidaṃ rasāyanaṃ
+        <l xml:id="srisaila85">narasya vakṣastham idaṃ rasāyanaṃ
           <caesura/>
-          vāmaratā ca tāvakārakaṃ</l>
+          vāmaratā ca tāva kārakaṃ</l>
 
         <l xml:id="srisaila86">sugaṃdhalepatāṃbūlaṃ karpūraṃ kuṃkumāguruṃ
           <caesura/>

@@ -211,7 +211,7 @@
         <del rend="crossed out">ḥ</del>
         </subst>94</l>
 
-      <l xml:id="srisaila23">puḥnaranyaṃ pravakṣyāmi māṃḍavyena yathākṛtaṃ|
+      <l xml:id="srisaila23">puḥnar anyaṃ pravakṣyāmi māṃḍavyena yathā kṛtaṃ|
         <caesura/>
         rasoparasayogena sidhasūtaṃ susādhitaṃ | 95</l>
 
@@ -419,7 +419,7 @@
         samajīrṇaṃ raseṃdrasya  | baṃdhaṃ kṛ<unclear>dbhā</unclear> nu golakaṃ|
         <unclear>50</unclear></l>
 
-      <l xml:id="srisaila83">raseṃdrapaṃcalohāni | samabhāgāni lepayet|
+      <l xml:id="srisaila83">raseṃdra<pc> </pc>paṃcalohāni | samabhāgāni lepayet|
         <caesura/>
         saptapaṃco<lb/>ttarāś caiva | yavāsu golakasya ca| | <unclear>51</unclear></l>
 
@@ -427,9 +427,12 @@
         <caesura/>
         karaṃbitaṃ sūtakajātagolakaṃ | <unclear>52</unclear></l>
 
-      <l xml:id="srisaila85">narasya vakṣasthamidaṃ rasā<lb/>yanaṃ|
+      <l xml:id="srisaila85">narasya vakṣastham idaṃ 
+        rasā<lb/>yanaṃ|
         <caesura/>
-        vāmaratā ca tāvakārakaṃ </l>
+        vāmaratā ca tāva kārakaṃ </l>
+        
+        
 
       <l xml:id="srisaila86">sugaṃdhalepatāṃbūlaṃ | karpūraṃ kuṃkumāguruṃ|
         <caesura/>

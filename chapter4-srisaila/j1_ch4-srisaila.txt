@@ -86,10 +86,12 @@
                 <p>[description of another hand]</p>
               </handNote>
             </handDesc>
+            
             <scriptDesc>
               <scriptNote xml:id="script-ba-va"><foreign xml:lang="sa">ba</foreign> and <foreign
                   xml:lang="sa">va</foreign> not distinguished.</scriptNote>
             </scriptDesc>
+            
             <additions>
               <!-- the following additions are examples -->
               <p>Marginal annotations and corrections throughout.</p>
@@ -99,6 +101,8 @@
             <bindingDesc>
               <p>[description of cover, binding, and/or stringholes]</p>
             </bindingDesc>
+
+         
           </physDesc>
 
           <history>
@@ -238,7 +242,7 @@
 
         <p>ṣaṣṭyādhyā¦<lb/>ya saṃpūrṇṇaḥ</p>
 
-        <l xml:id="srisaila23"> punaḥ ratnaṃ pravakṣyāmi māḍavyena yathākrama
+        <l xml:id="srisaila23"> punaḥ ratnaṃ pravakṣyāmi māḍavyena yathā<pc> </pc>krama
           <caesura/>
            rasoparamayogena siddhisūtaṃ su<lb/>sādhitam </l>
 
@@ -450,12 +454,12 @@
           <caesura/>
            samajīrṇe raseṃdrasya vaṃdha<lb/>kṛdbhānugālakaṃ</l>
 
-        <l xml:id="srisaila83">raseṃdrapaṃcalohāni samabhāgāni lepayet saptapaṃcottaroścai-<lb/>va
+        <l xml:id="srisaila83">raseṃdra<pc> </pc>paṃcalohāni samabhāgāni lepayet saptapaṃcottaroś cai-<lb/>va
           yavāmu golakasya ca</l>
 
         <l xml:id="sriaila84">maśaśiprabhākārakaraṃ vitaṃ sūtakaṃ jātagolakaṃ</l>
 
-        <l xml:id="srisaila85">narasya vakṣa<lb/>sthamidaṃ rasāyanaḥ vāmaratāvatāvakārakaṃ</l>
+        <l xml:id="srisaila85">narasya vakṣa<lb/>stham idaṃ rasāyanaḥ<caesura/> vāmaratā va tāva kārakaṃ</l>
 
         <l xml:id="srisaila86">sugaṃdhalepatāṃbūla karpūraṃ kuṃkumāguru
           <caesura/>
