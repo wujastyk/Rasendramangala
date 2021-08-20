@@ -463,7 +463,7 @@
 
         <l xml:id="srisaila86">sugaṃdhalepatāṃbūla karpūraṃ kuṃkumāguru
           <caesura/>
-           śrīṣaṃḍaṃ mṛgabhāspikaṃ kolajātikāphalaṃ </l>
+           śrīṣaṃḍaṃ mṛgabhāspi kaṃkolajātikāphalaṃ </l>
 
         <l xml:id="srisaila87">sugaṃdhāni dravyāni khānapānāni yā<pb n="35r"/>ni ca
           <caesura/>

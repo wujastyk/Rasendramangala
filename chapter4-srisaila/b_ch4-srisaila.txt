@@ -604,7 +604,7 @@
 
         <l xml:id="srisaila87">sugaṃdhānyāni dravyāṇi khānapānāni yāni tu |
           <caesura/>
-          muktisthānā<unclear>ni</unclear> sarvāṇi krameṇaivāni rasaṃsya ca ||52</l>
+          bhuktisthānā<unclear>ni</unclear> sarvāṇi krameṇaivāni rasaṃsya ca ||52</l>
 
         <l xml:id="srisaila88">yasyāgra kuṃcitāḥ keśāḥ śyāmā vai padmalocanā |
           <caesura/>

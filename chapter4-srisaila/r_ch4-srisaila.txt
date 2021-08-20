@@ -537,7 +537,7 @@
 
         <l xml:id="srisaila86">sugaṃdha<lb/>lepānāṃmūlaṃ karpūraṃ kuṃkumāguruṃ
           <caesura/>
-           śrīkhaṇḍa mṛganābhiś ca kākolaṃ jātika phalaṃ </l>
+           śrīkhaṇḍa mṛganābhiś ca kākolaṃ jātikaphalaṃ </l>
 
         <l xml:id="srisaila87"><del>mu</del><add>su</add>gaṃdhānyāni dravyā<pb n="33r"/>ṇi
           khānapānāyāni

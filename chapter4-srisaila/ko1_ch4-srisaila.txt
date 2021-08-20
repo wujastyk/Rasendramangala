@@ -439,7 +439,7 @@
 
         <l xml:id="srisaila86">su<lb/>gaṃdhalepatāṃbūlaṃ karpūraṃ kuṃkumāguruṃ
           <caesura/>
-           śrīṣaṃḍaṃ mṛganābhiś ca kaṃ kolajātikāphalaṃ </l>
+           śrīṣaṃḍaṃ mṛganābhiś ca kaṃkolajātikāphalaṃ </l>
 
         <l xml:id="srisaila87">sugaṃdhāni dravyāṇi<lb/> khānipānāni yānīva
           <caesura/>

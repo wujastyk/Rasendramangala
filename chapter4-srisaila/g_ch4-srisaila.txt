@@ -478,8 +478,9 @@
                 
                 <l xml:id="srisaila86">sugaṃdhalepatāṃbūlaṃ karpūrakuṃkumāguru <lb/>
                     <caesura/>
-                    śrīkhaṃḍaṃ mṛganābhiś ca kaṃkolaṃjātikā phalaṃ||<note place="foot">Like Rasārṇava
-                        18.200</note> </l>
+                    śrīkhaṃḍaṃ mṛganābhiś ca kaṃkolaṃ jātikāphalaṃ||
+                    <!--<note place="foot">Like Rasārṇava
+                        18.200</note> --></l>
                 
                 <l xml:id="srisaila87">sugaṃdhīni dravyāṇi khānapānādi kāni ca||<lb/>
                     <caesura/>

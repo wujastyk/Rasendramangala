@@ -513,7 +513,7 @@
 
         <l xml:id="srisaila86">sūgaṃdhaṃlepatāṃbūlaṃ karpūraṃ <unclear>ku</unclear>kamāṃgūru
           <caesura/>
-           śrīṣaṃḍa mṛganābhaṃ ca kaṃko<lb/>laṃjātikā phalaṃ 72 </l>
+           śrīṣaṃḍa mṛganābhaṃ ca kaṃko<lb/>laṃ jātikāphalaṃ 72 </l>
 
         <l xml:id="srisaila87">sūgaṃdhānyānī dravyāṇiṃ ṣāṃnapāṃnāni yāni ca
           <caesura/>

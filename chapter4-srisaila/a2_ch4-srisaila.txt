@@ -707,7 +707,7 @@
 
         <l xml:id="srisaila86">sugaṃdhale patāṃ vūlaṃ karpūraṃ kuṃkumāguruṃ
           <caesura/>
-           śrī<lb/>ṣaḍaṃ mṛganābhiś ca kaṃkolaṃ jātikā palaṃ 31 </l>
+           śrī<lb/>ṣaḍaṃ mṛganābhiś ca kaṃkolaṃ jātikāpalaṃ 31 </l>
 
         <l xml:id="srisaila87">sugaṃdhāny anyadravyā<lb/>ṇi ṣānapānāni yāni ca
           <caesura/>
@@ -739,15 +739,6 @@
         </l>
 
         <l xml:id="srisaila94"> hṛtaṃ yugaṃ mukhe yasya guṇāya samudāhṛtaṃ </l>
-
-
-
-
-
-
-
-
-
 
 
         <l xml:id="srisaila95"> atha ṣoḍaśapūrṇāni go<pb n="56v"/>lakāni narottamaḥ 39

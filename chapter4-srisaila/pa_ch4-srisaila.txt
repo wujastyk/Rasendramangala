@@ -436,7 +436,7 @@
 
       <l xml:id="srisaila86">sugaṃdhalepatāṃbūlaṃ | karpūraṃ kuṃkumāguruṃ|
         <caesura/>
-        śrīṣaṃḍaṃ mṛganābhiś ca | kaṃkolaṃ jātikā phalaṃ|</l>
+        śrīṣaṃḍaṃ mṛganābhiś ca | kaṃkolaṃ jātikāphalaṃ|</l>
 
       <l xml:id="srisaila87">sugaṃdhā<unclear>nya</unclear><pb n="16r"/>ni dravyāṇi | khānipānāni
         yāni ca | bhuktisthānāni sarvāṇi krameṇaitāni rasasya ca | 54</l>

@@ -541,7 +541,7 @@
 
       <l xml:id="srisaila86">sugaṃdhalepalatāṃbujaṃ karpuraṃ kuṃkumāguruṃ<lb/>||
         <caesura/>
-         śrīṣaṃḍaṃ mṛganābhiś ca kaṃkolaṃ jātikā phalaṃ|| </l>
+         śrīṣaṃḍaṃ mṛganābhiś ca kaṃkolaṃ jātikāphalaṃ|| </l>
 
       <l xml:id="srisaila87">sugaṃdhānyāni dravyāṇi ṣānapānāni yāni ca||
         <caesura/>
