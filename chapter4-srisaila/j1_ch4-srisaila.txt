@@ -469,11 +469,11 @@
           <caesura/>
            bhuktinīni sarvāṃṇi krameṇaitāni rasasya ca </l>
 
-        <l xml:id="srisaila88">yasyāgra kucivīkeśāśpamāvai pa<lb/>dmalocanā
+        <l xml:id="srisaila88">yasyāgra<pc> </pc>kucivīkeśā śpamā vai pa<lb/>dmalocanā
           <caesura/>
            vistīrṇaṃ jaghanaṃ yasya saṃkīrṇaṃ hṛdayaṃ navat</l>
 
-        <l xml:id="srisaila89"><unclear>kṛṣṇā</unclear>nakṣe bhavedyasya yu<lb/>vatpāpuṣphadarśana
+        <l xml:id="srisaila89"><unclear>kṛṣṇā</unclear>nakṣe bhaved yasya yu<lb/>vatpā puṣphadarśana
           <caesura/>
            kāminā sā samākhyāta uttamā ca rasāyane </l>
 

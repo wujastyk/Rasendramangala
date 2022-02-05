@@ -547,7 +547,7 @@
         <caesura/>
          muktāsthānā<lb/>ni sarvāṇi krameṇaitāni sasya ca|| </l>
 
-      <l xml:id="srisaila88">yasyāgrā kuṃcitā ke<unclear>śa</unclear>śyāmā vai padmalocanā||
+      <l xml:id="srisaila88">yasyāgrā<pc> </pc>kuṃcitā ke<unclear>śa</unclear>śyāmā vai padmalocanā||
         <caesura/>
          vistīrṇaṃ jaghanaṃ yasya<lb/> saṃkīrṇaṃ <unclear>hṛ</unclear>dayaṃ bhavet|| </l>
 

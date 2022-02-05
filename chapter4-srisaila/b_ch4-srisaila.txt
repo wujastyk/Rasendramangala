@@ -606,7 +606,7 @@
           <caesura/>
           bhuktisthānā<unclear>ni</unclear> sarvāṇi krameṇaivāni rasaṃsya ca ||52</l>
 
-        <l xml:id="srisaila88">yasyāgra kuṃcitāḥ keśāḥ śyāmā vai padmalocanā |
+        <l xml:id="srisaila88">yasyāgra<pc> </pc>kuṃcitāḥ keśāḥ śyāmā vai padmalocanā |
           <caesura/>
           <gap extent="pada" reason="omitted"/></l>
 

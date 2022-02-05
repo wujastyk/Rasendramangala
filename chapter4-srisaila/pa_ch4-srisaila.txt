@@ -432,8 +432,7 @@
         <caesura/>
         vāmaratā ca tāva kārakaṃ </l>
         
-        
-
+      
       <l xml:id="srisaila86">sugaṃdhalepatāṃbūlaṃ | karpūraṃ kuṃkumāguruṃ|
         <caesura/>
         śrīṣaṃḍaṃ mṛganābhiś ca | kaṃkolaṃ jātikāphalaṃ|</l>
@@ -441,7 +440,7 @@
       <l xml:id="srisaila87">sugaṃdhā<unclear>nya</unclear><pb n="16r"/>ni dravyāṇi | khānipānāni
         yāni ca | bhuktisthānāni sarvāṇi krameṇaitāni rasasya ca | 54</l>
 
-      <l xml:id="srisaila88">yasyāgre kucivīkeśā | śyāmāvai padmaloca<lb/>nā | vīstīrṇaṃ jaghanaṃ
+      <l xml:id="srisaila88">yasyāgre kucivīkeśā | śyāmā vai padmaloca<lb/>nā | vīstīrṇaṃ jaghanaṃ
         yasya | saṃkīrṇaṃ hṛdayaṃ bhavet | 55</l>
 
       <l xml:id="srisaila89">kṛṣṇānakṣe bhave yasyā | yuvatyā puṣpadarśanaṃ|

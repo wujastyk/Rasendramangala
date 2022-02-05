@@ -412,21 +412,46 @@
           <caesura/>
            kurkaṭāṃḍanibhaṃ sūtaṃ<pb n="18r"/><gap extent="pada" reason="omitted"/></l>
 
-        <l xml:id="srisaila66">
-          <gap n="15" extent="verses" reason="omitted"/>
-        </l>
 
 
 
         <!-- srisaila66 to srisaila80 are missing, Folio No. 17v is missing-->
 
+        <l xml:id="srisaila66"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila67"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila68"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila69"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila70"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila71"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila72"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila73"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila74"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila75"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila76"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila77"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila78"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila79"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila80"><gap reason="missing folio"/></l>
+
+
+
         <!-- [golabaṃdhanam] -->
 
-        <l xml:id="srisaila81">punar anyaṃ pravakṣāmi golabaṃ<gap extent="verse" reason="omitted"
-          /></l>
+        <l xml:id="srisaila81"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila82"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila83"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila84"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila85"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila86"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila87"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila88"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila89"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila90"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila91"><gap reason="missing folio"/></l>
 
-        <l xml:id="srisaila92"><gap extent="pada" reason="omitted"/>va citraṃ ca prasuptaṃ ca
-          jalodare
+
+        <l xml:id="srisaila92">punar anyaṃ pravakṣāmi golabaṃ<gap extent="pada"
+            reason="missing folio"/> va citraṃ ca prasuptaṃ ca jalodare
           <caesura/>
            grāhiṇī durnāmakaṃ 15 gutvaṃ gaṃḍamālā śilās tathā</l>
 
@@ -727,6 +752,7 @@
 
         <l xml:id="srisaila164">iti śrīmannāgāṃrjuno viracite raseṃdramaṃgale
             guṭikātvādutijalūkājāraṇādirasa<pb n="19v"/>baṃdhanaṃ nāma caturthodhyāyaḥ</l>
+
 
 
       </div>

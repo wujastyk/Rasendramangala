@@ -3,7 +3,7 @@
 
     <fileDesc>
       <titleStmt>
-        <title>[ProvisionalEdition]: ch.4 Srisaila section</title>
+        <title>Provisional Edition: ch.4 Śrīśaila section</title>
       </titleStmt>
       <publicationStmt>
         <p>Rasendramangalam project at Saktumiva.org: chapter 4</p>
@@ -13,14 +13,10 @@
           <msIdentifier>
             <placeName>
               <settlement>Edmonton</settlement>
-              <region>[region]</region>
+              <region>Alberta</region>
               <country>Canada</country>
             </placeName>
             <institution>University of Alberta</institution>
-            <repository>[repository]</repository>
-            <collection>[collection]</collection>
-            <idno>[manuscript identifier]</idno>
-            <idno type="NCC">[NCC identifier]</idno>
             <idno type="siglum">DW<sub>ed</sub></idno>
           </msIdentifier>
           <msContents>
@@ -816,7 +812,8 @@
            karaṃbitaṃ sūtakajātagolakam | </l>
         <div2 xml:id="srisaila84-app" target="#srisaila84" type="apparatus">
           <list type="Parallels">
-            <item target="#srisaila84-n1"><quote>chāyāviśuṣkaṃ golaṃ tu śaśibhāvaṃ karoti tat | etat
+            <item target="#srisaila84-n1"><quote>chāyāviśuṣkaṃ golaṃ tu śaśibhāvaṃ karoti tat | <caesura/>
+              etat
                 sarvaṃ vimardyaṃ tu sūtakaṃ golakasya ca</quote>
               <title>Rasārṇava</title> 18.197 (Ray 1910, 430--431).</item>
           </list>
@@ -864,7 +861,7 @@
 
 
         <label>88</label>
-        <l xml:id="srisaila88">yasyāgra kucivīkeśā gamā vai pasalocanā|
+        <l xml:id="srisaila88">yasyāgra<pc> </pc>kuñcitāḥ keśāḥ śyamā vai padmalocanā |
           <caesura/>
            vistīrṇaṃ jaghanaṃ yasyāḥ saṅkīrṇaṃ hṛdayaṃ bhavet | </l>
 
@@ -894,7 +891,7 @@
 
 
         <label>90</label>
-        <l xml:id="srisaila90">āliṅgena ca vaktavye sparśane ca suśobhane|
+        <l xml:id="srisaila90">āliṅgane ca vaktavye sparśane ca suśobhane|
           <caesura/>
            maithune mardane caiva surūpā vāmalocanā | </l>
 

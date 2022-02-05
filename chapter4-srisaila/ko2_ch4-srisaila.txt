@@ -519,7 +519,7 @@
           <caesura/>
            muktāsthāṃnāni sarvāṇi kra<lb/>meṇaitāni śasya ca 73 </l>
 
-        <l xml:id="srisaila88"><unclear>ya</unclear>syāgra tucītākesā śyāmā vai padmalocana
+        <l xml:id="srisaila88"><unclear>ya</unclear>syāgra<pc> </pc>tucītākesā śyāmā vai padmalocana
           <caesura/>
            vistirṇaṃ jaghanyaṃ yasya saṃkirṇaṃ<lb/>
           <unclear>hṛ</unclear>davyaṃ bhavet 74 </l>

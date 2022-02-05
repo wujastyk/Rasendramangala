@@ -544,7 +544,7 @@
           <caesura/>
            bhuktisthānāni sarvāṇi krameṇaiva narasya ca </l>
 
-        <l xml:id="srisaila88">yasyāya kuṃcitākveśāḥ śyāmā<lb/> vai padmalocanāḥ
+        <l xml:id="srisaila88">yasyāya<pc> </pc>kuṃcitā kveśāḥ śyāmā<lb/> vai padmalocanāḥ
           <caesura/>
           <gap extent="2" reason="omitted" unit="pāda"/>
         </l>

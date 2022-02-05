@@ -557,13 +557,13 @@
           <caesura/>
            muktisthānīva sarvāṇi kramaṇaitāni rasasya ca | </l>
 
-        <l xml:id="srisaila88">yasyāgra kucivīkeśā gamā vai pasalocanā|
+        <l xml:id="srisaila88">yasyāgra<pc> </pc>kucivīkeśā gamā vai pasalocanā|
           <caesura/>
-           āstīrṇaṃ jaghanaṃ yasyāḥ saṃkīr<unclear>ṇa</unclear>ladayaṃ bhavet | </l>
+           āstīrṇaṃ jaghanaṃ yasyāḥ saṃkīr<unclear>ṇa</unclear> ladayaṃ bhavet | </l>
 
         <l xml:id="srisaila89">kṛṣṇapakṣe bhaved yasyā yuvatyā puṣpadarśanam|
           <caesura/>
-           kāminīmāsamākhyātā uttamā ca rasāyena | </l>
+           kāminīm ā samākhyātā uttamā ca rasāyena | </l>
 
         <l xml:id="srisaila90">āliṃgena ca vaktavye sparśane ca suśobhaje|
           <caesura/>

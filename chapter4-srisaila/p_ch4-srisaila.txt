@@ -518,7 +518,7 @@
           <caesura/>
           bhukti<lb/>sthānīni sarvāṇi krameṇaitāni rasasya ca</l>
 
-        <l xml:id="srisaila88">yasyāgra kucivīkeśā śa<unclear>mā</unclear>dvai padmalocanā
+        <l xml:id="srisaila88">yasyāgra<pc> </pc>kucivīkeśā śa<unclear>mā</unclear>d vai padmalocanā
           <caesura/>
           vāstīṇāṃ jaghanaṃ yasyā saṃkīrṇaṃ hṛdayaṃ bhavet<pb n="28r"/></l>
 
