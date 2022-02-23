@@ -454,9 +454,11 @@
       <l xml:id="srisaila91">vālmīkaṃ mukharogaṃ ca | cakṣuśro<lb/>trādināśikā|
         kaphapittānilair bhaktā | svabhāvaguṇabhūṣitā | 58</l>
 
-      <l xml:id="sriaila70">udaṃbaraṃ rasaḥ śarīreṇava sarvaṃ bhavati niḥphalaṃ||</l>
+      <l xml:id="sriaila92a">udaṃbaraṃ rasaḥ śarīreṇa va sarvaṃ bhavati niḥphalaṃ||</l>
+      
+        <l xml:id="srisaila92b"/>
 
-      <p xml:id="srisaila70.10"><persName>nāgārjuna</persName>uvāca</p>
+        <l xml:id="srisaila92x">nāgārjunauvāca</l>
 
       <l xml:id="sirsaila71">katha<lb/>yāmi na saṃdeho | mārttaṃḍeyena yat kṛtam|
         <caesura/>

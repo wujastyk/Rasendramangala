@@ -538,10 +538,13 @@
            kaphapitānilai bhūttkā svabhāvagūṃṇabhūṣita 77 <lb/>
         </l>
 
-        <l xml:id="srisaila92">udaṃbaraṃ ca citraṃ ca prasūtaṃ ca jalodaraṃ
-          <caesura/>
+        <l xml:id="srisaila92a">udaṃbaraṃ ca citraṃ ca prasūtaṃ ca jalodaraṃ
+        </l>
+        <l xml:id="srisaila92b">
            grahaṇi dūrnāmakaṃ golamaṃ jūḍamālā sīlās tathā 78 </l>
 
+        <l xml:id="srisaila92x"/>
+        
         <l xml:id="srisaila93">etai sarve<lb/> vinirmūkto valipalitavarjita
           <caesura/>
            satāni traṇavarṣāṇi jīve cai kārivikrama 79 </l>

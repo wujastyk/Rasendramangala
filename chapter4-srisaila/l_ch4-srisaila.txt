@@ -571,13 +571,17 @@
 
         <l xml:id="srisaila91">valmīkaṃ mukharogaṃ ca cakṣuśrotrādināśikā|
           <caesura/>
-          <pb n="56"/>kaphapittāni lair bhatkāra ca bhāvaguṇamūṣitā | </l>
+          <pb n="56"/>kaphapittānilair bhatkāra ca bhāvaguṇamūṣitā | </l>
 
-        <l xml:id="srisaila92">udaṃbaraṃ ca citraṃ ca prasuptaṃ ca jalodare|
-          <caesura/>
+        <l xml:id="srisaila92a">udaṃbaraṃ ca citraṃ ca prasuptaṃ ca jalodare|
+        </l>
+        <l xml:id="srisaila92b">
            grāhiṇī durnāmakaṃ gulvaṃ gaṃḍamālā śilās tathā | </l>
+        
+        <l xml:id="srisaila92x"/>
+        
 
-        <l xml:id="srisaila93">etaiḥ sarvair vinirmukto valipalita vīryasaḥ|<note place="foot">Like
+        <l xml:id="srisaila93">etaiḥ sarvair vinirmukto valipalitavīryasaḥ|<note place="foot">Like
           Rasārṇava 18.203</note>
           <caesura/>
            śatāni trīṇi varṣāṇi jīvedvai karivikramaḥ|<note place="foot">Like Rasārṇava

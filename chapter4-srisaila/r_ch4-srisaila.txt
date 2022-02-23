@@ -114,10 +114,10 @@
     </fileDesc>
     <revisionDesc>
       <change when="2019-10-29" who="Dominik Wujastyk">Added some xml:ids.</change>
-      <revisionDesc>
+     
         <change when="2020-06-06" who="Vandana Lele">Completed the transcription to srisaila164
         </change>
-      </revisionDesc>
+      
 
     </revisionDesc>
   </teiHeader>
@@ -561,9 +561,15 @@
           <caesura/>
            vātapittānalo bhuktvā mubhāvagu<lb/>ṇabhāṣitam </l>
 
-        <l xml:id="srisaila92"><unclear>au</unclear>ḍamvaraṃ ca śchattraṃ ca prasutaṃ ca jalodaram
+        <l xml:id="srisaila92"><unclear>au</unclear>ḍamvaraṃ caś chattraṃ ca prasutaṃ ca jalodaram
           <caesura/>
-           grahaṇī dvandvakaṃ gulmaṃ gaṇḍamālā śilaista<unclear>|</unclear><lb/>thā </l>
+           grahaṇī dvandvakaṃ gulmaṃ gaṇḍamālā śilais ta<unclear>|</unclear><lb/>thā </l>
+        
+        <l xml:id="srisaila92a"/>
+        
+        <l xml:id="srisaila92x"/>
+        
+        
 
         <l xml:id="srisaila93">etaiḥ sarvair vinirmukto valīpalita<add cause="correcting_metathesis"
             place="bellow">va</add>rjitaḥ

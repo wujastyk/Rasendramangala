@@ -483,11 +483,14 @@
 
         <l xml:id="srisaila91">vālmīkaṃ mu<lb/>mukharogaṃ ca cakṣuśrotradi nāśikā
           <caesura/>
-           kaphapittānilaibhaktāra ca bhāvaguṇabhūṣitā
-          <caesura/>
-           u<lb/>daṃbaraṃ rasaḥ śarīreṇava sarvaṃ bhavati niḥphalaṃ</l>
+           kaphapittānilai bhaktā ra ca bhāvaguṇabhūṣitā</l>
+          
+          <l xml:id="srisaila92a">
+           u<lb/>daṃbaraṃ rasaḥ śarīreṇa va sarvaṃ bhavati niḥphalaṃ</l>
+        
+    
 
-        <p ana="speaker" xml:id="nagarjuna70.10"><persName>nāgārjuno</persName>vāca</p>
+        <l xml:id="srisaila92x">nāgārjunovāca</l>
 
         <l xml:id="srisaila71">kathayāmi na saṃ<lb/>deho mārtaṃḍeyena yat kṛta
           <caesura/>
@@ -539,9 +542,12 @@
         
 <!--        82-91 occur earlier in this MS -->
 
-        <l xml:id="srisaila92">grāhiṇī durnāmakaṃ gutva gaṃdhamālāśilāstathā </l>
+        <l xml:id="srisaila92b">grāhiṇī durnāmakaṃ gutva gaṃdhamālāśilāstathā </l>
+        
+        
+        
 
-        <l xml:id="srisaila93">e<lb/>tai sarvai vinirmukto valipalita vīryasaḥ
+        <l xml:id="srisaila93">e<lb/>tai sarvai vinirmukto valipalitavīryasaḥ
           <caesura/>
            śatāni triṇi varṣāṇi jīvaidvaikari-<lb/>vikramaḥ</l>
 

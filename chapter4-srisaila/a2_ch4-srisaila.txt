@@ -719,21 +719,24 @@
 
         <l xml:id="srisaila89"> kṛṣṇapakṣe bhave<lb/>d yasyāḥ yuvatyāḥ puṣpadarśanaṃ
           <caesura/>
-           kākinīsāsamākhyātā uttamā<lb/> ca rasāyena 34 </l>
+           kākinī sā samākhyātā uttamā<lb/> ca rasāyena 34 </l>
 
         <l xml:id="srisaila90"> āliṃgane ca vaktavye sparśane ca suśobhanāḥ <lb/>
           <caesura/>
            maithune marddane caiva surūpā vāmalocanā 35 </l>
 
-        <l xml:id="srisaila91"> valmīkaṃ mukharo<lb/> bhāgaṃ ca cakṣuśrotrādināśikāṃ
+        <l xml:id="srisaila91"> valmīkaṃ mukharo<lb/>bhāgaṃ ca cakṣuśrotrādināśikāṃ
           <caesura/>
-           kaphapittānalaiyuktāṃ svabhā<lb/>vaguṇabhūmitāṃ 36 </l>
+           kaphapittānalai yuktāṃ svabhā<lb/>vaguṇabhūmitāṃ 36 </l>
 
-        <l xml:id="srisaila92"> udaṃvaraṃcaścitraṃ ca prasuptaṃ ca jalodaraṃ
-          <caesura/>
-           grahaṇī <lb/>durnāmagulmaṃ gaṃḍamā śilātathā 37 </l>
+        <l xml:id="srisaila92a"> udaṃvaraṃ caś citraṃ ca prasuptaṃ ca jalodaraṃ
+        </l>
+        <l xml:id="srisaila92b">
+           grahaṇī <lb/>durnāma<pc> </pc>gulmaṃ gaṃḍamā śilā tathā 37 </l>
+        
+        <l xml:id="srisaila92x"/>
 
-        <l xml:id="srisaila93"> etaiḥ sarvai vinirmukto valī<lb/>palita varjjitaḥ|
+        <l xml:id="srisaila93"> etaiḥ sarvai vinirmukto valī<lb/>palitavarjjitaḥ|
           <caesura/>
            śatāni trīṇi varyāṇī <unclear>jā</unclear>ve dvaikarivikramaḥ 38 <lb/>
         </l>

@@ -532,15 +532,19 @@
 
         <l xml:id="srisaila91">valmīkaṃ mukharogaṃ ca cakṣuśrotrādināśikā
           <caesura/>
-          kaphapittānilairbhaktā svabhāvaguṇabhūṣitā </l>
+          kaphapittānilair bhaktā svabhāvaguṇabhūṣitā </l>
 
-        <l xml:id="srisaila92"><unclear>u</unclear>daṃ<lb/>baraṃ ca citraṃ ca prasuptaṃ ca jalodare
-          <caesura/>
-          grāhiṇīdurnāmakaṃ gulvaṃ gaṃḍamālāśilāstatathā</l>
+        <l xml:id="srisaila92a"><unclear>u</unclear>daṃ<lb/>baraṃ ca citraṃ ca prasuptaṃ ca jalodare
+        </l>
+        <l xml:id="srisaila92b">
+          grāhiṇī durnāmakaṃ gulvaṃ gaṃḍamālā śilās tatathā</l>
+        
+        <l xml:id="srisaila92x"/>
+        
 
         <l xml:id="srisaila93">etai sarvai vinirmukto valipalitavīryasaḥ
           <caesura/>
-          śatā<lb/>ni triṇi varṣāṇi jīvedvai karivikramaḥ</l>
+          śatā<lb/>ni triṇi varṣāṇi jīved vai karivikramaḥ</l>
 
         <l xml:id="srisaila94"><unclear>du</unclear>taṃ yugaṃ mukhe yasya guṇāya
             samudā<unclear>hṛ</unclear>taṃ</l>

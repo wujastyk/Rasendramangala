@@ -563,9 +563,13 @@
         <caesura/>
          kaphapittānilair bhuktā svabhāvaguṇabhūṣitā|| </l>
 
-      <l xml:id="srisaila92">udaṃbaraṃ ca citraṃ ca<lb/><pb n="39r"/> prasuptaṃ ca jalodare||
-        <caesura/>
-         grahaṇī durnāmakaṃ gulmaṃ jaḍamālā śilāstathā|| </l>
+      <l xml:id="srisaila92a">udaṃbaraṃ ca citraṃ ca<lb/><pb n="39r"/> prasuptaṃ ca jalodare||
+      </l>
+      <l xml:id="srisaila92b">
+         grahaṇī durnāmakaṃ gulmaṃ jaḍamālā śilās tathā|| </l>
+      
+      <l xml:id="srisaila92x"/>
+      
 
       <l xml:id="srisaila93">etaiḥ sarvair vinirmukto valīpalitava<lb/>rjitaḥ||
         <caesura/>

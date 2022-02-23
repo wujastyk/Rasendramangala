@@ -437,7 +437,8 @@
 
         <!-- [golabaṃdhanam] -->
 
-        <l xml:id="srisaila81"><gap reason="missing folio"/></l>
+        <l xml:id="srisaila81">punar anyaṃ pravakṣāmi golabaṃ<gap extent="pada"
+          reason="missing folio"/></l>
         <l xml:id="srisaila82"><gap reason="missing folio"/></l>
         <l xml:id="srisaila83"><gap reason="missing folio"/></l>
         <l xml:id="srisaila84"><gap reason="missing folio"/></l>
@@ -449,11 +450,13 @@
         <l xml:id="srisaila90"><gap reason="missing folio"/></l>
         <l xml:id="srisaila91"><gap reason="missing folio"/></l>
 
-
-        <l xml:id="srisaila92">punar anyaṃ pravakṣāmi golabaṃ<gap extent="pada"
-            reason="missing folio"/> va citraṃ ca prasuptaṃ ca jalodare
-          <caesura/>
+        
+        <l xml:id="srisaila92a"> va citraṃ ca prasuptaṃ ca jalodare</l>
+          <l xml:id="srisaila92b">
            grāhiṇī durnāmakaṃ 15 gutvaṃ gaṃḍamālā śilās tathā</l>
+        
+        <l xml:id="srisaila92x"/>
+        
 
         <l xml:id="srisaila93">etai sarvai vinirmukto valipalitavīryasaḥ<lb/>16
           <caesura/>

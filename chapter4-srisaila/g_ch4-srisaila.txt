@@ -502,9 +502,13 @@
                     <caesura/>
                     kaphapittānilai<lb/>r bhaktā svabhāvaguṇabhūṣitā| | </l>
                 
-                <l xml:id="srisaila92">uduṃbaraṃ ca citraṃ ca prasuptaṃ ca jalodare||
-                    <caesura/>
+                <l xml:id="srisaila92a">uduṃbaraṃ ca citraṃ ca prasuptaṃ ca jalodare||
+                </l>
+                <l xml:id="srisaila92b">
                     grahaṇārśas tathā gulmaṃ gaṃ<lb/>ḍamālā śivās tathā| | </l>
+                
+                <l xml:id="srisaila92x"/>
+                
                 
                 <l xml:id="srisaila93">etaiḥ sarvair vinirmukto valīpalitavīr<unclear unit="akṣara" extent="1"/>taḥ||<note place="foot">Like
                     Rasārṇava 18.203</note>

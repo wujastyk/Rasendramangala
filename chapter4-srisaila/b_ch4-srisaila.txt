@@ -614,14 +614,17 @@
 
         <l xml:id="srisaila90"><gap extent="verse" reason="omitted"/></l>
 
-        <l xml:id="srisaila91">vālmīka mukhabhāgaṃ ca cakṣuḥ śrotrādināśakaṃ ||53
+        <l xml:id="srisaila91">vālmīka mukhabhāgaṃ ca cakṣuḥśrotrādināśakaṃ ||53
           <caesura/>
           ka<lb/>phapittānilair bhuktā <unclear>sva</unclear>bhāvaguṇabhūṣitaṃ |</l>
 
-        <l xml:id="srisaila92">adaṃbara <unclear>ca tvaṃtraṃ</unclear> ca prasuptaṃ ca jalodaraṃ
+        <l xml:id="srisaila92a">adaṃbara <unclear>ca tvaṃtraṃ</unclear> ca prasuptaṃ ca jalodaraṃ
           ||54
-          <caesura/>
-          grahaṇīdurnāmakaṃ gulmaṃ gaṃḍamālāśilās tathā |</l>
+        </l>
+        <l xml:id="srisaila92b">
+          grahaṇī durnāmakaṃ gulmaṃ gaṃḍamālā śilās tathā |</l>
+        
+        <l xml:id="srisaila92x"/>
 
         <l xml:id="srisaila93">e<unclear>taiḥ</unclear> sarvvair vi<lb/>nirmukto valipalitavarjitaḥ
           ||55

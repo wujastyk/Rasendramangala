@@ -100,8 +100,7 @@
       <milestone n="19v" unit="folio"/>
 
       <div n="4" type="adhyaya">
-        <l xml:id="srisaila01"> <placeName>śrīsaila</placeName>parvatasthāsau siddho <hi
-          style="bold"><persName>nāgārjuno</persName></hi> ma<lb/>hān
+        <l xml:id="srisaila01"> śrīsailaparvatasthāsau siddho nāgārjuno ma<lb/>hān
           <caesura/>
            sarvasatropakārī sarvabhogāguṇānvitaḥ</l>
         <l xml:id="srisaila02"> prārthitau dadhate śīghraṃ yasya yasya hi yādṛśaṃ
@@ -461,11 +460,15 @@
           <caesura/>
            kaphapittānilair bhaktā<pb n="22r"/> ra ca bhāvaguṇabhūṣitā </l>
 
-        <l xml:id="srisaila92">udaṃbaraṃ ca citraṃ ca prasuptaṃ ca jalodare
-          <caesura/>
+        <l xml:id="srisaila92a">udaṃbaraṃ ca citraṃ ca prasuptaṃ ca jalodare
+        </l>
+        <l xml:id="srisaila92b">
            grāhiṇī durnāmakaṃ gulvaṃ gaṃḍamālā śilās tathā </l>
+        
+        <l xml:id="srisaila92x"/>
+        
 
-        <l xml:id="srisaila93">etai sa<lb/>rvai vinirmukto valipalita vīryasaḥ
+        <l xml:id="srisaila93">etai sa<lb/>rvai vinirmukto valipalitavīryasaḥ
           <caesura/>
            śatāni triṇi varṣāṇi jīved vai karivikramaḥ </l>
 
