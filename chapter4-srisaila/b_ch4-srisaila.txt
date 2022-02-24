@@ -639,9 +639,9 @@
           <caesura/>
           drutāni mukhamadhye tu teṣu vakṣāmi  | |ye guṇāḥ ||57</l>
 
-        <l xml:id="srisaila96">nāsau vvidyaṃti śastraiś ca pātakena na dahyati |
+        <l xml:id="srisaila96">nāsau chidyaṃti śastraiś ca pātakena na dahyati |
           <caesura/>
-          vāyu ve<lb/>go mahātejo śakratulya mahārasaḥ 58||</l>
+          vāyuve<lb/>go mahātejo śakratulya mahārasaḥ 58||</l>
 
         <l xml:id="srisaila97">trailokye ca mahāvārī  | kāmadeva iva sthitaḥ |
           <caesura/>

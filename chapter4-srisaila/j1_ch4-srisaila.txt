@@ -559,7 +559,7 @@
           <caesura/>
            dutāṃni muṣamadhye tu teṣu vakṣyāmi yo guṇā</l>
 
-        <l xml:id="srisaila96">nāṃśau biṃdate śāstre-<lb/>śca pāvakena nadakyate
+        <l xml:id="srisaila96">nāṃśau biṃdate śāstre-<lb/>ś ca pāvakena na dakyate
           <caesura/>
            vāyuvego mahātejā śakratulyo mahāyaśaḥ</l>
 

@@ -599,7 +599,7 @@
           <l xml:id="srisaila96">nāsau ch<unclear extent="1" unit="syllable"/>iṃdate śastrai<unclear
             extent="1" unit="syllable"/>va pāvakena na dahyate|
             <caesura/>
-             vāyuvego mahātejā śakratulpo mahāyaśaḥ | </l>
+             vāyuvego mahātejā śakratulyo mahāyaśaḥ | </l>
 
           <l xml:id="srisaila97">trailodhye ca manohārī kāmadeva iva sthitaḥ|
             <caesura/>
