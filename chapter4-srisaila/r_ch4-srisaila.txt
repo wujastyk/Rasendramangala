@@ -588,13 +588,15 @@
 
         <l xml:id="srisaila97">tailokye ca mahā<unclear>kā</unclear>rī kāmadeva puri sthitaḥ
           <caesura/>
-           iśchā vā jāyate tasya śuddhaśco jāyate śchayā</l>
+           iśchā vā jāyate tasya śuddhaś co jāyate śchayā</l>
 
-        <l xml:id="srisaila98">ta<lb/><del>mya</del><add>sya</add> saṃmparśamātreṇa sarvalohāni
+        <l xml:id="srisaila98">ta<lb/><del>mya</del><add>sya</add> saṃmparśamātreṇa 
+          sarvalohāni
           kāṃcanam
           <caesura/>
-           sakalā niṣkalāś caiva sthūlasūkṣmarasāyanam sarvata<lb/>smomakāntā ca jived
-          ācaṃdrārkatārakam punar anyaṃ pravakṣyāmi vaṃdyaṃ sukharārcitaṃ </l>
+          sakalā niṣkalāś caiva sthūlasūkṣmarasāyanam<caesura/> 
+          sarvata<lb/>s somakāntā ca jived ācaṃdrārkatārakam<caesura/> 
+          punar anyaṃ pravakṣyāmi vaṃdyaṃ sukharārcitaṃ </l>
 
         <l xml:id="srisaila99">sūtakālāntakaṃ ga<pb n="33v"/>ndhaṃ yaduktaṃ parameṣṭinā
           <caesura/>

@@ -532,11 +532,11 @@
 
       <l xml:id="srisaila97">trailokye<lb/>va manohārī | kāmadeva iva sthitaḥ | 68
         <caesura/>
-        icchayā jāyate tasya | <unclear>ktā</unclear>dṛrśye jāyate tvayā|</l>
+        icchayā jāyate tasya | <unclear>ktā</unclear>dṛrśye jāyate tvayā |</l>
 
       <l xml:id="srisaila98">tasya sparśanamātreṇa | sarvalohāni kāṃcanaṃ | 69
         <caesura/>
-        puna<lb/>ranyaṃ pravakṣyāmi | baṃdhaṃ sukharārcitā|</l>
+        puna<lb/>r anyaṃ pravakṣyāmi | baṃdhaṃ sukharārcitā|</l>
 
       <l xml:id="srisaila99">sūtakālāṃtagaṃ baṃdhaṃ | yeduktaṃ parameṣṭhinā | 70
         <caesura/>
@@ -545,13 +545,13 @@
       <l xml:id="srisaila100">gatāṃ<lb/>driyāṇi<unclear>nā</unclear> nayano | jaragrasto jiteṃdriyaḥ|
         71
         <caesura/>
-        jaḍaś ca gadado mūko | gatihīnastathaiva ca|</l>
+        jaḍaś ca gadado mūko | gatihīnas tathaiva ca|</l>
 
       <l xml:id="srisaila101">asaṃkatraya<unclear>vi</unclear>nirmukto | jīve śeṣe ca tiṣṭha<lb/>ti|
         <caesura/>
         etadgaṃdhaprabhāvena | samāvarto yadā bhavet|</l>
 
-      <l xml:id="srisaila102">punar anyaṃ bhavetpiṃḍaṃ | nātra kāryavicāraṇā | <unclear>72</unclear>
+      <l xml:id="srisaila102">punar anyaṃ bhavet piṃḍaṃ | nātra kāryavicāraṇā | <unclear>72</unclear>
         <caesura/>
         paṃcāmṛto mahāyogo | <unclear>u</unclear>kto <persName>maṃthānabhaira<pb n="16v"/>ve</persName></l>
 

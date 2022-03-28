@@ -594,7 +594,7 @@
         <caesura/>
          sakalā niṣkalā<lb/>ś caiva saceto somakāṃto caiva jīvec caṃdrārkatārakau||
         <caesura/>
-         punaranyaṃ pravakṣyāmi baṃdhaṃ suravarārcitaṃ|| </l>
+         punar anyaṃ pravakṣyāmi baṃdhaṃ suravarārcitaṃ|| </l>
 
       <l xml:id="srisaila99">sūtakālāṃ<lb/>tagaṃ baṃdhaṃ yaduktaṃ parameṣṭhinā||
         <caesura/>
@@ -608,7 +608,7 @@
         <caesura/>
          ||125|| etadbaṃdhaprabhāvena samāvartto yadā bhavet|| </l>
 
-      <l xml:id="srisaila102">punaranyaṃ bhavetpiṃḍaṃ nātra kāryā vicāraṇāṃ<del rend="crossed out"
+      <l xml:id="srisaila102">punar anyaṃ bhavetpiṃḍaṃ nātra kāryā vicāraṇāṃ<del rend="crossed out"
           resp="scribe">ṃ</del>||
         <caesura/>
          paṃcāmṛ<lb/><pb n="40v"/>paṃ<unclear extent="1" unit="character"/>to mahāyogaḥ ukto
@@ -709,7 +709,7 @@
 
       <p xml:id="srisaila117a"><hi style="bold"><persName>|| nāgārjuno</persName></hi>vāca|||| </p>
 
-      <l xml:id="srisaila118">punaranyaṃ pravakṣyāmi khecaraṃ baṃdhamutta<lb/>maṃ||
+      <l xml:id="srisaila118">punar anyaṃ pravakṣyāmi khecaraṃ baṃdhamutta<lb/>maṃ||
         <caesura/>
          yena bhakṣitamātreṇa surasāmānyatā bhavet|| </l>
 

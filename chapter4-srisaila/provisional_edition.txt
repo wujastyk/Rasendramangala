@@ -1000,12 +1000,27 @@
         <label>97</label>
         <l xml:id="srisaila97">trailokye ca manohārī kāmadeva iva sthitaḥ|
           <caesura/>
-           icchayā jāyate tasya sadṛśo jāyate tvayā </l>
+           icchayā jāyate tasya tādṛśo jāyate tvayā </l>
 
         <label>98</label>
         <l xml:id="srisaila98">tasya sparśanamātreṇa sarvalohāni kāñcanam|
           <caesura/>
-           punar anyaṃ pravakṣyāmi bandhaṃ sukharārcitāḥ | </l>
+          <caesura/>
+          sakalā niṣkalāś caiva jīvec caṃdrārkatārakau||
+          <caesura/>
+          punar anyaṃ pravakṣyāmi bandhaṃ suravarārcitam | <anchor n="srisaila98-n1"/>
+        </l>
+        <ab corresp="#srisaila98" type="apparatus">
+          <list type="Parallels">
+            <item corresp="#srisaila98-n1">Cf. <title>Rasārṇava</title> 18.207--208 (Ray 1910, 432):
+              <foreign>tasya saṃsparśamātreṇa sarvalohāni kāñcanam //
+                punar anyaṃ pravakṣyāmi vajrabandhaṃ surārcite //</foreign>
+              </item>
+          </list>
+        </ab>
+        
+        
+        
         <p>
           <hi>[Sūtakālātagatabandha]</hi>
         </p>
