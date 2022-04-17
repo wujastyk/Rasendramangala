@@ -475,7 +475,7 @@
 
       <l xml:id="srisaila73">ghṛtadhṛtamadhurā<unclear extent="1" unit="syllable"/>
         <caesura/>
-        vyoṣacitraṃ daśāṃśaiḥ||
+         vyoṣacitraṃ daśāṃśaiḥ||
         <caesura/>
          rasapaladaśasiddhaṃ
         <caesura/>
@@ -534,7 +534,7 @@
 
       <l xml:id="srisaila85">narasya vṛkṣastham idaṃ rasāyana
         <caesura/>
-        rasāyana cāmaratā<unclear> va</unclear> kārakaṃ|| </l>
+         rasāyana cāmaratā<unclear> va</unclear> kārakaṃ|| </l>
 
       <!-- Vandana end (40)-85 -->
 
@@ -547,7 +547,8 @@
         <caesura/>
          muktāsthānā<lb/>ni sarvāṇi krameṇaitāni sasya ca|| </l>
 
-      <l xml:id="srisaila88">yasyāgrā<pc> </pc>kuṃcitā ke<unclear>śa</unclear>śyāmā vai padmalocanā||
+      <l xml:id="srisaila88">yasyāgrā<pc> </pc>kuṃcitā ke<unclear>śa</unclear>śyāmā vai
+        padmalocanā||
         <caesura/>
          vistīrṇaṃ jaghanaṃ yasya<lb/> saṃkīrṇaṃ <unclear>hṛ</unclear>dayaṃ bhavet|| </l>
 
@@ -563,13 +564,11 @@
         <caesura/>
          kaphapittānilair bhuktā svabhāvaguṇabhūṣitā|| </l>
 
-      <l xml:id="srisaila92a">udaṃbaraṃ ca citraṃ ca<lb/><pb n="39r"/> prasuptaṃ ca jalodare||
-      </l>
-      <l xml:id="srisaila92b">
-         grahaṇī durnāmakaṃ gulmaṃ jaḍamālā śilās tathā|| </l>
-      
+      <l xml:id="srisaila92a">udaṃbaraṃ ca citraṃ ca<lb/><pb n="39r"/> prasuptaṃ ca jalodare|| </l>
+      <l xml:id="srisaila92b"> grahaṇī durnāmakaṃ gulmaṃ jaḍamālā śilās tathā|| </l>
+
       <l xml:id="srisaila92x"/>
-      
+
 
       <l xml:id="srisaila93">etaiḥ sarvair vinirmukto valīpalitava<lb/>rjitaḥ||
         <caesura/>
@@ -592,21 +591,21 @@
 
       <l xml:id="srisaila98">tasya saṃsparśamātreṇa sarvalohāni kāṃcanaṃ||
         <caesura/>
-         sakalā niṣkalā<lb/>ś caiva saceto somakāṃto caiva jīvec caṃdrārkatārakau||
-        <caesura/>
-         punar anyaṃ pravakṣyāmi baṃdhaṃ suravarārcitaṃ|| </l>
+         sakalā niṣkalā<lb/>ś caiva saceto somakāṃto caiva jīvec caṃdrārkatārakau|| </l>
 
-      <l xml:id="srisaila99">sūtakālāṃ<lb/>tagaṃ baṃdhaṃ yaduktaṃ parameṣṭhinā||
+      <l xml:id="srisaila99"> punar anyaṃ pravakṣyāmi baṃdhaṃ suravarārcitaṃ||
         <caesura/>
-         hīnāṃ go<unclear>hya</unclear>dhikāṃgaś ca savyā ca kubjavāmanaḥ|| </l>
+         sūtakālāṃ<lb/>tagaṃ baṃdhaṃ yad uktaṃ parameṣṭhinā||
+        <caesura/>
+         hīnāṃgo hy adhikāṃgaś ca savyā ca kubjavāmanaḥ|| </l>
 
-      <l xml:id="srisaila100">gatāṃ<unclear>driyā</unclear>nayano jarāgra<lb/>sto yateṃdriyaḥ||
+      <l xml:id="srisaila100">gatāṃ<unclear>driyā</unclear> nayano jarā<pc> </pc>gra<lb/>sto yateṃdriyaḥ||
         <caesura/>
-         jaḍaś ca gaḍgado mūko gatihīnastathaiva ca|| </l>
+         jaḍaś ca gaḍgado mūko gatihīnas tathaiva ca|| </l>
 
-      <l xml:id="srisaila101">asiṃkatrayadivinirmukto jīvasevye ca ti<lb/>ṣṭati||
+      <l xml:id="srisaila101">asiṃkatrayadi<pc> </pc>vinirmukto jīvasevye ca ti<lb/>ṣṭati||
         <caesura/>
-         ||125|| etadbaṃdhaprabhāvena samāvartto yadā bhavet|| </l>
+         ||125|| etad baṃdhaprabhāvena samāvartto yadā bhavet|| </l>
 
       <l xml:id="srisaila102">punar anyaṃ bhavetpiṃḍaṃ nātra kāryā vicāraṇāṃ<del rend="crossed out"
           resp="scribe">ṃ</del>||

@@ -86,12 +86,12 @@
                 <p>[description of another hand]</p>
               </handNote>
             </handDesc>
-            
+
             <scriptDesc>
               <scriptNote xml:id="script-ba-va"><foreign xml:lang="sa">ba</foreign> and <foreign
                   xml:lang="sa">va</foreign> not distinguished.</scriptNote>
             </scriptDesc>
-            
+
             <additions>
               <!-- the following additions are examples -->
               <p>Marginal annotations and corrections throughout.</p>
@@ -102,7 +102,7 @@
               <p>[description of cover, binding, and/or stringholes]</p>
             </bindingDesc>
 
-         
+
           </physDesc>
 
           <history>
@@ -448,18 +448,20 @@
           <caesura/>
            ghanam uttama yena bhakṣitamātreṇa naro bhavati vīryavān</l>
 
-<!-- later in this MS -->
+        <!-- later in this MS -->
 
         <l xml:id="srisaila82">gaṃdhakābhrakāṃsahitaṃ bhānuratnāni kācanaṃ
           <caesura/>
            samajīrṇe raseṃdrasya vaṃdha<lb/>kṛdbhānugālakaṃ</l>
 
-        <l xml:id="srisaila83">raseṃdra<pc> </pc>paṃcalohāni samabhāgāni lepayet saptapaṃcottaroś cai-<lb/>va
-          yavāmu golakasya ca</l>
+        <l xml:id="srisaila83">raseṃdra<pc> </pc>paṃcalohāni samabhāgāni lepayet saptapaṃcottaroś
+          cai-<lb/>va yavāmu golakasya ca</l>
 
         <l xml:id="sriaila84">maśaśiprabhākārakaraṃ vitaṃ sūtakaṃ jātagolakaṃ</l>
 
-        <l xml:id="srisaila85">narasya vakṣa<lb/>stham idaṃ rasāyanaḥ<caesura/> vāmaratā va tāva kārakaṃ</l>
+        <l xml:id="srisaila85">narasya vakṣa<lb/>stham idaṃ rasāyanaḥ
+          <caesura/>
+           vāmaratā va tāva kārakaṃ</l>
 
         <l xml:id="srisaila86">sugaṃdhalepatāṃbūla karpūraṃ kuṃkumāguru
           <caesura/>
@@ -484,11 +486,10 @@
         <l xml:id="srisaila91">vālmīkaṃ mu<lb/>mukharogaṃ ca cakṣuśrotradi nāśikā
           <caesura/>
            kaphapittānilai bhaktā ra ca bhāvaguṇabhūṣitā</l>
-          
-          <l xml:id="srisaila92a">
-           u<lb/>daṃbaraṃ rasaḥ śarīreṇa va sarvaṃ bhavati niḥphalaṃ</l>
-        
-    
+
+        <l xml:id="srisaila92a"> u<lb/>daṃbaraṃ rasaḥ śarīreṇa va sarvaṃ bhavati niḥphalaṃ</l>
+
+
 
         <l xml:id="srisaila92x">nāgārjunovāca</l>
 
@@ -539,13 +540,13 @@
         <l xml:id="srisaila81">punaḥ ratnaṃ pravakṣyāmi golavaṃdha vaci<lb/>trakaṃ
           <caesura/>
            vaprasupūṃ ca jalodare </l>
-        
-<!--        82-91 occur earlier in this MS -->
+
+        <!--        82-91 occur earlier in this MS -->
 
         <l xml:id="srisaila92b">grāhiṇī durnāmakaṃ gutva gaṃdhamālāśilāstathā </l>
-        
-        
-        
+
+
+
 
         <l xml:id="srisaila93">e<lb/>tai sarvai vinirmukto valipalitavīryasaḥ
           <caesura/>
@@ -567,23 +568,23 @@
           <caesura/>
            ichayā jāyate tasya śadṛśo jāyate- tbayā</l>
 
-        <l xml:id="srisaila98">tasya śparsanamātreṇa sarvalohāni kāṃcanaṃ
-          <caesura/>
-           punaḥ ratnaṃ pravakṣyāmi vaṃdhaṃ suravarārcito</l>
+        <l xml:id="srisaila98">tasya śparsanamātreṇa sarvalohāni kāṃcanaṃ </l>
 
-        <l xml:id="srisaila99">sūtakālaṃ tagaṃ vaddhaṃ yuduktaṃ parameṣṭinī
+        <l xml:id="srisaila99"> punaḥ ratnaṃ pravakṣyāmi vaṃdhaṃ suravarārcito
           <caesura/>
-           hīnāṃ gye adhikāṃgaṃ ca va<pb n="36r"/>svā sarvān kuṣṭavān</l>
-
-        <l xml:id="srisaila100">nāgatāṃ<unclear>ddhi</unclear> pāṇinā nayano jarāgrastā
+          sūtakālaṃtagaṃ vaddhaṃ yud uktaṃ parameṣṭinī
           <caesura/>
-           jineṃdvipraḥ ja<lb/>maśca gadado mūko gatihānistathaiva ca</l>
+           hīnāṃgye adhikāṃgaṃ ca va<pb n="36r"/>svā sarvān kuṣṭavān</l>
 
-        <l xml:id="srisaila101">abhrakatrayavinirmukto jīvaśe<lb/>ṣe ca tiṣṭati
+        <l xml:id="srisaila100">nāgatāṃ<unclear>ddhi</unclear> pāṇinā nayano jarā<pc> </pc>grastā
+          <caesura/>
+           jineṃdvipraḥ ja<lb/>maśca gadado mūko gatihānis tathaiva ca</l>
+
+        <l xml:id="srisaila101">abhrakatraya<pc> </pc>vinirmukto jīvaśe<lb/>ṣe ca tiṣṭati
           <caesura/>
            etat gaṃdhaprabhāvena samāvartte yadā bhavet </l>
 
-        <l xml:id="srisaila102">punaḥratyaṃ bhavetyiṃmaṃ<lb/><space quantity="1" unit="aksara"
+        <l xml:id="srisaila102">punaḥr atyaṃ bhavet yiṃmaṃ<lb/><space quantity="1" unit="aksara"
           />nātra kārya vicāraṇā
           <caesura/>
            paṃcāmṛto mahāyogo yukto mathānabhairave </l>

@@ -438,7 +438,7 @@
         <!-- [golabaṃdhanam] -->
 
         <l xml:id="srisaila81">punar anyaṃ pravakṣāmi golabaṃ<gap extent="pada"
-          reason="missing folio"/></l>
+            reason="missing folio"/></l>
         <l xml:id="srisaila82"><gap reason="missing folio"/></l>
         <l xml:id="srisaila83"><gap reason="missing folio"/></l>
         <l xml:id="srisaila84"><gap reason="missing folio"/></l>
@@ -450,13 +450,12 @@
         <l xml:id="srisaila90"><gap reason="missing folio"/></l>
         <l xml:id="srisaila91"><gap reason="missing folio"/></l>
 
-        
+
         <l xml:id="srisaila92a"> va citraṃ ca prasuptaṃ ca jalodare</l>
-          <l xml:id="srisaila92b">
-           grāhiṇī durnāmakaṃ 15 gutvaṃ gaṃḍamālā śilās tathā</l>
-        
+        <l xml:id="srisaila92b"> grāhiṇī durnāmakaṃ 15 gutvaṃ gaṃḍamālā śilās tathā</l>
+
         <l xml:id="srisaila92x"/>
-        
+
 
         <l xml:id="srisaila93">etai sarvai vinirmukto valipalitavīryasaḥ<lb/>16
           <caesura/>
@@ -478,21 +477,21 @@
           <caesura/>
            ichayā jāyate tasya śadṛśo jāyate tvayā 21</l>
 
-        <l xml:id="srisaila98">tasya sparśanamātreṇa sarvalohāni kāṃcanaṃ
-          <caesura/>
-           punar anyaṃ pravakṣyāmi baṃdhaṃ su<unclear>rava</unclear>rārcito 22</l>
+        <l xml:id="srisaila98">tasya sparśanamātreṇa sarvalohāni kāṃcanaṃ </l>
 
         <!--  [sūtakāntabaṃdha] -->
 
-        <l xml:id="srisaila99">sūtakālāṃtakaṃ baṃdhaṃ yad uktaṃ parameṣṭinā
+        <l xml:id="srisaila99"> punar anyaṃ pravakṣyāmi baṃdhaṃ su<unclear>rava</unclear>rārcito 22
           <caesura/>
-           hīnāṃge adhikāṃ<lb/>ga<unclear>ve vasvā</unclear>savān kuṣṭavāmanā 23</l>
+           sūtakālāṃtakaṃ baṃdhaṃ yad uktaṃ parameṣṭinā
+          <caesura/>
+           hīnāṃge adhikāṃ<lb/>ga<unclear>ve va svā</unclear>savān kuṣṭavāmanā 23</l>
 
-        <l xml:id="srisaila100">gatāṃdriyāṇi nā nayano jarāgragrasto jiteṃdriyaḥ
+        <l xml:id="srisaila100">gatāṃdriyāṇi nā nayano jarā<pc> </pc>gragrasto jiteṃdriyaḥ
           <caesura/>
            jaḍaś ca gadado mūko gatihā<unclear>sa</unclear>s tathaiva ca 24</l>
 
-        <l xml:id="srisaila101">asaṃkatrayavinirmukto jīvaśe<lb/>ṣe ca tiṣṭati
+        <l xml:id="srisaila101">asaṃkatraya<pc> </pc>vinirmukto jīvaśe<lb/>ṣe ca tiṣṭati
           <caesura/>
            etad gaṃdhaprabhāvena samāvartto yadā bhavet 25</l>
 
@@ -755,6 +754,7 @@
 
         <l xml:id="srisaila164">iti śrīmannāgāṃrjuno viracite raseṃdramaṃgale
             guṭikātvādutijalūkājāraṇādirasa<pb n="19v"/>baṃdhanaṃ nāma caturthodhyāyaḥ</l>
+
 
 
 

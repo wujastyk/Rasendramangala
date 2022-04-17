@@ -92,7 +92,7 @@
               <scriptNote xml:id="script-ba-va"><foreign xml:lang="sa">ba</foreign> and <foreign
                   xml:lang="sa">va</foreign> not distinguished.</scriptNote>
             </scriptDesc>
-            
+
             <additions>
               <!-- the following additions are examples -->
               <p>Marginal annotations and corrections throughout.</p>
@@ -663,8 +663,9 @@
 
 
 
-        <l xml:id="srisaila76"> lihati śayanakāle vāmanetrārddhasevī <caesura/>ghananivi<lb/>ḍasusaṃdhir
-          mattamāttaṃgadaryyo </l>
+        <l xml:id="srisaila76"> lihati śayanakāle vāmanetrārddhasevī
+          <caesura/>
+          ghananivi<lb/>ḍasusaṃdhir mattamāttaṃgadaryyo </l>
 
         <l xml:id="srisaila77"> vigatasakaladoṣaḥ sarvadig vidavyacakṣu<lb/>r madana iva sukāṃtiḥ
           kāminīnāṃ pravīraḥ<pc> </pc> 25 </l>
@@ -697,8 +698,8 @@
 
 
 
-        <l xml:id="srisaila84"> ayo 'pi yad dhemaśaśīprabhāka<surplus>rā</surplus>raṃ karaṃvitaṃ<lb/>
-          sūtakajātakolakaṃ </l>
+        <l xml:id="srisaila84"> ayo 'pi yad dhemaśaśīprabhāka<surplus>rā</surplus>raṃ
+          karaṃvitaṃ<lb/> sūtakajātakolakaṃ </l>
 
         <l xml:id="srisaila85"> narasya vakṣaḥstham idaṃ rasāyanaṃ rasāyanaṃ cā<lb/>maratāṃ ca
           kārakaṃ 30 </l>
@@ -729,11 +730,9 @@
           <caesura/>
            kaphapittānalai yuktāṃ svabhā<lb/>vaguṇabhūmitāṃ 36 </l>
 
-        <l xml:id="srisaila92a"> udaṃvaraṃ caś citraṃ ca prasuptaṃ ca jalodaraṃ
-        </l>
-        <l xml:id="srisaila92b">
-           grahaṇī <lb/>durnāma<pc> </pc>gulmaṃ gaṃḍamā śilā tathā 37 </l>
-        
+        <l xml:id="srisaila92a"> udaṃvaraṃ caś citraṃ ca prasuptaṃ ca jalodaraṃ </l>
+        <l xml:id="srisaila92b"> grahaṇī <lb/>durnāma<pc> </pc>gulmaṃ gaṃḍamā śilā tathā 37 </l>
+
         <l xml:id="srisaila92x"/>
 
         <l xml:id="srisaila93"> etaiḥ sarvai vinirmukto valī<lb/>palitavarjjitaḥ|
@@ -763,20 +762,20 @@
 
 
 
-        <l xml:id="srisaila98">
-          <gap extent="1" reason="omitted" unit="line"/> punar anyaṃ pra<lb/>vakṣyāmi vidhiṃ
-          sukharāccitaṃ </l>
+        <l xml:id="srisaila98"><gap extent="1" reason="omitted" unit="line"/></l>
 
-        <l xml:id="srisaila99"> sūtakālāṃtakaṃ vaṃdhaṃ yaduktaṃ parame<lb/>ṣṭinā 44
+        <l xml:id="srisaila99"> punar anyaṃ pra<lb/>vakṣyāmi vidhiṃ sukharāccitaṃ
           <caesura/>
-           hīnāṃ go hy adhikāṅgaś ca savyādhiḥ kujvavāmanaḥ <lb/>
+          sūtakālāṃtakaṃ vaṃdhaṃ yad uktaṃ parame<lb/>ṣṭinā 44
+          <caesura/>
+           hīnāṃgo hy adhikāṅgaś ca savyādhiḥ kujvavāmanaḥ <lb/>
         </l>
 
-        <l xml:id="srisaila100"> gajāṃ hi pāṇinayano jurā grasto jiteṃdriyaḥ 45
+        <l xml:id="srisaila100"> gajāṃ hi pāṇi<pc> </pc> nayano jurā<pc> </pc>grasto jiteṃdriyaḥ 45
           <caesura/>
-           jaḍaś ca gadgado <lb/> mūko gatihīnastathaiva ca </l>
+           jaḍaś ca gadgado <lb/> mūko gatihīnas tathaiva ca </l>
 
-        <l xml:id="srisaila101"> asaṃkatrayanirmukto jīvaśeṣe ca ti<lb/>ṣṭati
+        <l xml:id="srisaila101"> asaṃkatraya<pc> </pc>nirmukto jīvaśeṣe ca ti<lb/>ṣṭati
           <caesura/>
            etad vaṃdhaprabhāvena samāvartto yadā bhavet</l>
 
@@ -819,7 +818,7 @@
 
         <l xml:id="srisaila110"> sutaptaṃ ca vijānīyān nirdhūmaṃ ca yadā bhave<lb/>t 55
           <caesura/>
-           caṃdrarkke tu grahā ṛkṣāraśayoḥ bhuvanāni ca  | </l>
+           caṃdrarkke tu grahā ṛkṣāraśayoḥ bhuvanāni ca | </l>
 
         <l xml:id="srisaila111"> namaskṛ<lb/>tya guruṃ devam ātmānaṃ tavraṣṭi nirkṣapet 56
           <caesura/>

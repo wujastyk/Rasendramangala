@@ -114,10 +114,9 @@
     </fileDesc>
     <revisionDesc>
       <change when="2019-10-29" who="Dominik Wujastyk">Added some xml:ids.</change>
-     
-        <change when="2020-06-06" who="Vandana Lele">Completed the transcription to srisaila164
-        </change>
-      
+
+      <change when="2020-06-06" who="Vandana Lele">Completed the transcription to srisaila164 </change>
+
 
     </revisionDesc>
   </teiHeader>
@@ -533,7 +532,7 @@
 
         <l xml:id="srisaila85">narasya vakṣasyam idaṃ ramāyanaṃ
           <caesura/>
-          ra<del>mā</del><add>sā</add>yana vāmaratā ca kārakam </l>
+           ra<del>mā</del><add>sā</add>yana vāmaratā ca kārakam </l>
 
         <l xml:id="srisaila86">sugaṃdha<lb/>lepānāṃmūlaṃ karpūraṃ kuṃkumāguruṃ
           <caesura/>
@@ -564,12 +563,12 @@
         <l xml:id="srisaila92"><unclear>au</unclear>ḍamvaraṃ caś chattraṃ ca prasutaṃ ca jalodaram
           <caesura/>
            grahaṇī dvandvakaṃ gulmaṃ gaṇḍamālā śilais ta<unclear>|</unclear><lb/>thā </l>
-        
+
         <l xml:id="srisaila92a"/>
-        
+
         <l xml:id="srisaila92x"/>
-        
-        
+
+
 
         <l xml:id="srisaila93">etaiḥ sarvair vinirmukto valīpalita<add cause="correcting_metathesis"
             place="bellow">va</add>rjitaḥ
@@ -590,23 +589,24 @@
           <caesura/>
            iśchā vā jāyate tasya śuddhaś co jāyate śchayā</l>
 
-        <l xml:id="srisaila98">ta<lb/><del>mya</del><add>sya</add> saṃmparśamātreṇa 
-          sarvalohāni
+        <l xml:id="srisaila98">ta<lb/><del>mya</del><add>sya</add> saṃmparśamātreṇa sarvalohāni
           kāṃcanam
           <caesura/>
-          sakalā niṣkalāś caiva sthūlasūkṣmarasāyanam<caesura/> 
-          sarvata<lb/>s somakāntā ca jived ācaṃdrārkatārakam<caesura/> 
-          punar anyaṃ pravakṣyāmi vaṃdyaṃ sukharārcitaṃ </l>
+           sakalā niṣkalāś caiva sthūlasūkṣmarasāyanam
+          <caesura/>
+           sarvata<lb/>s somakāntā ca jived ā caṃdrārkatārakam</l>
 
-        <l xml:id="srisaila99">sūtakālāntakaṃ ga<pb n="33v"/>ndhaṃ yaduktaṃ parameṣṭinā
+        <l xml:id="srisaila99"> punar anyaṃ pravakṣyāmi vaṃdyaṃ sukharārcitaṃ
+          <caesura/>
+           sūtakālāntakaṃ ga<pb n="33v"/>ndhaṃ yad uktaṃ parameṣṭinā
           <caesura/>
            hīnāṃgo hṛdhikāṃgasya sa vyādhaḥ ku<unclear>vja</unclear>vā<del>ma</del><add>sa</add>naḥ </l>
 
-        <l xml:id="srisaila100">gatā<unclear>stri</unclear>yāṇi nayano jarā<lb/> grasto jitendriyaḥ
+        <l xml:id="srisaila100">gatā<unclear>stri</unclear>yāṇi nayano jarā<lb/><pc> </pc>grasto jitendriyaḥ
           <caesura/>
-           jaḍa ga<gap n="2" unit="akṣara"/>da mūkopi gatihīnastathaiva ca </l>
+           jaḍa ga<gap n="2" unit="akṣara"/>da mūko pi gatihīnas tathaiva ca </l>
 
-        <l xml:id="srisaila101">asaṃkatrayanirmukto jīvaśeṣe va tiṣṭa<lb/>ti
+        <l xml:id="srisaila101">asaṃkatraya<pc> </pc>nirmukto jīvaśeṣe va tiṣṭa<lb/>ti
           <caesura/>
            etadvandha pramāṇena <del>ma</del><add>sa</add>māvarto dayā bhavet </l>
 

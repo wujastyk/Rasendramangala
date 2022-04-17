@@ -1004,42 +1004,75 @@
 
         <label>98</label>
         <l xml:id="srisaila98">tasya sparśanamātreṇa sarvalohāni kāñcanam|
-          <caesura/>
-          <caesura/>
-          sakalā niṣkalāś caiva jīvec caṃdrārkatārakau||
-          <caesura/>
-          punar anyaṃ pravakṣyāmi bandhaṃ suravarārcitam | <anchor n="srisaila98-n1"/>
-        </l>
+              <caesura/>
+          sakalā niṣkalāś caiva jīvec caṃdrārkatārakau||<anchor n="srisaila98-n1"/>
+     </l>
+         
         <ab corresp="#srisaila98" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila98-n1">Cf. <title>Rasārṇava</title> 18.207--208 (Ray 1910, 432):
-              <foreign>tasya saṃsparśamātreṇa sarvalohāni kāñcanam //
-                punar anyaṃ pravakṣyāmi vajrabandhaṃ surārcite //</foreign>
-              </item>
+            <item corresp="#srisaila98-n1">Cf. <title>Rasārṇava</title> 18.207 (Ray 1910, 432):
+                <foreign>tasya saṃsparśamātreṇa sarvalohāni kāñcanam //</foreign>
+            </item>
+          </list>
+          <list type="Notes">
+            <item corresp="#srisaila98-n1">In the Devanāgarī script, <foreign>ra-va</foreign> can
+              look similar to <foreign>kha</foreign>, accounting for the <foreign>surava- /
+                sukha</foreign> variant readings.</item>
           </list>
         </ab>
-        
-        
-        
+
+
+
         <p>
-          <hi>[Sūtakālātagatabandha]</hi>
+          <hi>[Sūtakālāntagabandha]</hi>
         </p>
 
         <label>99</label>
-        <l xml:id="srisaila99">sūtakālātagaṃ bamdhaṃ yad uktaṃ parameṣṭhinā|
+        <l xml:id="srisaila99">
+          punar anyaṃ pravakṣyāmi bandhaṃ suravarārcitam |
+        <caesura/>
+        sūtakālāntakaṃ bandhaṃ yad uktaṃ parameṣṭhinā|
           <caesura/>
-           hīnāṃśo adhikāṅgaś ca khāsavān kuṣṭhavāmanaḥ | </l>
+           hīnāṅgo hy adhikāṅgaś ca savyādhiḥ kubjavāmanaḥ |<anchor n="srisaila99-n1"/>
+        </l>
+        <ab corresp="#srisaila99" type="apparatus">
+          <list type="Parallels">
+            <item corresp="#srisaila99-n1">Cf. <title>Rasārṇava</title> 18.208-209 (Ray 1910, 432):
+              <foreign> punar anyaṃ pravakṣyāmi
+                vajrabandhaṃ surārcite // hīnāṅgo 'bhyadhikāṅgaś ca savyādhiḥ kubja ānataḥ / natāṅghriḥ pāṇiniḥsūto
+                jarayā stobhitendriyaḥ //</foreign>
+            </item>
+          </list>
+        </ab>
 
         <label>100</label>
-        <l xml:id="srisaila100">gatrendriyāṇi nā nayano nagā grasto jitendriyaḥ|
+        <l xml:id="srisaila100">gatendriyo nā nayano jarā<pc> </pc>grasto jitendriyaḥ|
           <caesura/>
-           jaḍaś ca gadado mūko gatihānas tathaiva ca | </l>
+          jaḍaś ca gadado mūko gatihānas tathaiva ca |<anchor n="srisaila100-n1"/>
+        </l>
+        <ab corresp="#srisaila100" type="apparatus">
+          <list type="Parallels">
+            <item corresp="#srisaila100-n1">Cf. <title>Rasārṇava</title> 18.209cd-ef (Ray 1910, 432):
+              <foreign>natāṅghriḥ pāṇiniḥsūto jarayā stobhitendriyaḥ // 
+                jaḍagadgadamūko 'pi gatihīnastathaiva ca //</foreign>
+            </item>
+          </list>
+        </ab>
 
         <label>101</label>
-        <l xml:id="srisaila101">asaṅkatrayavinirmukto jīvaśeṣe ca tiṣṭhati|
+        <l xml:id="srisaila101">aśaṅkatraya<pc> </pc>vinirmukto jīvaśeṣe ca tiṣṭhati|
           <caesura/>
-           evaṃ gandhaprabhāvena samāvartto yadā bhavet | </l>
-
+          evaṃ bandhaprabhāvena samāvartto yadā bhavet | <anchor n="srisaila101-n1"/>
+        </l>
+        <ab corresp="#srisaila101" type="apparatus">
+          <list type="Parallels">
+            <item corresp="#srisaila101-n1">Cf. <title>Rasārṇava</title> 18.209gh-210ab (Ray 1910, 433):
+              <foreign>śaṅkhatvacavinirmukto jīvitair eva tiṣṭhati // 
+                baddhasyāsya prabhāvena samāvarto yadā bhavet /</foreign>.  Ray struggles with the
+              variants in his manuscripts on these lines. 
+            </item>
+          </list>
+        </ab>
         <label>102</label>
         <l xml:id="srisaila102">punar anyaṃ bhavet piṇḍaṃ nātra kāryā vicāraṇā|
           <caesura/>
