@@ -19,7 +19,7 @@
             <collection>[collection]</collection>
             <idno>7753</idno>
             <idno type="NCC">[NCC identifier]</idno>
-            <idno type="siglum">A<sub>2</sub></idno>
+            <idno type="siglum">A2</idno>
           </msIdentifier>
           <msContents>
             <summary>[description of manuscript]</summary>

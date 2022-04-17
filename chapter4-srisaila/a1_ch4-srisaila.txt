@@ -19,7 +19,7 @@
             <collection>[collection]</collection>
             <idno>LDI</idno>
             <idno type="NCC">[NCC identifier]</idno>
-            <idno type="siglum">A<sub>1</sub></idno>
+            <idno type="siglum">A1</idno>
           </msIdentifier>
           <msContents>
             <summary>Just the Śrīśaila section of chapter 4</summary>

@@ -19,7 +19,7 @@
             <collection>[collection]</collection>
             <idno>184</idno>
             <idno type="NCC">[NCC identifier]</idno>
-            <idno type="siglum">J<sub>1</sub></idno>
+            <idno type="siglum">J1</idno>
           </msIdentifier>
           <msContents>
             <summary>Ff. 1-8 from another work.</summary>
