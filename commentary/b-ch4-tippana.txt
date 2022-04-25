@@ -1337,7 +1337,7 @@
         <l xml:id="T242">śeṣe<unclear>ṣu</unclear> lohaṃ yu<unclear>ṃ</unclear>jīna tatra
           kālena yāvatā
           <caesura/>
-           yāvad guṇaḥ kumārasya yutaḥ syādviguṇena<lb/> saḥ</l>
+           yāvad guṇaḥ kumārasya yutaḥ syād viguṇena<lb/> saḥ</l>
 
         <l xml:id="T243">sthavirasya tu kālena triguṇena bhaved asau
           <caesura/>

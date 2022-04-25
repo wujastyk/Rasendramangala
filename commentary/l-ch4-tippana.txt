@@ -768,7 +768,7 @@
         <l xml:id="T241">paraṃ vā lohe lohaṃ na yoktavyaṃ deho mṛduḥ sthiraś ca </l>
 
         <l xml:id="T242">śeṣeṣu lohaṃ yuṃjīta| tatra kālena yāvatā 
-        <caesura/>yāvad guṇaḥ kumārasya yutaḥ syādviguṇena saḥ|</l> 
+        <caesura/>yāvad guṇaḥ kumārasya yutaḥ syād viguṇena saḥ|</l> 
 
         <l xml:id="T243">sthavirasya tu kālena triguṇena bhaved asau|| 
         <caesura/>tadete kramaśo jñeyā<unclear extent="1" unit="syllable"/> śreṣṭhāmadhyā'dhamā narāḥ|</l> 
