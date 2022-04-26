@@ -159,6 +159,11 @@
             śaṃsaya<unclear>sya</unclear>gūḍhā<unclear>rthe</unclear>|<unclear>spa</unclear>ṣṭīkaraṇa<unclear>hetave</unclear>
           <caesura/>
           raseṃdramaṃgalasyedaṃ <unclear>ṣṭi</unclear>ppaṇaṃ racayāmy ahaṃ|| </l>
+        
+        <l xml:id="T4a"/>
+        <l xml:id="T4b"/>
+        <l xml:id="T4c"/>
+        <l xml:id="T4d"/>
 
         <l xml:id="T5">harā <unclear>jrā</unclear>to daraja<lb/>ḥ pāra<unclear>daḥ</unclear>
           <caesura/>

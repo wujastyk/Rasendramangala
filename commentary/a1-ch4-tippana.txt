@@ -125,7 +125,13 @@
       <caesura/>ta viditvā ca dhātūnāṃ pāraṃparyo sa deśataḥ 3</l>
 
       <l xml:id="T4">śā saṃsayasya gūḍhārthaṃ spaṣṭīkaraṇaheta<lb/>ve
-      <caesura/>raseṃdramaṃgalesyedaṃ ṭippaṇaṃ racayāmyahaṃ 4</l>
+      <caesura/>raseṃdramaṃgalesyedaṃ ṭippaṇaṃ racayāmy ahaṃ 4</l>
+       
+       <l xml:id="T4a"/>
+       <l xml:id="T4b"/>
+       <l xml:id="T4c"/>
+       <l xml:id="T4d"/>
+       
 
       <l xml:id="T5">harā jñāto harajaḥ pārada
       <caesura/>so jayatu</l>
@@ -164,16 +170,16 @@
 
       <!-- The 27 siddhas -->
 
-      <l xml:id="T11">"atha saptaviṃśatisiddhānāha"</l>
+      <l xml:id="T11">"atha saptaviṃśatisiddhān āha"</l>
 
       <l xml:id="T12">āmumaś caṃdra<lb/>senaś ca laṃkeśaś ca visāradaḥ
       <caesura/>kapālāmatamāṃḍavyo bhāskaraḥ surasenakaḥ 1<lb/>
       <caesura/>ratnaghoṣa<del>sya</del>ś ca śaṃbhuś ca tathaikā ratnavāhanā
-      <caesura/>iṃdra dogomukhaś caiva kaṃbalirvyāḍireva ca 2
-      <caesura/>nā<lb/>gārjuna sarāviṃdo nāgabodhiryaśodharaḥ
+      <caesura/>iṃdra dogomukhaś caiva kaṃbalir vyāḍir eva ca 2
+      <caesura/>nā<lb/>gārjuna sarāviṃdo nāgabodhir yaśodharaḥ
       <caesura/>ṣaṃḍakapāliko brahmā goviṃdo laṃpako hariḥ 3
       <caesura/>saptaviṃśati bhūpeṃdrā | rasasiddhā prakīrttitāḥ
-      <caesura/>eteṣāṃ matamālokya yatnena pa<lb/>ramādade 4</l>
+      <caesura/>eteṣāṃ matam ālokya yatnena pa<lb/>ramādade 4</l>
 
       <p xml:id="T13">deśe 2 nāṃ dhātunāṃ ca pṛthak kṛtvā <del extent="2" unit="char"/>dṛṣṭvā pāraṃparyeṇa raseṃdramaṃgalagraṃthasya 
       vākhyānaṃ karomi 5</p>
@@ -187,8 +193,8 @@
       <caesura/>sarvārthasiddhipradamukhyamaṃḍalaṃ
       <caesura/>graṃthaṃ pravakṣyāmi raseṃdramaṃgalaṃ 6</l>
 
-      <l xml:id="T15">raśme mahāsūtastrinetha trilocana
-      <caesura/>harabījaś caiva bījetho ca rasāyaṇaḥ</l>
+      <l xml:id="T15">raśme mahāsūtas trinetha trilocana
+      <caesura/>harabījaś caiva bīje tho ca rasāyaṇaḥ</l>
 
       <l xml:id="T16">pāradaś ca bhuva<lb/>ṇāṃkhyo mahāva<unclear>hni</unclear>s tathaiva ca 7
       <caesura/>lokeśaḥ khecaro dīvyaḥ saubhāgyaparamo mataḥ</l>

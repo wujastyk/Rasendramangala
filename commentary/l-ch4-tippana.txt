@@ -127,7 +127,12 @@
         <caesura/>taṃ viditvā ca dhātunāṃ pāraṃpartho svadeśataḥ| </l>
 
         <l xml:id="T4">sā saṃśayasya gūḍhārthasya ṣṭīkaraṇahetave 
-        <caesura/>rasendramaṃgalasyedaṃ ṭippaṇaṃ vasvayāmyahaṃ| </l>
+        <caesura/>rasendramaṃgalasyedaṃ ṭippaṇaṃ vasvayāmy ahaṃ| </l>
+        
+        <l xml:id="T4a"/>
+        <l xml:id="T4b"/>
+        <l xml:id="T4c"/>
+        <l xml:id="T4d"/>
 
         <l xml:id="T5">harā jāto harajaḥ pāradaḥ| 
         <caesura/>so jayatu| </l>
