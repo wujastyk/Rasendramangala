@@ -2,7 +2,7 @@
   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
     <fileDesc>
       <titleStmt>
-        <title>Pa Patan 8930: commentary</title>
+        <title>Pa Patan 8930: Rasendramaṅgala commentary</title>
       </titleStmt>
       <publicationStmt>
         <p>Created by Dominik Wujastyk for use in Saktumiva</p>
