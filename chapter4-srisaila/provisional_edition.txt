@@ -195,7 +195,7 @@
       <div n="4" type="adhyaya">
 
         <label>01</label>
-        <l xml:id="srisaila01">śrīśailaparvatastho'sau siddho nāgārjuno mahān||
+        <l xml:id="srisaila01">śrīśailaparvatastho 'sau siddho nāgārjuno mahān||
           <caesura/>
            sarvasattvopakārī ca sarvabhogaguṇānvitaḥ| | </l>
 
@@ -213,10 +213,10 @@
         <l xml:id="srisaila04"> kṛtāñjalipuṭo bhūtvā nāgārjunapurasthitaḥ||
           <caesura/>
            pṛcchate rasakarmāṇi vidyādānaṃ dadasva me| | </l>
-        <p ana="speaker" xml:id="nagarjuna-1">śrī<persName>nāgārjuno'vāca</persName></p>
+        <p ana="speaker" xml:id="nagarjuna-1">śrī<persName>nāgārjuno 'vāca</persName></p>
 
         <label>05</label>
-        <l xml:id="srisaila05">sādhu sādhu mahāprājña tuṣṭo'haṃ bhaktivatsalaḥ||
+        <l xml:id="srisaila05">sādhu sādhu mahāprājña tuṣṭo 'haṃ bhaktivatsalaḥ||
           <caesura/>
            kathayāmi na sandeho yat tvayā paripṛchitam||</l>
 
@@ -267,7 +267,7 @@
         <l xml:id="srisaila10"> sādhu sādhu mahāsiddha tvadbhaktyā tu mahattayā||
           <caesura/>
            yat kārye kāṅkṣitaṃ bhadra tat sarvaṃ pradadāmy ahaṃ| | </l>
-        <p ana="speaker" xml:id="nagarjuna-2">śrīnāgārjuno'vāca</p>
+        <p ana="speaker" xml:id="nagarjuna-2">śrīnāgārjuno 'vāca</p>
 
         <label>11</label>
         <l xml:id="srisaila11"> tuṣṭā tvaṃ yadi māṃ devi kliṣṭā dvādaśavarṣayā||
@@ -1094,7 +1094,7 @@
            guṭikāpañcamākhyātāḥ ṣaṣṭaṃ jīvaṃ ca kevalam | </l>
 
         <label>106</label>
-        <l xml:id="srisaila106">[London] ṣaḍguṇaṃ pañcastho'lpasya tāmrāyāṃ suśobhanam|
+        <l xml:id="srisaila106">[London] ṣaḍguṇaṃ pañcastho 'lpasya tāmrāyāṃ suśobhanam|
           <caesura/>
            ūrdhvapuruṣamānaṃ tu puruṣārdhaṃ garbhamaṇḍale | </l>
 
@@ -1288,7 +1288,7 @@
            pañcamo mūrtibaddhaś ca mūrcchitaḥ ṣaṣṭamo mataḥ | </l>
 
         <label>143</label>
-        <l xml:id="srisaila143">bandhaḥ ṣaḍvidhaḥ jñeyo saptamo'mṛtasūtakaḥ|
+        <l xml:id="srisaila143">bandhaḥ ṣaḍvidhaḥ jñeyo saptamo 'mṛtasūtakaḥ|
           <caesura/>
            ārdratvaṃ ca ghanatvaṃ ca ghanatvaṃ ca cāpalyaṃ kuru | </l>
 
@@ -1310,7 +1310,7 @@
         <label>147</label>
         <l xml:id="srisaila147">capalatvaṃ yadā naṣṭaṃ bhasmasūtasya lakṣaṇam|
           <caesura/>
-           nānāvarṇaṃ tathā svinnaṃ ghṛtaṃ yo'gnau jalūkavat | </l>
+           nānāvarṇaṃ tathā svinnaṃ ghṛtaṃ yo 'gnau jalūkavat | </l>
 
         <label>148</label>
         <l xml:id="srisaila148">varddhate sūtakaṃ yac ca jalūkābaddhalakṣaṇam|
@@ -1355,7 +1355,7 @@
         <label>156</label>
         <l xml:id="srisaila156">rañjanaṃ ca tataḥ proktaṃ sāraṇāsyānusāraṇā|
           <caesura/>
-           tato'pi kāraṇe deyaṃ sūtakasya vicakṣaṇe | </l>
+           tato 'pi kāraṇe deyaṃ sūtakasya vicakṣaṇe | </l>
 
         <label>157</label>
         <l xml:id="srisaila157">[London] enaṃ kramaṃ tu yo vetti tasya siddhiḥ na saṃśayaḥ|
@@ -1394,7 +1394,7 @@
 
         <label>164</label>
         <l xml:id="srisaila164">[London] śrīmannāgārjunaviracite rasendramaṅgale
-          guṭikāsatvadrutijālūkājāraṇādirasabandhanaṃ nāma caturtho'dhyāyaḥ | </l>
+          guṭikāsatvadrutijālūkājāraṇādirasabandhanaṃ nāma caturtho 'dhyāyaḥ | </l>
       </div>
 
 

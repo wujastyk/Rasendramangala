@@ -126,7 +126,7 @@
         <head type="subsection">Discussion with Śālivāhana</head>
 
         <!--   <lg type="verse">-->
-        <l xml:id="srisaila01">śrīsailyaparvatasthā'sau siddho nāgarjuno mahān|
+        <l xml:id="srisaila01">śrīsailyaparvatasthā 'sau siddho nāgarjuno mahān|
           <caesura/>
            sarvasatropakāri sarvalogāguṇānvitaḥ| | </l>
 
@@ -145,7 +145,7 @@
 
         <p ana="speaker" xml:id="nagarjuna-1">nāgārjunovāca|</p>
 
-        <l xml:id="srisaila05">sādhu sādhu mahāprājña tuṣṭo'haṃ bhaktivatsalaḥ|
+        <l xml:id="srisaila05">sādhu sādhu mahāprājña tuṣṭo 'haṃ bhaktivatsalaḥ|
           <caesura/>
            kathayāmi nisaṃdeho yattvayā paripṛcchitam | </l>
 
@@ -248,7 +248,7 @@
 
         <l xml:id="srisaila24">viddhaṃ sulvāyasaṃ nāgaṃ yajñārthe kāṃcanaṃ kṛtam|
           <caesura/>
-           tasya pārśve'vaśiṣṭena rasakarmā'vadhāritam | </l>
+           tasya pārśve'vaśiṣṭena rasakarmā 'vadhāritam | </l>
 
         <l xml:id="srisaila25">śāstraṃ vaśiṣṭhamāṃḍavyaṃ gurupārśve mayā śrutam|
           <caesura/>
@@ -327,7 +327,7 @@
 
         <l xml:id="srisaila42">yenedaṃ khanate brahma yenedaṃ khanate hariḥ|
           <caesura/>
-           tenā'haṃ khanayiṣyāmi paṃcasaṃkhyena pāṇinā | </l>
+           tenā 'haṃ khanayiṣyāmi paṃcasaṃkhyena pāṇinā | </l>
 
 
         <p xml:id="srisaila42a">mātrā | </p>
@@ -337,7 +337,7 @@
            sādhayitvā tu me kāryaṃ paścāt sarge gamiṣyasi|</l>
 
 
-        <l xml:id="srisaila44">anenaiva tu maṃtreṇa kurpyāt saptā'bhimaṃtritam|
+        <l xml:id="srisaila44">anenaiva tu maṃtreṇa kurpyāt saptā 'bhimaṃtritam|
           <caesura/>
            utpādya karmasaṃyogāt chāyā śuṣkāṃ tu kārayet | </l>
 
@@ -774,7 +774,7 @@
           <caesura/>
            mārttaḍaṃ yāvatā bhūtvā lokapālāṣṭakaiḥ saha | </l>
 
-        <l xml:id="srisaila131">caṃdanā'gurudhūpaiś ca pūjayitvā prayatnataḥ|
+        <l xml:id="srisaila131">caṃdanā 'gurudhūpaiś ca pūjayitvā prayatnataḥ|
           <caesura/>
           <pb n="59"/>namaskṛtya guruṃ devaṃ tato bhakṣenmahārasam | </l>
 
@@ -782,7 +782,7 @@
           <caesura/>
            uttiṣṭhati na saṃdeho trinetraś caturbhujaḥ | </l>
 
-        <l xml:id="srisaila133">gaṇanāthaḥ tathā siddhā cā'nye gaṇanāyakāḥ|
+        <l xml:id="srisaila133">gaṇanāthaḥ tathā siddhā cā 'nye gaṇanāyakāḥ|
           <caesura/>
            āgacchanti purastasya siddha--vidyādharādayaḥ | </l>
 
@@ -834,7 +834,7 @@
            paṃcamo mūrtibaddhaś ca mūrcchitaḥ ṣaṣṭamo mataḥ | </l>
 
         <l xml:id="srisaila143">baṃdhaḥ ṣaḍvidhaḥ s<unclear extent="1" unit="syllable"/>eyo
-          saptamo'mṛtasūtakaḥ|
+          saptamo 'mṛtasūtakaḥ|
           <caesura/>
            ārdratvaṃ ca ghanatvaṃ ca ghanatvaṃ ca vāyapyaṃ kuru | </l>
 
@@ -852,9 +852,9 @@
 
         <l xml:id="srisaila147">capalatvaṃ yadā naṣṭaṃ bhasma--sūtasya lakṣaṇam|
           <caesura/>
-           nānāvarṇaṃ tathā svinnaṃ ghṛtaṃ yo'gnau jalūkavat | </l>
+           nānāvarṇaṃ tathā svinnaṃ ghṛtaṃ yo 'gnau jalūkavat | </l>
 
-        <l xml:id="srisaila148">varddhate sūtakaṃ yacca jalūkābaddha--lakṣaṇam|
+        <l xml:id="srisaila148">varddhate sūtakaṃ yac ca jalūkābaddha--lakṣaṇam|
           <caesura/>
            śvetaṃ pītaṃ gurutvaṃ ca mṛdusikyakasannibham | </l>
 
@@ -877,7 +877,7 @@
 
         <l xml:id="srisaila153">taruṇāditya--saṃkāśo nānā--varṇa--vicakṣaṇaḥ|
           <caesura/>
-           vedhayeddehalohāni raṃjito rasabhairavaḥ | </l>
+           vedhayed dehalohāni raṃjito rasabhairavaḥ | </l>
 
         <l xml:id="srisaila154">śodhanaṃ sūtakasyādau grāsamānamataḥ param|
           <caesura/>
@@ -897,7 +897,7 @@
 
         <l xml:id="srisaila158">tasya janmajarākhyādhiḥ naśyante nātrasaṃśayaḥ|
           <caesura/>
-           atraiva paṃcaratnāni nāgavaṃgo tathā''<unclear extent="1" unit="syllable"/>yasaṃ | </l>
+           atraiva paṃcaratnāni nāgavaṃgo tathā ''<unclear extent="1" unit="syllable"/>yasaṃ | </l>
 
         <l xml:id="srisaila159">krāmaṇaṃ rasa--rājasya auṣadhān samavāpayet
           <caesura/>
@@ -920,7 +920,7 @@
            sūvakena samāyuktaṃ yojayec ca bhiṣagvaraḥ | </l>
 
         <l xml:id="srisaila164">śrīmannāgārjunaviracite rasendramaṃgale
-          guṭikātvedutijalūkājāraṇādirasabaṃdhanaṃ nāma caturtho'dhyāyaḥ|<pb n="62"/>
+          guṭikātvedutijalūkājāraṇādirasabaṃdhanaṃ nāma caturtho 'dhyāyaḥ|<pb n="62"/>
         </l>
 
 
