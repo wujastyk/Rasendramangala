@@ -22,7 +22,7 @@
             <collection>Gyanbhandar</collection>
             <idno>26264</idno>
             <idno type="NCC">[NCC identifier]</idno>
-            <idno type="siglum">Ko2</idno>
+            <idno type="siglum">Ko₂ </idno>
 
           </msIdentifier>
 

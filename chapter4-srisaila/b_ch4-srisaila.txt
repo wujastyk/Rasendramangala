@@ -140,9 +140,9 @@
         <l xml:id="srisaila03">sarvvasatvamayā bôdhī sūrasênas tathaiva ca
           <caesura/>
            ||81 teṣāṃ madhye pradhānaṃ ca ratnaghoṣo pra¦<lb/><unclear>bhā</unclear>karaḥ|</l>
-        <l xml:id="srisaila04">kṛtāṃjali pu<unclear>vyê</unclear> bhūtvā nāgārjuna purasthitaḥ
+        <l xml:id="srisaila04">kṛtāṃjalipu<unclear>vyê</unclear> bhūtvā nāgārjuna purasthitaḥ
           <caesura/>
-           ||82 pṛcchate rasakarmmāṇi vidyādānaṃ dadasva me| | ||</l>
+           || 82 pṛcchate rasakarmmāṇi vidyādānaṃ dadasva me | | ||</l>
 
 
 

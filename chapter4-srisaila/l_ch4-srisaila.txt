@@ -649,9 +649,9 @@
           <caesura/>
            nānetarahitam kiṃcit trailokye sacarāghare | </l>
 
-        <l xml:id="srisaila104">pṛthivyāpas tathā tejovāyurākāśameva ca|
+        <l xml:id="srisaila104">pṛthivyāpas tathā tejovāyurākāśam eva ca|
           <caesura/>
-           koṭivedhī mahārasaḥ gṛhyā piṃḍaṃ koṣṭasu saṃyutam | </l>
+           koṭivedhī mahārasaḥ gṛhyā piṃḍaṃ koṣṭasusaṃyutam | </l>
 
         <l xml:id="srisaila105"><pb n="57"/>ekaikasya tu madhyasthaṃ guṭikāṃ kārayed budhaḥ|
           <caesura/>
