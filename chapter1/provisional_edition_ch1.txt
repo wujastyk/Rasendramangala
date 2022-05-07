@@ -470,11 +470,18 @@
 
     <l xml:id="ch1.40">kim atra citraṃ yadi rājavarttikaṃ
      <caesura/>
-      śirīṣapuṣpārdrarasena bhāvitam
+     śirīṣapuṣpārdrarasena bhāvitam<anchor n="ch1.40"/>
      <caesura/>
       āruṇyakair utpalakair vipācitaṃ
      <caesura/>
       karoti tāraṃ tripuṭena kāṃcanam| 40| </l>
+
+    <ab corresp="#ch1.40" type="apparatus">
+                        <list type="Parallels">
+                         <item corresp="#ch1.40-n1">Corresponds to the text at 
+                          MS Jammu Raghunatha 3153, f. 1v.</item>
+                        </list>
+                    </ab>
 
     <label>rājāvarttaśodhanaṃ</label>
 

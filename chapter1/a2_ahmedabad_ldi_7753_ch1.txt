@@ -228,6 +228,7 @@
 
             <label>iti rasaśodhanaṃ </label>
 
+            
             <label>apy āho mahārasaśodhanaṃ</label>
 
 
@@ -244,7 +245,11 @@
                 karoti guṃjāśatam ekaguṃjayā<num value="1">1</num>
                <pb n="5b"/> āraṇyakair utpalakaiḥ supācitaṃ
                <caesura/>
-                karoti tāraṃ tripuṭena kāṃcana <num value="40">40</num></l>
+                karoti tāraṃ tripuṭena kāṃcana <num value="40">40</num>
+            </l>
+            
+            
+            
 
 
             <label>rājāva<unclear><unclear n="1" extent="chars"/>ṃ</unclear>śuddhiḥ</label>

@@ -388,7 +388,7 @@
         <l xml:id="T46.12"><add place="inline">śirīṣapuṣparasena | ārdrakarasena |
             palāśaya<lb/>ṣṭīti |</add></l>
 
-        <l xml:id="T46.13"><add place="inline">vrāhmī | sā ca udakamadhye | vaśyākhyetyarthaḥ
+        <l xml:id="T46.13"><add place="inline">vrāhmī | sā ca udakamadhye | vaśyākhyety arthaḥ
             |</add></l>
 
         <l xml:id="T46.14"><add place="inline">ajagaṃdhāḥ puhaṃ<lb/>gali</add></l>
