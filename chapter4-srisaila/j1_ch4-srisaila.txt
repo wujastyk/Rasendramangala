@@ -543,7 +543,7 @@
 
         <!--        82-91 occur earlier in this MS -->
 
-        <l xml:id="srisaila92b">grāhiṇī durnāmakaṃ gutva gaṃdhamālāśilāstathā </l>
+        <l xml:id="srisaila92b">grāhiṇī durnāmakaṃ gutva gaṃdhamālā śilās tathā </l>
 
 
 

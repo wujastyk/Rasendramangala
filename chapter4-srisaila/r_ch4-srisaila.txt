@@ -608,7 +608,7 @@
 
         <l xml:id="srisaila101">asaṃkatraya<pc> </pc>nirmukto jīvaśeṣe va tiṣṭa<lb/>ti
           <caesura/>
-           etadvandha pramāṇena <del>ma</del><add>sa</add>māvarto dayā bhavet </l>
+           etad vandha pramāṇena <del>ma</del><add>sa</add>māvarto dayā bhavet </l>
 
         <l xml:id="srisaila102">punar anyadbhavetpiṇḍaṃ nātra kāyā vicāraṇā
           <caesura/>

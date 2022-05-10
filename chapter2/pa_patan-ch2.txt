@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
         <fileDesc>
             <titleStmt>
-                <title>Patan 8930 [Pa]: chapter 2</title>
+                <title>MS Patan HJ 8930: chapter 2</title>
             </titleStmt>
             <publicationStmt>
                 <p>Rasendramangalam project at Saktumiva.org: chapter 2</p>
@@ -449,8 +450,8 @@
                         yuktyāmadhanāśayaṃ<unclear>ta</unclear>| abhyāsayuktāphalaṃ tāti nāśaṃ
                     kurvaṃti rukjanmajarāvināśaṃ||</l>
 
-                <p> iti śrīmannāgārjunaviracite raseṃdramaṃgale
-                    vajramāraṇasatvapātana-abhrakādidrutidrāvaṇaṃlohapāṇādhikāro dvitīyaḥ||2||</p>
+                <trailer xml:id="ch2.trailer"> iti śrīmannāgārjunaviracite raseṃdramaṃgale
+                    vajramāraṇasatvapātana-abhrakādidrutidrāvaṇaṃlohapāṇādhikāro dvitīyaḥ||2||</trailer>
             </div>
 
         </body>

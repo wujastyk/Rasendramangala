@@ -641,7 +641,7 @@
           <caesura/>
            evaṃ gaṃdhaprabhāvena samāvartto yadā bhavet | </l>
 
-        <l xml:id="srisaila102">punaranyaṃ bhavet piṇḍaṃ nātra kāryā vicāraṇā|
+        <l xml:id="srisaila102">punar anyaṃ bhavet piṇḍaṃ nātra kāryā vicāraṇā|
           <caesura/>
            paṃcāmṛto mahāyogo hyukto saṃdhāta--bhairave | </l>
 
