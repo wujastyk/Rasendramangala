@@ -262,7 +262,7 @@
 
       <l xml:id="T47">tatra pramāṇaṃ kapotapuṭaṃ kukuṭapuṭaṃ gajapuṭaṃ khadirādayaḥ</l>
 
-      <l xml:id="T48">kokilākhyaśilāyaṃtraṃ gajadaṃtabhājanayaṃtra dolāyaṃtra adhaḥ pātanayaṃtraṃ pānayaṃtraṃ urddhvapātanayaṃtraṃ 
+      <l xml:id="T48">kokilākhyaśilāyaṃtraṃ gajadaṃtabhājanayaṃtra dolāyaṃtra adhaḥpātanayaṃtraṃ pānayaṃtraṃ urddhvapātanayaṃtraṃ 
       niyāmakayaṃtraṃ ḍamarūyaṃtraṃ cakratrayaṃ cāki<lb/>vālukāyaṃtraṃ tulāyaṃtraṃ kal̤apayaṃtraṃ agniṣomāyaṃtraṃ kāṃsabhājanaṃ 
       yaṃtraṃ ghā<del><unclear extent="1" unit="syllable/"/></del>ṇayaṃtraṃ gaḍakayaṃtraṃ <gap extent="1" unit="word"/> jalūkāyaṃtraṃ vāraṇayaṃtrādayaḥ</l>
 
@@ -819,9 +819,9 @@
       <caesura/>athātasmin lohapātrasthe tāpyaṃ tanmita higukaḥ 
       <caesura/>triphalābhognināsthālyaṃ śeṣayed a vighaṭite</l>
 
-      <l xml:id="T261">itmyaṃ nirutthaṃ nihataṃ lohaṃ syādamṛtopamaṃ 
-      <caesura/>yatulyaṃ saṃbhāvitotthā<lb/>naṃ tannāghādvikriyābhayāt"
-      <caesura/>yattulyaṃ saṃbhāvigotthānaṃ tannādhādvikriyā bhayāt| </l>
+      <l xml:id="T261">itmyaṃ nirutthaṃ nihataṃ lohaṃ syād a mṛtopamaṃ 
+      <caesura/>ya tulyaṃ saṃbhāvitotthā<lb/>naṃ tannāghādvikriyābhayāt"
+      <caesura/>yat tulyaṃ saṃbhāvigotthānaṃ tannādhādvikriyā bhayāt| </l>
 
       <l xml:id="T262">athāṃdhamūkhāmadhyasthaṃ lohaṃ madhājyasaṃyutaṃ
       <caesura/>vāraṃ datvā dhametsuṣṭu punarucchānasaṃvide</l>
@@ -829,7 +829,7 @@
       <l xml:id="T263">yadi pūrvonmattaṃ tāraṃ tāvadeva bhavet tadā 
       <caesura/>jānīyā<pb n="24v"/>t taṃ nirutchānaṃ sādhaka tad viparyayaḥ 2</l>
 
-      <l xml:id="T264">tataḥ sakṛte phalena kvāthena puṭayettataḥ 
+      <l xml:id="T264">tataḥ sakṛte phalena kvāthena puṭayet tataḥ 
       <caesura/>punarnnavārase tātha pradadyād bha<unclear>śaḥ</unclear> puṭān</l>
 
       <l xml:id="T265">vadhabadhakoṣṭasya dadyā tu tā natavisa bhūyaśaḥ 

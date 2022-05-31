@@ -1421,19 +1421,19 @@
           <caesura/>
            triphalābhāginināsthālpaṃ śoṣayed a rvighaḍite </l>
 
-        <l xml:id="T261">itthaṃ nirutthaṃ nihataṃ lohaṃ syādamṛtopamaṃ
+        <l xml:id="T261">itthaṃ nirutthaṃ nihataṃ lohaṃ syād amṛtopamaṃ
           <caesura/>
-           yattulyaṃ saṃ<lb/>bhāvitotthānaṃ | tannāthādvikriyā bhayāt </l>
+           yat tulyaṃ saṃ<lb/>bhāvitotthānaṃ | tannāthādvikriyā bhayāt </l>
 
         <l xml:id="T262">athāṃdhamūkhāmadhyasthaṃ lohaṃ madhājya saṃyutaṃ |
           <caesura/>
            vāraṃ datvā dhate <unclear>tmaṣṭuṃ</unclear> | punarutthānasaṃvide | </l>
 
-        <l xml:id="T263">yadi pūrvonmataṃ tāraṃ | tāvadeva<lb/> bhavet tadā |
+        <l xml:id="T263">yadi pūrvonmataṃ tāraṃ | tāvad eva<lb/> bhavet tadā |
           <caesura/>
-           jānīyāt taṃ nirutthānaṃ | <unclear>sā</unclear>dhakaṃ tadviparyayaḥ | </l>
+           jānīyāt taṃ nirutthānaṃ | <unclear>sā</unclear>dhakaṃ tad viparyayaḥ | </l>
 
-        <l xml:id="T264">tataḥ sakṛtne kalena kvāthena puṭayettataḥ
+        <l xml:id="T264">tataḥ sakṛtne kalena kvāthena puṭayet tataḥ
           <caesura/>
            punarnnavārasenātha pradadyād bhaśaḥ puṭāt </l>
 

@@ -319,7 +319,7 @@
           gajapuṭaṃ khadirādayaḥ </l>
 
         <l xml:id="T48">kokilākhyaśilāyaṃtraṃ | gaja<lb/>daṃtabhājanayaṃtraṃ dolāyaṃtraṃ |
-          adhaḥ pātanayaṃtraṃ | pātanaṃtraṃ | ūrdhvapātanayaṃtraṃ | niyāmakayaṃtraṃ |
+          adhaḥpātanayaṃtraṃ | pātanaṃtraṃ | ūrdhvapātanayaṃtraṃ | niyāmakayaṃtraṃ |
             ḍamaruyaṃtra<unclear>ṃ</unclear> ḍamaruyaṃtra<unclear>ṃ</unclear>
           cakratrayaṃ cākī<lb/>yaṃtraṃ | vālukāyaṃtraṃ | kachapayaṃtraṃ | agniṣomāyaṃtraṃ |
           kāṃsabhājanayaṃtraṃ | ghāṇayaṃtraṃ | gaḍukayaṃtraṃ | <gap extent="1"
@@ -1082,9 +1082,9 @@
           <caesura/>
           triphalābhāginināsthālpaṃ śoṣayed a rvighaḍite </l>
 
-        <l xml:id="T261">itthaṃ nirutthaṃ nihataṃ lohaṃ syādamṛtopamaṃ
+        <l xml:id="T261">itthaṃ nirutthaṃ nihataṃ lohaṃ syād amṛtopamaṃ
           <caesura/>
-          yattulyaṃ saṃ<lb/>bhāvitotthānaṃ | tannāthādvikriyā bhayāt </l>
+          yat tulyaṃ saṃ<lb/>bhāvitotthānaṃ | tannāthādvikriyā bhayāt </l>
 
         <l xml:id="T262">athāṃdhamūkhāmadhyasthaṃ lohaṃ madhājya saṃyutaṃ |
           <caesura/>

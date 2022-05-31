@@ -262,7 +262,7 @@
 
         <l xml:id="T47">tatpramāṇaṃ kapotapuṭaṃ kukkuṭapuṭaṃ gajapuṭaṃ khadirādayaḥ | </l>
 
-        <l xml:id="T48">kokilārakhyaśilāyaṃtra gajadalabhājanayaṃtradolāyaṃtram | adhaḥ pātanayaṃtram | pānatrayaṃ ūrdhvapātanayaṃtraṃ 
+        <l xml:id="T48">kokilārakhyaśilāyaṃtra gajadalabhājanayaṃtra dolāyaṃtram | adhaḥpātanayaṃtram | pānatrayaṃ ūrdhvapātanayaṃtraṃ 
         niyāmakayaṃtraṃ ḍamaruyaṃtraṃ cakratrayaṃ cākīyaṃtraṃ bālukāyaṃtraṃ tulāyaṃtraṃ kanvapayaṃtraṃ agniṣomāyaṃtraṃ
         kāṃsabhājanaṃ yaṃtraṃ ghāṇayaṃtraṃ | gaḍakayaṃtraṃ sāraṇayaṃtraṃ | jālūkāyaṃtraṃ vāraṇayaṃtrādayaḥ | </l>
 
@@ -834,8 +834,8 @@
         <caesura/>atho 'smin loha- pātrasthe tāpyaṃ tavamita hiṃguka
         <caesura/>triphalābhognināsthālpaṃ śoṣayed vighaṭite | </l>
 
-        <l xml:id="T261">i<unclear extent="1" unit="syllable"/>tthaṃ nihatthaṃ nihataṃ lohasyādamṛtopamam | 
-        <caesura/>yattulyaṃ saṃbhāvigotthānaṃ tannādhādvikriyā bhayāt | </l>
+        <l xml:id="T261">i<unclear extent="1" unit="syllable"/>tthaṃ nihatthaṃ nihataṃ loha syād amṛtopamam | 
+        <caesura/>yat tulyaṃ saṃbhāvigotthānaṃ tan nādhādvikriyā bhayāt | </l>
 
         <l xml:id="T262">athāṃdhamūkhāmadhyasthaṃ lohaṃ madhājya saṃyutaṃ | 
         <caesura/>vāraṃ dat<unclear extent="1" unit="syllable"/>vā ch<unclear extent="1" unit="syllable"/>ametsuṣṭhu punarutthānsaṃvide | </l>
