@@ -294,7 +294,7 @@
 
         <l xml:id="T48">kokilākhyaśilāyaṃtraṃ gajadaṃtabhājanayaṃtra dolāyaṃtra
           adhaḥpātanayaṃtraṃ pānayaṃtraṃ urddhvapātanayaṃtraṃ niyāmakayaṃtraṃ
-          ḍamarūyaṃtraṃ cakratrayaṃ cāki<lb/>vālukāyaṃtraṃ tulāyaṃtraṃ kal̤apayaṃtraṃ
+          ḍamarūyaṃtraṃ cakratrayaṃ cāki<lb/>vālukāyaṃtraṃ tulāyaṃtraṃ kacchapayaṃtraṃ
           agniṣomāyaṃtraṃ kāṃsabhājanaṃ yaṃtraṃ ghā<del><unclear extent="1"
               unit="syllable/"/></del>ṇayaṃtraṃ gaḍakayaṃtraṃ <gap extent="1" unit="word"
           /> jalūkāyaṃtraṃ vāraṇayaṃtrādayaḥ</l>
