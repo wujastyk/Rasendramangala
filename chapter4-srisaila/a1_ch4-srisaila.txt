@@ -19,7 +19,7 @@
             <collection>[collection]</collection>
             <idno>LDI</idno>
             <idno type="NCC">[NCC identifier]</idno>
-            <idno type="siglum">A₁</idno>
+            <idno type="siglum">A<g rend="subscript">1</g></idno>
           </msIdentifier>
           <msContents>
             <summary>Just the Śrīśaila section of chapter 4</summary>
@@ -497,15 +497,15 @@
 
         <l xml:id="srisaila102">punar anyaṃ bhavet piṃḍaṃ nātra kāryavicāraṇā
           <caesura/>
-           paṃcāmṛto mahāyogo dyukto saṃghātabhairave 26</l>
+           paṃcāmṛto mahāyogo dy ukto saṃghātabhairave 26</l>
 
-        <l xml:id="srisaila103">vārākṣasau rāvaṇeva punas tatraiva bhāṣitaṃ
+        <l xml:id="srisaila103">vārākṣa<pc> </pc>saurāvaṇeva punas tatraiva bhāṣitaṃ
           <caesura/>
-           nānetarahitaṃ kiṃcit trailokye sacarācare 27</l>
+           nāneta rahitaṃ kiṃcit trailokye sacarācare 27</l>
 
         <l xml:id="srisaila104">pṛthivyāpas tathā tejo vāyur ākāśam eva ca
           <caesura/>
-           koṭivedhī mahārasa mṛhyā piṃḍe koṣṭasu saṃyutaṃ 28</l>
+           koṭivedhī mahārasa mṛhyā piṃḍe koṣṭasusaṃyutaṃ 28</l>
 
         <l xml:id="srisaila105">ekai<lb/>kasya tu madhyasthaṃ graṭikāṃ kārayedbudhaḥ
           <caesura/>
@@ -553,7 +553,15 @@
         <l xml:id="srisaila116">dṛśyate bhuvanaṃ sarvaṃ sasidha sarvasidhidaḥ 40 <pb n="18v"/>
           <caesura/>
            saptasidheṣu ye sidhā vimānaṃ preṣayaṃti te</l>
-
+        
+        <l xml:id="srisaila116.1"/>
+        <l xml:id="srisaila116.2"/>
+        <l xml:id="srisaila116.3"/>
+        <l xml:id="srisaila116.4"/>
+        <l xml:id="srisaila116.5"/>
+        <l xml:id="srisaila116.6"/>
+        <l xml:id="srisaila116.7"/>
+        
         <p xml:id="srisaila116a"><persName>"ratnaghoṣo"</persName>vāca</p>
 
         <l xml:id="srisaila117">bhūtakālāṃtakaṃ baṃdhaṃ yadā kartuṃ na śakyate

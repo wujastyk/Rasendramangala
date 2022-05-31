@@ -626,6 +626,9 @@
            innayā jāyate tasya sadṛśo jāyate nnayā </l>
 
         <l xml:id="srisaila98">tasya sparśanamātreṇa sarvalohāni kāṃcanam| </l>
+        
+        <l xml:id="srisaila98x"/>
+        
 
         <l xml:id="srisaila99"> punar anyaṃ pravakṣyāmi baṃdhaṃ sukharārcitāḥ |
           <caesura/>
@@ -643,13 +646,13 @@
 
         <l xml:id="srisaila102">punar anyaṃ bhavet piṇḍaṃ nātra kāryā vicāraṇā|
           <caesura/>
-           paṃcāmṛto mahāyogo hyukto saṃdhāta--bhairave | </l>
+           paṃcāmṛto mahāyogo hy ukto saṃdhāta--bhairave | </l>
 
-        <l xml:id="srisaila103">dārākṣasaugavaṇeva punas tatraiva bhāṣitam|
+        <l xml:id="srisaila103">dārākṣa<pc> </pc>saugavaṇeva punas tatraiva bhāṣitam|
           <caesura/>
-           nānetarahitam kiṃcit trailokye sacarāghare | </l>
+           nāneta rahitam kiṃcit trailokye sacarāghare | </l>
 
-        <l xml:id="srisaila104">pṛthivyāpas tathā tejovāyurākāśam eva ca|
+        <l xml:id="srisaila104">pṛthivyāpas tathā tejo vāyur ākāśam eva ca|
           <caesura/>
            koṭivedhī mahārasaḥ gṛhyā piṃḍaṃ koṣṭasusaṃyutam | </l>
 
@@ -705,9 +708,16 @@
           <caesura/>
            saptasiddheṣu ye siddhā vimānaṃ preṣayaṃti te | </l>
 
+        <l xml:id="srisaila116.1"/>
+        <l xml:id="srisaila116.2"/>
+        <l xml:id="srisaila116.3"/>
+        <l xml:id="srisaila116.4"/>
+        <l xml:id="srisaila116.5"/>
+        <l xml:id="srisaila116.6"/>
+        <l xml:id="srisaila116.7"/>
 
 
-        <p>ratnaghoṣovāca | </p>
+        <p xml:id="srisaila116a">ratnaghoṣovāca | </p>
 
 
         <l xml:id="srisaila117">bhūtakālāṃtakaṃ baṃdhaṃ yadā karttuṃ na śakyate|

@@ -22,7 +22,7 @@
             <collection>Gyanbhandar</collection>
             <idno>11913</idno>
             <idno type="NCC">[NCC identifier]</idno>
-            <idno type="siglum">Ko₁</idno>
+            <idno type="siglum">Ko<g rend="subscript">1</g></idno>
           </msIdentifier>
 
           <msContents>
@@ -528,11 +528,11 @@
             <del resp="scribe">nā</del>
           </subst>r anyaṃ bhavet piṃḍaṃ nātra kāryā vicāraṇā
           <caesura/>
-           paṃcāmṛto mahāyogo hy ukto maṃyāta bhai<unclear>ra</unclear>ve </l>
+           paṃcāmṛto mahāyogo hy ukto maṃyātabhai<unclear>ra</unclear>ve </l>
 
-        <l xml:id="srisaila103">vārākṣasaurāvaṇe<lb/>va punas tatreva bhāṣitam
+        <l xml:id="srisaila103">vārākṣa<pc> </pc>saurāvaṇe<lb/>va punas tatreva bhāṣitam
           <caesura/>
-           nānetara hitam kiṃcit trailokye sacarācare </l>
+           nāneta rahitam kiṃcit trailokye sacarācare </l>
 
         <l xml:id="srisaila104">pṛthivyāpas tathā tejo vāyur ākāśam eva ca
           <caesura/>
@@ -583,6 +583,14 @@
         <l xml:id="srisaila116">dṛśyate bhuvanaṃ sarvaṃ sa siddhidaḥ
           <caesura/>
            saptasiddheṣu ye siddhā vimānaṃ preṣayaṃti<lb/> te </l>
+        
+        <l xml:id="srisaila116.1"/>
+        <l xml:id="srisaila116.2"/>
+        <l xml:id="srisaila116.3"/>
+        <l xml:id="srisaila116.4"/>
+        <l xml:id="srisaila116.5"/>
+        <l xml:id="srisaila116.6"/>
+        <l xml:id="srisaila116.7"/>
 
         <p xml:id="srisaila116a"><hi style="bold"><persName>ratnaghoṣo</persName></hi>vāca</p>
 

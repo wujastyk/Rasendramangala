@@ -528,7 +528,7 @@
           gaṃdhakasamacūrṇena saha <unclear>tharathara</unclear>krameṇa datvā haṃḍikāyaṃtreṇa
           mārayitvā miśrayet 6</l>
 
-        <l xml:id="T78">sūtaṃ | rasaṃ | gaṃdhakasamāsena kajā<lb/>līṃ kṛtvā<add place="inline"
+        <l xml:id="T78">sūtaṃ | rasaṃ | gaṃdhakasamāsena kajā<lb/>līṃ kṛtvā <add place="inline"
             >gaḍukayaṃtreṇa</add> vaṃdhayet</l>
 
         <l xml:id="T79">tato yoge <unclear>yo</unclear>jayet</l>

@@ -826,11 +826,11 @@
       <l xml:id="T262">athāṃdhamūkhāmadhyasthaṃ lohaṃ madhājyasaṃyutaṃ
       <caesura/>vāraṃ datvā dhametsuṣṭu punarucchānasaṃvide</l>
 
-      <l xml:id="T263">yadi pūrvonmattaṃ tāraṃ tāvadeva bhavettadā 
-      <caesura/>jānīyā<pb n="24v"/>ttaṃ nirutchānaṃ sādhaka tadviparyayaḥ 2</l>
+      <l xml:id="T263">yadi pūrvonmattaṃ tāraṃ tāvadeva bhavet tadā 
+      <caesura/>jānīyā<pb n="24v"/>t taṃ nirutchānaṃ sādhaka tad viparyayaḥ 2</l>
 
       <l xml:id="T264">tataḥ sakṛte phalena kvāthena puṭayettataḥ 
-      <caesura/>punarnnavārasetātha pradadyādbha<unclear>śaḥ</unclear> puṭān</l>
+      <caesura/>punarnnavārase tātha pradadyād bha<unclear>śaḥ</unclear> puṭān</l>
 
       <l xml:id="T265">vadhabadhakoṣṭasya dadyā tu tā natavisa bhūyaśaḥ 
       <caesura/>daśamūlākvāthapuṭai stridoṣeṣu pradāpayet</l>

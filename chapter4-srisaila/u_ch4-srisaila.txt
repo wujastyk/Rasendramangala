@@ -607,25 +607,23 @@
         <caesura/>
          ||125|| etad baṃdhaprabhāvena samāvartto yadā bhavet|| </l>
 
-      <l xml:id="srisaila102">punar anyaṃ bhavetpiṃḍaṃ nātra kāryā vicāraṇāṃ<del rend="crossed out"
+      <l xml:id="srisaila102">punar anyaṃ bhavet piṃḍaṃ nātra kāryā vicāraṇāṃ<del rend="crossed out"
           resp="scribe">ṃ</del>||
         <caesura/>
          paṃcāmṛ<lb/><pb n="40v"/>paṃ<unclear extent="1" unit="character"/>to mahāyogaḥ ukto
-          <hi>maṃthānabhairave</hi>|| </l>
+          <hi>maṃthānabhairave</hi> || </l>
 
-      <l xml:id="srisaila103">vīrākṣasaura<subst>
-          <del>vai</del>
-          <add>ve</add>
-        </subst>ṇaiva punas tatraiva bhāṣitaṃ||
+      <l xml:id="srisaila103">vīrākṣa<pc> </pc>saura<subst><del>vai</del><add>ve</add></subst>ṇaiva 
+        punas tatraiva bhāṣitaṃ ||
         <caesura/>
          nānena rahitaṃ kiṃcit trai<lb/>lokye sacarācare|| </l>
 
-      <l xml:id="srisaila104">pṛthivyāpastathā tejo vāyurākāśameva ca||
+      <l xml:id="srisaila104">pṛthivyāpas tathā tejo vāyur ākāśam eva ca||
         <caesura/>
-         koṭivedhaṃ rasaṃ grāhyaṃ piṃḍaṃ koṣṭasu saṃyutaṃ|| </l>
+         koṭivedhaṃ rasaṃ grāhyaṃ piṃḍaṃ koṣṭasusaṃyutaṃ|| </l>
 
       <lb/>
-      <l xml:id="srisaila105">ekaikastyanumadhyasthaṃ guṭikāṃ kārayedbudhaḥ||
+      <l xml:id="srisaila105">ekaikas ty anumadhyasthaṃ guṭikāṃ kārayed budhaḥ||
         <caesura/>
          guṭipaṃcasamākhyātā ṣaṣṭaṃ jīvaṃ ca kevalaṃ|| </l>
 
@@ -648,7 +646,7 @@
          caṃdrārke tu grahārirakṣarāśa<lb/>yo bhuvanāni ca|| </l>
 
       <l xml:id="srisaila111">namaskṛtya guruṃ devaṃ<del rend="crossed out" resp="scribe"
-        >ṃ</del>mātmānaṃ tatra nikṣipet||
+        >ṃ</del>m ātmānaṃ tatra nikṣipet||
         <caesura/>
         <gap extent="2" reason="omitted" unit="pāda"/>
       </l>
@@ -670,43 +668,55 @@
 
       <l xml:id="srisaila116">dṛśyate bhuvanaṃ sarvaṃ sa siddhaḥ sarvasiddhidaḥ||
         <caesura/>
-         saptasiddheṣu ye siddhā vimānaṃ preṣayaṃti <lb/><pb n="40r"/>te|| </l>
-
-      <l>ardhayojanavistīrṇaṃ ghaṃṭācāmarabhūṣitaṃ||
+        saptasiddheṣu ye siddhā vimānaṃ preṣayaṃti <lb/><pb n="40r"/>te|| </l>
+      
+      <l xml:id="srisaila116.1">ardhayojanavistīrṇaṃ ghaṃṭācāmarabhūṣitaṃ||
         <caesura/>
-         dīptaṃ hemam ayaṃ divyaṃ maṇiratne suśobhitaṃ||
-        <caesura/>
-         śaṃṣakāhalani<lb/>rghoṣair asya rogī tavādibhiḥ||
+         dīptaṃ hemamayaṃ divyaṃ maṇiratne suśobhitaṃ||
+      </l>
+      
+      <l xml:id="srisaila116.2">
+         śaṃṣakāhalani<lb/>rghoṣair asyaro gītavādibhiḥ||
         <caesura/>
          puṣpamālā patākaiś ca kiṃkiṇīravamaṃḍitaṃ||
-        <caesura/>
+      </l>
+      
+      <l xml:id="srisaila116.3">
          siddham a<unclear>pū</unclear>takanyānāṃ
         <caesura/>
          sa<unclear>drū</unclear>pāsa<lb/>ṭavi<unclear>ka</unclear>lā||
         <caesura/>
          divyābharaṇavastrāṇi divyapuṣpāni yāni ca||
-        <caesura/>
+      </l>
+      
+      <l xml:id="srisaila116.4">
          āgachati na saṃdeho ādeśo devadīyatāṃ||
         <caesura/>
          grahī<lb/>tvā sādhakeṃdraṃ tu siddhaloke vrajaṃti te
-        <caesura/>
+      </l>
+      
+      <l xml:id="srisaila116.5">
          ṣānapānāni divyāni divyāni bhavanāni ca||
         <caesura/>
          ramate śatasahasraṃ tu divya<lb/>kaṃnyām anekadhā||
-        <caesura/>
+      </l>
+      
+      <l xml:id="srisaila116.6">
          kāmena vi<unclear>ka</unclear>lās tatra manmathena madotkaṭā||
         <caesura/>
          tasminn ekārṇave ghore naṣṭe sthāvarajaṃgame||<lb/>
-        <caesura/>
+      </l>
+      
+      <l xml:id="srisaila116.7">
          devā yatra vilīyaṃte sa siddhas tatra līyate|| </l>
 
-      <p xml:id="srisaila116a"><hi><persName>|| ratnaghoṣa </persName></hi> uvāca|||| </p>
+      <p xml:id="srisaila116a"><persName>|| ratnaghoṣa </persName> uvāca|||| </p>
 
       <l xml:id="srisaila117">bhūtakālāṃtakaṃ baṃdhaṃ yadā karttuṃ na śakya<lb/>te||
         <caesura/>
          anenaiva śarīreṇa kathaṃ siddhirbhaviṣyati|| </l>
 
-      <p xml:id="srisaila117a"><hi style="bold"><persName>|| nāgārjuno</persName></hi>vāca|||| </p>
+      <p xml:id="srisaila117a"><persName>|| nāgārjuno</persName>vāca|||| </p>
 
       <l xml:id="srisaila118">punar anyaṃ pravakṣyāmi khecaraṃ baṃdhamutta<lb/>maṃ||
         <caesura/>
