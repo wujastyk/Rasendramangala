@@ -542,9 +542,9 @@
           <caesura/>
            guṭikā paṃcamākhyātā ṣaṣṭaṃ jī<lb/>vaṃ ca kevalaṃ</l>
 
-        <l xml:id="srisaila106">ṣaḍguṇaṃ paṃcastho lpasya tāmrāyāṃ suśobhanaṃ
+        <l xml:id="srisaila106">ṣaḍguṇaṃ paṃcastholpasya tāmrāyāṃ suśobhanaṃ
           <caesura/>
-           ūrdhvapuruṣamānaṃ tu puruṣārddha garbhamaṃḍale </l>
+          ūrdhvapuruṣamānaṃ tu puruṣārddha<pc> </pc>garbhamaṃḍale </l>
 
         <l xml:id="srisaila107">caturmukhaṃ kṛtaṃ ko<lb/>ṣṭaṃ tasyopari niveśayet
           <caesura/>

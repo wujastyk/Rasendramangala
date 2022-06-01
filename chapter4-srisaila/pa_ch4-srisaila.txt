@@ -608,12 +608,12 @@
         <l xml:id="srisaila105">ekaikasya tu madhyasthaṃ | guṭikāṃ kārayed budhaḥ |
             <unclear>76</unclear>
           <caesura/>
-           guṭikāṣaitvam ākhyātā | ṣaṣṭaṃ jīvaṃ ca kevalaṃ |</l>
+           guṭikāṣaitvamākhyātā | ṣaṣṭaṃ jīvaṃ ca kevalaṃ |</l>
 
         <l xml:id="srisaila106">ṣaṭguṇaṃ piṃḍasthaulasya tāmrā<unclear>plaṃ</unclear>
           suśobhanaṃ 77
           <caesura/>
-           ūdhaṃ puruṣamānaṃ tu | puruṣārddaṃ garbhamaṃḍale |</l>
+          ūdhaṃ puruṣamānaṃ tu | puruṣārddaṃ<pc> </pc>garbhamaṃḍale |</l>
 
         <l xml:id="srisaila107">caturmukhaṃ kṛtaṃ koṣṭaṃ | tasyopari niveśayet | 77
           <caesura/>

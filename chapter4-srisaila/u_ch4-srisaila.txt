@@ -625,9 +625,9 @@
       <lb/>
       <l xml:id="srisaila105">ekaikas ty anumadhyasthaṃ guṭikāṃ kārayed budhaḥ||
         <caesura/>
-         guṭipaṃcasamākhyātā ṣaṣṭaṃ jīvaṃ ca kevalaṃ|| </l>
+         guṭipaṃca<pc> </pc>samākhyātā ṣaṣṭaṃ jīvaṃ ca kevalaṃ|| </l>
 
-      <l xml:id="srisaila106"><gap extent="verse" reason="omitted"/></l>
+      <l xml:id="srisaila106"/>
 
       <l xml:id="srisaila107">caturmukhaṃ kṛtaṃ ko<lb/>ṣṭaṃ tasyopari niveśayet||
         <caesura/>

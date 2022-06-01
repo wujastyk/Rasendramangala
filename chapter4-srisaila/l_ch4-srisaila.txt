@@ -663,7 +663,7 @@
         <l xml:id="srisaila106">ṣaḍguṇaṃ paṃcasthaul<unclear extent="1" unit="syllable"/>pasya
           tāmrāyāṃ suśobhanam|
           <caesura/>
-           ūrdhvapuruṣamānaṃ tu puruṣārddhaṃ garbhamaḍale | </l>
+          ūrdhvapuruṣamānaṃ tu puruṣārddhaṃ<pc> </pc>garbhamaḍale | </l>
 
         <l xml:id="srisaila107">caturmukhaṃ kṛta koṣṭhaṃ tasyopari niveśayet|
           <caesura/>

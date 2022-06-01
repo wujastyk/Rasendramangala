@@ -656,7 +656,7 @@
         <l xml:id="srisaila106">ṣaḍguṇaṃ piṇḍasthūlaṃ ca tāmrapātraṃ suśobhanam
           <caesura/>
            ūrdhvaṃ pu<del>ḍa</del><add>ru</add>ṣamātraṃ ca <unclear extent="1"
-            unit="syllable"/>dardhaṃ gaṇḍamaṇḍala<lb/>m </l>
+             unit="syllable"/>dardhaṃ<pc> </pc>gaṇḍamaṇḍala<lb/>m </l>
 
         <l xml:id="srisaila107">catu<del>rnu</del><add>rmu</add>kha kṛtaṃ koṣṭaṃ tasyopari
           niveśayet

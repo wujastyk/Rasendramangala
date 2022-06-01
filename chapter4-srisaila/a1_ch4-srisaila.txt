@@ -507,14 +507,14 @@
           <caesura/>
            koṭivedhī mahārasa mṛhyā piṃḍe koṣṭasusaṃyutaṃ 28</l>
 
-        <l xml:id="srisaila105">ekai<lb/>kasya tu madhyasthaṃ graṭikāṃ kārayedbudhaḥ
+        <l xml:id="srisaila105">ekai<lb/>kasya tu madhyasthaṃ graṭikāṃ kārayed budhaḥ
           <caesura/>
            guṭikāṃ paṃcamākhyātā ṣaṣṭaṃ jīvaṃ ca kevalaṃ 29</l>
 
         <l xml:id="srisaila106">ṣaḍguṇaṃ paṃcastholasya tā<space quantity="1" unit="akṣara"/>mrāyāṃ
           suśobhanaṃ
           <caesura/>
-           ūrdhapuruṣamānaṃ tu puruṣārdha garbhamaṃ<lb/>ḍale</l>
+          ūrdhapuruṣamānaṃ tu puruṣārdha<pc> </pc>garbhamaṃ<lb/>ḍale</l>
 
         <l xml:id="srisaila107">caturmukhaṃ kṛtaṃ koṣṭaṃ tasyopari niveśayet 30
           <caesura/>

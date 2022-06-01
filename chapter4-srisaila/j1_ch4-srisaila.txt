@@ -600,13 +600,13 @@
           <caesura/>
            koṭivedhī mahārasaḥ mṛhyā<lb/> piṃma koṣṭasusaṃyutaṃ</l>
 
-        <l xml:id="srisaila105">ekaikasya tu madhyasthaṃ guṭikāṃ kārayedbudhaḥ
+        <l xml:id="srisaila105">ekaikasya tu madhyasthaṃ guṭikāṃ kārayed budhaḥ
           <caesura/>
-           guṭikāṃ paṃca<lb/>mākhyātā ṣaṣṭajīvaṃ ca kevalaṣaḍ</l>
+           guṭikāṃ paṃca<lb/>mākhyātā ṣaṣṭa jīvaṃ ca kevala</l>
 
-        <l xml:id="srisaila106">guṇapaṃcastho lyasya tāmrāyāṃ suśobhanaṃ
+        <l xml:id="srisaila106">ṣaḍguṇa paṃcastholyasya tāmrāyāṃ suśobhanaṃ
           <caesura/>
-           varddha-<lb/>puruṣamānaṃ tu puruṣārddha garbhamaṃḍale </l>
+          varddha-<lb/>puruṣamānaṃ tu puruṣārddha<pc> </pc>garbhamaṃḍale </l>
 
         <l xml:id="srisaila107">caturmukhaṃ kṛta koṣṭaṃ tasyopari niveśaye<lb/>t
           <caesura/>

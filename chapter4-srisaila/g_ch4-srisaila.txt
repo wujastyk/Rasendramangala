@@ -605,12 +605,12 @@
 
                 <l xml:id="srisaila105">ekaikasya tu madhyasthaṃ guṭikāṃ kārayed budhaḥ ||
                     <caesura/>
-                     guṭike<unclear>va</unclear>saptākhyātā ṣaṣṭaṃ jīvaṃ ca kevalaṃ<lb/>
+                     guṭike<unclear>va</unclear> saptākhyātā ṣaṣṭaṃ jīvaṃ ca kevalaṃ<lb/>
                 </l>
 
-                <l xml:id="srisaila106">ṣaḍguṇaṃ piṃḍarstho lpaṃ tāmrayātraṃ suśobhanaṃ ||
+                <l xml:id="srisaila106">ṣaḍguṇaṃ piṃḍarstholpaṃ tāmrayātraṃ suśobhanaṃ ||
                     <caesura/>
-                     ūrdhvaṃ puruṣamānaṃ tu puruṣārdhe garbhamaṃḍalaṃ| | </l>
+                    ūrdhvaṃ puruṣamānaṃ tu puruṣārdhe<pc> </pc>garbhamaṃḍalaṃ| | </l>
 
 
                 <l xml:id="srisaila107">śrī<pb n="35r"/>caturmukhaṃ kṛtaṃ koṣṭhaṃ

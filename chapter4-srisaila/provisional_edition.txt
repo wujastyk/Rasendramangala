@@ -30,13 +30,13 @@
               <title xml:lang="sa">Rasendramaṅgala</title>
               <title type="commentary" xml:lang="sa">[title of commentary]</title>
               <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
-              <rubric xml:lang="sa"><milestone n="1v1" unit="folio"/> | |
-                śrīvardhamānajineśvarāya namaḥ | | śrīgurubhyo namaḥ | |</rubric>
+              <rubric xml:lang="sa"><milestone n="1v1" unit="folio"/> | | śrīvardhamānajineśvarāya
+                namaḥ | | śrīgurubhyo namaḥ | |</rubric>
               <incipit xml:lang="sa"><milestone n="1v1" unit="folio"/>natvā surendraṃ
                 śivasaukhyadāyakaṃ <add place="above">kārakaṃ</add>
                 apārasaṃsārasamudratārakaṃ</incipit>
-              <explicit xml:lang="sa"><milestone n="24v" unit="folio"/>śrīr astuḥ kalyāṇam
-                astuḥ śubhaṃ bhavatuḥ śreyo stuḥ sakalasajjanasya śrīr astuḥ</explicit>
+              <explicit xml:lang="sa"><milestone n="24v" unit="folio"/>śrīr astuḥ kalyāṇam astuḥ
+                śubhaṃ bhavatuḥ śreyo stuḥ sakalasajjanasya śrīr astuḥ</explicit>
 
               <textLang mainLang="sa-Deva">[Sanskrit in Devanāgarī script.]</textLang>
               <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
@@ -65,8 +65,8 @@
                 </extent>
                 <!-- the following <foliation> tags are examples -->
                 <foliation ana="original" n="1">Scribal foliation 1-25.</foliation>
-                <foliation ana="modern" n="2">Modern numerals written in pencil,
-                  centre-right margin, recto and verso.</foliation>
+                <foliation ana="modern" n="2">Modern numerals written in pencil, centre-right
+                  margin, recto and verso.</foliation>
                 <condition>[whether the manuscript is complete, description of wear and
                   damage]</condition>
               </supportDesc>
@@ -108,8 +108,7 @@
 
           <history>
             <origin>
-              <origDate calendar="Vikrama" when="1737">Vikrama Saṃvat 1737 (AD
-                1681).</origDate>
+              <origDate calendar="Vikrama" when="1737">Vikrama Saṃvat 1737 (AD 1681).</origDate>
               <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
               <origPlace xml:lang="en">[place of production]</origPlace>
             </origin>
@@ -121,11 +120,11 @@
     </fileDesc>
 
     <xenoData>
-      <stemma format="nexml"> <nex:nexml generator="SplitsTree6" version="0.9"
-          xmlns:nex="http://www.nexml.org/2009" xmlns="http://www.nexml.org/2009"
-          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xmlns:sp5="https://github.com/danielhuson/splitstree6"> <otus id="otus1"
-            label="TaxaBlock">
+      <stemma format="nexml">
+        <nex:nexml generator="SplitsTree6" version="0.9" xmlns:nex="http://www.nexml.org/2009"
+          xmlns="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns:sp5="https://github.com/danielhuson/splitstree6">
+          <otus id="otus1" label="TaxaBlock">
             <otu id="otu1" label="A1"/>
             <otu id="otu2" label="A2"/>
             <otu id="otu3" label="B"/>
@@ -138,7 +137,8 @@
             <otu id="otu10" label="Pa"/>
             <otu id="otu11" label="R"/>
             <otu id="otu12" label="U"/>
-          </otus> <trees otus="otus1" id="trees1" label="TreesBlock">
+          </otus>
+          <trees otus="otus1" id="trees1" label="TreesBlock">
             <tree id="tree1" label="tree1" xsi:type="nex:FloatTree">
               <node id="n1" label="A1" otu="otu1"/>
               <node id="n2" label="A2" otu="otu2"/>
@@ -306,8 +306,7 @@
           <list type="Parallels">
             <item corresp="#srisaila06-n1"><quote>yathā lohe tathā dehe kramate nātra
                 saṃśayaḥ</quote>
-              <title>Rasārṇava</title> 14.18cd (Ray 1910, 284), 14.48cd (ibid.,
-              290).</item>
+              <title>Rasārṇava</title> 14.18cd (Ray 1910, 284), 14.48cd (ibid., 290).</item>
 
             <item corresp="#srisaila06-n2"><quote>yathā lohe tathā dehe kartavyaḥ sūtakaḥ
                 sadā</quote>
@@ -315,8 +314,8 @@
 
             <item corresp="#srisaila06-n3"><quote>yathā lohe tathā dehe kartavyaḥ sūtakaḥ
                 satā</quote>
-              <title>Sarvadarśanasaṅgraha</title> 66 (citing Rasārṇava 17.165ab)
-              (Abhyankar 1924, 206).</item>
+              <title>Sarvadarśanasaṅgraha</title> 66 (citing Rasārṇava 17.165ab) (Abhyankar 1924,
+              206).</item>
 
             <item corresp="#srisaila06-n4"><quote>yathā lohe tathā dehe krāmate nātra
                 saṃśayaḥ</quote>
@@ -616,8 +615,7 @@
            samāṃsabhakṣaṇaṃ kuryāt punar anye tu sūtake | </l>
 
         <label>61</label>
-        <l xml:id="srisaila61" met="unmetrical">āruṣkaram utpalī sūrye nakṣatraṃ
-          bhuvanodbhavam |
+        <l xml:id="srisaila61" met="unmetrical">āruṣkaram utpalī sūrye nakṣatraṃ bhuvanodbhavam |
           <caesura/>
            śītāgnisaṃsthitā hy ete pañcamī suvidāritā | </l>
 
@@ -664,7 +662,7 @@
         <label>69</label>
         <l xml:id="srisaila69">daśasaṅkrāntiniṣkrāntaḥ koṭivedhī bhaved rasaḥ | </l>
         <p ana="speaker" xml:id="ratnaghosa69a"><hi style="bold"
-              ><persName>ratnaghoṣa</persName></hi> uvāca | </p>
+            ><persName>ratnaghoṣa</persName></hi> uvāca | </p>
 
         <label>70</label>
         <l xml:id="srisaila70">sādhayitvā prayatnena koṭivedhī mahārasaḥ |
@@ -684,8 +682,7 @@
         </l>
         <ab corresp="#srisaila72" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila72-n1"><quote>śatapalam abhayānām akṣadhātryos
-                tathaiva |
+            <item corresp="#srisaila72-n1"><quote>śatapalam abhayānām akṣadhātryos tathaiva |
                 <caesura/>
                  kvathitajalaśatāṣṭau bhāgam aṣṭāv aśeṣam </quote>
               <title>Rasārṇava</title> 12.364ab (Ray 1910, 268).</item>
@@ -693,8 +690,8 @@
             <item corresp="srisaila72-n2">
               <quote> śatapalamabhayānām akṣadhātryos tathaiva
                 <caesura/>
-                 kvathitajalasamāṣṭau bhāgam aṣṭāv aśiṣṭam /
-                </quote><title>Ānandakanda</title> 1.23.565 (ĀK 1952, p. 441). </item>
+                 kvathitajalasamāṣṭau bhāgam aṣṭāv aśiṣṭam / </quote><title>Ānandakanda</title>
+              1.23.565 (ĀK 1952, p. 441). </item>
           </list>
         </ab>
 
@@ -705,8 +702,7 @@
         </l>
         <ab corresp="#srisaila73" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila73-n1"><quote>ghṛtamadhusitayāḍhyaṃ vyoṣacitraṃ
-                daśāṃśaṃ |
+            <item corresp="#srisaila73-n1"><quote>ghṛtamadhusitayāḍhyaṃ vyoṣacitraṃ daśāṃśaṃ |
                 <caesura/>
                  rasaphalarasasiddhaṃ lohajīrṇaṃ mṛtaṃ ca | |</quote>
               <title>Rasārṇava</title> 12.364cd (Ray 1910, 268).</item>
@@ -715,8 +711,8 @@
             <item corresp="srisaila73-n2">
               <quote> ghṛtamadhusitayāḍhyaṃ vyoṣacitraṃ daśaiva
                 <caesura/>
-                 rasapaladaśasiddhaṃ lohajīrṇaṃ mṛtaṃ ca |
-                |</quote><title>Ānandakanda</title> 1.23.565bc (ĀK 1952, p. 441). </item>
+                 rasapaladaśasiddhaṃ lohajīrṇaṃ mṛtaṃ ca | |</quote><title>Ānandakanda</title>
+              1.23.565bc (ĀK 1952, p. 441). </item>
           </list>
         </ab>
 
@@ -727,8 +723,7 @@
         </l>
         <ab corresp="#srisaila74" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila74-n1"><quote>girijatusamam abhraṃ kāntabhṛṅgaṃ
-                viḍaṅgaṃ |
+            <item corresp="#srisaila74-n1"><quote>girijatusamam abhraṃ kāntabhṛṅgaṃ viḍaṅgaṃ |
                 <caesura/>
                  rasasahitasubhāvyaṃ taṇḍulair divyamukhyaiḥ </quote>
               <title>Rasārṇava</title> 12.365ab (Ray 1910, 268).</item>
@@ -736,8 +731,8 @@
             <item corresp="srisaila74-n2">
               <quote> giriyuta(jatu)samam abhṛaṃ kāntabhṛṅgaṃ viḍaṅgaṃ
                 <caesura/>
-                 rasasahitavibhāvyaṃ taṇḍulair bilvamajjaiḥ |
-                </quote><title>Ānandakanda</title> 1.23.566ab (ĀK 1952, p. 441). </item>
+                 rasasahitavibhāvyaṃ taṇḍulair bilvamajjaiḥ | </quote><title>Ānandakanda</title>
+              1.23.566ab (ĀK 1952, p. 441). </item>
 
           </list>
         </ab>
@@ -756,8 +751,8 @@
             <item corresp="srisaila75-n2">
               <quote> himakarakṛtakalkaṃ lohapātrasthamāsaṃ
                 <caesura/>
-                 tridinatanuviśuddhaṃ kalkam enaṃ variṣṭham
-                </quote><title>Ānandakanda</title> 1.23.566cd (ĀK 1952, p. 441). </item>
+                 tridinatanuviśuddhaṃ kalkam enaṃ variṣṭham </quote><title>Ānandakanda</title>
+              1.23.566cd (ĀK 1952, p. 441). </item>
           </list>
         </ab>
 
@@ -773,9 +768,8 @@
                  ghananibiḍasumadhyo mattamātaṃgadarpaḥ</quote>
               <title>Rasārṇava</title> 12.366ab (Ray 1910, 268-269).</item>
             <item corresp="srisaila76-n2">
-              <quote> lihati śayanakāle vāmanetrārdhasevī ghananibiḍasamādhir
-                mattamātaṅgadarpaḥ </quote><title>Ānandakanda</title> 1.23.567ab (ĀK 1952,
-              p. 441). </item>
+              <quote> lihati śayanakāle vāmanetrārdhasevī ghananibiḍasamādhir mattamātaṅgadarpaḥ
+                </quote><title>Ānandakanda</title> 1.23.567ab (ĀK 1952, p. 441). </item>
           </list>
         </ab>
 
@@ -815,8 +809,8 @@
             <item corresp="srisaila78-n2">
               <quote>jalada iva vapuṣmān kuñcitāgrāgrakeśaḥ
                 <caesura/>
-                 turaga iva viśuddhaḥ satkaviś citrakārī
-                </quote><title>Ānandakanda</title> 1.23.568ab (ĀK 1952, p. 441). </item>
+                 turaga iva viśuddhaḥ satkaviś citrakārī </quote><title>Ānandakanda</title>
+              1.23.568ab (ĀK 1952, p. 441). </item>
           </list>
         </ab>
 
@@ -827,8 +821,7 @@
         </l>
         <ab corresp="#srisaila79" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila79-n1"><quote>vṛṣabhagativiceṣṭaḥ
-                snigdhagambhīraghoṣaḥ |
+            <item corresp="#srisaila79-n1"><quote>vṛṣabhagativiceṣṭaḥ snigdhagambhīraghoṣaḥ |
                 <caesura/>
                  suragaja iva loke śrāntihantāśu nityam</quote>
               <title>Rasārṇava</title> 12.367cd (Ray 1910, 269).</item>
@@ -836,24 +829,23 @@
             <item corresp="srisaila79-n2">
               <quote>vṛṣabhagativiceṣṭo mandagambhīraghoṣaḥ
                 <caesura/>
-                 suragaja iva loke candratārārkajīvī </quote><title>Ānandakanda</title>
-              1.23.568cd (ĀK 1952, p. 441). </item>
+                 suragaja iva loke candratārārkajīvī </quote><title>Ānandakanda</title> 1.23.568cd
+              (ĀK 1952, p. 441). </item>
           </list>
         </ab>
 
         <label>80</label>
-        <l xml:id="srisaila80">prabhavati khalu loke candratārārkajīvī | |<anchor
-            n="srisaila80-n1"/>
+        <l xml:id="srisaila80">prabhavati khalu loke candratārārkajīvī | |<anchor n="srisaila80-n1"
+          />
         </l>
         <ab corresp="#srisaila80" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila80-n1"><quote>prabhavati khalu loke
-                somatārārkajīvī</quote>
+            <item corresp="#srisaila80-n1"><quote>prabhavati khalu loke somatārārkajīvī</quote>
               <title>Rasārṇava</title> 12.368a (Ray 1910, 269).</item>
 
             <item corresp="srisaila79-n2">
-              <quote> suragaja iva loke candratārārkajīvī
-                </quote><title>Ānandakanda</title> 1.23.568d (ĀK 1952, p. 441). </item>
+              <quote> suragaja iva loke candratārārkajīvī </quote><title>Ānandakanda</title>
+              1.23.568d (ĀK 1952, p. 441). </item>
 
           </list>
         </ab>
@@ -868,8 +860,7 @@
         </l>
         <ab corresp="#srisaila81" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila81-n1"><quote>punar anyat pravakṣyāmi golakaṃ bandham
-                uttamam |
+            <item corresp="#srisaila81-n1"><quote>punar anyat pravakṣyāmi golakaṃ bandham uttamam |
                 <caesura/>
                  yena bhakṣitamātreṇa jāyate hy ajarāmaraḥ</quote>
               <title>Rasārṇava</title> 18.194 (Ray 1910, 430).</item>
@@ -883,8 +874,7 @@
         </l>
         <ab corresp="#srisaila82" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila82-n1"><quote>gandhābhrakāntasahitaṃ
-                bhānukharparakāñcanam |
+            <item corresp="#srisaila82-n1"><quote>gandhābhrakāntasahitaṃ bhānukharparakāñcanam |
                 <caesura/>
                  samaṃ tīkṣṇaṃ rasendrasya baddhaṃ kṛtvā tu golakam</quote>
               <title>Rasārṇava</title> 18.195 (Ray 1910, 430).</item>
@@ -899,8 +889,7 @@
         </l>
         <ab corresp="#srisaila83" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila83-n1"><quote>rasendraṃ pañcapalikaṃ samabhāgena
-                melayet
+            <item corresp="#srisaila83-n1"><quote>rasendraṃ pañcapalikaṃ samabhāgena melayet
                 <caesura/>
                  saptajambīratoyena marddayed golakasya ca</quote>
               <title>Rasārṇava</title> 18.196 (Ray 1910, 430).</item>
@@ -914,8 +903,7 @@
         </l>
         <ab corresp="#srisaila84" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila84-n1"><quote>chāyāviśuṣkaṃ golaṃ tu śaśibhāvaṃ karoti
-                tat |
+            <item corresp="#srisaila84-n1"><quote>chāyāviśuṣkaṃ golaṃ tu śaśibhāvaṃ karoti tat |
                 <caesura/>
                  etat sarvaṃ vimardyaṃ tu sūtakaṃ golakasya ca</quote>
               <title>Rasārṇava</title> 18.197 (Ray 1910, 430--431).</item>
@@ -959,10 +947,9 @@
 
         <ab corresp="#srisaila87" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila87-n1"><quote>anyāni ca sugandhīni snāne pāne
-                pradāpayet </quote>
-              <title>Rasārṇava</title> 18.200ef (Ray 1910, 431). Ray records a variant
-              khānapānāni yāni tu" in his MS B.</item>
+            <item corresp="#srisaila87-n1"><quote>anyāni ca sugandhīni snāne pāne pradāpayet </quote>
+              <title>Rasārṇava</title> 18.200ef (Ray 1910, 431). Ray records a variant khānapānāni
+              yāni tu" in his MS B.</item>
           </list>
         </ab>
 
@@ -975,8 +962,7 @@
 
         <ab corresp="#srisaila88" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila88-n1"><quote>kuñcitāgrās tu yat keśā yā śyāmā
-                padmalocanā /
+            <item corresp="#srisaila88-n1"><quote>kuñcitāgrās tu yat keśā yā śyāmā padmalocanā /
                 <caesura/>
                  vistīrṇaṃ jaghanaṃ yasyāḥ saṃkīrṇaṃ hṛdayaṃ bhavet </quote>
               <title>Rasārṇava</title> 18.201 = 18.165 (Ray 1910, 431, 426).</item>
@@ -992,8 +978,7 @@
 
         <ab corresp="#srisaila89" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila89-n1"><quote>kṛṣṇapakṣe bhaved yasyā yuvatyāḥ
-                puṣpadarśanam /
+            <item corresp="#srisaila89-n1"><quote>kṛṣṇapakṣe bhaved yasyā yuvatyāḥ puṣpadarśanam /
                 <caesura/>
                  kāminī sā samākhyātā uttamā ca rasāyane </quote>
               <title>Rasārṇava</title> 18.202 = 18.166 (Ray 1910, 431, 426).</item>
@@ -1028,8 +1013,8 @@
         <label>92</label>
         <l xml:id="srisaila92a">udambaraṃ ca citraṃ ca prasuptaṃ ca jalodare |</l>
 
-        <l xml:id="srisaila92b" met="hypermetrical"> grāhiṇī durnāmakaṃ gulmaṃ gaṇḍamālā
-          śilās tathā | </l>
+        <l xml:id="srisaila92b" met="hypermetrical"> grāhiṇī durnāmakaṃ gulmaṃ gaṇḍamālā śilās tathā
+          | </l>
 
 
         <l xml:id="srisaila92x">nāgārjunovāca</l>
@@ -1042,11 +1027,11 @@
 
         <ab corresp="#srisaila93" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila93-n1">Cf. <title>Rasārṇava</title> 18.203cd =
-              18.167cd (Ray 1910, 431, 426) <foreign>sarvarogavinirmukto
-                valīpalitavarjitaḥ | |</foreign> and <title>Rasārṇava</title> 18.204 (Ray
-              1910, 432) <foreign>śatarogaṃ vinaśyeta mukhamadhye dhrteṣu ca |
-                yavatulyapramāṇeṣu jīved varṣaśatātrayam | | 204 | |</foreign>.</item>
+            <item corresp="#srisaila93-n1">Cf. <title>Rasārṇava</title> 18.203cd = 18.167cd (Ray
+              1910, 431, 426) <foreign>sarvarogavinirmukto valīpalitavarjitaḥ | |</foreign> and
+                <title>Rasārṇava</title> 18.204 (Ray 1910, 432) <foreign>śatarogaṃ vinaśyeta
+                mukhamadhye dhrteṣu ca | yavatulyapramāṇeṣu jīved varṣaśatātrayam | | 204 |
+                |</foreign>.</item>
           </list>
         </ab>
 
@@ -1057,10 +1042,9 @@
 
         <ab corresp="#srisaila94" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila94-n1">This verse and the one below have some
-              relationship with <title>Rasārṇava</title> 18.205cd (cf. note 2) (Ray 1910,
-              432) <foreign>dhṛtāni mukhamadhye tu teṣu vakṣyāmi ye guṇāḥ</foreign>.
-            </item>
+            <item corresp="#srisaila94-n1">This verse and the one below have some relationship with
+                <title>Rasārṇava</title> 18.205cd (cf. note 2) (Ray 1910, 432) <foreign>dhṛtāni
+                mukhamadhye tu teṣu vakṣyāmi ye guṇāḥ</foreign>. </item>
           </list>
         </ab>
 
@@ -1072,9 +1056,8 @@
         </l>
         <ab corresp="#srisaila95" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila95-n1">Cf. <title>Rasārṇava</title> 18.205cd (Ray
-              1910, 432, cf. note 2): <foreign>dhṛtāni mukhamadhye tu teṣu vakṣyāmi ye
-                guṇāḥ</foreign>. </item>
+            <item corresp="#srisaila95-n1">Cf. <title>Rasārṇava</title> 18.205cd (Ray 1910, 432, cf.
+              note 2): <foreign>dhṛtāni mukhamadhye tu teṣu vakṣyāmi ye guṇāḥ</foreign>. </item>
           </list>
         </ab>
 
@@ -1085,10 +1068,10 @@
         </l>
         <ab corresp="#srisaila96" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila96-n1">Cf. <title>Rasārṇava</title> 18.206 (Ray 1910,
-              432): <foreign>nāsau chidyeta śastraiś ca pāvakena na dahyate / vāyuvego
-                mahātejāḥ kāmadeva ivāparaḥ // (RA_18.206.2)</foreign>. Ray notes (n.6)
-              that this verse and the next are not found in his manuscript D. </item>
+            <item corresp="#srisaila96-n1">Cf. <title>Rasārṇava</title> 18.206 (Ray 1910, 432):
+                <foreign>nāsau chidyeta śastraiś ca pāvakena na dahyate / vāyuvego mahātejāḥ
+                kāmadeva ivāparaḥ // (RA_18.206.2)</foreign>. Ray notes (n.6) that this verse and
+              the next are not found in his manuscript D. </item>
           </list>
         </ab>
 
@@ -1105,15 +1088,14 @@
 
         <ab corresp="#srisaila98" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila98-n1">Cf. <title>Rasārṇava</title> 18.207 (Ray 1910,
-              432): <foreign>tasya saṃsparśamātreṇa sarvalohāni kāñcanam //</foreign>
+            <item corresp="#srisaila98-n1">Cf. <title>Rasārṇava</title> 18.207 (Ray 1910, 432):
+                <foreign>tasya saṃsparśamātreṇa sarvalohāni kāñcanam //</foreign>
             </item>
           </list>
           <list type="Notes">
-            <item corresp="#srisaila98-n1">In the Devanāgarī script,
-                <foreign>ra-va</foreign> can look similar to <foreign>kha</foreign>,
-              accounting for the <foreign>surava- / sukha</foreign> variant
-              readings.</item>
+            <item corresp="#srisaila98-n1">In the Devanāgarī script, <foreign>ra-va</foreign> can
+              look similar to <foreign>kha</foreign>, accounting for the <foreign>surava- /
+                sukha</foreign> variant readings.</item>
           </list>
         </ab>
 
@@ -1133,10 +1115,10 @@
         </l>
         <ab corresp="#srisaila99" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila99-n1">Cf. <title>Rasārṇava</title> 18.208-209 (Ray
-              1910, 432): <foreign> punar anyaṃ pravakṣyāmi vajrabandhaṃ surārcite //
-                hīnāṅgo 'bhyadhikāṅgaś ca savyādhiḥ kubja ānataḥ / natāṅghriḥ pāṇiniḥsūto
-                jarayā stobhitendriyaḥ //</foreign>
+            <item corresp="#srisaila99-n1">Cf. <title>Rasārṇava</title> 18.208-209 (Ray 1910, 432):
+                <foreign> punar anyaṃ pravakṣyāmi vajrabandhaṃ surārcite // hīnāṅgo 'bhyadhikāṅgaś
+                ca savyādhiḥ kubja ānataḥ / natāṅghriḥ pāṇiniḥsūto jarayā stobhitendriyaḥ
+                //</foreign>
             </item>
           </list>
         </ab>
@@ -1148,9 +1130,9 @@
         </l>
         <ab corresp="#srisaila100" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila100-n1">Cf. <title>Rasārṇava</title> 18.209cd-ef (Ray
-              1910, 432): <foreign>natāṅghriḥ pāṇiniḥsūto jarayā stobhitendriyaḥ //
-                jaḍagadgadamūko 'pi gatihīnas tathaiva ca //</foreign>
+            <item corresp="#srisaila100-n1">Cf. <title>Rasārṇava</title> 18.209cd-ef (Ray 1910,
+              432): <foreign>natāṅghriḥ pāṇiniḥsūto jarayā stobhitendriyaḥ // jaḍagadgadamūko 'pi
+                gatihīnas tathaiva ca //</foreign>
             </item>
           </list>
         </ab>
@@ -1162,10 +1144,10 @@
         </l>
         <ab corresp="#srisaila101" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila101-n1">Cf. <title>Rasārṇava</title> 18.209gh-210ab
-              (Ray 1910, 433): <foreign>śaṅkhatvacavinirmukto jīvitair eva tiṣṭhati //
-                baddhasyāsya prabhāvena samāvarto yadā bhavet /</foreign>. Ray struggles
-              with the variants in his manuscripts on these lines. </item>
+            <item corresp="#srisaila101-n1">Cf. <title>Rasārṇava</title> 18.209gh-210ab (Ray 1910,
+              433): <foreign>śaṅkhatvacavinirmukto jīvitair eva tiṣṭhati // baddhasyāsya prabhāvena
+                samāvarto yadā bhavet /</foreign>. Ray struggles with the variants in his
+              manuscripts on these lines. </item>
           </list>
         </ab>
 
@@ -1190,37 +1172,68 @@
         <label>104</label>
         <l xml:id="srisaila104">pṛthivyāpas tathā tejo vāyur ākāśam eva ca ||
           <caesura/>
-           koṭivedhaṃ rasaṃ grāhyaṃ piṃḍaṃ koṣṭhasusaṃyutaṃ || <anchor n="srisaila104-n1"
-          /></l>
+           koṭivedhaṃ rasaṃ grāhyaṃ piṃḍaṃ koṣṭhasusaṃyutaṃ || <anchor n="srisaila104-n1"/></l>
 
         <ab corresp="#srisaila104" type="apparatus">
-          <list type="Notes">
+          <list type="Parallels">
             <item corresp="#srisaila104-n1"> Cf. <title>Rasārṇava</title> 18.217ab:
-                <foreign>pṛthivyāpas tathā tejo vāyurākāśam eva ca / </foreign> 18.211cd
-              (Ray 1910, 433): <foreign>koṭivedhi rasaṃ grāhyaṃ piṇḍaṣaṭkena saṃyutam /
-              </foreign>. The half-verses make better sense in the
-                <title>Rasārṇava</title> text.</item>
+                <foreign>pṛthivyāpas tathā tejo vāyurākāśam eva ca / </foreign> 18.211cd (Ray 1910,
+              433): <foreign>koṭivedhi rasaṃ grāhyaṃ piṇḍaṣaṭkena saṃyutam / </foreign>. The
+              half-verses make better sense in the <title>Rasārṇava</title> text, but Rây recorded
+              several variants at this point in his manuscripts.</item>
           </list>
         </ab>
 
 
+
         <label>105</label>
-        <label>105</label>
-        <l xml:id="srisaila105">ekaikas ty anumadhyasthaṃ guṭikāṃ kārayed budhaḥ ||
+        <l xml:id="srisaila105">ekaikasya tu madhyasthaṃ guṭikāṃ kārayed budhaḥ ||
           <caesura/>
-           guṭipaṃcasamākhyātā ṣaṣṭaṃ jīvaṃ ca kevalaṃ || </l>
+           guṭikeyaṃ samākhyātā ṣaṣṭhaṃ jīvaṃ ca kevalaṃ ||<anchor n="srisaila105-n1"/></l>
+
+        <ab corresp="#srisaila105" type="apparatus">
+          <list type="Parallels">
+            <item corresp="#srisaila105-n1"> Cf. <title>Rasārṇava</title> 18.212ab-213ab:
+                <foreign>ekaikasya tu madhyasthāṃ guṭikāṃ kārayed budhaḥ // guṭikāḥ pañcasaṃkhyātāḥ
+                ṣaṣṭhī caiva tu pañcamī</foreign> (Ray 1910, 433). The third pāda is
+              unmetrical.</item>
+          </list>
+        </ab>
 
         <label>106</label>
-        <label>106</label>
-        <l xml:id="srisaila106"><gap extent="verse" reason="omitted"/></l>
-
-        <label>107</label>
-        <label>107</label>
-        <l xml:id="srisaila107">caturmukhaṃ kṛtaṃ koṣṭaṃ tasyopari niveśayet ||
+        <l xml:id="srisaila106">ṣaḍguṇaṃ piṇḍasthaulasya tāmrapātraṃ suśobhanaṃ
           <caesura/>
-           goghṛtaṃ ca mahātailaṃ samabhāgāni melayet || </l>
+           ūrdhvaṃ puruṣamānaṃ tu puruṣārddha<pc> </pc>garbhamaṇḍalam |<anchor n="srisaila106-n1"
+            /><anchor n="srisaila106-n2"/></l>
 
-        <label>108</label>
+        <ab corresp="#srisaila106" type="apparatus">
+          <list type="Parallels">
+            <item corresp="#srisaila106-n1"> Cf. <title>Rasārṇava</title> 18.213cd-ef:
+                <foreign>ṣaṭsaṃguṇitapiṇḍaṃ syāt tāmrapātraṃ suśobhanam / ūrdhvaṃ puruṣamātraṃ tu
+                puruṣārdhaṃ ca maṇḍalam </foreign> (Ray 1910, 433).</item>
+          </list>
+          <list type="Notes">
+            <item corresp="#srisaila106-n2">Fourth pāda is not metrical.</item>
+          </list>
+        </ab>
+
+        <label>107</label>
+        <l xml:id="srisaila107">caturmukhaṃ kṛtaṃ koṣṭhaṃ tasyopari niveśayet ||
+          <caesura/>
+          goghṛtaṃ ca mahātailaṃ samabhāgāni melayet || <anchor n="srisaila107-n1"/></l>
+        
+        <ab corresp="#srisaila107" type="apparatus">
+          <list type="Parallels">
+            <item corresp="#srisaila107-n1"> Cf. <title>Rasārṇava</title> 18.213gh-214ab:
+              <foreign>caturmukhakṛtaṃ kāṣṭhaṃ tasyopari nivedayet // 
+                saghṛtaṃ ca mahātailaṃ samabhāgena lepayet </foreign> (Ray 1910,
+              433).</item>
+          </list>
+        </ab>
+
+
+
+
         <label>108</label>
         <l xml:id="srisaila108">pūrayitvā kaṭāhe tu digdiśāpālapūjanaṃ ||
           <caesura/>
@@ -1237,8 +1250,8 @@
            caṃdrārke tu grahārirakṣarāśayo bhuvanāni ca || </l>
 
         <label>111</label>
-        <l xml:id="srisaila111">namaskṛtya guruṃ devaṃ<del rend="crossed out"
-            resp="scribe">ṃ</del>m ātmānaṃ tatra nikṣipet ||
+        <l xml:id="srisaila111">namaskṛtya guruṃ devaṃ<del rend="crossed out" resp="scribe">ṃ</del>m
+          ātmānaṃ tatra nikṣipet ||
           <caesura/>
            sudagdhaṃ taṃ vijānīyāt sṛṣṭibhūtaṃ niyojayet </l>
 
@@ -1256,8 +1269,8 @@
            kṛtvā tatra mahārāvaṃ <unclear>oṃ</unclear>kārasurapūjitaṃ || </l>
 
         <label>115</label>
-        <l xml:id="srisaila115">uttiṣṭatīva saṃdeho pūrve<unclear extent="1"
-            unit="character"/> bhāskaro yathā ||
+        <l xml:id="srisaila115">uttiṣṭatīva saṃdeho pūrve<unclear extent="1" unit="character"/>
+          bhāskaro yathā ||
           <caesura/>
            divyatejo mahā<unclear>kā</unclear>yo divyadṛṣṭirmahābalaḥ || </l>
 
@@ -1279,13 +1292,12 @@
 
         <ab corresp="#srisaila116.2" type="apparatus">
           <list type="Notes">
-            <item corresp="#srisaila116.2-n1"> Cf. <title>Rasārṇava</title> 11.106ab (Ray
-              1910, 173): <foreign>śaṅkhakāhalanirghoṣaiḥ | siddhavidyādharaiḥ saha |
-              </foreign> and 18.224ab (Ray
-              1910, 435) <foreign>apsarogītavāditrairnṛtyair api manoharaiḥ /</foreign></item>
-            <item corresp="#srisaila116.2-n2">Cf. <title>Rasārṇava</title> 18.223ab (Ray
-              1910, 435): <foreign>puṣpamālāpatākāḍhyaṃ kiṅkiṇījālamaṇḍitam
-              /</foreign></item>
+            <item corresp="#srisaila116.2-n1"> Cf. <title>Rasārṇava</title> 11.106ab (Ray 1910,
+              173): <foreign>śaṅkhakāhalanirghoṣaiḥ | siddhavidyādharaiḥ saha | </foreign> and
+              18.224ab (Ray 1910, 435) <foreign>apsarogītavāditrairnṛtyair api manoharaiḥ
+                /</foreign></item>
+            <item corresp="#srisaila116.2-n2">Cf. <title>Rasārṇava</title> 18.223ab (Ray 1910, 435):
+                <foreign>puṣpamālāpatākāḍhyaṃ kiṅkiṇījālamaṇḍitam /</foreign></item>
           </list>
         </ab>
 
@@ -1333,8 +1345,8 @@
            tadā tasya prakarttavyaṃ ratnasaṃskāram uttamaṃ || </l>
 
         <label>120</label>
-        <l xml:id="srisaila120">iṃdranīla mahānīla māṇikyaṃ mauktikaṃ tathā || padmarāgaṃ
-          tathā vajraṃ margajaḥ karmamaṣṭamaṃ || asyā || </l>
+        <l xml:id="srisaila120">iṃdranīla mahānīla māṇikyaṃ mauktikaṃ tathā || padmarāgaṃ tathā
+          vajraṃ margajaḥ karmamaṣṭamaṃ || asyā || </l>
 
         <label>121</label>
         <l xml:id="srisaila121">athātaḥ saṃpravakṣyāmi ratnarāgasya jāraṇaṃ ||
@@ -1372,8 +1384,7 @@
            varāratne sadādisthaṃ punaḥpūrveṇa cāṃtike || </l>
 
         <label>128</label>
-        <l xml:id="srisaila128">śoṣayitvā <unclear>hṛ</unclear>taṃ cūrṇaṃ
-          mahānīlarasaplutaṃ ||
+        <l xml:id="srisaila128">śoṣayitvā <unclear>hṛ</unclear>taṃ cūrṇaṃ mahānīlarasaplutaṃ ||
           <caesura/>
            tāmralolārasenaiva mardayitvā punaḥ punaḥ ||</l>
 
@@ -1421,8 +1432,7 @@
           <caesura/>
            kṛtāṃjalīpuṭo bhūtvā śivasyāgre vyavasthitaḥ || </l>
 
-        <p xml:id="srisaila136a"> ||śrī<hi style="bold"><persName>bhairavo
-            </persName></hi>vāca || </p>
+        <p xml:id="srisaila136a"> ||śrī<hi style="bold"><persName>bhairavo </persName></hi>vāca || </p>
 
         <label>137</label>
         <l xml:id="srisaila137">sahasraṃ puṣkaraṃ ghoraṃ adbhūtaṃ cekṣitaṃ tvayā ||
@@ -1440,9 +1450,9 @@
            bhuttkā <unclear>sva</unclear>vipulān bhogān kalpāṃte muktibhājanaṃ || </l>
 
         <p xml:id="srisaila140">iti
-            <persName><hi>nāgārjuna</hi></persName><unclear>hṛ</unclear>dayāstraṃ ṣaṭ ||
-            ||māhā<gap n="20" unit="akṣara"/><unclear>|</unclear>rasa utkṛṣṭa ta ṣecara
-          vau ṣaṭ || iti samāptaḥ || || </p>
+          <persName><hi>nāgārjuna</hi></persName><unclear>hṛ</unclear>dayāstraṃ ṣaṭ || ||māhā<gap
+            n="20" unit="akṣara"/><unclear>|</unclear>rasa utkṛṣṭa ta ṣecara vau ṣaṭ || iti samāptaḥ
+          || || </p>
 
         <!-- some end of section her -->
 
@@ -1472,14 +1482,13 @@
            gurutvaṃm aruṇatvaṃ ca tejaṃ bhāskarasannibhaṃ || </l>
 
         <label>146</label>
-        <l xml:id="srisaila146">śiṣimadhyaṃ dhavaṃ ti<unclear>ṣṭhe</unclear>dbaṃdhasūtasya
-          lakṣaṇaṃ ||
+        <l xml:id="srisaila146">śiṣimadhyaṃ dhavaṃ ti<unclear>ṣṭhe</unclear>dbaṃdhasūtasya lakṣaṇaṃ
+          ||
           <caesura/>
            kṛṣṇaṃ śvetaṃ tathā pītaṃ nīlaṃ bhasma nisaṃnibhaṃ || </l>
 
         <label>147</label>
-        <l xml:id="srisaila147">capalatvaṃ yadā na<unclear>ṣṭaṃ</unclear> bhasmasūtaka
-          lakṣaṇaṃ ||
+        <l xml:id="srisaila147">capalatvaṃ yadā na<unclear>ṣṭaṃ</unclear> bhasmasūtaka lakṣaṇaṃ ||
           <caesura/>
            nānāvarṇaṃ yathā svasthaṃ dhṛte tejo jalūkavat || </l>
 
@@ -1509,8 +1518,7 @@
            haṭhāgnau dhamitās<unclear>saṃ</unclear>ti na viṣṭedeka mūrchitaḥ || </l>
 
         <label>153</label>
-        <l xml:id="srisaila153">taruṇāditya saṃkā<unclear>śaṃ</unclear>nānāvarṇā
-          vicakṣaṇaḥ ||
+        <l xml:id="srisaila153">taruṇāditya saṃkā<unclear>śaṃ</unclear>nānāvarṇā vicakṣaṇaḥ ||
           <caesura/>
            vedheṣu saha loheṣu raṃjitaḥ sūtalakṣaṇaṃ || </l>
 
@@ -1540,11 +1548,9 @@
            dehe tu paṃcaratnāni<unclear>|</unclear>nāgaṃ baṃgaṃ tathāyase || </l>
 
         <label>159</label>
-        <l xml:id="srisaila159">krāmaṇaṃ rasarājasya <unclear>o</unclear>ṣadhāṃ
-          sarvamāyayau ||
+        <l xml:id="srisaila159">krāmaṇaṃ rasarājasya <unclear>o</unclear>ṣadhāṃ sarvamāyayau ||
           <caesura/>
-          <unclear>o</unclear>ṣadhaiḥ <unclear>kraṃ</unclear>mate sūtaṃ yogayuktikrameṇa
-          hi || </l>
+          <unclear>o</unclear>ṣadhaiḥ <unclear>kraṃ</unclear>mate sūtaṃ yogayuktikrameṇa hi || </l>
 
         <label>160</label>
         <l xml:id="srisaila160">kramate vyādhisaṃghātaṃ grasate duṣṭamāyayāt ||
@@ -1568,9 +1574,8 @@
 
         <label>164</label>
         <l xml:id="srisaila164">iti śrīnāgārjunaviracite raseṃdramaṃgale
-            guṭikāsatva<unclear>dutijalūkā</unclear>jāraṇādi<unclear extent="1"
-            unit="syllable"/>rasabaṃdhanaṃ <unclear>nā</unclear>ma caturtho dhyāyaḥ ||
-        </l>
+            guṭikāsatva<unclear>dutijalūkā</unclear>jāraṇādi<unclear extent="1" unit="syllable"
+          />rasabaṃdhanaṃ <unclear>nā</unclear>ma caturtho dhyāyaḥ || </l>
       </div>
 
 

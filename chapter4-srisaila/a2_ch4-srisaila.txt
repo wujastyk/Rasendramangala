@@ -819,9 +819,9 @@
 
 
 
-        <l xml:id="srisaila106"> ṣaḍguṇaṃ piṃdasthauyasyatāmra<lb/>pātraṃ suśobhanaṃ 51
+        <l xml:id="srisaila106"> ṣaḍguṇaṃ piṃdasthauyasya tāmra<lb/>pātraṃ suśobhanaṃ 51
           <caesura/>
-           urdhve puruṣamānaṃ tu puruṣārddhaṃ garbhamaḍalaṃ </l>
+          urdhve puruṣamānaṃ tu puruṣārddhaṃ<pc> </pc>garbhamaḍalaṃ </l>
 
         <l xml:id="srisaila107"> ca<lb/>rmukhaṃ kṛtaṃ koṣṭaṃ tasthopari niveśayet 52
           <caesura/>
