@@ -667,7 +667,7 @@
 
         <l xml:id="srisaila107">caturmukhaṃ kṛta koṣṭhaṃ tasyopari niveśayet|
           <caesura/>
-           goghṛtaṃ ca māṃ..<unclear extent="1" unit="syllable"/>tailaṃ samabhāgāni melayet | </l>
+           goghṛtaṃ ca māṃ ||<unclear extent="1" unit="syllable"/>tailaṃ samabhāgāni melayet | </l>
 
 
         <l xml:id="srisaila108">pūrayitvā kuṭāhaṃ tu digdiśāpālapūjanam|

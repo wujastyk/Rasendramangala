@@ -614,7 +614,7 @@
 
         <l xml:id="srisaila108">pūrayitvā kaṭāha tu digdiśāpālapūjanaṃ
           <caesura/>
-           kumārī pūjaye tatra gaṇapūjāṃ kurustathā </l>
+           kumārī pūjaye tatra gaṇapūjāṃ kurus tathā </l>
 
         <l xml:id="srisaila109">caturdikṣu valaṃ dadyā<lb/>t yathoktaṃ gurubhāṣitaṃ
           <caesura/>

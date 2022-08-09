@@ -830,7 +830,7 @@
         <l xml:id="srisaila108"> pūrayitvā kuṭāhaṃ tudi<unclear>kli</unclear>śāṃ pāla<pb
             n="57v"/>pūjanaṃ 53
           <caesura/>
-           kumārīḥ pūjayettra gaṇapūjāṃ guruṃ tathā </l>
+           kumārīḥ pūjayet tra gaṇapūjāṃ guruṃ tathā </l>
 
         <l xml:id="srisaila109">caturdikṣu ba<lb/>liṃ dadyāt yathoktaṃ śivabhāṣi<del
             extent="1" unit="akṣara"/>taṃ 54

@@ -1237,7 +1237,7 @@
         <label>108</label>
         <l xml:id="srisaila108">pūrayitvā kaṭāhe tu digdiśāpālapūjanaṃ ||
           <caesura/>
-           kumārī pūjayettatra guṇapūjāṃ gurustathā || </l>
+           kumārī pūjayet tatra guṇapūjāṃ gurus tathā || </l>
 
         <label>109</label>
         <l xml:id="srisaila109">caturdikṣu baliṃ dadyāt yathokta śivabhāṣitaṃ ||
