@@ -1232,12 +1232,10 @@
         </ab>
 
 
-
-
         <label>108</label>
-        <l xml:id="srisaila108">pūrayitvā kaṭāhe tu digdiśāpālapūjanaṃ ||
+        <l xml:id="srisaila108">pūrayitvā kaṭāhaṃ tu digdiśāpālapūjanaṃ ||
           <caesura/>
-           kumārī pūjayet tatra guṇapūjāṃ gurus tathā || </l>
+           kumārī pūjayet tatra gaṇapūjāṃ guruṃ tathā || </l>
 
         <label>109</label>
         <l xml:id="srisaila109">caturdikṣu baliṃ dadyāt yathokta śivabhāṣitaṃ ||
