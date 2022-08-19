@@ -992,8 +992,8 @@
           <caesura/>
            yadi śudhamaśudhaṃ vā mama doṣo na dīyatāṃ 1</l>
 
-        <l xml:id="T276">śrīrastuḥ kalyāṇamastuḥ śubhaṃ bhavatuḥ śreyostuḥ sakalajanasya
-          śrīrastuḥ</l>
+        <l xml:id="T276">śrīrastuḥ kalyāṇam astuḥ śubhaṃ bhavatuḥ śreyo stuḥ sakalajanasya
+          śrīr astuḥ</l>
 
 
 
