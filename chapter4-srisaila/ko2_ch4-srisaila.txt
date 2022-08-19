@@ -643,7 +643,7 @@
 
         <l xml:id="srisaila109">caturdikṣaṃ balaṃ dadyāt tathoktaṃ sivabhāṣitaṃ
           <caesura/>
-           dhamanaṃ tatra kurvitaḥ catudikṣū sanai sanai<lb/>94<pb n="4r"/></l>
+           dhamanaṃ tatra kurvitaḥ catudikṣū sanai sanai<lb/> 94<pb n="4r"/></l>
 
         <l xml:id="srisaila110">sūtaptaṃ ca vijāniyāt nirdhumaṃ ca <unclear>ya</unclear>dā
           bhavet

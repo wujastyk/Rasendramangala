@@ -1238,14 +1238,33 @@
            kumārī pūjayet tatra gaṇapūjāṃ guruṃ tathā || </l>
 
         <label>109</label>
-        <l xml:id="srisaila109">caturdikṣu baliṃ dadyāt yathokta śivabhāṣitaṃ ||
+        <l xml:id="srisaila109">caturdikṣu baliṃ dadyāt yathoktaṃ śivabhāṣitaṃ ||
           <caesura/>
-           dhamanaṃ tatra ku<unclear>rvī</unclear>ti caturdikṣu śanaiḥ śanaiḥ || </l>
-
+           dhamanaṃ tatra kurvīta caturdikṣu śanaiḥ śanaiḥ || </l>
+        
+        
+        <ab corresp="#srisaila109" type="apparatus">
+          <list type="Parallels">
+            <item corresp="#srisaila109-n1"> Cf. <title>Rasārṇava</title> 18.215:
+              <foreign>kumārīṃ pūjayet paścād dadyād dikṣu baliṃ tathā / 
+                dhamanaṃ tatra kurvīta caturdikṣu śanaiḥ śanaiḥ </foreign> (Ray 1910,
+              433).</item>
+          </list>
+        </ab>
+        
         <label>110</label>
         <l xml:id="srisaila110">sutaptaṃ ca vijānīyāt nirdhūmaṃ ca yadā bhavet ||
           <caesura/>
            caṃdrārke tu grahārirakṣarāśayo bhuvanāni ca || </l>
+        
+        <ab corresp="#srisaila110" type="apparatus">
+          <list type="Parallels">
+            <item corresp="#srisaila110-n1"> Cf. <title>Rasārṇava</title> 18.216:
+              <foreign>sutaptaṃ ca vidhātavyaṃ nirdhūmaṃ ca yadā bhavet /
+                tadā natvā guruṃ devaṃ candrārkādigrahān api </foreign> (Ray 1910,
+              433-434).</item>
+          </list>
+        </ab>
 
         <label>111</label>
         <l xml:id="srisaila111">namaskṛtya guruṃ devaṃ<del rend="crossed out" resp="scribe">ṃ</del>m

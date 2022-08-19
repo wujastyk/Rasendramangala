@@ -671,11 +671,11 @@
           śivabhāṣitam
           <caesura/>
            dhamanaṃ tatra<pb n="34r"/> kuvīta caturdikṣa
-          śanai<unclear>śśa</unclear>naiḥ</l>
+          śanai<unclear>ś śa</unclear>naiḥ</l>
 
-        <l xml:id="srisaila110">sutaptaṃ ca vijānīyānnirdhūmaṃ ca yadā bhavet
+        <l xml:id="srisaila110">sutaptaṃ ca vijānīyān nirdhūmaṃ ca yadā bhavet
           <caesura/>
-           candrānkānugrahāri<unclear>|</unclear><lb/>kṣāmaṃśayo bhuvanāni ca </l>
+           candrānkānugrahāri<lb/>kṣāmaṃśayo bhuvanāni ca </l>
 
         <l xml:id="srisaila111">namaskṛtya guruṃ devaṃ mātmānaṃ tatra nikṣipet
           <caesura/>
