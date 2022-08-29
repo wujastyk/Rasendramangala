@@ -19,7 +19,7 @@
             <collection>[collection]</collection>
             <idno>184</idno>
             <idno type="NCC">[NCC identifier]</idno>
-            <idno type="siglum">J<g rend="subscript">1</g></idno>
+            <idno type="siglum">J1</idno>
           </msIdentifier>
           <msContents>
             <summary>Ff. 1-8 from another work.</summary>
@@ -119,11 +119,8 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2020-05-15" who="Dominik Wujastyk"> Started to input J1, got to
-        srisaila43.</change>
-      <change when="2020-05-31" who="Harshal Bhatt">Harshal took over after verse
-        srisaila43</change>
-      <change when="2020-06-05" who="Harshal Bhatt">Completed the transcription to srisaila164. </change>
+      <change when="2022-08-20" who="Dominik Wujastyk"> Started the J1 ṭippaṇa file.</change>
+      <change when="2022-08-28" who="Harshal Bhatt">Transcribed T0-T74</change>
 
     </revisionDesc>
   </teiHeader>
@@ -132,15 +129,442 @@
     <body>
 
       <div ana="Ṭippaṇa">
-       
+
         <pb n="39r"/>
 
-	<l xml:id="T-0">oṃ namaḥ śivāya </l>
-	<l xml:id="T1">pītāṃvaro tha valijinnāgakṣayaḥ vahala<lb n="4"/>rāgīgaruḍavaraḥ sajayati harivaharajovdalitabhavadaitya duḥkhaharaḥ 1 </l>
-	
-	<!-- continue -->
-	
-	<l xml:id="T276">śrīr astu kalyāṇam astu śrī </l>
+
+        <l xml:id="T-0">oṃ namaḥ śivāya</l>
+
+        <l xml:id="T1">pītāṃbaro rthavalijinnāgakṣayaḥ vahalarāgīgaruḍavaraḥ
+          <caesura/>
+          sa jayati hari vaharajo vidalita bhavadainyaduḥkhaharaḥ 1</l>
+
+        <l xml:id="T2">saptaviṃ<lb n="5"/>śati siddhānā matam ālokya yatnataḥ 2
+          <caesura/>
+          nānāśāstranighaṃṭādi jñātvādau vai<lb n="6"/>dyakatrayaṃ</l>
+
+        <l xml:id="T3" met="hypermetrical">deśe 2 bhidhānāṃ <unclear>ū</unclear>ṣadhīnāṃ pṛthak 2
+          <caesura/>
+          tathā datvā ca dhātūnā pāraṃ<lb n="7"/>paryo sa deśataḥ 3</l>
+
+        <l xml:id="T4" met="hypermetrical">sā śaṃsayasya gūḍhārthaṃ spaṣṭīkaraṇahetave
+          <caesura/>
+          raseṃdramaṃgalasyedaṃ<lb n="8"/> ṭippa<unclear>ṇaṃ va</unclear> racayāmyahaṃ 4</l>
+
+        <l xml:id="T4a"/>
+        <l xml:id="T4b"/>
+        <l xml:id="T4c"/>
+        <l xml:id="T4d"/>
+
+
+        <l xml:id="T5">harā jñātau harajaḥ pāradaḥ
+          <caesura/>
+          so jayatu</l>
+
+        <l xml:id="T5a">ka iva harariva<lb n="9"/> yathā hara</l>
+
+        <l xml:id="T5b">kiṃ bhūte hari pīte aṃbare yasyāsau pītāṃbaraṃ</l>
+
+        <l xml:id="T5c">jayati iti balijit</l>
+
+        <l xml:id="T5d">ba<lb n="10"/>li nāmānaṃ dautyanāgānāṃ paṃcanāṇanāgānāṃ hastīnāṃ kṣayaṃ naya
+          iti</l>
+
+        <l xml:id="T5e"/>
+
+        <l xml:id="T5f">balaharāga<lb n="11"/>garūḍacaraḥ</l>
+
+        <l xml:id="T5g">vidalitaṃ bhavasya saṃsārasya dainyaṃ yena asau vidalīta</l>
+
+        <l xml:id="T5h">bhavadainyaduḥkhaṃ<lb n="12"/> haratī</l>
+
+        <l xml:id="T5i">iti vidalītadaityaduḥkhaharaḥ 5</l>
+
+        <l xml:id="T6">aparapakṣe pītaṃ abhrakaṃ aṃbaraṃ yena<pb n="39v"/> asau pītāṃbaraḥ</l>
+
+        <l xml:id="T7">baligaṃdhajitaṃ grastaṃ yena asau balijitaḥ</l>
+
+        <l xml:id="T8">athavā baliliṃ<lb n="2"/>pitādīn jayati tevāṃ nāgaṃ sīsakaṃ kṣayaṃ nayatiti
+          nāgakṣayaḥ</l>
+
+        <l xml:id="T9">bahalān rāgān<lb n="3"/>ruḍasya hāṭakasya athavā mākṣikasya</l>
+
+        <l xml:id="T10">caratiti vahalarāgagaruḍacaraḥ</l>
+
+        <l>vidalitadai<lb n="4"/>nyaṃ taridraṃ yenāsau bhavasaṃsārasya duḥkhaṃ hata yenāsau raseṃdra
+          jayatuḥ</l>
+
+        <l xml:id="T11">atha saptiviṃ<lb n="5"/>śati siddhanāmānyāha</l>
+
+        <l xml:id="T12">aḍumaścaṃdrasenaś ca laṃkeśaś ca viśāradaḥ
+          <caesura/>
+          kapālāmata<lb n="6"/>māṃḍavyo bhāskaraḥ sūrasenakaḥ
+          <caesura/>
+          ratnaghoṣaś ca śaṃbhuś ca tathaikā ramabāhanā
+          <caesura/>
+          iṃdrā<lb n="7"/>dau gomuṣaś caiva kaṃbali vyāḍireva ca
+          <caesura/>
+          nāgārjunasurāviṃdo nāgavādhiryaśo<lb n="8"/>dharaḥ
+          <caesura/>
+          ṣaṃḍakapāliko brahmā goviṃdoḥ laṃpako hariḥ
+          <caesura/>
+          saptaviṃśati bhūpeṃdrāḥ ra<lb n="9"/>rasiddhā prakīrttitā
+          <caesura/>
+          eteṣā matam ālokya yatnena paramādade</l>
+
+        <p xml:id="T13">deśe 2 nāṃ dhātū<lb n="10"/>nāṃ ca pṛthak kṛtvā dṛṣṭvā pāraṃparyeṇa
+          raseṃdramaṃgalaṃ graṃthasya vyākhyānaṃ karomi<lb n="11"/></p>
+
+        <!-- new section -->
+
+        <!-- Maṅgalaśloka from the mūla text -->
+
+        <l xml:id="T14">natvā raseṃdraṃ śivasaukhyakārakaṃ
+          <caesura/>
+          apārasaṃsārasamudratārakaṃ
+          <caesura/>
+          sarvārthasiddhipra<lb n="12"/>damukhyamaṃgalaṃ
+          <caesura/>
+          graṃthaṃ pravakṣyāmi raseṃdramaṃgalaṃ 1</l>
+
+        <l xml:id="T15">rasāś caite mahāsūtas trinetra<pb n="40r"/><unclear>stu</unclear> trilocanaṃ
+          <caesura/>
+          harabījaś caiva bījeṃdrotha rasāyanaḥ</l>
+
+        <l xml:id="T16">pāradasya suvarṇākhyo<lb n="2"/> mahāvahnis tathaiva ca
+          <caesura/>
+          lokeśaḥ khecaro dīvyaḥ saubhāgya paramo manaḥ</l>
+
+        <l xml:id="T17" met="hypermetrical">śiśihe<lb n="3"/>manidhiś caiva anaṃto jñānam eva ca
+          <caesura/>
+          sūkṣmaśāṃtaprabhuś caiva kāṃtakaraḥ paraḥ
+          <caesura/>
+          etā<lb n="4"/>rasanāmāni jñātavyāni prayatnataḥ</l>
+
+        <l xml:id="T20">etāni parisiddhā nirākṛtāni ra<lb n="5"/></l>
+
+        <l xml:id="T21">sarvajñaḥ pāradaḥ girīśajasūtakaṃ hasta iti</l>
+
+        <l xml:id="T22">pārāvārasaṃsārasamudraṃ yo vai na<lb n="6"/> jānāti raseṃdramaṃgale ity ādi
+          karmaśabdo upaskara</l>
+
+        <l xml:id="T23">rasakarmmadāt upaskaraṃ na<lb n="7"/> yā vatti</l>
+
+        <l xml:id="T24">hastarasakamarṇi kośalaṃ</l>
+
+        <l xml:id="T25">trinetrasya ca kamāṇi</l>
+
+        <l xml:id="T26">tasya siddhiḥ kathaṃ<lb n="8"/> bhavet</l>
+
+        <l xml:id="T27">upaskarāṇi yathā</l>
+
+        <l xml:id="T28">tulābhājana tac ca dvividhaṃ tulāghaḍakaṃ ca</l>
+
+        <l xml:id="T29">ṣalvabhājanaṃ tacca<lb n="9"/> trividhaṃ pāṣāṇa khalvaṃ lohakhalvaṃ
+          tāmrakhalva</l>
+
+        <l xml:id="T30">śilā vāṃḍatāṃ ca sa dvi</l>
+
+        <l xml:id="T31">pāṣāṇa ku<lb n="10"/>ḍanā vicitraṃ khaparāṇi tāmrādīni</l>
+
+        <l xml:id="T32">bhājanāni mṛnmayāni ca koṣṭikāṃ ci</l>
+
+        <l xml:id="T33">sā ca<lb n="11"/> trividhā jālakoṣṭikā karppūkoṣṭikāḥ bhūmikoṣṭi</l>
+
+        <l xml:id="T34">bhastrikā dvidhā nalikā vakra<lb n="12"/>nalikī</l>
+
+        <l xml:id="T35">nali lohamayā</l>
+
+        <l xml:id="T36">vakranalikā mṛnmeyā</l>
+
+        <l xml:id="T37">mṛnmūkhā dvividhā pakvā<del>pra</del>pakvā ca<pb n="40v"/></l>
+
+        <l xml:id="T38">bhedā vajramukhā</l>
+
+        <l xml:id="T41">vālmīkamṛtikī bhāgaṃ śālituṣābhāgacatuṣṭayaṃ</l>
+
+        <l xml:id="T42">iṣṭikā caturthāṃśa<lb n="2"/><unclear>dvipka</unclear>rikā
+          cūrṇalohakāṣṭamaṣṭāṃśa karpikācūrṇa ṣoḍaśāṃśadaṃtacūrṇaṃ aṣṭāśa u<lb n="3"/>dakena saha
+          saṃkubhayitvā kriyate sā mṛnmayā mūkhā</l>
+
+        <l xml:id="T43">tasyā bhedaḥ gostanā aṃdhamū<lb n="4"/>khā nalikāmūkhā liṣāsaptaṭīmūkhā
+          ṭolomūkhādayaḥ</l>
+
+        <l xml:id="T44">kuṃbhakāreṇa svapakvā<lb n="5"/>mūrttikāyāḥ kriyate</l>
+
+        <l xml:id="T45">sā pakvamūkhā <unclear>daṃ</unclear>ṭamūkhā kṣāramūkhā seṃdhavādi
+            lavaṇamū<lb n="6"/>khā kokilākhyamūkhā heimatāmralohatrapusisakamūkhādayaḥ</l>
+
+        <l xml:id="T46">saṃḍasaṃ dvivi<lb n="7"/>dhaṃ patrasaṃḍasaṃ kākamūkhasaṃḍasa</l>
+
+        <l xml:id="T47">tatra pramāṇaṃ kapotapuṭaṃ kurkuṭapuṭa gajapu<lb n="8"/>ṭaṃ khadirādayaḥ</l>
+
+        <l xml:id="T48">kokilākhya śilāyaṃtraṃ gajadaṃtabhājanayaṃtraṃ daulāyaṃtra a<lb n="9"/>dhaḥ
+          pātanayaṃtra pānayatraṃ pānatraya urdhvapādanayatra niryāmakayaṃtraṃ ḍamaruyaṃtraṃ
+            agniṣo<lb n="10"/>māpayaṃtraṃ cakrayaṃtraṃ cokīyaṃtraṃ vālukāyaṃtraṃ tulāyaṃtraṃ
+          kachapayaṃtraṃ kāsabhā<lb n="11"/> janayaṃtraṃ ghaṇayaṃtra gaṃḍakayaṃtraṃ jālikāyaṃtraṃ
+          vāraṇayaṃtrādaya</l>
+
+        <l xml:id="T49">silopari silā<lb n="11"/>deyā śilāyaṃtraṃ pīṭhopari pāṭhamadhye rasādaya
+          prakṣepya pīṭhayaṃtraṃ pāṣāṇayaṃtra tā<lb n="11r"/> mrabhājanaṃ bhūmyā nikṣipya tasyopari
+          rasādayaḥ</l>
+
+        <l xml:id="T50">pīṭhikārṣe karāṃgulī marda<unclear>yt</unclear></l>
+
+        <l xml:id="T51">tad yathā<lb n="2"/>kākāninī strī avibhedikāśṛṃgī meṣaśṛṃgī</l>
+
+        <l xml:id="T52">eteṣāṃ niryāsa</l>
+
+        <l xml:id="T53"> gorasanābhogī vā<lb n="3"/>ruṇī vajravallī tridhārāstrīvallī asthi śṛṃ</l>
+
+        <!-- Transcription of lines given in images. -->
+
+        <l xml:id="T53.1">śilopari śilā deyā śilāyaṃtra</l>
+
+        <l xml:id="T53.2">bhūdharayaṃtroyaṃ</l>
+
+        <l xml:id="T53.2.1">śikhā</l>
+
+        <l xml:id="T53.3">rasagaṃdhaka</l>
+
+        <l xml:id="T53.3.1">tāmrabhā</l>
+
+        <l xml:id="T53.4">pīṭhayaṃtroyaṃ</l>
+
+        <l xml:id="T53.4.1">pīṭha 2 2</l>
+
+        <l xml:id="T53.5">vaṃsanalikāyaṃ</l>
+
+        <l xml:id="T53.5.1">rasa</l>
+
+        <l xml:id="T53.6">gajadaṃtayaṃtraṃ</l>
+
+        <l xml:id="T53.7"><unclear>mṛnnayābhājanāstīrṇa vālukāyāparīpūrṇamārddapūrjya na vālukā same
+            hitā</unclear></l>
+
+        <l xml:id="T53.8"><unclear>mṛnnayābhājanāstīrṇa vālukāyāparīpūrṇamārddapūrjya na vālukā same
+            hitā</unclear></l>
+
+        <l xml:id="T53.9"><pb n="41v"/>nalikāyaṃtra</l>
+
+        <l xml:id="T53.9.1">gataṃ yaṃtraṃma eṣa mūṣāyaṃtra</l>
+
+        <l xml:id="T53.9.1.1">agnigrahasvedaṣṭakramaṇa</l>
+
+        <l xml:id="T53.9.2">nalikālohamayā mūṣalomaya sā agaṃla 12 pramāṇa tulāyaṃtra
+          gaṃdhakajāraṇārthaṃ</l>
+
+        <l xml:id="T53.9.2.1">rasagaja udakasaṃga gaṃdhaka</l>
+
+        <l xml:id="T53.9.3">kachapayaṃtra</l>
+
+        <l xml:id="T53.9.3.1">udakacoka garbhāgni dvitiyagarbhā</l>
+
+        <l xml:id="T53.9.3.2">rasarājabhūṣā<unclear>ṇa</unclear></l>
+
+        <l xml:id="T53.9.3.3"><unclear>agnisthāṃnaka</unclear></l>
+
+        <l xml:id="T53.9.4">cakrayaṃtra</l>
+
+        <l xml:id="T53.9.4.1">rasa</l>
+
+        <l xml:id="T53.9.4.2">garttā sāvagarbhā atha udakacakra</l>
+
+        <l xml:id="T53.9.4.3">yāmeṇa puṭaṃ madhya muṣācakrayaṃtroya |. 768 |. 7 |. 8 |. 7 ||</l>
+
+        <l xml:id="T53.9.5">rasa garttā</l>
+
+        <l xml:id="T53.9.5.1">puṭa garttā</l>
+
+        <l xml:id="T53.9.6">sāraṇayaṃtra</l>
+
+        <l xml:id="T53.9.6.1">kāca kuṃpī agniḥ</l>
+
+        <l xml:id="T53.9.6.2">rasaḥ<pb n="42r"/></l>
+
+        <l xml:id="T53.10">dolāyaṃvarasasvedārthe 8</l>
+
+        <l xml:id="T53.10.1">udaka pā bhūtaṃ</l>
+
+        <l xml:id="T53.10.2">agni</l>
+
+        <l xml:id="T53.11">urdhvapātanayaṃtraṃ</l>
+
+        <l xml:id="T53.11.1">udakaṃ ca dīyate</l>
+
+        <l xml:id="T53.11.2">urdhapātanaha</l>
+
+        <l xml:id="T53.11.3">kācakupī</l>
+
+        <l xml:id="T53.11.4">agnijvāla</l>
+
+        <l xml:id="T53.12">adhaḥ pātanarasayaṃtrabhidhānaḥ agnipuṭa
+          dī<unclear>yate</unclear>pramāṇāṃ rasaṃ sthāgula 12 ra dhanabhidho 10</l>
+
+        <l xml:id="T53.12.1">rasaṃ sthāpya piṭhikā</l>
+
+        <l xml:id="T53.12.2">adhaḥ pātanarasa</l>
+
+        <l xml:id="T53.13">urdhvapātanayaṃtraṃ</l>
+
+        <l xml:id="T53.13.1">kācakupā</l>
+
+        <l xml:id="T53.13.2">rasa</l>
+
+        <l xml:id="T53.13.3">adho agni dīyate</l>
+
+        <l xml:id="T53.14">mṛnmayā bhājanān vīstīrṇa vālukāyā parīpūrṇa sā<unclear>rdha</unclear>
+          pūjya na vālukā samohaḥ tā</l>
+
+        <l xml:id="T53.15">cokīyaṃtramidam</l>
+
+        <l xml:id="T53.15.1">garbhāyā madhya ekamukhī mukhamadhye rasamukhamadhye tāṃmrapatre
+          chedakaḥ vṛtta tāsāṃ paryaṭakāsā dīyate garttāyā ca kramaṇapuṭa cokīyaṃtraḥ</l>
+
+        <l xml:id="T53.15.2">udaka</l>
+
+        <l xml:id="T53.16">pātīlayaṃtra idam</l>
+
+        <l xml:id="T53.16.1">agnipuṭaṃ</l>
+
+        <l xml:id="T53.16.2">rasachidrāṇī</l>
+
+        <l xml:id="T53.16.3">mṛtyātrasaḥ garttā bhūmau</l>
+
+        <l xml:id="T53.17">niryāmikayaṃtra idam</l>
+
+        <l xml:id="T53.17.1">upara agni rasasāra</l>
+
+        <l xml:id="T53.17.2">sarāvasaṃ puṭalavaṇena mṛta saṃpannaḥ</l>
+
+        <l xml:id="T53.17.3">atra udakam<pb n="42v"/></l>
+
+        <l xml:id="T53.18">ḍamaruyaṃtra idaṃ</l>
+
+        <l xml:id="T53.18.1">udaka<unclear>bhāraḥ 28.7</unclear></l>
+
+        <l xml:id="T53.18.2">rasa rasa</l>
+
+        <l xml:id="T53.18.3">udakasae</l>
+
+        <l xml:id="T53.19">agniplomāya yaṃtrapuṭaṃ dīyate</l>
+
+        <l xml:id="T53.19.1">agni</l>
+
+        <l xml:id="T53.19.2">rasa</l>
+
+        <l xml:id="T53.19.3">udakaṃ</l>
+
+        <l xml:id="T53.20">dāhikāyaṃtra idam</l>
+
+        <l xml:id="T53.20.1">garbhāyā rasaḥ</l>
+
+        <l xml:id="T53.20.2">mūṣārasaḥ</l>
+
+        <l xml:id="T53.20.3">garbhāmadhye aparaḥ yaṃtraṃ garbhāyā mūṣā tatra rasavāla
+          garbhāpuṭagaṃdhakaṃ dīyate rasa nipyati agniḥ</l>
+
+        <l xml:id="T53.21">kāsabhājanayaṃtra</l>
+
+        <l xml:id="T53.21.1">kāsabhājanamadhye nalikā</l>
+
+        <l xml:id="T53.21.2"><unclear>rasagamagnivāpa</unclear></l>
+
+        <l xml:id="T53.22">sarāsapuṭayaṃtra</l>
+
+        <l xml:id="T53.22.1">sarāvasaṃpuṭa</l>
+
+        <l xml:id="T53.22.2">atrapābhūta rasalābha</l>
+
+        <l xml:id="T53.22.3">agnisthānaka</l>
+
+        <l xml:id="T53.23">jālikāyaṃtra</l>
+
+        <l xml:id="T53.23.1">agnipuṭa</l>
+
+        <l xml:id="T53.23.2">rasasthānaka</l>
+
+        <l xml:id="T53.23.3">udakarasa</l>
+
+        <l xml:id="T53.24">haḍikāyaṃtra</l>
+
+        <l xml:id="T53.24.1">sarāvasaṃpuṭa</l>
+
+        <l xml:id="T53.24.2">paṃcāmṛtirasa</l>
+
+        <l xml:id="T53.24.3">agnisthānaka</l>
+
+        <l xml:id="T53.25">iṣṭikāyaṃtra agnirasaūṣadha</l>
+
+        <l xml:id="T53.26">iti yaṃtrabhedāma<lb n="2"/>vya eva sarvāpaska<lb n="3"/>rādaya
+            karmanaye<lb n="4"/> vetti tasya siddhi<lb n="5"/>r na <unclear>syāt</unclear> tathā
+            ce<lb n="6"/>ktaṃ virttisāhāyānoriklava<lb n="7"/> sā svahastakri<lb n="8"/>yās karmaṇi
+            ke<lb n="9"/>salaṃ ca ghanagaḍa<lb n="10"/>vyaratā ca iti</l>
+
+        <l xml:id="T53.27"><pb n="43r"/><!-- It is continue from T53-->yāsanābhogī vāruṇī vajravallī
+          tridhārāstrivallī asthiśṛṃkhalā ity arthaḥ</l>
+
+        <l xml:id="T54">mahodadhi agasti<lb n="2"/>ḥ kīlāla āpaḥ gaṃdhaṃ gaṃdhakaḥ ghaṭodbhavaḥ
+          agsti kadalī uttaraṇī karīraṃ kīra kṣīraṃkaṃ ca</l>
+
+        <l xml:id="T55">bhū<lb n="3"/>vallī bhūlatā mātṛvāhaka</l>
+
+        <l xml:id="T56">dvimukhī matvaṃḍī sarppaviśeṣaḥ</l>
+
+        <l xml:id="T57">dinārikā girikīṇī kaṃ<lb n="4"/>cūkā kṣīrakaṃcukī vārāṃ niculaḥ sīra ena
+          madhunā trisaṃghāte</l>
+
+        <l xml:id="T58">nalikācakre murachāṃyaṃ<lb n="5"/>tre bhūdhareti jālikāyaṃtre</l>
+
+        <l xml:id="T59">prasave puṣpe</l>
+
+        <l xml:id="T60">vajrakaṃdaṃ kṣīrakaṃdaṃ</l>
+
+        <l xml:id="T61">abhrakādisatvapātanaprakara<lb n="6"/>ṇaṃ</l>
+
+
+        <!-- new section -->
+
+        <l xml:id="T62">atha lohamāraṇaṃ rasīnabaṃti rasasṛśini bhavaṃti</l>
+
+        <l xml:id="T63">lohamāraṇādhikāra samāpta<lb n="7"/>ḥ</l>
+
+
+        <!-- new section -->
+
+        <l xml:id="T64">atha rasabaṃdhādhikāra ucyate</l>
+
+        <l xml:id="T65">navasāraṃ sūlikālavaṇaṃ ghanaṃ karpūra</l>
+
+        <l xml:id="T66">kṣāriṇī mokakṣaka<lb n="8"/> niculaḥ</l>
+
+        <l xml:id="T67">apāmā<unclear>rgrā</unclear>kṣārāṇi</l>
+
+        <l xml:id="T68">paṭatrayaṃ</l>
+
+        <l xml:id="T69">ṭaṃkaṇaṃ yavakṣāraḥ svarjikā ity arthaḥ</l>
+
+        <l xml:id="T70">suragaṃdhaṃkaṃ ity ā<lb n="9"/>sureṃdrapita</l>
+
+        <l xml:id="T71">gaṃdhakarasaṃ samānena kajūlūkā kṛtvā gaḍūkaṃ yatreṇa baṃdhayitvā mākṣika<lb
+            n="10"/>dhautasa<unclear>ccā</unclear>didayaḥ samāśenāpārāṇi marddayed ity arthaḥ</l>
+
+        <l xml:id="T72">godattaṃ tālakaṃ tac ca sūtakaṃ sa<lb n="11"/>maṃ pacamāhiṣeṇa saha vaṭikāṃ
+          badhvā sasokhya jālikāyaṃtreṇa rasa baṃdhayitvā tato a<lb n="12"/>parāṃṇipi ichāguṭikā
+          kārayed ity arthaḥ</l>
+
+        <l xml:id="T73">golakṛtam iti ko arthaḥ</l>
+
+        <l xml:id="T74">sulvasutakapiṣṭi<pb n="43v"/>kā kṛtvā mūkhāyaṃtre rasatārakeṇa vedhayitvā
+          jojayet</l>
+
+        <!-- continue -->
+
+        <l xml:id="T276">śrīr astu kalyāṇam astu śrī </l>
+
+
+
+
 
       </div>
     </body>
