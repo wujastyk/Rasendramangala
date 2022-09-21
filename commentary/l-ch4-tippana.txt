@@ -196,7 +196,7 @@
 
         <l xml:id="T12">ādumaś caṃdrasenaś ca laṃkeśaś ca<lb/> viśāradaḥ |
           <caesura/>
-          kapālāmataḥ māṃḍavyo bhāskaraḥ surasenakaḥ |<lb/>
+          kapālā mataḥmāṃḍavyo bhāskaraḥ surasenakaḥ |<lb/>
           <caesura/>
           ratnaghoṣaś ca śaṃbhuś ca tathaikā ratnavāhanā |<lb/>
           <caesura/>
@@ -1034,8 +1034,8 @@
           <caesura/>
           taṃḍulīpakamūlasya rasenāpi tataḥ punaḥ || </l>
 
-        <trailer xml:id="T273">iti śrīman<persName>nāgārjuno</persName> viracitāyāṃ
-          rasendramaṃgala samāptam | śrīrastuḥ || kalyāṇamastuḥ | </trailer>
+        <l xml:id="T273">iti śrīman<persName>nāgārjuno</persName> viracitāyāṃ
+          rasendramaṃgala samāptam | śrīr astuḥ || kalyāṇam astuḥ | </l>
 
 
       </div>

@@ -136,17 +136,21 @@
 
         <l xml:id="T-0">oṃ namaḥ śivāya</l>
 
-        <l xml:id="T1">pītāṃbaro rthavalijinnāgakṣayaḥ vahalarāgīgaruḍavaraḥ <caesura/> sa jayati
-          hari vaharajo vidalita bhavadainyaduḥkhaharaḥ 1</l>
+        <l xml:id="T1">pītāṃbaro rthavalijinnāgakṣayaḥ vahalarāgīgaruḍavaraḥ
+          <caesura/>
+           sa jayati hari vaharajo vidalita bhavadainyaduḥkhaharaḥ 1</l>
 
-        <l xml:id="T2">saptaviṃ<lb n="5"/>śati siddhānā matam ālokya yatnataḥ 2 <caesura/>
-          nānāśāstranighaṃṭādi jñātvādau vai<lb n="6"/>dyakatrayaṃ</l>
+        <l xml:id="T2">saptaviṃ<lb n="5"/>śati siddhānā matam ālokya yatnataḥ 2
+          <caesura/>
+           nānāśāstranighaṃṭādi jñātvādau vai<lb n="6"/>dyakatrayaṃ</l>
 
         <l xml:id="T3" met="hypermetrical">deśe 2 bhidhānāṃ <unclear>ū</unclear>ṣadhīnāṃ pṛthak 2
-          <caesura/> tathā datvā ca dhātūnā pāraṃ<lb n="7"/>paryo sa deśataḥ 3</l>
+          <caesura/>
+           tathā datvā ca dhātūnā pāraṃ<lb n="7"/>paryo sa deśataḥ 3</l>
 
-        <l xml:id="T4" met="hypermetrical">sā śaṃsayasya gūḍhārthaṃ spaṣṭīkaraṇahetave <caesura/>
-            raseṃdramaṃgalasyedaṃ<lb n="8"/> ṭippa<unclear>ṇaṃ va</unclear> racayāmyahaṃ 4</l>
+        <l xml:id="T4" met="hypermetrical">sā śaṃsayasya gūḍhārthaṃ spaṣṭīkaraṇahetave
+          <caesura/>
+           raseṃdramaṃgalasyedaṃ<lb n="8"/> ṭippa<unclear>ṇaṃ va</unclear> racayāmyahaṃ 4</l>
 
         <l xml:id="T4a"/>
         <l xml:id="T4b"/>
@@ -154,7 +158,9 @@
         <l xml:id="T4d"/>
 
 
-        <l xml:id="T5">harā jñātau harajaḥ pāradaḥ <caesura/> so jayatu</l>
+        <l xml:id="T5">harā jñātau harajaḥ pāradaḥ
+          <caesura/>
+           so jayatu</l>
 
         <l xml:id="T5a">ka iva harariva<lb n="9"/> yathā hara</l>
 
@@ -191,12 +197,21 @@
 
         <l xml:id="T11">atha saptiviṃ<lb n="5"/>śati siddhanāmānyāha</l>
 
-        <l xml:id="T12">aḍumaścaṃdrasenaś ca laṃkeśaś ca viśāradaḥ <caesura/> kapālāmata<lb n="6"
-          />māṃḍavyo bhāskaraḥ sūrasenakaḥ <caesura/> ratnaghoṣaś ca śaṃbhuś ca tathaikā ramabāhanā
-          <caesura/> iṃdrā<lb n="7"/>dau gomuṣaś caiva kaṃbali vyāḍireva ca <caesura/>
-          nāgārjunasurāviṃdo nāgavādhiryaśo<lb n="8"/>dharaḥ <caesura/> ṣaṃḍakapāliko brahmā
-          goviṃdoḥ laṃpako hariḥ <caesura/> saptaviṃśati bhūpeṃdrāḥ ra<lb n="9"/>rasiddhā
-          prakīrttitā <caesura/> eteṣā matam ālokya yatnena paramādade</l>
+        <l xml:id="T12">aḍumaś caṃdrasenaś ca laṃkeśaś ca viśāradaḥ
+          <caesura/>
+           kapālā mata<lb n="6"/>māṃḍavyo bhāskaraḥ sūrasenakaḥ
+          <caesura/>
+           ratnaghoṣaś ca śaṃbhuś ca tathaikā ramabāhanā
+          <caesura/>
+           iṃdrā<lb n="7"/>dau gomuṣaś caiva kaṃbali vyāḍireva ca
+          <caesura/>
+           nāgārjunasurāviṃdo nāgavādhiryaśo<lb n="8"/>dharaḥ
+          <caesura/>
+           ṣaṃḍakapāliko brahmā goviṃdoḥ laṃpako hariḥ
+          <caesura/>
+           saptaviṃśati bhūpeṃdrāḥ ra<lb n="9"/>rasiddhā prakīrttitā
+          <caesura/>
+           eteṣā matam ālokya yatnena param ādade </l>
 
         <p xml:id="T13">deśe 2 nāṃ dhātū<lb n="10"/>nāṃ ca pṛthak kṛtvā dṛṣṭvā pāraṃparyeṇa
           raseṃdramaṃgalaṃ graṃthasya vyākhyānaṃ karomi<lb n="11"/></p>
@@ -205,19 +220,27 @@
 
         <!-- Maṅgalaśloka from the mūla text -->
 
-        <l xml:id="T14">natvā raseṃdraṃ śivasaukhyakārakaṃ <caesura/> apārasaṃsārasamudratārakaṃ
-          <caesura/> sarvārthasiddhipra<lb n="12"/>damukhyamaṃgalaṃ <caesura/> graṃthaṃ pravakṣyāmi
-          raseṃdramaṃgalaṃ 1</l>
+        <l xml:id="T14">natvā raseṃdraṃ śivasaukhyakārakaṃ
+          <caesura/>
+           apārasaṃsārasamudratārakaṃ
+          <caesura/>
+           sarvārthasiddhipra<lb n="12"/>damukhyamaṃgalaṃ
+          <caesura/>
+           graṃthaṃ pravakṣyāmi raseṃdramaṃgalaṃ 1</l>
 
         <l xml:id="T15">rasāś caite mahāsūtas trinetra<pb n="40r"/><unclear>stu</unclear> trilocanaṃ
-          <caesura/> harabījaś caiva bījeṃdrotha rasāyanaḥ</l>
+          <caesura/>
+           harabījaś caiva bījeṃdrotha rasāyanaḥ</l>
 
-        <l xml:id="T16">pāradasya suvarṇākhyo<lb n="2"/> mahāvahnis tathaiva ca <caesura/> lokeśaḥ
-          khecaro dīvyaḥ saubhāgya paramo manaḥ</l>
+        <l xml:id="T16">pāradasya suvarṇākhyo<lb n="2"/> mahāvahnis tathaiva ca
+          <caesura/>
+           lokeśaḥ khecaro dīvyaḥ saubhāgya paramo manaḥ</l>
 
         <l xml:id="T17" met="hypermetrical">śiśihe<lb n="3"/>manidhiś caiva anaṃto jñānam eva ca
-          <caesura/> sūkṣmaśāṃtaprabhuś caiva kāṃtakaraḥ paraḥ <caesura/> etā<lb n="4"/>rasanāmāni
-          jñātavyāni prayatnataḥ</l>
+          <caesura/>
+           sūkṣmaśāṃtaprabhuś caiva kāṃtakaraḥ paraḥ
+          <caesura/>
+           etā<lb n="4"/>rasanāmāni jñātavyāni prayatnataḥ</l>
 
         <l xml:id="T20">etāni parisiddhā nirākṛtāni ra<lb n="5"/></l>
 
@@ -1027,58 +1050,78 @@
 
         <l xml:id="T257"><!-- missing lines due to missing folios --> venikvāpeyet kṣasaṃ </l>
 
-        <l xml:id="T258">evaṃ vilāne tāpyasya kadāsogni <unclear>ddhī</unclear>mīpuṣpa <caesura/>
-            ṣoḍaśāṃśagayaścūrṇe<lb n="2"/> ślekṣe ślekṣṇaṃ tu dāpayet </l>
+        <l xml:id="T258">evaṃ vilāne tāpyasya kadāsogni <unclear>ddhī</unclear>mīpuṣpa
+          <caesura/>
+           ṣoḍaśāṃśagayaścūrṇe<lb n="2"/> ślekṣe ślekṣṇaṃ tu dāpayet </l>
 
         <l xml:id="T259">tad<unclear>dhvā</unclear>ya triphalā kvāthaiḥ yutayugme sarāvayo
-          <caesura/> mṛdvagninā mudritaṃ<lb n="3"/> kṛtvā puṭayed bhūgarttaṃ garttaṃ kuryān
-          nivātasthaṃ sarvataḥ ṣoḍaśāṃ gula </l>
+          <caesura/>
+           mṛdvagninā mudritaṃ<lb n="3"/> kṛtvā puṭayed bhūgarttaṃ garttaṃ kuryān nivātasthaṃ
+          sarvataḥ ṣoḍaśāṃ gula </l>
 
-        <l xml:id="T260">tatrāraṇyakarīṣeṇa pu<lb n="4"/>ṭayen madhyagāmi tat <caesura/> athāsmin
-          lohapātrasthai tāpyaṃ tat mita higukaḥ <caesura/> traphalābhoga ¦ <lb n="5"/>m
-          agnināsthālya śoṣayed a rvighaḍite </l>
+        <l xml:id="T260">tatrāraṇyakarīṣeṇa pu<lb n="4"/>ṭayen madhyagāmi tat
+          <caesura/>
+           athāsmin lohapātrasthai tāpyaṃ tat mita higukaḥ
+          <caesura/>
+           traphalābhoga ¦ <lb n="5"/>m agnināsthālya śoṣayed a rvighaḍite </l>
 
-        <l xml:id="T261">itmpaṃ nirut ghanahata loha syād amṛto<unclear>ya</unclear>maṃ <caesura/>
-          yaḥ tu<unclear>lya</unclear>ṃ<lb n="6"/> saṃbhāvitātayānaṃ
+        <l xml:id="T261">itmpaṃ nirut ghanahata loha syād amṛto<unclear>ya</unclear>maṃ
+          <caesura/>
+           yaḥ tu<unclear>lya</unclear>ṃ<lb n="6"/> saṃbhāvitātayānaṃ
           tannā<unclear>thā</unclear>dvikriyā bhayāt </l>
 
         <l xml:id="T262">athāṃdhamūṣāṃ madhyasthaṃ lohaṃ madhyasthaṃ lohaṃ<lb n="7"/> madhyajya
-          saṃyutaṃ <caesura/> vāraṃ datvā dhamet suṣṭu punar uthānasavide </l>
+          saṃyutaṃ
+          <caesura/>
+           vāraṃ datvā dhamet suṣṭu punar uthānasavide </l>
 
-        <l xml:id="T263">yadi pūrvonmataṃ tāraṃ tāvad eva bha<lb n="8"/>vet tadā <caesura/> jānīyā
-          taṃ misatthānaṃ sādhaka tad viparyayaḥ </l>
+        <l xml:id="T263">yadi pūrvonmataṃ tāraṃ tāvad eva bha<lb n="8"/>vet tadā
+          <caesura/>
+           jānīyā taṃ misatthānaṃ sādhaka tad viparyayaḥ </l>
 
-        <l xml:id="T264">tataḥ sakṛtye phalena kvāthena puṭayet ta<lb n="9"/>taḥ <caesura/>
-          punarnavāratāthaḥ pradadyād bhasma puṭān </l>
+        <l xml:id="T264">tataḥ sakṛtye phalena kvāthena puṭayet ta<lb n="9"/>taḥ
+          <caesura/>
+           punarnavāratāthaḥ pradadyād bhasma puṭān </l>
 
         <l xml:id="T265">va<unclear>ddha</unclear>ba<unclear>ddha</unclear>koṣṭasya dadyā nutān tavi
-          sabhū ¦ <lb n="10"/>yasaḥ <caesura/> daśamūlākvāthapuṭaiḥ stridoṣeṣu pradāpayet </l>
+          sabhū ¦ <lb n="10"/>yasaḥ
+          <caesura/>
+           daśamūlākvāthapuṭaiḥ stridoṣeṣu pradāpayet </l>
 
-        <l xml:id="T266">tālamūlīrasapuṭān dattvā darśo ni<lb n="11"/>varttaye <caesura/> maṃdāgnir
-          agnidāsyarthaṃ uccair maṃdarur api </l>
+        <l xml:id="T266">tālamūlīrasapuṭān dattvā darśo ni<lb n="11"/>varttaye
+          <caesura/>
+           maṃdāgnir agnidāsyarthaṃ uccair maṃdarur api </l>
 
-        <l xml:id="T267">jaṃvīraṃ mātuliṃgābhyāṃ puṭau dadyādvicakṣa<lb n="12"/>ṇaḥ <caesura/> anyai
-          suvṛhatī kṛṣṇā vidārīkāla maṃjulo </l>
+        <l xml:id="T267">jaṃvīraṃ mātuliṃgābhyāṃ puṭau dadyādvicakṣa<lb n="12"/>ṇaḥ
+          <caesura/>
+           anyai suvṛhatī kṛṣṇā vidārīkāla maṃjulo </l>
 
         <l xml:id="T268">varhigrīvo vrahmavṛkṣo morāvā<unclear extent="1" unit="syllable"/>gūka<pb
-            n="51v"/>śigubhiḥ <caesura/> kṣīrādyāvā prayacchati puṭī āgni yathāyathaṃ </l>
+            n="51v"/>śigubhiḥ
+          <caesura/>
+           kṣīrādyāvā prayacchati puṭī āgni yathāyathaṃ </l>
 
-        <l xml:id="T269">utkaiḥ puṭoṣadheḥ ratneranna ta kadalī<lb n="2"/> kṛta <caesura/>
-          niṣaivaitkāṃjike kṛṣṇam abhraka vāhnisaṃnibhaṃ </l>
+        <l xml:id="T269">utkaiḥ puṭoṣadheḥ ratneranna ta kadalī<lb n="2"/> kṛta
+          <caesura/>
+           niṣaivaitkāṃjike kṛṣṇam abhraka vāhnisaṃnibhaṃ </l>
 
         <l xml:id="T270">tatosya kājikaṃ<unclear>ḥ</unclear>sthasya cirama ¦ <lb n="3"/>dhya
-          vidhāraṇaṃ <caesura/> peṣaṇa vividhātavyaṃ paubhaḥ poṇyena paṃdite </l>
+          vidhāraṇaṃ
+          <caesura/>
+           peṣaṇa vividhātavyaṃ paubhaḥ poṇyena paṃdite </l>
 
         <l xml:id="T271">tataḥ punarnavānā<unclear>ṃ</unclear> phalamūlarase<lb n="4"/>
-          <unclear extent="1" unit="char"/>laṃ <caesura/> vahuśo smin prākurvaṃtaṃ dharmadhāraṇa
-          poṣāṇaḥ </l>
+          <unclear extent="1" unit="char"/>laṃ
+          <caesura/>
+           vahuśo smin prākurvaṃtaṃ dharmadhāraṇa poṣāṇaḥ </l>
 
-        <l xml:id="T272">cāṃgerīsvāṃganiryāsair athaiḥnaṃ vidhi<lb n="5"/>nā caret <caesura/>
-          taṃdulīyakamūlasya rasenāpi tataḥ punaḥ </l>
+        <l xml:id="T272">cāṃgerīsvāṃganiryāsair athaiḥnaṃ vidhi<lb n="5"/>nā caret
+          <caesura/>
+           taṃdulīyakamūlasya rasenāpi tataḥ punaḥ </l>
 
 
-        <trailer xml:id="T273">iti śrīman<persName>nāgārjuno</persName>viracitā<lb n="6"/>yāṃ
-          rasedramaṃgalaṃ samāptaḥ || śrīr astu kalyāṇam astu śrī </trailer>
+        <l xml:id="T273">iti śrīman<persName>nāgārjuno</persName> viracitā<lb n="6"/>yāṃ
+          rasedramaṃgalaṃ samāptaḥ || śrīr astu kalyāṇam astu śrī </l>
 
       </div>
     </body>

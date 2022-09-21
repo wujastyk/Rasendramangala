@@ -212,7 +212,7 @@
 
         <l xml:id="T12">āḍu<unclear>maśvaṃ</unclear>drasenaś ca laṃkeśaś va visāradaḥ
           <caesura/>
-           kapālāmata māṃḍavyo bhāskaraḥ surasenakaḥ |
+           kapālā matamāṃḍavyo bhāskaraḥ surasenakaḥ |
           <caesura/>
            ra<unclear>tna</unclear><lb/>ghoṣaś va śaṃbhuś <unclear>va |</unclear>
             ta<unclear>the</unclear>ka ratvavāhanā
@@ -226,7 +226,7 @@
           <caesura/>
            saptaviṃśati bhūpeṃdrāḥ | rasasiddhāḥ prakīrttitāḥ |
           <caesura/>
-           eteṣāṃ matamālokya yatnena paramādade </l>
+           eteṣāṃ matamālokya yatnena param ādade </l>
 
         <p xml:id="T13">deśe<lb/> deśānāṃ dhātunāṃ ca pṛthak kṛtvā dṛṣṭvā pāraṃparyeṇa
           raseṃdramaṃgalagraṃthasya vyākhyānaṃ karomi | </p>
@@ -1123,10 +1123,10 @@
           <caesura/>
            taṃdulīyakamūla<lb/>sya rasenāpi tataḥ punaḥ || </l>
 
-        <trailer xml:id="T273">iti
+        <l xml:id="T273">iti
           śrīman<persName>nāgā<unclear>rju</unclear>na</persName>viracitaṃ
             raseṃdrama<unclear>ṃ</unclear>galaṃ samā<unclear>pta</unclear> || samāptam |
-          śrīr astuḥ || kalyāṇam astuḥ | </trailer>
+          śrīr astuḥ || kalyāṇam astuḥ | </l>
 
 
       </div>

@@ -159,7 +159,7 @@
         <l xml:id="T12">ā<add place="margin"
           >ḍu</add><unclear>ṣe</unclear>maścaṃ<lb/>drasenas tu laṃkocaś ca viśāradaḥ
           <caesura/>
-           kapālī mattamāṃḍavyo bhāskara su<lb/>rasenakaḥ
+           kapālī matta māṃḍavyo bhāskara su<lb/>rasenakaḥ
           <caesura/>
            ratnaghoṣaś ca śaṃbhuś ca tatbaiko narabāhana
           <caesura/>
@@ -1166,7 +1166,7 @@
 
         <l xml:id="T272"><gap n="1" unit="verse"/></l>
 
-        <trailer xml:id="T273"><gap n="1" unit="line"/></trailer>
+        <l xml:id="T273"><gap n="1" unit="line"/></l>
 
 
 

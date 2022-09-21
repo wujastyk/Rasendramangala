@@ -181,7 +181,7 @@
 
         <l xml:id="T12">āmumaś caṃdra<lb/>senaś ca laṃkeśaś ca visāradaḥ
           <caesura/>
-           kapālāmatamāṃḍavyo bhāskaraḥ surasenakaḥ 1<lb/>
+           kapālā matamāṃḍavyo bhāskaraḥ surasenakaḥ 1<lb/>
           <caesura/>
            ratnaghoṣa<del>sya</del>ś ca śaṃbhuś ca tathaikā ratnavāhanā
           <caesura/>
@@ -193,7 +193,7 @@
           <caesura/>
            saptaviṃśati bhūpeṃdrā | rasasiddhā prakīrttitāḥ
           <caesura/>
-           eteṣāṃ matam ālokya yatnena pa<lb/>ramādade 4</l>
+           eteṣāṃ matam ālokya yatnena pa<lb/>ram ādade 4</l>
 
         <p xml:id="T13">deśe 2 nāṃ dhātunāṃ ca pṛthak kṛtvā <del extent="2" unit="char"/>dṛṣṭvā
           pāraṃparyeṇa raseṃdramaṃgalagraṃthasya vākhyānaṃ karomi 5</p>
@@ -964,9 +964,9 @@
           <caesura/>
            kṣīrādyāvā prayachaṃti puṭīyāgni yathāyathaṃ</l>
 
-        <l xml:id="T269">u<lb/>ktaiḥ puṭoṣadheranyeranyaṃ ta kadalīkṛtaṃ 5
+        <l xml:id="T269">u<lb/>ktaiḥ puṭoṣadher anyer anyaṃ ta kadalīkṛtaṃ 5
           <caesura/>
-           niṣivaiṃtkāṃjike kṛṣṇamabhraṃkaṃ vahnisaṃnibhaṃ</l>
+           niṣivaiṃtkāṃjike kṛṣṇam abhraṃkaṃ vahnisaṃnibhaṃ</l>
 
         <l xml:id="T270">tatosya kāṃjikasthasya <unclear>vi</unclear>ramadhya vidhāraṇaṃ 6
           <caesura/>
