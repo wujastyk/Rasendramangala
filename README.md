@@ -9,11 +9,11 @@ The XML files here are all covered by a Creative Commons  CC-BY-SA-4 license.
 This is a project directed by Prof. Dominik Wujastyk at the University of Alberta.  Contact: <wujastyk@ualberta.ca>.
 
 Reference documents for this project are:
-* Wujastyk, Dominik. 1984. “An Alchemical Ghost: The Rasaratnākara by Nāgārjuna.” *Ambix* 31: 70–83. [DOI 10.1179/amb.1984.31.2.70](https://doi.org/10.1179/amb.1984.31.2.70).
+* Wujastyk, Dominik. 1984. “An Alchemical Ghost: The Rasaratnākara by Nāgārjuna.” *Ambix* 31: 70–83. [DOI](https://doi.org/10.1179/amb.1984.31.2.70).
 
-* Meulenbeld, Gerrit Jan. *A History of Indian Medical Literature.* Groningen: E. Forsten, 1999-2002. 5 vols.  Vol. IIA, pp. 714--718.
+* Meulenbeld, Gerrit Jan. *A History of Indian Medical Literature.* Groningen: E. Forsten, 1999-2002. 5 vols.  Vol. IIA, pp. 714--718. [ARK](http://n2t.net/ark:/13960/t4qk6558q).
  
-* ---. pre-publication draft. ["The Surviving MSS of the Rasendramaṅgala of Nāgārjuna Siddha"](http://doi.org/10.5281/zenodo.6486033).
+* ---. pre-publication draft. "The Surviving MSS of the Rasendramaṅgala of Nāgārjuna Siddha." [DOI](http://doi.org/10.5281/zenodo.6486033).
 
 ## Saktumiva
 
