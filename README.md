@@ -17,7 +17,7 @@ Reference documents for this project are:
 
 ## Saktumiva
 
-These transcriptions are being collated and processed through Charles Li's [Saktumiva](http://saktumiva.org/start) platform for producing and publishing critical editions of Sanskrit texts.  See also [the Rasendramaṅgala start page](https://saktumiva.org/wiki/wujastyk/rasendramangala/start) at that site.
+These transcriptions are being collated and processed through Charles Li's [Saktumiva](http://saktumiva.org/start) platform for producing and publishing critical editions of Sanskrit texts.
 
 There, you can read the various transcriptions individually, or collate and compare them in the manner of a critical edition.  The most evolved part of the project is the edition of the [Kakṣapuṭa section](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter4-srisaila/provisional_edition?upama_ver=gfvzyn7fgz) of the fourth adhyāya. 
 
