@@ -6,14 +6,32 @@ Transcriptions of manuscripts of the _Rasendramaṅgala_ by Nāgārjuna, an earl
 
 The XML files here are all covered by a Creative Commons  CC-BY-SA-4 license.
 
-This is a project directed by Dominik Wujastyk at the University of Alberta.  Please contact Prof. Wujastyk for further information <wujastyk@ualberta.ca>.
+This is a project directed by Prof. Dominik Wujastyk at the University of Alberta.  Contact: <wujastyk@ualberta.ca>.
 
-The project managment website for this project is at [wujastyk.net](https://wujastyk.net/qdpm/index.php/tasks?projects_id=7) (password required).
+Reference documents for this project are:
+* Wujastyk, Dominik. 1984. “An Alchemical Ghost: The Rasaratnākara by Nāgārjuna.” *Ambix* 31: 70–83. [DOI 10.1179/amb.1984.31.2.70](https://doi.org/10.1179/amb.1984.31.2.70).
 
-A reference document is the prepublication draft article by Dominik Wujastyk, "[The Surviving MSS of the Rasendramaṅgala of Nāgārjuna Siddha](http://doi.org/10.5281/zenodo.6486033).
+* Meulenbeld, Gerrit Jan. *A History of Indian Medical Literature.* Groningen: E. Forsten, 1999-2002. 5 vols.  Vol. IIA, pp. 714--718.
+ 
+* ---. pre-publication draft. ["The Surviving MSS of the Rasendramaṅgala of Nāgārjuna Siddha"](http://doi.org/10.5281/zenodo.6486033).
+
+## Saktumiva
 
 These transcriptions are being collated and processed through Charles Li's [Saktumiva](http://saktumiva.org/start) platform for producing and publishing critical editions of Sanskrit texts.  See also [the Rasendramaṅgala start page](https://saktumiva.org/wiki/wujastyk/rasendramangala/start) at that site.
 
+There, you can read the various transcriptions individually, or collate and compare them in the manner of a critical edition.  The most evolved part of the project is the edition of the [Kakṣapuṭa section](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter4-srisaila/provisional_edition?upama_ver=gfvzyn7fgz) of the fourth adhyāya. 
+
+For other parts of the work, at different stages of editing, see:
+
+*  [chapter 1](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter1/provisional_edition_ch1) (starting with provisional edition);
+* [chapter 2 (starting with MS L)](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter2/l_london-ch2);
+* [chapter 3](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter3/a1-ch3) (starting with MS A1)
+* [chapter 4](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter4/a1-ch4) (starting with MS A1)
+* [chapter 4 - Kakṣapuṭa](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter4-srisaila/provisional_edition?upama_ver=gfvzyn7fgz);
+* [commentary](https://saktumiva.org/wiki/wujastyk/rasendramangala/commentary/a1-ch4-tippana) (ṭippaṇa, starting with MS A1)
+
+## Ackowledgements
+
 Research assistants who have worked on this project include Madhusudana Rimal, Deepro Chakraborty, and Jane Allred, Vandana Lele and Harshal Bhatt.  
 
-Financial support for this project has been provided from the Singhmar Chair endowment support at the University of Alberta.
+Financial support for this project has been provided from the Singhmar Chair endowment grant and the Kule Institute for Advanced Study, both at the University of Alberta.
