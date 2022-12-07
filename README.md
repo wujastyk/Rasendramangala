@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/137264352.svg)](https://zenodo.org/badge/latestdoi/137264352)
 
-Transcriptions of manuscripts of the _Rasendramaṅgala_ by Nāgārjuna, an early Indian alchemical text in Sanskrit.
+Manuscripts of the _Rasendramaṅgala_ by Nāgārjuna Siddha, an early Indian alchemical text in Sanskrit. Transcriptions, collations and editions.
 
 The XML files here are all covered by a Creative Commons  CC-BY-SA-4 license.
 
