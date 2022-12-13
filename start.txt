@@ -1,22 +1,17 @@
 <html>
-<head>
-<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>start</title>
-</head>
-<body><h1 id='rasendramaṅgala-project-at-saktumiva'>Rasendramaṅgala Project at Saktumiva</h1>
-<p>This is the collation engine for the manuscript and edition transcriptions created as part of the <em>Rasendramaṅgala</em> project. </p>
-<p>Here, you can read the various transcriptions individually, or collate and compare them in the manner of a critical edition.  The most evolved part of the project is the edition of the <a href='https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter4-srisaila/provisional_edition?upama_ver=gfvzyn7fgz'>Kakṣapuṭa section</a> of the fourth adhyāya. </p>
-<p>For other parts of the work, at different stages of editing, see:</p>
-<ul>
-<li><a href='https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter1/provisional_edition_ch1'>chapter 1</a> (starting with provisional edition);</li>
-<li><a href='https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter2/l_london-ch2'>chapter 2 (starting with MS L)</a>;</li>
-<li><a href='https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter3/a1-ch3'>chapter 3</a> (starting with MS A1)</li>
-<li><a href='https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter4/a1-ch4'>chapter 4</a> (starting with MS A1)</li>
-<li><a href='https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter4-srisaila/provisional_edition?upama_ver=gfvzyn7fgz'>chapter 4 - Kakṣapuṭa</a>;</li>
-<li><a href='https://saktumiva.org/wiki/wujastyk/rasendramangala/commentary/a1-ch4-tippana'>commentary</a> (ṭippaṇa, starting with MS A1)</li>
 
-</ul>
-<p>The TEI XML transcriptions of manuscripts and editions are stored at a <a href='https://github.com/wujastyk/Rasendramangala'>Github project repository</a>,  where you can also read a <a href='https://wujastyk.github.io/Rasendramangala/'>project summary</a>. </p>
-<p>&nbsp;</p>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width initial-scale=1'>
+    <title>start</title>
+</head>
+
+<body>
+    <h1 id='rasendramaṅgala-project-at-saktumiva'>Rasendramaṅgala Project at Saktumiva</h1>
+    <p>This is the collation engine for the manuscript and edition transcriptions created as part of the
+        <em>Rasendramaṅgala</em> project. </p>
+    For further information, see <a href='https://wujastyk.github.io/Rasendramangala/'>the project summary and table of
+        contents at Github</a>. </p>
 </body>
+
 </html>
