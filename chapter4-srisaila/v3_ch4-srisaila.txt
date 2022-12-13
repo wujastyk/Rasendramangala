@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+      <titleStmt>
+        <title>Bikaner RORI 1455 [V3]: ch4-Srisaila</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Rasendramangala project at Saktumiva.org</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <placeName>
+              <settlement>Jammu</settlement>
+              <region>Jammu and Kashmir</region>
+              <country>India</country>
+            </placeName>
+            <institution>Rajasthan Oriental Research Institute</institution>
+            <repository>Motichand Khajanchi Collection, Bikaner</repository>
+            <idno>1455</idno>
+            <idno type="NCC">[NCC identifier]</idno>
+            <idno type="siglum">V3</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem defective="true" n="1">
+              <!-- @defective: 'false' for complete, 'true' for incomplete -->
+              <author role="author" xml:lang="sa">Nāgārjuna Siddha and Nityanātha Siddha</author>
+              <author role="commentator" xml:lang="sa">[commentator]</author>
+              <title xml:lang="sa">Rasendramaṅgala and Rasaratnākara</title>
+              <title type="commentary" xml:lang="sa">[title of commentary]</title>
+              <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+              <rubric xml:lang="sa"><milestone n="1v1" unit="folio"/>|| ||śrīkṛṣṇāya namaḥ || </rubric>
+              <incipit xml:lang="sa"><milestone n="1v1" unit="folio"/>natvā raseṃdraṃ
+                śivasaukhyakārakaṃ apārasaṃsārasamūdratārakaṃ</incipit>
+              <explicit xml:lang="sa"><milestone n="24v" unit="folio"/>iti
+                śrīraseṃdramaṃgaladipanakaṃ samāptaṃ|| likhitam idaṃ pustikaṃ travāḍī prāṇajīvaṇena
+                parārthaṃ|| miti saṃvat 1833 varṣe poṣavadi 12 somavāsare ||||śrīr astuḥ
+                ||</explicit>
+
+              <textLang mainLang="sa">[Sanskrit in Devanāgarī script.]</textLang>
+              <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="pothi">
+              <!-- @form can be "pothi", "book", scroll", etc. -->
+              <supportDesc material="paper">
+                <!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. -->
+                <extent>
+                  <measure quantity="43" unit="folios"/>
+                  <!-- @unit can be "folios" or "pages" -->
+                  <dimensions type="leaf" unit="cm">
+                    <!-- @unit can be "cm" or "in" -->
+                    <height>[height]</height>
+                    <width>[width]</width>
+                  </dimensions>
+                  <dimensions type="written" unit="cm">
+                    <!-- dimensions of writing area -->
+                    <height>[height]</height>
+                    <width>[width]</width>
+                  </dimensions>
+                </extent>
+                <!-- the following <foliation> tags are examples -->
+                <foliation ana="original" n="1">Scribal foliation 1-55.</foliation>
+                <foliation ana="modern" n="2">Scribes numerals written in ink, both margins of verso
+                  folios.</foliation>
+                <condition>[whether the manuscript is complete, description of wear and
+                  damage]</condition>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1" ruledLines="999" writtenLines="999">
+                  <!-- @writtenLines is the number of lines of text per page. @ruledLines is the number of rulings that have been printed or impressed on a page, i.e. the number of lines in a blank notebook. -->
+                  <p>[description of marginal frame lines, etc.]</p>
+                </layout>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote medium="black ink" scope="sole" script="devanāgarī">
+                <p>Copied by the scribe Prāṇajīvana Travāḍī.</p>
+              </handNote>
+              <handNote medium="red ink" scope="major" script="devanāgarī">
+                <p>[description of another hand]</p>
+              </handNote>
+              <handNote medium="green highlighter" scope="minor" script="english">
+                <p>[description of another hand]</p>
+              </handNote>
+            </handDesc>
+            <scriptDesc>
+              <scriptNote xml:id="script-ba-va"><foreign xml:lang="sa">ba</foreign> and <foreign
+                  xml:lang="sa">va</foreign> not distinguished.</scriptNote>
+            </scriptDesc>
+            <additions>
+              <!-- the following additions are examples -->
+              <p>Marginal illustration of alchemical apparatus on leaf 44v, 45r, 45v, 46r.</p>
+            </additions>
+            <bindingDesc>
+              <p>[description of cover, binding, and/or stringholes]</p>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate calendar="Vikrama" when="1737">Vikrama Saṃvat 1833 (Monday 20 January,
+                1777).</origDate>
+              <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
+              <origPlace xml:lang="en">[place of production]</origPlace>
+            </origin>
+            <provenance>[record of ownership]</provenance>
+            <acquisition>[how it was acquired]</acquisition>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2022-12-13" who="Dominik Wujastyk">Started this file.</change>
+
+
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sa-Latn">
+    <body>
+
+      <div n="4" type="adhyaya">
+        <milestone n="33r" unit="page"/>
+
+
+
+        <l xml:id="srisaila01"> śrīśailaparvvatastho 'sau siddho nāgārjjuno mahān||
+          <caesura/>
+           sarvasatvopakārī ca sarvabhāgaṃ guṇānvitaḥ ||54||</l>
+
+<!--     more to come -->
+        
+        
+        <milestone n="41v" unit="page"/>
+
+        <l xml:id="srisaila163">sūtakena samāyuktaṃ yojayec ca bhiṣagvaraḥ ||14||</l>
+        
+        <l xml:id="srisaila164">iti śrīśrīmannāgārjjunaviracite raseṃdramaṃgale
+          guṭikāsatvahṛtijaluikājāraṇādisabaṃdhanaṃnāma caturtho dhyāyaḥ|| ||4||</l>
+        
+        
+<!--        start of ṭippaṇa -->
+        <l><gap n="3" unit="char"/> varo ’śābalijinnāgakṣayavyahalarāgagaruḍacaraḥ ||</l>
+
+
+
+      </div>
+    </body>
+  </text>
+</TEI>
