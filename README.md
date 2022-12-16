@@ -26,14 +26,14 @@ There, you can read the various transcriptions individually, or collate and comp
 
 For other parts of the work, at different stages of editing, see:
 
-*  [chapter 1](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter1/provisional_edition_ch1) (starting with provisional edition);
+* [chapter 1](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter1/provisional_edition_ch1) (starting with provisional edition);
 * [chapter 2 (starting with MS L)](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter2/l_london-ch2);
 * [chapter 3](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter3/a1-ch3) (starting with MS A1)
 * [chapter 4](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter4/a1-ch4) (starting with MS A1)
 * [chapter 4 - Kakṣapuṭa](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter4-srisaila/provisional_edition?upama_ver=gfvzyn7fgz);
 * [commentary](https://saktumiva.org/wiki/wujastyk/rasendramangala/commentary/a1-ch4-tippana) (ṭippaṇa, starting with MS A1)
 
-## Ackowledgements
+## Acknowledgements
 
 Research assistants who have worked on this project include Madhusudana Rimal, Deepro Chakraborty, Jane Allred, Vandana Lele and Harshal Bhatt.  
 
