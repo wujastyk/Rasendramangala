@@ -571,11 +571,11 @@
         <l xml:id="srisaila98">tasya śparsanamātreṇa sarvalohāni kāṃcanaṃ </l>
 
         <l xml:id="srisaila98x"/>
-        
+
 
         <l xml:id="srisaila99"> punaḥ ratnaṃ pravakṣyāmi vaṃdhaṃ suravarārcito
           <caesura/>
-          sūtakālaṃtagaṃ vaddhaṃ yud uktaṃ parameṣṭinī
+           sūtakālaṃtagaṃ vaddhaṃ yud uktaṃ parameṣṭinī
           <caesura/>
            hīnāṃgye adhikāṃgaṃ ca va<pb n="36r"/>svā sarvān kuṣṭavān</l>
 
@@ -587,8 +587,8 @@
           <caesura/>
            etat gaṃdhaprabhāvena samāvartte yadā bhavet </l>
 
-        <l xml:id="srisaila102">punaḥr atyaṃ bhavet yiṃmaṃ<lb/><space quantity="1" unit="aksara"
-          /> nātra kārya vicāraṇā
+        <l xml:id="srisaila102">punaḥr atyaṃ bhavet yiṃmaṃ<lb/><space quantity="1" unit="aksara"/>
+          nātra kārya vicāraṇā
           <caesura/>
            paṃcāmṛto mahāyogo yukto mathānabhairave </l>
 
@@ -606,7 +606,7 @@
 
         <l xml:id="srisaila106">ṣaḍguṇa paṃcastholyasya tāmrāyāṃ suśobhanaṃ
           <caesura/>
-          varddha-<lb/>puruṣamānaṃ tu puruṣārddha<pc> </pc>garbhamaṃḍale </l>
+           varddha-<lb/>puruṣamānaṃ tu puruṣārddha<pc> </pc>garbhamaṃḍale </l>
 
         <l xml:id="srisaila107">caturmukhaṃ kṛta koṣṭaṃ tasyopari niveśaye<lb/>t
           <caesura/>
@@ -620,20 +620,19 @@
           <caesura/>
            dhamanaṃ tatra kurvīta caturdikṣu śanaiḥ śanai </l>
 
-        <l xml:id="srisaial110">sutaṃ pūrva vi<pb n="36v"/>jānīyāt sṛṣṭibhūmir 
-          ddharmaṃ yathā bhavet
+        <l xml:id="srisaial110">sutaṃ pūrva vi<pb n="36v"/>jānīyāt sṛṣṭibhūmir ddharmaṃ yathā bhavet
           <caesura/>
            caṃdrārko tu graharakṣīrāśayo bhava-<lb/>nāṃni </l>
 
-        <l xml:id="srisaila111">namas tubhyaṃ gurudevaṃ ātmānaṃ tatra niḥkṣipet
+        <l xml:id="srisaila111">namas tubhyaṃ guru devaṃ ātmānaṃ tatra niḥkṣipet
           <caesura/>
            sudagdhaṃ ta vijānīyāt <space quantity="1" unit="aksara"/> sṛṣṭibhūvaṃ niyojayet</l>
 
-        <l xml:id="srisaila112">kalakaṃ ca bhavet sarvaṃ punaścāyaṃ vinikṣipet</l>
-
-        <l xml:id="srisaila113">rakta<lb/>varṇa vijānīyāt tejo tejā niyojayet
+        <l xml:id="srisaila112">kalakaṃ ca bhavet sarvaṃ punaś cāyaṃ vinikṣipet
           <caesura/>
-           māsapiṃḍa bhaved yatra vāyu<lb/>s tatraiva nikṣipet </l>
+           rakta<lb/>varṇa vijānīyāt tejo tejā niyojayet</l>
+
+        <l xml:id="srisaila113"> māsapiṃḍa bhaved yatra vāyu<lb/>s tatraiva nikṣipet </l>
 
         <l xml:id="srisaila114">bhramataṃ hemasaṃkāśaṃ jīvatva tatra dāpayat
           <caesura/>
@@ -646,7 +645,7 @@
         <l xml:id="srisaila116">dṛśyate bhuvanaṃ sarvaṃ saṃsiddhi-<lb/>sarvasiddhidaḥ
           <caesura/>
            sarve siddhiṣu ye siddhā vimāna preṣayaṃti te</l>
-        
+
         <l xml:id="srisaila116.1"/>
         <l xml:id="srisaila116.2"/>
         <l xml:id="srisaila116.3"/>

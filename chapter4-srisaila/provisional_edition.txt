@@ -1220,14 +1220,13 @@
         <label>107</label>
         <l xml:id="srisaila107">caturmukhaṃ kṛtaṃ koṣṭhaṃ tasyopari niveśayet ||
           <caesura/>
-          goghṛtaṃ ca mahātailaṃ samabhāgāni melayet || <anchor n="srisaila107-n1"/></l>
-        
+           goghṛtaṃ ca mahātailaṃ samabhāgāni melayet || <anchor n="srisaila107-n1"/></l>
+
         <ab corresp="#srisaila107" type="apparatus">
           <list type="Parallels">
             <item corresp="#srisaila107-n1"> Cf. <title>Rasārṇava</title> 18.213gh-214ab:
-              <foreign>caturmukhakṛtaṃ kāṣṭhaṃ tasyopari nivedayet // 
-                saghṛtaṃ ca mahātailaṃ samabhāgena lepayet </foreign> (Ray 1910,
-              433).</item>
+                <foreign>caturmukhakṛtaṃ kāṣṭhaṃ tasyopari nivedayet // saghṛtaṃ ca mahātailaṃ
+                samabhāgena lepayet </foreign> (Ray 1910, 433).</item>
           </list>
         </ab>
 
@@ -1241,44 +1240,55 @@
         <l xml:id="srisaila109">caturdikṣu baliṃ dadyāt yathoktaṃ śivabhāṣitaṃ ||
           <caesura/>
            dhamanaṃ tatra kurvīta caturdikṣu śanaiḥ śanaiḥ || </l>
-        
-        
+
+
         <ab corresp="#srisaila109" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila109-n1"> Cf. <title>Rasārṇava</title> 18.215:
-              <foreign>kumārīṃ pūjayet paścād dadyād dikṣu baliṃ tathā / 
-                dhamanaṃ tatra kurvīta caturdikṣu śanaiḥ śanaiḥ </foreign> (Ray 1910,
-              433).</item>
+            <item corresp="#srisaila109-n1"> Cf. <title>Rasārṇava</title> 18.215: <foreign>kumārīṃ
+                pūjayet paścād dadyād dikṣu baliṃ tathā / dhamanaṃ tatra kurvīta caturdikṣu śanaiḥ
+                śanaiḥ </foreign> (Ray 1910, 433).</item>
           </list>
         </ab>
-        
+
         <label>110</label>
         <l xml:id="srisaila110">sutaptaṃ ca vijānīyāt nirdhūmaṃ ca yadā bhavet ||
           <caesura/>
            caṃdrārke tu grahārirakṣarāśayo bhuvanāni ca || </l>
-        
+
         <ab corresp="#srisaila110" type="apparatus">
           <list type="Parallels">
-            <item corresp="#srisaila110-n1"> Cf. <title>Rasārṇava</title> 18.216:
-              <foreign>sutaptaṃ ca vidhātavyaṃ nirdhūmaṃ ca yadā bhavet /
-                tadā natvā guruṃ devaṃ candrārkādigrahān api </foreign> (Ray 1910,
-              433-434).</item>
+            <item corresp="#srisaila110-n1"> Cf. <title>Rasārṇava</title> 18.216: <foreign>sutaptaṃ
+                ca vidhātavyaṃ nirdhūmaṃ ca yadā bhavet / tadā natvā guruṃ devaṃ candrārkādigrahān
+                api </foreign> (Ray 1910, 433-434).</item>
           </list>
         </ab>
 
         <label>111</label>
-        <l xml:id="srisaila111">namaskṛtya guruṃ devaṃ<del rend="crossed out" resp="scribe">ṃ</del>m
-          ātmānaṃ tatra nikṣipet ||
+        <l xml:id="srisaila111">namaskṛtya guruṃ devam ātmānaṃ tatra nikṣipet ||
           <caesura/>
            sudagdhaṃ taṃ vijānīyāt sṛṣṭibhūtaṃ niyojayet </l>
 
-        <label>112</label>
-        <l xml:id="srisaila112">kalalaṃ ca bhavet sarvaṃ punaś cāyaṃ vinikṣipet</l>
+        <ab corresp="#srisaila111" type="apparatus">
+          <list type="Parallels">
+            <item corresp="#srisaila111-n1"> Cf. <title>Rasārṇava</title> 18.216.2-3: <foreign>tadā
+                natvā guruṃ devaṃ candrārkādigrahānapi / nakṣatrāṇi ca sampūjya ātmānaṃ tatra
+                nikṣipet //</foreign> (Ray 1910, 434).</item>
+          </list>
+        </ab>
 
-        <label>113</label>
-        <l xml:id="srisaila113">raktavarṇa vijānīyāt tejo tejā niyojayet 37
+        <label>112</label>
+        <l xml:id="srisaila112">kalalaṃ ca bhavet sarvaṃ punaś cāyaṃ vinikṣipet
           <caesura/>
-           māṃsapiḍaṃ bhaved yatra vāyus tatraiva nikṣipet </l>
+           raktavarṇaṃ vijānīyāt tejo tejā niyojayet</l>
+        
+        <ab corresp="#srisaila112" type="apparatus">
+          <list type="Parallels">
+            <item corresp="#srisaila112-n1"> Cf. <title>Rasārṇava</title> 18.218: <foreign>kalalaṃ ca bhavet sarvaṃ puraś cāpo vinikṣipet |
+              raktavarṇaṃ vijānīyāt tejas tejasi yojayet ||</foreign> (Ray 1910, 434).</item>
+          </list>
+        </ab>
+
+        <l xml:id="srisaila113"><label>113</label> māṃsapiḍaṃ bhaved yatra vāyus tatraiva nikṣipet </l>
 
         <label>114</label>
         <l xml:id="srisaila114">bhramaṃ taṃ hemasaṃkāśaṃ jīvatvaṃ tatra dāpayet ||

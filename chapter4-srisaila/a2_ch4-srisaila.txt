@@ -847,12 +847,11 @@
 
 
 
-        <l xml:id="srisaila112"> kalalaṃ ca bhavet sarvaṃ punaścāpaṃ vi<lb/>nikṣipet 57 </l>
-
-
-
-        <l xml:id="srisaila113"> raktavarṇaṃ vijānīyāt teje tejo niyojayet <lb/>
-          <caesura/>
+        <l xml:id="srisaila112"> kalalaṃ ca bhavet sarvaṃ punaś cāpaṃ vi<lb/>nikṣipet 57 
+<caesura/>
+         raktavarṇaṃ vijānīyāt teje tejo niyojayet <lb/></l>
+        
+          <l xml:id="srisaila113">
            māṃsapiṃ bhavet tatra vāyus tatraiva vikṣipet 58 </l>
 
 

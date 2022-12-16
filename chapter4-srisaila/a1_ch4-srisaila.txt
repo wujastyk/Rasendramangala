@@ -536,10 +536,12 @@
           <caesura/>
            sudagdhaṃ taṃ vijānīyāt sṛṣṭibhūtaṃ niyojayet 36</l>
 
-        <l xml:id="srisaila112">kalalaṃ ca bhavet sarvaṃ puna<lb/>ś cāyaṃ vinikṣipet</l>
-
-        <l xml:id="srisaila113">raktavarṇa vijānīyāt tejo tejā niyojayet 37
-          <caesura/>
+        <l xml:id="srisaila112">kalalaṃ ca bhavet sarvaṃ puna<lb/>ś cāyaṃ vinikṣipet
+<caesura/>
+        raktavarṇa vijānīyāt tejo tejā niyojayet 37</l>
+        
+        
+          <l xml:id="srisaila113">
            māṃsapiḍaṃ bhaved yatra vāyus tatraiva nikṣipet </l>
 
         <l xml:id="srisaila114">bhramaṃta hemasaṃkāśaṃ jīvatvaṃ tatra dāpayet 38

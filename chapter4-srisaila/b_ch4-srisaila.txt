@@ -721,7 +721,7 @@
           <caesura/>
            caṃdrārkkā ugraho bhikṣārāsayo bhuvanāni ca | </l>
 
-        <l xml:id="srisaila111">namaskṛtya guruṃ devamātmānaṃ tatra nikṣipet |73
+        <l xml:id="srisaila111">namaskṛtya guruṃ devam ātmānaṃ tatra nikṣipet |73
           <caesura/>
            gudaghraṃ taṃ vijānīyā sṛṣṭirupaṃ niyojayet |</l>
 

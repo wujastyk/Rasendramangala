@@ -650,8 +650,7 @@
           <caesura/>
            caṃdrārke stū grahārakṣarāsayo bhūvanāni ca 95 </l>
 
-        <l xml:id="srisaila111">nama<unclear>skṛ</unclear>ttya ta gū<unclear>
-            ruṃ</unclear><lb/> deva mātmānaṃ tatra nikṣipet
+        <l xml:id="srisaila111">nama<unclear>skṛ</unclear>ttya ta gū<unclear>ruṃ</unclear><lb/> devam ātmānaṃ tatra nikṣipet
           <caesura/>
           <gap extent="2" reason="omitted" unit="pāda"/>
         </l>

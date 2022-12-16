@@ -685,7 +685,7 @@
 
         <l xml:id="srisaila111">namaskṛtya guruṃ devaṃ ātmānaṃ tatra nikṣipet|
           <caesura/>
-           sudagdhaṃ taṃ vijānīyāt sṛṣṭi--bhūtaṃ niyojayet | </l>
+           sudagdhaṃ taṃ vijānīyāt sṛṣṭi-bhūtaṃ niyojayet | </l>
 
         <l xml:id="srisaila112">kalalaṃ ca bhavet sarvaṃ<unclear extent="1" unit="syllable"/> punaś
           cāyaṃ vinikṣipet | </l>
@@ -693,7 +693,7 @@
 
         <l xml:id="srisaila113">sudagdhaṃ taṃ vijānīyāt sṛṣṭibhūtaṃ niyojayet|
           <caesura/>
-           māṃsapiṃḍaṃ bhavedyatra vāyus tatraiva nikṣipet | </l>
+           māṃsapiṃḍaṃ bhaved yatra vāyus tatraiva nikṣipet | </l>
 
         <l xml:id="srisaila114">bhramaṃ ta hemasaṃkāśaṃ jīvatvaṃ tatra dāpayet|
           <caesura/>
