@@ -509,7 +509,7 @@
                                 <l xml:id="rm4.213">dhūrttabījaṃ ca lāṃgalī vāruṇī viṣamuṣṭikā
                                         74</l>
                                 <l xml:id="rm4.214">palāśamūlaniryāse peṣayet sūtakaṃ budhaḥ</l>
-                                <l xml:id="rm4.215">hemasame samaṃ sūtaṃ pīṭhikāṃ kārayedbudhaḥ
+                                <l xml:id="rm4.215">hemasame samaṃ sūtaṃ pīṭhikāṃ kārayed budhaḥ
                                         75</l>
                                 <l xml:id="rm4.216">mahārasātpiṣṭikārddhe marddayet
                                         doṣadhīrasaiḥ</l>
@@ -540,13 +540,13 @@
 
                                 <label>4.106</label>
                                 <l xml:id="rm4.4.106">hemasame samaṃ sūtaṃ pīṭhikāṃ
-                                        kārayedbudhaḥ</l>
+                                        kārayed budhaḥ</l>
                                 <l xml:id="rm4.229">athavā tāratāpiṣṭaṃ kā<lb/>rayitvā same samaṃ
                                         81</l>
 
                                 <label>4.107</label>
                                 <l xml:id="rm4.4.107">mahārasaṃ pīṭhikārddhe mardyedoṣadhīrasaiḥ</l>
-                                <l xml:id="rm4.231">praharatritayaṃ mardya golakaṃ kārayedbudhaḥ
+                                <l xml:id="rm4.231">praharatritayaṃ mardya golakaṃ kārayed budhaḥ
                                         82</l>
                                 <l xml:id="rm4.232">aṃdhamūkhāgataṃ golaṃ chāyāśuṣkaṃ tu kārayet</l>
                                 <l xml:id="rm4.233">laghupuṭaṃ tato datvā tataḥ sidhati sūtakaḥ
@@ -566,10 +566,10 @@
 
                                 <label>4.112</label>
                                 <l xml:id="rm4.4.112">śūlinī rasasūtaṃ tu srotoṃjana samanvitaḥ</l>
-                                <l xml:id="rm4.242">hemnaḥ same samaṃ sūtaṃ piṣṭikā kārayedbudhaḥ
+                                <l xml:id="rm4.242">hemnaḥ same samaṃ sūtaṃ piṣṭikā kārayed budhaḥ
                                         86</l>
                                 <l xml:id="rm4.243">prahara<del>dva</del>yaṃ trayaṃ saṃmardya
-                                        golakaṃ kārayedbudhaḥ"</l>
+                                        golakaṃ kārayed budhaḥ"</l>
                                 <l xml:id="rm4.243a">śeṣaṃ karmma pūrvavat</l>
 
                                 <label>4.114</label>

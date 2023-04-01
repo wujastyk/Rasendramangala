@@ -351,7 +351,7 @@
             <l>tataḥ svinnaṃ ca vaikrāṃtaṃ bhāgamekaṃ samāharet|| </l>
             <l>śuddhasūtasya bhāgaikaṃ<lb/>mardayet khalvamadhyagaṃ|| </l>
             <l>tāraṃ dattvā ṣaḍaṃśena punasthathaiva marddayet|| </l>
-            <l>tataḥ sūtasamāyuktaṃ piṣṭikāṃ<lb/>kārayedbudhaḥ|| </l>
+            <l>tataḥ sūtasamāyuktaṃ piṣṭikāṃ<lb/>kārayed budhaḥ|| </l>
             <l>vidyate sarvvalohāni sparśamātreṇa tāratāṃ|| </l>
 
             <p>atha jarāvyādhiharaḥ|| </p>
@@ -471,7 +471,7 @@
             <l>yāvadbhavatvamāyāti tatkṣaṇaṃ ca vinikṣipet||</l>
             <l>paṭṭe vā kadalīpatre siddhaṃ parpaṭikā rasaṃ||</l>
             <l>sūtakasya valaṃ grāhyaṃ turyāśaṃpītagaṃdhakaṃ</l>
-            <l>tatsamaṃ śulvacūrṇaṃ ca kajjalīṃ kārayedbudhaḥ||</l>
+            <l>tatsamaṃ śulvacūrṇaṃ ca kajjalīṃ kārayed budhaḥ||</l>
             <l>viṣasya palamekaṃ ca catvāri pītagaṃdhakaṃ||</l>
             <l>śulvābhyaktaṃ tu tatkṛtvā pacedāyasabhājane||</l>
             <l>nikṣipokadalīpaceparpaṭīsaṃjñako rasaḥ||</l>
@@ -605,7 +605,7 @@
             <l>kaṭubhayaṃ vacāmustā viḍaṃgaṃ citrakaṃ viṣaṃ|| </l>
             <l>samabhāgāni caitāni pathyā ca triguṇā vi|| </l>
             <l><lb/>ṣāt|| </l>
-            <l>madhunā marddayitvā tu guṭikāḥ kārayedbudhaḥ|| </l>
+            <l>madhunā marddayitvā tu guṭikāḥ kārayed budhaḥ|| </l>
             <l>guṭikā saptaparyaṃta yathāyogena dīyate|| </l>
             <l><lb/>saṃkocapiṣṭikā hyeṣā prasūti vātanāśinī|| </l>
             <l>anye ye vātajā rogāḥ staṃ kuṣṭāṃśca vyapohati<lb/>ghanasya pisṭikā kārpā śulvasya
@@ -699,7 +699,7 @@
             <l>ekīkṛtya prayatnena jaṃbīra rasamardditāṃ|| </l>
             <l>bhājane mṛṇmaye sthāpya pācaye tri<lb/>phalā rase|| </l>
             <l>daśamūlaśatāvaryyoḥ kvāthe pācyakrameṇa hi|| </l>
-            <l>tatottārya prayatnena vaṭikā kārayedbudhaḥ|| </l>
+            <l>tatottārya prayatnena vaṭikā kārayed budhaḥ|| </l>
             <l><lb/>guṃjātrayapramāṇena khāded dhṛdrogaśūlanut|| </l>
             
             <p>atha <title>unmādahara hemapiṣṭikāḥ</title>|| </p>
@@ -707,7 +707,7 @@
             <l>kṛtvā rasasamāṃ<lb/>piṣṭiṃ hemnaḥ śulvasya vā tathā|| </l>
             <l>daśāṃśena viṣaṃ sūtaṃ srotoṃjana samanvitaṃ|| </l>
             <l>śūlinīrasa saṃyuktaṃ devadā<lb/>līrasena ca|| </l>
-            <l>praharatritayaṃ mardyaṃ golakaṃ kārayedbudhaḥ|| </l>
+            <l>praharatritayaṃ mardyaṃ golakaṃ kārayed budhaḥ|| </l>
             <l>suślakṣaṇāṃ ca suśuṣkaṃ ca tailagaṃdhāśmamadhyataḥ|| </l>
             <l><lb/>pacetkrameṇa matimān bhakṣedunmādaśāṃtaye|| </l>
             

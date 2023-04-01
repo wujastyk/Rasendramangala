@@ -448,7 +448,7 @@
                 <l xml:id="rm4.213">dhūrttabījaṃ ca lāṃgalī| vāruṇī viṣamuṣṭikā| </l>
 
                 <l xml:id="rm4.214">palāśamūla nirghāsa<lb/>| peṣayet sūtakaṃ budhaḥ| </l>
-                <l xml:id="rm4.215">hemasame samaṃ <unclear>sū</unclear>taṃ| pīṭhikāṃ kārayedbudhaḥ| </l>
+                <l xml:id="rm4.215">hemasame samaṃ <unclear>sū</unclear>taṃ| pīṭhikāṃ kārayed budhaḥ| </l>
                 <l xml:id="rm4.216">mahārasātpiṣṭikārddhe| mardaye doṣadhī rasaiḥ| </l>
                 <l xml:id="rm4.217">praharatritayaṃ mardya<lb/>
                 </l>
@@ -480,7 +480,7 @@
                 <label>4.107</label>
                 <l xml:id="rm4.4.107">mahārasaṃ pīṭhi<unclear>rddhe</unclear>| mardayaṃ
                         do<unclear>ṣa</unclear>dhī rasaiḥ| </l>
-                <l xml:id="rm4.231">praharatritaya<lb/> mardya| golakaṃ kārayedbudhaḥ| </l>
+                <l xml:id="rm4.231">praharatritaya<lb/> mardya| golakaṃ kārayed budhaḥ| </l>
                 <l xml:id="rm4.232">aṃdhamūkhāgataṃ golaṃ| chāyāśuṣkaṃ tu kārayet| </l>
                 <l xml:id="rm4.233">laghupuṭaṃ tato datvā| tataḥ siddhati sūtakaṃ| </l>
                 <l xml:id="rm4.234">mṛga<unclear>du</unclear>rvottamara<lb/>saiḥ| sūtakasya ca
@@ -501,9 +501,9 @@
                         <unclear>tu</unclear><unclear>|</unclear><unclear>sro</unclear>to jana
                     samana<lb/>nvitaḥ| </l>
 
-                <l xml:id="rm4.242">hemnaḥ same samaṃ sūtaṃ| piṣṭikā kārayedbudhaḥ| </l>
+                <l xml:id="rm4.242">hemnaḥ same samaṃ sūtaṃ| piṣṭikā kārayed budhaḥ| </l>
                 <l xml:id="rm4.243">praharattraya<unclear>ṃ</unclear> saṃmardya| golakaṃ
-                    kārayedbudhaḥ| </l>
+                    kārayed budhaḥ| </l>
                 <l xml:id="rm4.243a">śeṣaṃ karma pūrvavat| </l>
 
                 <label>4.114</label>

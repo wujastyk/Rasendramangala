@@ -432,7 +432,7 @@
             <l>garbhayaṃtraṃ pravakṣyāmi piṣṭikābhasmakārakaṃ</l>
 
             <l>caturaṃguladīryeṇa vistāreṇa triṃgulaṃ</l>
-            <l>makhāṃ mṛnmayā kṛtvā sudṛḍhāṃ vartulāṃ kārayedbudhaḥ</l>
+            <l>makhāṃ mṛnmayā kṛtvā sudṛḍhāṃ vartulāṃ kārayed budhaḥ</l>
 
             <l>viśabhāniloṃṇasya bhāgamekaṃ tu guggulaṃ</l>
             <l>suślakṣṇe peṣayitvā tu toyaṃ datvā <pb n="9b"/> punaḥ punaḥ</l>
@@ -658,7 +658,7 @@
             <l>kaṭutrikaṃ vacā pustā vyādhighātaṃ tathaiva ca</l>
             <l>samabhāgāni caitāni pathyā ca triguṇā bhavadve</l>
 
-            <l>ajāmūtreṇa saṃpīḍrā guṭikāṃ kārayedbudhaḥ</l>
+            <l>ajāmūtreṇa saṃpīḍrā guṭikāṃ kārayed budhaḥ</l>
             <l>vadarāsthi pramāṇena ekaikāpittakuṣṭahā</l>
 
             <l>sabale dve pradātavyā kṣīṇe cārddhā pradāpayet</l>
@@ -768,7 +768,7 @@
             <l>bhājane mṛnmaye sthāpya triphalākāthe vipācayet</l>
             <l>daśamūlaśatāvaryo kvāthokīgho pācyau krameṇadi</l>
 
-            <l>tatottārya prayatnena vaṭakān kārayedbudhaḥ</l>
+            <l>tatottārya prayatnena vaṭakān kārayed budhaḥ</l>
             <l>guṃjātrayapramāṇena asirudbhogaśūjanit</l>
 
             <l>triṣṭaṣṭonāmarasaḥ rudgo godāvarttaśulajit</l>
@@ -777,10 +777,10 @@
             <l>daśāṃśena viṣaṃ sūtaṃ srotojana samanvitaṃ</l>
 
             <l>mulinā rasasaṃyukta devadājīrasena ca</l>
-            <l>praharatritayaṃ marghaṃ golakaṃ kārayedbudhaḥ</l>
+            <l>praharatritayaṃ marghaṃ golakaṃ kārayed budhaḥ</l>
 
             <l>suślakṣṇaṃ ca śuṣkaṃ ca tailagaṃdhāśma madhyataḥ</l>
-            <l>pacet kramakrameṇaiva vaṭikāṃ kārayedbudhaḥ</l>
+            <l>pacet kramakrameṇaiva vaṭikāṃ kārayed budhaḥ</l>
 
             <l>guṃjātraya pramāṇena bhakṣayedunmāda śāṃtaye</l>
 

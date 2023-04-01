@@ -635,7 +635,7 @@
           <caesura/>kaṭutrikaṃ vacāmustā vyādhighātaṃ tathaiva ca 27</l>
           
           <l xml:id="rm.3.147">samabhāgāni caitāni pathyā ca triguṇā bhave<unclear>?</unclear>
-          <caesura/>a<pb n="8v"/>jāmūtreṇa saṃpīḍya guṭikā kārayedbudhaḥ 28</l>
+          <caesura/>a<pb n="8v"/>jāmūtreṇa saṃpīḍya guṭikā kārayed budhaḥ 28</l>
           
           <l xml:id="rm.3.148">badirāsthipramāṇena ekaikā pittakuṣṭahā
           <caesura/>sabale dve pradātavyā kṣīṇe cārddhāṃ pradāpayet 29</l>
@@ -749,7 +749,7 @@
           <l xml:id="rm.3.169">bhājane mṛ<lb/>nmaye sthāpya triphalākvāthe vipācayet
           <caesura/>daśamūlaśatāryorkvātho pācyo krameṇa <add place="above"><unclear>?</unclear></add>50</l>
           
-          <l xml:id="rm.3.170">tatottārya prayatnena vaṭakān kārayedbudhaḥ
+          <l xml:id="rm.3.170">tatottārya prayatnena vaṭakān kārayed budhaḥ
           <caesura/>guṃjātrayapramāṇena asi<lb/><unclear>ru</unclear>drogaśūlajit 51
           <caesura/>tripṛṣṭo nāma rasaḥ <unclear>kṛ</unclear>drogodāvarttaśūlajit"</l>
           
@@ -757,10 +757,10 @@
           <caesura/>daśāṃśena viṣaṃ sūtaṃ srotāṃ janasamanvitaṃ 52</l>
           
           <l xml:id="rm.3.172"><unclear>mū</unclear>li<lb/>nīrasasaṃyuktaṃ devadālīrasena ca
-          <caesura/>praharatritayaṃ mardyaṃ golakaṃ kārayedbudhaḥ 53</l>
+          <caesura/>praharatritayaṃ mardyaṃ golakaṃ kārayed budhaḥ 53</l>
           
           <l xml:id="rm.3.173">suślakṣṇaṃ ca śuṣkaṃ ca tailagaṃdhāśmamadhyataḥ
-          <caesura/><unclear>paṃcetra</unclear>kramakrameṇaiva vaṭikāṃ kārayedbudhaḥ 5<lb/>4
+          <caesura/><unclear>paṃcetra</unclear>kramakrameṇaiva vaṭikāṃ kārayed budhaḥ 5<lb/>4
           <caesura/></l>
           
           <l xml:id="rm.3.173a">hemapiṣṭī sarvonmādaharā</l>
