@@ -861,16 +861,16 @@
 
 
 
-        <l xml:id="srisaila114"> abhram aṃtaṃ hemasaṃkāśaṃ jīvatvaṃ tatra <pb n="57r"/>
+        <l xml:id="srisaila114"> abhramaṃtaṃ hemasaṃkāśaṃ jīvatvaṃ tatra <pb n="57r"/>
           dāpayet 59
           <caesura/>
            kṛtvā tatra mahārāvaṃ ṛkāraṃ surapūjitaṃ </l>
 
 
 
-        <l xml:id="srisaila115"> uttiṣṭati na <lb/> saṃdehaḥ pūrvān he bhāskaro yathā 60
+        <l xml:id="srisaila115"> uttiṣṭati na <lb/> saṃdehaḥ pūrvānhe bhāskaro yathā 60
           <caesura/>
-           divyatejā mahākāyo divyadṛṣṭi<lb/>rmahābalaḥ </l>
+           divyatejā mahākāyo divyadṛṣṭi<lb/>r mahābalaḥ </l>
 
 
 

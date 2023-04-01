@@ -657,14 +657,14 @@
       <l xml:id="srisaila113"><gap extent="verse" reason="omitted"/>
       </l>
 
-      <l xml:id="srisaila114">bhramaṃ taṃ hemasaṃkāśaṃ jīvatvaṃ tatra dāpayet||<lb/>
+      <l xml:id="srisaila114">bhramaṃtaṃ hemasaṃkāśaṃ jīvatvaṃ tatra dāpayet||<lb/>
         <caesura/>
-         kṛtvā tatra mahārāvaṃ <unclear>oṃ</unclear>kārasurapūjitaṃ|| </l>
+         kṛtvā tatra mahārāvaṃ <unclear>oṃ</unclear>kāra surapūjitaṃ|| </l>
 
       <l xml:id="srisaila115">uttiṣṭatīva saṃdeho pūrve<unclear extent="1" unit="character"/>
         bhāskaro yathā||
         <caesura/>
-         divyatejo mahā<unclear>kā</unclear>yo <lb/>divyadṛṣṭirmahābalaḥ|| </l>
+         divyatejo mahā<unclear>kā</unclear>yo <lb/>divyadṛṣṭir mahābalaḥ|| </l>
 
       <l xml:id="srisaila116">dṛśyate bhuvanaṃ sarvaṃ sa siddhaḥ sarvasiddhidaḥ||
         <caesura/>
@@ -714,11 +714,11 @@
 
       <l xml:id="srisaila117">bhūtakālāṃtakaṃ baṃdhaṃ yadā karttuṃ na śakya<lb/>te||
         <caesura/>
-         anenaiva śarīreṇa kathaṃ siddhirbhaviṣyati|| </l>
+         anenaiva śarīreṇa kathaṃ siddhir bhaviṣyati|| </l>
 
       <p xml:id="srisaila117a"><persName>|| nāgārjuno</persName>vāca|||| </p>
 
-      <l xml:id="srisaila118">punar anyaṃ pravakṣyāmi khecaraṃ baṃdhamutta<lb/>maṃ||
+      <l xml:id="srisaila118">punar anyaṃ pravakṣyāmi khecaraṃ baṃdham utta<lb/>maṃ||
         <caesura/>
          yena bhakṣitamātreṇa surasāmānyatā bhavet|| </l>
 

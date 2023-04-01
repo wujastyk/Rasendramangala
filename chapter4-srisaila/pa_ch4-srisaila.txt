@@ -22,7 +22,7 @@
             <collection>Śrī Sāgara Gacchano Jaina Jñānabhaṃdāra collection</collection>
             <idno>8930</idno>
             <idno type="NCC">[NCC identifier]</idno>
-            <idno type="siglum">Pa</idno>
+            <idno type="siglum">P<g rend="subscript">a</g></idno>
           </msIdentifier>
           <msContents>
             <summary>MS described in Puṇyavijayajī (1972: 329–435). </summary>
@@ -625,7 +625,7 @@
 
         <l xml:id="srisaila113"> māṃsapiṃḍaṃ bhaved yatra | vāyus tatraiva nikṣipet | 83</l>
 
-        <l xml:id="srisaila114">bhramaṃ taddhemasaṃkāśaṃ | jīvatvaṃ tatra dā<lb/>payet |
+        <l xml:id="srisaila114">bhramaṃtad dhemasaṃkāśaṃ | jīvatvaṃ tatra dā<lb/>payet |
           <caesura/>
            kṛtvā tatra mahārāvaṃ | nṛkāla sūrapūjanaṃ |</l>
 
@@ -649,7 +649,7 @@
 
         <l xml:id="srisaila117">sūtakā<lb/>lāṃtakaṃ baṃdhaṃ | yadā kartuṃ na śakyate |
           <caesura/>
-           ananaiva śarīreṇa | kathaṃ sidhirbhaviṣyati ||</l>
+           ananaiva śarīreṇa | kathaṃ sidhir bhaviṣyati ||</l>
 
         <!-- [khecarabaṃdha] -->
 

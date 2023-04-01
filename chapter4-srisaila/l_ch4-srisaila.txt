@@ -695,7 +695,7 @@
           <caesura/>
            māṃsapiṃḍaṃ bhaved yatra vāyus tatraiva nikṣipet | </l>
 
-        <l xml:id="srisaila114">bhramaṃ ta hemasaṃkāśaṃ jīvatvaṃ tatra dāpayet|
+        <l xml:id="srisaila114">bhramaṃta hemasaṃkāśaṃ jīvatvaṃ tatra dāpayet|
           <caesura/>
            kṛtvā tatra mahārāvaṃ nṛkāraṃ surapūjanam | </l>
 
@@ -722,7 +722,7 @@
 
         <l xml:id="srisaila117">bhūtakālāṃtakaṃ baṃdhaṃ yadā karttuṃ na śakyate|
           <caesura/>
-           anenaiva śarīreṇa kathaṃ siddhirbhaviṣyati | </l>
+           anenaiva śarīreṇa kathaṃ siddhir bhaviṣyati | </l>
 
 
 

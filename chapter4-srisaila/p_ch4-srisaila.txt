@@ -626,11 +626,11 @@
           <l xml:id="srisaila113">
            māṃsapiṃḍaṃ bhaved yatra vāyus tatraiva nikṣipet</l>
 
-        <l xml:id="srisaila114">bhramaṃ ta hemasaṃ<lb/>kāśaṃ jīvatvaṃ tatra dāpayet
+        <l xml:id="srisaila114">bhramaṃta hemasaṃ<lb/>kāśaṃ jīvatvaṃ tatra dāpayet
           <caesura/>
            kṛtvā tatra mahārāvaṃ nṛkāraṃ surapūjanaṃ</l>
 
-        <l xml:id="srisaila115">uttiṣṭati na saṃdeho pūrvākte bhāskaro yathā
+        <l xml:id="srisaila115">uttiṣṭati na saṃdeho pūrvāhne bhāskaro yathā
           <caesura/>
            divyatejo mahākā<lb/>yo divyadṛṣṭi mahābalaḥ</l>
 

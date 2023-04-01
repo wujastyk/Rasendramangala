@@ -640,7 +640,7 @@
 
         <l xml:id="srisaila115">uttiṣṭaṃtī na saṃdeho pūrvokte bhāskaro yathā
           <caesura/>
-          <space quantity="1" unit="aksara"/>divyatejo mahākāyau divyadṛṣṭimahābalaḥ</l>
+          <space quantity="1" unit="aksara"/>divyatejo mahākāyau divyadṛṣṭi mahābalaḥ</l>
 
         <l xml:id="srisaila116">dṛśyate bhuvanaṃ sarvaṃ saṃsiddhi-<lb/>sarvasiddhidaḥ
           <caesura/>
@@ -658,12 +658,12 @@
 
         <l xml:id="srisaila117">bhūtakālātakaṃ vaṃdhaṃ yadā karttu na śakyate
           <caesura/>
-           anyeneva śarīreṇa kathaṃ siddhi<lb/>rbhaviṣyati</l>
+           anyeneva śarīreṇa kathaṃ siddhi<lb/>r bhaviṣyati</l>
 
         <p xml:id="srisaila117a"><persName>nāggurjuno</persName>vāca</p>
 
         <!-- [khecarabaṃdha] -->
-        <l xml:id="srisaila118">punaratnaṃ pravakṣyāmi khecaraṃ vaṃdhumuttam
+        <l xml:id="srisaila118">punar atnaṃ pravakṣyāmi khecaraṃ vaṃdhumuttam
           <caesura/>
            yena bha<lb/>kṣitamātreṇa surasāmānyatā bhavet </l>
 

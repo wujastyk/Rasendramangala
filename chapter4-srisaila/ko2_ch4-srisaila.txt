@@ -659,7 +659,7 @@
           
         <l xml:id="srisaila113"/>
 
-        <l xml:id="srisaila114">bhramaṃ taṃ hemasaṃkāsaṃ jivitvaṃ tatra dāpayet 96
+        <l xml:id="srisaila114">bhramaṃtaṃ hemasaṃkāsaṃ jivitvaṃ tatra dāpayet 96
           <caesura/>
            kṛtvā tatra mabehārāva <unclear> rnuṃ</unclear>kāra sūra<lb/>pūjītaṃ </l>
 

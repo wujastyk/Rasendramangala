@@ -550,7 +550,7 @@
 
         <l xml:id="srisaila115">uttiṣṭati na saṃdeho pūrvāhne bhāskaro yathā 39
           <caesura/>
-           divyatejo mahākāyo divyadṛṣṭimahābalaḥ</l>
+           divyatejo mahākāyo divyadṛṣṭi mahābalaḥ</l>
 
         <l xml:id="srisaila116">dṛśyate bhuvanaṃ sarvaṃ sasidha sarvasidhidaḥ 40 <pb n="18v"/>
           <caesura/>

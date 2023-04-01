@@ -738,7 +738,7 @@
 
         <l xml:id="srisaila117">kālāntakāya vandhāya yadā kaṃtuṃ na śakyate
           <caesura/>
-           anenaiva śarīreṇa kathaṃ siddhinbhavi<lb/>ṣyati </l>
+           anenaiva śarīreṇa kathaṃ siddhin bhavi<lb/>ṣyati </l>
 
         <p xml:id="srisaila117a"><persName> nāgārjuna</persName>uvāca </p>
 

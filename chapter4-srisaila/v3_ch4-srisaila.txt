@@ -19,7 +19,7 @@
             <repository>Motichand Khajanchi Collection, Bikaner</repository>
             <idno>1455</idno>
             <idno type="NCC">[NCC identifier]</idno>
-            <idno type="siglum">V3</idno>
+            <idno type="siglum">V<g rend="subscript">3</g></idno>
           </msIdentifier>
           <msContents>
             <msItem defective="true" n="1">

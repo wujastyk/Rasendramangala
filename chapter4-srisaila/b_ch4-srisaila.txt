@@ -731,7 +731,7 @@
           <caesura/>
            māṃsa<lb/>piṃḍaṃ bhavet tatra vāyus tatreva nikṣipet ||74</l>
 
-        <l xml:id="srisaila114">bhramaṃ taṃ hemasaṃkāśaṃ jīvaṃ tatra pradāpayet |
+        <l xml:id="srisaila114">bhramaṃtaṃ hemasaṃkāśaṃ jīvaṃ tatra pradāpayet |
           <caesura/>
            kṛtvā tatra mahārāvaṃ kuṃkuraṃ surapūjitaṃ |75</l>
 
@@ -858,7 +858,7 @@
           <caesura/>
            puṣpamālāpatākaiś ca kiṃki|ṇānavamaṃḍitaiḥ |</l>
 
-        <l xml:id="srisaila136">khecarabaṃdhaje<unclear>vvī</unclear>ghraṃ yatra devo maheśvaraḥ ||3
+        <l xml:id="srisaila136">khecarabaṃdhaje <unclear>vvī</unclear>ghraṃ yatra devo maheśvaraḥ ||3
           <caesura/>
            kṛtāṃjalipu<lb/>ṭo bhūtvā śivasyāgre vyavasthitaḥ ||</l>
 
@@ -876,8 +876,8 @@
           <caesura/>
            bhuktā ca vipulān bhogān kalpāṃte bhuktibhājanaḥ ||</l>
 
-        <l xml:id="srisaila140">i<lb/>ti śrīnāgārjuna<unclear>hṛ</unclear>dayāsthaṃ
-            <unclear>pha</unclear>ṭ | | mahārasa_uktamṛta khecarabaṃdhasamāptamiti
+        <l xml:id="srisaila140">i<lb/>ti śrīnāgārjuna<unclear> hṛ</unclear>dayāsthaṃ
+            <unclear>pha</unclear>ṭ | | mahārasa_uktamṛta khecarabaṃdha samāptam iti
             ||<unclear>ṭha</unclear>||</l>
 
         <!-- [jalūkādirasabaṃdhanam] -->

@@ -615,7 +615,7 @@
 
                 <l xml:id="srisaila113a">śrī<lb/>śvetavarṇaṃ vījānīyān nato ākāśaṃ nikṣipet ||</l>
 
-                <l xml:id="srisaila114">bhramaṃ taṃ hemasaṃkāsaṃ jīvaṃ tatra dāpayet ||
+                <l xml:id="srisaila114">bhramaṃtaṃ hemasaṃkāsaṃ jīvaṃ tatra dāpayet ||
                     <caesura/>
                      kṛtvā<lb/> tatra mahārāvaṃ kukuraṃ surapūjitaṃ| | </l>
 
