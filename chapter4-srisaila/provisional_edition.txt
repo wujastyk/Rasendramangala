@@ -579,7 +579,7 @@
            kāśmīrasya rasenaiva tenaiva tādṛśaṃ kuru | |</l>
 
         <label>53</label>
-        <l xml:id="srisaila53">mātuluṅgarasenaiva puṭam ekaṃ ca dāpayet |
+        <l xml:id="srisaila53">mātuliṅgarasenaiva puṭam ekaṃ ca dāpayet |
           <caesura/>
            tataḥ siddhaṃ vijānīyāt vedhaṃ śulvasya dāpayet | </l>
 
