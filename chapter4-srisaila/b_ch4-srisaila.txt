@@ -727,8 +727,7 @@
 
         <l xml:id="srisaila112"><gap extent="verse" reason="omitted"/></l>
 
-        <l xml:id="srisaila113"><gap extent="pada" reason="omitted"/>
-          <caesura/>
+        <l xml:id="srisaila113">
            māṃsa<lb/>piṃḍaṃ bhavet tatra vāyus tatreva nikṣipet ||74</l>
 
         <l xml:id="srisaila114">bhramaṃtaṃ hemasaṃkāśaṃ jīvaṃ tatra pradāpayet |
@@ -792,7 +791,7 @@
 
         <l xml:id="srisaila120">iṃdranīlaṃ mahānīlaṃ māṇikyaṃ mauktikaṃ tathā |86
           <caesura/>
-           padmarā<lb/>gaṃ tathā vajaṃ marakajaṃmarkamaṣṭamaṃ |</l>
+           padmarā<lb/>gaṃ tathā vajaṃ marakajaṃm arkam aṣṭamaṃ |</l>
 
         <l xml:id="srisaila121">a<unclear>dā</unclear>taḥ sapravakṣyāmi ratnarāgaś ca jāraṇaṃ |87
           <caesura/>
@@ -864,9 +863,9 @@
 
         <p xml:id="srisaila136a">śrī<persName>bhairava</persName>uvāca</p>
 
-        <l xml:id="srisaila137"><unclear>sohesa</unclear>duḥkaraṃ ghoraṃm adbhutaṃ ca kṛtaṃ tvayā |
+        <l xml:id="srisaila137"><unclear>sohesa</unclear> duḥkaraṃ ghoraṃm adbhutaṃ ca kṛtaṃ tvayā |
           <caesura/>
-           tvadbhaktyā hy ayaṃ tuṣṭaḥ svachaṃdaṃ prativārakaḥ ||4</l>
+           tvadbhaktyā hy ayaṃ tuṣṭaḥ svachaṃdaṃprativārakaḥ ||4</l>
 
         <l xml:id="srisaila138"><gap extent="pada" reason="omitted"/>
           <caesura/>
@@ -935,7 +934,7 @@
 
         <l xml:id="srisaila153">taruṇādityasaṃkāśo nānāvarṇo vicakṣaṇaḥ ||12
           <caesura/>
-           vedhe<unclear extent="1" unit="syllable"/> lohadehe puraṃ jitaḥ sūtalakṣaṇaṃ |</l>
+           vedhe<unclear extent="1" unit="syllable"/> loha dehe puraṃ jitaḥ sūtalakṣaṇaṃ |</l>
 
         <l xml:id="srisaila154">śodhanaṃ sūtakasyādau grāsamānamataḥ paraṃ ||13
           <caesura/>

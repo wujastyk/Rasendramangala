@@ -167,12 +167,12 @@
 
         <l xml:id="srisaila11">tuṣṭā tvaṃ yaṃdi mā devi klīṣṭā dvādasavarṣayāḥ
           <caesura/>
-           ātmajñātvaṃ vahe mahyaṃḥ taḥta paścād<unclear>bha</unclear>m ahaṃ 11 </l>
+           ātmajñātvaṃ vahe mahyaṃḥ taḥta paścād <unclear>bha</unclear>m ahaṃ 11 </l>
 
-        <l xml:id="srisaila12">śa<lb/>tyaṃ2 pūnaḥ satyaṃḥaho vācā trīdhā kṛtāḥ
+        <l xml:id="srisaila12">śa<lb/>tyaṃ2 pūnaḥ satyaṃḥ aho vācā trīdhā kṛtāḥ
           <caesura/>
-           yatā kecita prārtha<unclear>se</unclear>sīdhiḥ ta śarvaṃ pradadāmy ahaṃ 12<pb
-            n="1r"/>
+           yatā kīcate prārtha<unclear>se</unclear> sīdhiḥ ta<unclear>t sa</unclear>rvaṃ pradadāmy ahaṃ 12<pb
+            n="1v"/><milestone unit="2" type="PDF"/>
         </l>
 
         <l xml:id="srisaila13">| | yadi tvaṃ devī tuṣṭāsiḥ mabhaktyā bhaktīvachaleḥ
@@ -734,11 +734,11 @@
 
         <l xml:id="srisaila120">idranila mahānila māṃṇi<lb/>kya mūktikaṃ tathā
           <caesura/>
-           padmarāga tathā vajraṃ margajamarkam aṣṭamaṃ 9 </l>
+           padmarāga tathā vajraṃ margajam arkam aṣṭamaṃ 9 </l>
 
         <l xml:id="srisaila121">yathāta saṃpravakṣāmi ratnarāgasya jārakaṃḥ
           <caesura/>
-           pu<unclear>ṣpa</unclear><lb/> kākasira grāhyaṃ yapūrvaṃmalasaṃyūtaṃ 10 </l>
+           pu<unclear>ṣpa</unclear><lb/> kākasira grāhyaṃy apūrvaṃmalasaṃyūtaṃ 10 </l>
 
         <l xml:id="srisaila122">rāsipūṃrva ca vi<unclear>sā</unclear>sthaṃ pūja_itvā tu
           pāṃcayet
@@ -804,13 +804,13 @@
         <l xml:id="srisaila134">pa<unclear>syaṃ</unclear>ti bhūvanaṃ sarvaṃ
           vāṃmana<lb/>sthā mahāṃmūne
           <caesura/>
-           hāraka gaṇakaṃpūrai kuḍale<unclear>mū</unclear>kuṭesthā 24 </l>
+           hāraka gaṇakaṃpūrai kuḍale<unclear> mū</unclear>kuṭes thā 24 </l>
 
-        <l xml:id="srisaila135">seṣekahālenirghoṣe asya ro gītavādanai<lb/>
+        <l xml:id="srisaila135">seṣekahālenirghoṣe asyarogītavādanai<lb/>
           <caesura/>
-           pūphamālā<unclear>pa</unclear>tāke ca kiṃ kaṇi sūramaṃḍīte 25 </l>
+           pūphamālā<unclear>pa</unclear>tāke ca kiṃkaṇisūramaṃḍīte 25 </l>
 
-        <l xml:id="srisaila136">ṣecaratna vrajedhijñaṃ yaṃtra devo maheśvasvara
+        <l xml:id="srisaila136">ṣecaratna vrajed hijñaṃ yaṃtra devo maheśvasvara
           <caesura/>
            kṛtāṃjalīpūṭo<lb/> bhūtvā savasāgare vīvasthītaṃ 26 </l>
 
@@ -820,11 +820,11 @@
         <l xml:id="srisaila137">saha<unclear>sraṃ</unclear> pūskaraṃ ghoraṃ yadbhūtaṃ
           cekṣītaṃ tvayā
           <caesura/>
-           tvadbhaktyā tū sva haṃ tu<unclear>ṣṭo</unclear><lb/> svachaṃdapratikāraka 27 </l>
+           tvadbhaktyā tū sv ahaṃ tu<unclear>ṣṭo</unclear><lb/> svachaṃdapratikāraka 27 </l>
 
         <l xml:id="srisaila138">sādhu2 māhāprājña namāmasya<unclear>ś ca</unclear> sādhavā
           <caesura/>
-           svarge tīṣṭe ciraṃ kālaṃ yācaṃdrā'rkatāraka 28<lb/>
+           svarge tīṣṭe ciraṃ kālaṃ yā caṃdrārkatāraka 28<lb/>
         </l>
 
         <l xml:id="srisaila139">rudrakaṃnyāṃ <unclear>vīṣū</unclear>kaṃnyā vrahmakanyā
@@ -837,111 +837,30 @@
             extent="1" unit="character"/><lb/>
         </l>
 
-        <l xml:id="srisaila141">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila142">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila143">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila144">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila145">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila146">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila147">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila148">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila149">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila150">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila151">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila152">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila153">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila154">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila155">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila156">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila157">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila158">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila159">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila160">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila161">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila162">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila163">
-          <gap extent="verse" n="1"/>
-        </l>
-
-        <l xml:id="srisaila164">
-          <gap extent="verse" n="1"/>
-        </l>
-
-
-
-
-
-
-
-
-
-
+        <l xml:id="srisaila141"/>
+        <l xml:id="srisaila142"/>
+        <l xml:id="srisaila143"/>
+        <l xml:id="srisaila144"/>
+        <l xml:id="srisaila145"/>
+        <l xml:id="srisaila146"/>
+        <l xml:id="srisaila147"/>
+        <l xml:id="srisaila148"/>
+        <l xml:id="srisaila149"/>
+        <l xml:id="srisaila150"/>
+        <l xml:id="srisaila151"/>
+        <l xml:id="srisaila152"/>
+        <l xml:id="srisaila153"/>
+        <l xml:id="srisaila154"/>
+        <l xml:id="srisaila155"/>
+        <l xml:id="srisaila156"/>
+        <l xml:id="srisaila157"/>
+        <l xml:id="srisaila158"/>
+        <l xml:id="srisaila159"/>
+        <l xml:id="srisaila160"/>
+        <l xml:id="srisaila161"/>
+        <l xml:id="srisaila162"/>
+        <l xml:id="srisaila163"/>
+        <l xml:id="srisaila164"/>
 
       </div>
     </body>

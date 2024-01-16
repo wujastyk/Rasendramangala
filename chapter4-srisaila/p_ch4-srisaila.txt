@@ -81,6 +81,10 @@
                 <p>[description of another hand]</p>
               </handNote>
             </handDesc>
+            <scriptDesc>
+              <scriptNote xml:id="script-ba-va"><foreign xml:lang="sa">ba</foreign> and <foreign
+                xml:lang="sa">va</foreign> not distinguished.</scriptNote>
+            </scriptDesc>
             <additions>
               <!-- the following additions are examples -->
               <p>Marginal annotations and corrections throughout.</p>
@@ -665,7 +669,7 @@
 
         <l xml:id="srisaila120">iṃdranīlaṃ mahā<pb n="29r"/>nīlaṃ māṇikyaṃ mauktikaṃ tathā
           <caesura/>
-           padmarāgaṃ tathā vajraṃ marakatamatamaṣṭamaṃ</l>
+           padmarāgaṃ tathā vajraṃ marakatamatam aṣṭamaṃ</l>
 
         <l xml:id="srisaila121">athātaḥ saṃpravakṣyāmi ratnarāgasya jāraṇaṃ
           <caesura/>
@@ -721,9 +725,9 @@
 
         <l xml:id="srisaila134">paśyaṃti bhavataṃ sarvaṃ vimānastho mahāmune
           <caesura/>
-           hārakaṃkaṇakarpūraiḥ kuṃḍalairmukuṭaistathā</l>
+           hārakaṃkaṇakarpūraiḥ kuṃḍalair mukuṭais tathā</l>
 
-        <l xml:id="srisaila135">śaṃkhakālāhanirghoṣairapsarogīta<pb n="29v"/>vādibhiḥ
+        <l xml:id="srisaila135">śaṃkhakālāhanirghoṣair apsarogīta<pb n="29v"/>vādibhiḥ
           <caesura/>
            puṣpamālāpatākābhi kikiraṇāravamaṃḍitaiḥ</l>
 
@@ -733,10 +737,10 @@
 
         <p xml:id="srisaila136a">śrī<persName>bhairavo</persName>vāca</p>
 
-        <l xml:id="srisaila137">sāha<del>staṃ</del>saṃ duḥś caraṃ ghoraṃ adbhutaṃ ca kṛtaṃ
+        <l xml:id="srisaila137">sāha<del>staṃ</del>saṃ duḥścaraṃ ghoraṃ adbhutaṃ ca kṛtaṃ
             <del>va</del>tvayā
           <caesura/>
-           tvadbhaktyā tu<add place="above">tu</add>hyahaṃ tuṣṭo svachaṃda prativārakaḥ</l>
+           tvadbhaktyā tu<add place="above">tu</add> hy ahaṃ tuṣṭo svachaṃdaprativārakaḥ</l>
 
         <l xml:id="srisaila138">sādhu sādhu mahāprājña ma<lb/>ma śukrasya sādhaka
           <caesura/>
@@ -833,13 +837,13 @@
 
         <l xml:id="srisaila160">kramate vyādhisaṃghātaṃ grasate duṣṭarogakān
           <caesura/>
-           tasmā tatkarmasaṃjñā yato vedyairupācaret </l>
+           tasmā tat karmasaṃjñā yato vedyair upācaret </l>
 
         <l xml:id="srisaila161">krāmaṇena vinā sūto na kramenvaiva viṃdha<lb/>ti
           <caesura/>
-           dehalohāmayātsarvān vṛthā syātkevalaśramaḥ</l>
+           dehalohāmayāt sarvān vṛthā syāt kevalaśramaḥ</l>
 
-        <l xml:id="srisaila162">yasya yogasya yo yogastenaiva saha yojayet
+        <l xml:id="srisaila162">yasya yogasya yo yogas tenaiva saha yojayet
           <caesura/>
            raseṃdro harate vyādhi narakuṃjaravyādhināṃ</l>
 
@@ -848,7 +852,7 @@
            sūcakena samāyuktaṃ yojayecca bhiṣagvaraḥ</l>
 
         <l xml:id="srisaila164"><hi style="bold">śrīnāgārjunaviracite raseṃdra<lb/>maṃgale guṭikātve
-            dutijalūkājāraṇādirasabaṃdhanaṃ nāma caturthodhyāyaḥ .4.</hi></l>
+            dutijalūkājāraṇādirasabaṃdhanaṃ nāma caturthodhyāyaḥ | 4 |</hi></l>
       </div>
     </body>
   </text>

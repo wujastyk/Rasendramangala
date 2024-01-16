@@ -821,7 +821,7 @@
 
         <l xml:id="srisaila106"> ṣaḍguṇaṃ piṃdasthauyasya tāmra<lb/>pātraṃ suśobhanaṃ 51
           <caesura/>
-          urdhve puruṣamānaṃ tu puruṣārddhaṃ<pc> </pc>garbhamaḍalaṃ </l>
+           urdhve puruṣamānaṃ tu puruṣārddhaṃ<pc> </pc>garbhamaḍalaṃ </l>
 
         <l xml:id="srisaila107"> ca<lb/>rmukhaṃ kṛtaṃ koṣṭaṃ tasthopari niveśayet 52
           <caesura/>
@@ -847,17 +847,12 @@
 
 
 
-        <l xml:id="srisaila112"> kalalaṃ ca bhavet sarvaṃ punaś cāpaṃ vi<lb/>nikṣipet 57 
-<caesura/>
-         raktavarṇaṃ vijānīyāt teje tejo niyojayet <lb/></l>
-        
-          <l xml:id="srisaila113">
-           māṃsapiṃ bhavet tatra vāyus tatraiva vikṣipet 58 </l>
+        <l xml:id="srisaila112"> kalalaṃ ca bhavet sarvaṃ punaś cāpaṃ vi<lb/>nikṣipet 57
+          <caesura/>
+           raktavarṇaṃ vijānīyāt teje tejo niyojayet <lb/></l>
 
-
-
-        <l xml:id="srisaila113a">
-          <add>svetavarṇaṃ vijānī<lb/>yāt tuta ākāśaṃ nikśipet </add></l>
+        <l xml:id="srisaila113"> māṃsapiṃ bhavet tatra vāyus tatraiva vikṣipet 58
+            <add>svetavarṇaṃ vijānī<lb/>yāt tuta ākāśaṃ nikśipet </add></l>
 
 
 
@@ -1005,19 +1000,19 @@
           <caesura/>
            uttiṣṭati na saṃdehos triṃnetraś caturbhujaḥ 85 </l>
 
-        <l xml:id="srisaila133">gaṇanātha<pb n="59r"/>s tathā siddhāye cā'nye gaṇanāyakā
+        <l xml:id="srisaila133">gaṇanātha<pb n="59r"/>s tathā siddhā ye cā'nye gaṇanāyakā
           <caesura/>
-           āgachaṃti puraṃtasya siddha--vidyādha<lb/>rādayaḥ 86 </l>
+           āgachaṃti puraṃ tasya siddha--vidyādha<lb/>rādayaḥ 86 </l>
 
         <l xml:id="srisaila134">paśyaṃti bhuvanaṃ sarvaṃ vimānasthā mahāmune
           <caesura/>
            hārakaṃkaṇa<lb/>keyūraiḥ kuṃḍalair mukuṭais tathā 87 </l>
 
-        <l xml:id="srisaila135"> śaṃkhakāhalanirghoṣer apsarogītā<lb/> nāditaiḥ
+        <l xml:id="srisaila135"> śaṃkhakāhalanirghoṣer apsarogītā<lb/>nāditaiḥ
           <caesura/>
-           puṣ<unclear>pha</unclear>mālāpātākābhiḥ kiṃ kiṇīravamaṇḍitaiḥ 88 </l>
+           puṣ<unclear>pha</unclear>mālāpātākābhiḥ kiṃkiṇīravamaṇḍitaiḥ 88 </l>
 
-        <l xml:id="srisaila136"> khe ca <lb/>ralaṃ vraje chīgraṃ yatra devo maheśvaraḥ
+        <l xml:id="srisaila136"> kheca<lb/>ralaṃ vraje chīgraṃ yatra devo maheśvaraḥ
           <caesura/>
            kṛtāṃjalipuṭo bhūtvā śivasyā<lb/>gre vyavasthitaḥ 89 </l>
 
@@ -1026,7 +1021,7 @@
 
 
 
-        <l xml:id="srisaila137">sāhasraṃ duḥkaraghoraṃ adbhutaṃ ca<lb/> kṛtaṃ tvayā
+        <l xml:id="srisaila137">sāhasraṃ duḥkara ghoraṃ adbhutaṃ ca<lb/> kṛtaṃ tvayā
           <caesura/>
            tvadbhaktyā tubhyam ahaṃ tuṣṭaḥ svachaṃda--praticārakaḥ 90 </l>
 
@@ -1038,15 +1033,16 @@
           <caesura/>
            bhuktvā <pb n="60v"/> svavipulān bhogān kalpāṃte muktibhāgjanaḥ 92 </l>
 
+        <l xml:id="srisaila140">iti nāgārjjuna hṛdayā<lb/>straṃpha<unclear>hā</unclear>
+          mahārasa uktaḥ
+          <caesura/>
+           mṛtakhecara<unclear>tvraṃ</unclear>dhaḥ samāptam iti</l>
 
 
         <p><hi>[*Jalūkādirasabandhana Adhyāya]</hi></p>
 
 
-        <l xml:id="srisaila141"> iti
-          nāgārjjunahṛdayā<lb/>straṃpha<unclear>hā</unclear>mahārasa uktaḥ
-          <caesura/>
-           mṛtakhecara<unclear>tvraṃ</unclear>dhaḥ samāptam iti
+        <l xml:id="srisaila141">
           <caesura/>
            rase vīrye bi<lb/>pāke ca sudhāvaddhiṃdusūtakaṃ
           <caesura/>
@@ -1080,20 +1076,20 @@
 
         <l xml:id="srisaila147">capalatvaṃ ya<lb/>dā naṣṭaṃ bhasma--sūtasya lakṣaṇaṃ
           <caesura/>
-           nānāvarṇaṃ yadā svādhṛtatejo jalū<lb/>kavat
-          <caesura/>
-           varddhate sūtakaṃ yasya jalūkābaddha--lakṣaṇaṃ 99</l>
+           nānāvarṇaṃ yadā svādhṛtatejo jalū<lb/>kavat </l>
 
-        <l xml:id="srisaila148"> śvetaṃ pītaṃ <lb/> gurutvaṃ ca mṛduṃsikthakasannibhaṃ 100 </l>
-
-        <l xml:id="srisaila149">agnimadhye yadātiṣṭet sadṛ<lb/>vaṃdhasya lakṣaṇaṃ
+        <l xml:id="srisaila148"> varddhate sūtakaṃ yasya jalūkābaddha--lakṣaṇaṃ 99
           <caesura/>
-           kukkuṭāṃḍa--nibhaṃ sūtaṃ lavaṇabedhi bhaved yadā
-          <caesura/>
-           āva<lb/>rttitaḥ punas tadvat khoṭobaddharasākṛtiḥ 101 </l>
+           śvetaṃ pītaṃ <lb/> gurutvaṃ ca mṛduṃsikthakasannibhaṃ 100 </l>
 
-        <l xml:id="srisaila151">athavā svede snigdhaṃ <lb/> mṛduṃ caiva śikhinā drāvito
-          dravet
+        <l xml:id="srisaila149">agnimadhye yadā tiṣṭet sadṛ<lb/>vaṃdhasya lakṣaṇaṃ
+          <caesura/>
+           kukkuṭāṃḍa--nibhaṃ sūtaṃ lavaṇabedhi bhaved yadā </l>
+
+        <l xml:id="srisaila150"> āva<lb/>rttitaḥ punas tadvat khoṭobaddharasākṛtiḥ 101
+          </l>
+        
+          <l xml:id="srisaila151">  athavā svede snigdhaṃ <lb/> mṛduṃ caiva śikhinā drāvito dravet
           <caesura/>
            akṣayaṃ kiṭhinaṃ śvetaṃ khoṭa<lb/>baddhasya la<add place="left-margin"
             >kṣa</add>ṇaṃ 102 </l>

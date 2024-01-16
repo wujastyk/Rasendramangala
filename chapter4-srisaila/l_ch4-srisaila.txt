@@ -794,20 +794,20 @@
 
         <l xml:id="srisaila133">gaṇanāthaḥ tathā siddhā cā 'nye gaṇanāyakāḥ|
           <caesura/>
-           āgacchanti purastasya siddha--vidyādharādayaḥ | </l>
+           āgacchanti puras tasya siddha--vidyādharādayaḥ | </l>
 
         <l xml:id="srisaila134">paśyanti bhavataḥ sarvaṃ vimānastho mahāmune|
           <caesura/>
            hārakaṃ kaṇakarpūraiḥ kuṃḍalair mukuṭais tathā | </l>
 
-        <l xml:id="srisaila135">śaṃkhakālādanirghoṣai raso<unclear extent="1" unit="syllable"/>gīta
-          vādibhiḥ|
+        <l xml:id="srisaila135">śaṃkhakālādanirghoṣair 
+          aso<unclear extent="1" unit="syllable"/>gītavādibhiḥ|
           <caesura/>
-           puṣpamālāpatākābhiḥ kiṃ kiṇā rava--saṃhitaiḥ | </l>
+           puṣpamālāpatākābhiḥ kiṃkiṇāravasaṃhitaiḥ | </l>
 
         <l xml:id="srisaila136">rave varatvaṃ prayacchanti yatra devo maheśvaraḥ|
           <caesura/>
-           kṛtāṃ'jalipuṭā bhūtvā śivasyāgre vivasthitaḥ | </l>
+           kṛtāṃjalipuṭā bhūtvā śivasyāgre vivasthitaḥ | </l>
 
 
 
