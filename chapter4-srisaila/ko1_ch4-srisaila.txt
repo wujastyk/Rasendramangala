@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Koba KT 11913 [Ko1]: Srisaila</title>
@@ -106,7 +106,7 @@
     </fileDesc>
     <revisionDesc>
       <change when="2019-12-17">
-        <persName>[name of editor]</persName>
+        [name of editor]
       </change>
     </revisionDesc>
   </teiHeader>
@@ -130,7 +130,7 @@
            pṛcchase rasakarmmāṇi vidyādānaṃ dadasva me</l>
 
         <p ana="speaker" xml:id="nagarjuna-1"><hi style="bold"
-            ><persName>nāgārjuno</persName>vāca</hi><lb/></p>
+            >nāgārjunovāca</hi><lb/></p>
 
         <l xml:id="srisaila05">sādhu sādhu mahāprājña tuṣṭo haṃ bhaktivatsalaḥ
           <caesura/>
@@ -147,12 +147,12 @@
         <l xml:id="srisaila09"> tatkāle dṛṣṭadravyāṇi divyā vācā śrutā mayā
           <caesura/>
            adṛṣṭa prārthitā paścā<lb/>n dṛṣṭatvaṃ bhava sāṃprataṃ </l>
-        <p ana="speaker" xml:id="vatayaksini-1">śrī<persName>vaṭayakṣarāja</persName> uvāca</p>
+        <p ana="speaker" xml:id="vatayaksini-1">śrīvaṭayakṣarāja uvāca</p>
         <l xml:id="srisaila10"> sādhu sādhu mahāsādhu ttarudbhaktyā mahattayā
           <caesura/>
            yat kārye <unclear>kū</unclear>ni<lb/>taṃ bhbhadra tat sarvaṃ pradadāmy ahaṃ</l>
         <p ana="speaker" xml:id="nagarjuna-2"><hi style="bold"
-          ><persName>nāgārjuno</persName></hi>vāca</p>
+          >nāgārjuno</hi>vāca</p>
         <l xml:id="srisaila11">tuṣṭa tvaṃ yadi māṃ devi kṛṣṇāṣṭā <unclear>dvā</unclear>daśavarṣakaiḥ
           <caesura/>
            ātmasatyaṃ dade<lb/> mahyaṃ tataḥ paścād dhuvāmy ahaṃ</l>
@@ -160,7 +160,7 @@
           <caesura/>
            yan kiṃcit pārthayese siddha tat sarvaṃ<lb/> pradadāmy ahaṃ</l>
         <p ana="speaker" xml:id="nagarjuna-3">śrī<hi style="bold"
-            ><persName>nāgārjuno</persName></hi>vāca</p>
+            >nāgārjuno</hi>vāca</p>
         <l xml:id="srisaila13">yadi tvaṃ devi tuṣṭāsi madbhaktyā bhaktivatsalaḥ
           <caesura/>
            durlabhaṃ triṣu lokeṣu rasabaṃ<lb/>dha varānane|</l>
@@ -174,7 +174,7 @@
           <caesura/>
            ātmakhyātaṃ kariṣyāmi asti supṛthivītale</l>
         <l xml:id="srisaila17"> devy upāyaṃ varārohe kathayasva prasādataḥ </l>
-        <p ana="speaker" xml:id="vatayaksini-2"><persName>vaṭa<lb/>yakṣa</persName>tyuvāca</p>
+        <p ana="speaker" xml:id="vatayaksini-2">vaṭa<lb/>yakṣatyuvāca</p>
         <l xml:id="srisaila18">yat kiṃcit prārthaye siddha tat sarvaṃ pradadāmi te
           <caesura/>
            kuru kārthaṃ yathātavyaṃ tiṣṭhe haṃ tvatsamīpataḥ</l>
@@ -184,7 +184,7 @@
         <l xml:id="srisaila20">mayā tasya śrutaṃ vākyaṃ prā<lb/>rthita śālivāhanaḥ
           <caesura/>
            yuṣmatsāmarthyayogena sādhayāmi mahārasam</l>
-        <p ana="speaker" xml:id="salivahana-1">śrī<persName>śālivāhano</persName>vācaḥ</p>
+        <p ana="speaker" xml:id="salivahana-1">śrīśālivāhanovācaḥ</p>
         <l xml:id="srisaila21">suvarṇaratnabhāṃḍā<lb/>raṃ kumāro mama sundarī
           <caesura/>
            niveditaṃ mayātmānaṃ ādeśo deva dāyatām</l>
@@ -384,7 +384,7 @@
           <caesura/>
            śarīreṇa va sarvaṃ bhavati niḥphalam </l>
 
-        <p xml:id="nagarjuna70a"><hi style="bold"><persName>nāgārjuno</persName></hi>vācaḥ</p>
+        <p xml:id="nagarjuna70a"><hi style="bold">nāgārjuno</hi>vācaḥ</p>
 
         <l xml:id="srisaila71">kathayāmi na<lb/> saṃdeho mārttaṃḍayena yat kṛtam
           <caesura/>
@@ -592,13 +592,13 @@
         <l xml:id="srisaila116.6"/>
         <l xml:id="srisaila116.7"/>
 
-        <p xml:id="srisaila116a"><hi style="bold"><persName>ratnaghoṣo</persName></hi>vāca</p>
+        <p xml:id="srisaila116a"><hi style="bold">ratnaghoṣo</hi>vāca</p>
 
         <l xml:id="srisaila117">bhūtakālāṃtakaṃ baṃdhaṃ yadā karttuṃ na śakyate
           <caesura/>
            anenaiva śarīreṇa kathaṃ siddhir bhaviṣyati </l>
 
-        <p xml:id="srisaila117a">śrī<hi style="bold"><persName>nāgārjuno</persName></hi>vāca </p>
+        <p xml:id="srisaila117a">śrī<hi style="bold">nāgārjuno</hi>vāca </p>
 
         <!-- got to here 2020-04-30  PDF 44 line 4 -->
 
@@ -691,7 +691,7 @@
           <caesura/>
            kṛtāṃjalipuṭā bhūtvā śi<lb/>vasyāgre vivasthita</l>
 
-        <p xml:id="srisaila136a">śrī<persName>bhairavo</persName>vāca </p>
+        <p xml:id="srisaila136a">śrībhairavovāca </p>
 
         <l xml:id="srisaila137">sāhastaṃ duḥścaraṃ ghoraṃ adbhutaṃ ca kṛtaṃ payā
           <caesura/>
@@ -706,7 +706,7 @@
            bhuktvā ca vipulān bhogān kalpāṃte muktibhājanaḥ </l>
 
         <l xml:id="srisaila140">iti śrī<hi style="bold"
-          ><persName>nāgārjuno</persName></hi><lb/>viracite mahārara uktā ṣecarabaṃdha samāptaḥ </l>
+          >nāgārjuno</hi><lb/>viracite mahārara uktā ṣecarabaṃdha samāptaḥ </l>
 
 
 
@@ -806,7 +806,7 @@
           <caesura/>
            sūtakena samāyuktaṃ yojayec ca bhiṣagvaraḥ </l>
 
-        <l xml:id="srisaila164">śrīman<hi style="bold"><persName>nāgārjuna</persName></hi>viracite
+        <l xml:id="srisaila164">śrīman<hi style="bold">nāgārjuna</hi>viracite
           raseṃdramaṃgale guṭikātvedutijalūkājāraṇādirasabaṃdha nāma caturtho'dhyāyaḥ 4 </l>
 
         <!-- start of the commentary -->

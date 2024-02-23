@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Jamnagar Gondal 34 [G]: Srisaila</title>
@@ -9,11 +9,11 @@
                 <distributor>Dominik Wujastyk</distributor>
                 <availability status="restricted">
                     <p>Copyright Notice</p>
-                    <p>Copyright <persName>Dominik Wujastyk</persName>2018</p>
+                    <p>Copyright Dominik Wujastyk2018</p>
                     <p>
                         <ref target="https://creativecommons.org/licenses/by-sa/4.0/"
-                            type="licence">Distributed by <persName>Dominik
-                                Wujastyk</persName>under a Creative Commons
+                            type="licence">Distributed by Dominik
+                                Wujastykunder a Creative Commons
                             Attribution-ShareAlike License.</ref>
                     </p>
                     <p>Under this licence, you are free <list>
@@ -107,7 +107,7 @@
 
 
 
-                <l n="36" xml:id="srisaila01">śrīśailaparvatastho<lb/>sau siddho nāgārjuno
+                <l n="36" xml:id="srisaila01">śrīśailaparvatastho<lb/> sau siddho nāgārjuno
                     mahān ||
                     <caesura/>
                      sarvasatvopakārī ca sarvabhogaguṇānvitaḥ ||</l>
@@ -122,13 +122,13 @@
                      teṣāṃ madhye pradhānaś ca ratnaghoṣo prabhākaraḥ </l>
 
                 <l n="39" xml:id="srisaila04">kṛtāṃjali vuṭo bhūtvā
-                        <persName>nāgārjuna</persName>purasvitaḥ
+                        nāgārjunapurasvitaḥ
                     <caesura/>
-                     pṛchate rasakarmmāṇi vidyā dānaṃ dadasva me ||</l>
+                     pṛchate rasakarmmāṇi vidyādānaṃ dadasva me ||</l>
 
 
                 <p ana="speaker" xml:id="nagarjuna-1">
-                    <persName>śrīnāgārjuna</persName> uvāca ||</p>
+                    śrīnāgārjuna uvāca ||</p>
 
                 <l n="40" xml:id="srisaila05">sādhu sādhu mahāṃprājña tuṣṭo haṃ
                     bhaktivatsalaḥ ||
@@ -156,8 +156,8 @@
                      adṛṣṭā prārthitā devī draśyatva bhava sāṃprataṃ ||</l>
 
 
-                <p ana="speaker" xml:id="vatayaksini-1">śrī <persName ana="Vaṭayakṣiṇī">va
-                        ṇī</persName> uvāca ||</p>
+                <p ana="speaker" xml:id="vatayaksini-1">śrī va
+                        ṇī uvāca ||</p>
 
 
                 <l xml:id="srisaila10">sādhu sādhu mahāsiddhaḥ tava bhaktyā mahātmanaḥ
@@ -165,7 +165,7 @@
                      tatāhvānitā bhadra tat sarvam ahadāmy ahaṃ ||</l>
 
 
-                <p ana="speaker" xml:id="nagarjuna-2"><persName>śrīnāgārjuna</persName>
+                <p ana="speaker" xml:id="nagarjuna-2">śrīnāgārjuna
                     uvāca</p>
 
 
@@ -179,7 +179,7 @@
                      yat kiṃcit prārthayate siddha tat sarvaṃ pradadāmy ahaṃ ||</l>
 
 
-                <p ana="speaker" xml:id="nagarjuna-3"><persName>śrīnāgārjuna</persName>
+                <p ana="speaker" xml:id="nagarjuna-3">śrīnāgārjuna
                     uvāva</p>
 
 
@@ -204,7 +204,7 @@
 
 
                 <p ana="speaker" xml:id="vatayaksini-2">śrī
-                        <persName>vaṭayakṣiṇī</persName> uvāca//</p>
+                        vaṭayakṣiṇī uvāca//</p>
 
 
                 <l xml:id="srisaila18">yat kiṃcit prārthyate siddha tat sarvaṃ pradadāmi
@@ -220,7 +220,7 @@
                     <caesura/>
                      yuṣmatsāmarthyayogena sādhayāmi mahārasaṃ ||</l>
 
-                <p ana="speaker" xml:id="salivahana-1"><persName>śālivāhana</persName>
+                <p ana="speaker" xml:id="salivahana-1">śālivāhana
                     uvāca</p>
 
                 <l xml:id="srisaila21"> suvarṇaratnabhāṃḍāraṃ kumāreṇa ca suṃdarī ||
@@ -437,7 +437,7 @@
                 <l xml:id="srisaila69">daśasaṃkrāntiniṣkrāṃto koṭivedhībhavedrasaḥ | | </l>
 
                 <p ana="speaker" xml:id="ratnaghosa69a"><hi style="bold"
-                            ><persName>ratnaghoṣa</persName></hi> uvāca | | </p>
+                            >ratnaghoṣa</hi> uvāca | | </p>
 
                 <l xml:id="srisaila70">sādhayitvā prayatnena <lb/> koṭivedhī mahārasaḥ| |
                     <caesura/>
@@ -702,7 +702,7 @@
                 <milestone unit="section"/>
 
                 <p xml:id="srisaila116a"><hi style="bold"
-                        ><persName>ratnaghoṣa</persName></hi>uvāca | </p>
+                        >ratnaghoṣa</hi>uvāca | </p>
 
 
                 <l xml:id="srisaila117">sūtakālāṃtakaṃ baṃdhaṃ yadā kartuṃ <lb/>na śakyate
@@ -716,7 +716,7 @@
                 <p>[Khecarabandha]</p>
 
                 <p xml:id="srisaila117a"><hi style="bold"
-                            ><persName>śrīnāgārjuna</persName></hi> uvāca| | </p>
+                            >śrīnāgārjuna</hi> uvāca| | </p>
 
 
                 <l xml:id="srisaila118">punar anyat prava<lb/>kṣyāmi khecaraṃ bandham
@@ -820,7 +820,7 @@
 
 
                 <p xml:id="srisaila136a">śrī<hi style="bold"
-                        ><persName>bhairava</persName></hi>uvāca| | </p>
+                        >bhairava</hi>uvāca| | </p>
 
                 <l xml:id="srisaila137">sāhasraṃ duṣkaraṃ ghoraṃ adbhutaṃ ca kṛtaṃ tvayā
                     ||
@@ -836,8 +836,8 @@
                     <caesura/>
                      bhuktvā ca vipulān bhogān kasyāṃte muktibhājanaḥ| | </l>
 
-                <l xml:id="srisaila140"> iti <persName>
-                        <hi>nāgārjuna</hi></persName>hṛdayā<unclear>strephaṭ</unclear>
+                <l xml:id="srisaila140"> iti 
+                        <hi>nāgārjuna</hi>hṛdayā<unclear>strephaṭ</unclear>
                         ||<pb n="37v"/>
                 </l>
 

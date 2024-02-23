@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>London Wellcome [L]: Srisaila</title>
@@ -112,7 +112,7 @@
     </fileDesc>
     <revisionDesc>
       <change when="2019-10-20">
-        <persName>[name of editor]</persName>
+        [name of editor]
       </change>
     </revisionDesc>
   </teiHeader>
@@ -137,7 +137,7 @@
 
         <l xml:id="srisaila03">sarvasattvamahāvedhī sūtasena taveva hi|
           <caesura/>
-           teṣāṃ madhye prallātaś ca ratnaghoṣa prabhākaraḥ | </l>
+           teṣāṃ madhye prallātaś ca ratnaghoṣaprabhākaraḥ | </l>
 
         <l xml:id="srisaila04">kṛtāṃjalipuṭo bhūtvā nāgārjunoparisthitaḥ|
           <caesura/>

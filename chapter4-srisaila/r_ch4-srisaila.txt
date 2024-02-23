@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Jammu Raghunātha 3135 [R]: ch4-Srisaila</title>
@@ -150,16 +150,16 @@
 
         <l xml:id="srisaila04">kṛtāṃjalipuṭo bhūtvā nāgārjunapurasthitaḥ
           <caesura/>
-           pṛśchate rasakanyāṇi vidyādānaṃ dadasva me//</l>
+           pṛśchate rasakanyāṇi vidyādānaṃ dadasva me || </l>
 
 
 
         <p ana="speaker" xml:id="nagarjuna-1">
-          <persName>śrī nāgārjuna uvāca</persName>
+          śrī nāgārjuna uvāca
         </p>
 
 
-        <l xml:id="srisaila05">sādhu sādhu mahāmnājñā tuṣṭohaṃ bhaktivatsala
+        <l xml:id="srisaila05">sādhu sādhu mahāmnājñā tuṣṭo haṃ bhaktivatsala
           <caesura/>
            kathayāmi na mandeho yat tvayā paripṛcchyatām </l>
         <l xml:id="srisaila06">valīpalitanāśaṃ ca tathā kālasya vāṃcanaṃ
@@ -171,9 +171,9 @@
         <l xml:id="srisaila08">satvānāṃ bhojanārthāya sādhitā vaṭayakṣiṇī
           <caesura/>
            dvādaśāni tu varṣāṇi mahākleśaḥ kṛto mayā</l>
-        <l xml:id="srisaila09"> tatkāla dṛṣṭadravyāṇāṃ divyā vāṇī mayā śruttā/
+        <l xml:id="srisaila09"> tatkāla dṛṣṭadravyāṇāṃ divyā vāṇī mayā śruttā | 
           <caesura/>
-           adṛṣṭaprārthitā paścād dṛṣṭā tvaṃ bhava māṃprataṃ// </l>
+           adṛṣṭaprārthitā paścād dṛṣṭā tvaṃ bhava māṃprataṃ ||  </l>
 
 
         <p ana="speaker" xml:id="vatayaksini-1">śrī vaṭayakṣiṇy uvāca</p>
@@ -185,7 +185,7 @@
 
 
         <p ana="speaker" xml:id="nagarjuna-2">
-          <sic>nāgārjunuvāca</sic>
+          <sic>nāgārjun uvāca</sic>
         </p>
 
         <l n="46" xml:id="srisaila11">tuṣṭā tvaṃ yadi māṃ de<pb n="29v"/>vi kṛṣṭā
@@ -201,7 +201,7 @@
            kiṃcit prārthaya me siddha tat sarvaṃ prarudābhy ahaṃ</l>
 
 
-        <p ana="speaker" xml:id="nagarjuna-3">śrī<persName>nāgārjuna</persName>uvāca</p>
+        <p ana="speaker" xml:id="nagarjuna-3">śrīnāgārjuna uvāca</p>
 
 
         <l xml:id="srisaila13"> yadi tuṣṭā¦<lb/>si me devi sarvadā bhaktivatsale
@@ -224,7 +224,7 @@
 
         <l xml:id="srisaila17"> u<unclear>d u</unclear>pāyaṃ varārohe kaṣayasva prasādataḥ </l>
 
-        <p ana="speaker" xml:id="vatayaksini-2"><persName>vaṭayakṣiṇy</persName> uvāca</p>
+        <p ana="speaker" xml:id="vatayaksini-2">vaṭayakṣiṇy uvāca</p>
 
         <l n="53" xml:id="srisaila18">yat kiṃcit pra<lb/>kḷṛse bhadra tat sarvaṃ pradadāmy
           aham
@@ -241,7 +241,7 @@
           <caesura/>
            yuṣmatmāmarthyayogena sādhayāmi mahārasam</l>
 
-        <p ana="speaker" xml:id="salivahana-1"><persName>śālivāhana</persName> uvāca</p>
+        <p ana="speaker" xml:id="salivahana-1">śālivāhana uvāca</p>
 
         <l xml:id="srisaila21"> suvarṇaratnabhāṃḍa¦<pb n="29v"/>raṃ kumārī mada<pc
           > </pc>sundarī
@@ -477,8 +477,8 @@
 
         <l xml:id="srisaila69">daśamaṃ<lb/>maṃkrāntiniṣkrāntaḥ koṭivedhī bhaved rasaḥ </l>
 
-        <p ana="speaker" xml:id="ratnaghosa69a"><hi style="bold"><persName>
-              ratnaghoṣa</persName></hi>uvāca </p>
+        <p ana="speaker" xml:id="ratnaghosa69a"><hi style="bold">
+              ratnaghoṣa</hi>uvāca </p>
         <l xml:id="srisaila70">sādhayitvā prayatnena koṭivedhī mahāra<lb/>saḥ
           <caesura/>
            śarīreṇa vinai tena sarvaṃ bhavati niṣphalam </l>
@@ -733,13 +733,13 @@
 
         <l xml:id="srisaila116.7">devā yatra vilīyante siddhas tatra vilī<lb/>yate</l>
 
-        <p xml:id="srisaila116a"><persName>ratnaghoṣa</persName>uvāca </p>
+        <p xml:id="srisaila116a">ratnaghoṣauvāca </p>
 
         <l xml:id="srisaila117">kālāntakāya vandhāya yadā kaṃtuṃ na śakyate
           <caesura/>
            anenaiva śarīreṇa kathaṃ siddhin bhavi<lb/>ṣyati </l>
 
-        <p xml:id="srisaila117a"><persName> nāgārjuna</persName>uvāca </p>
+        <p xml:id="srisaila117a"> nāgārjuna uvāca </p>
 
         <l xml:id="srisaila118">punar anyaṃ pravakṣāmi <del>|ve</del><add>khe</add>caraṃ
           vandham uttamam
@@ -831,8 +831,8 @@
           <caesura/>
            kṛtāṃjalipaṭo bhūtvā<unclear>|</unclear><lb/> śivasyāgre vyavasthitaḥ </l>
 
-        <p xml:id="srisaila136a">śrī<hi style="bold"><persName>bhairava
-          </persName></hi>uvāca </p>
+        <p xml:id="srisaila136a">śrī<hi style="bold">bhairava
+          </hi>uvāca </p>
         <l xml:id="srisaila137">mohaṃ puṣkaraṃ ghoram adbhutaṃ ca kṛtaṃ tvayā
           <caesura/>
            tvadbhaktyā hy adya<lb/> saṃtuṣṭa svaśchandapraticārakaḥ </l>

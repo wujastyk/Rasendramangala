@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Koba KT 26264 [Ko2]: Srisaila new</title>
@@ -113,7 +113,7 @@
         <p><unclear>om</unclear>| | atha nāgārjūnakṛtarasaratnākarasya cartho adhyāya
           prārabhyate </p>
 
-        <l xml:id="srisaila01">śrīsīlaparvata<unclear>syo</unclear><lb/>sau sidho
+        <l xml:id="srisaila01">śrīsīlaparvata<unclear>syo</unclear><lb/> sau sidho
           nāgārjūno māhānḥ
           <caesura/>
            sarvasatvopakāri ca sarvabhogagūṇānvīta 1 </l>
@@ -127,14 +127,14 @@
         <l xml:id="srisaila03"> sarvasatvamāhābe¦2<lb/>dhiḥ sūrana<unclear>sva</unclear>
           tathaiva caḥ
           <caesura/>
-           teṣyāṃ madhe pradhānaṃ caḥ ratnaghosoprabhākara 3 </l>
+           teṣyāṃ madhe pradhānaṃ caḥ ratnaghoso prabhākara 3 </l>
 
         <l xml:id="srisaila04"> kṛtāṃjalīpuṭo bhūtvā nā<lb/>gārjunapurasthītaḥ
           <caesura/>
            pṛchate rasyakarmāṇi vidyādāṃnaṃ dadasva me 4 </l>
 
         <p ana="speaker" xml:id="nagarjuna-1">
-          <persName>nāgārjuno vāca</persName>
+          nāgārjunovāca
         </p>
 
         <l xml:id="srisaila05">sādhu sādhu<lb/> mahābhāgaḥ tuṣṭo haṃ bhaktivachalaḥ
@@ -147,7 +147,7 @@
 
         <l xml:id="srisaila07">sahastrayūtalakṣaṃ<lb/> caḥ koṭivedhi bhaved ṛsaḥ
           <caesura/>
-           tadahaṃ saṃpravakṣāmīḥ sādha<unclear>naṃ</unclear>ca yathāvidhī 7 </l>
+           tad ahaṃ saṃpravakṣāmīḥ sādha<unclear>naṃ</unclear>ca yathāvidhī 7 </l>
 
         <l xml:id="srisaila08">satvānāṃ bodhanārthā<lb/>vya sādhitā vaṭayakṣaṇiḥ
           <caesura/>
@@ -197,7 +197,7 @@
         <l xml:id="srisaila17">ta<unclear extent="1" unit="syllable"/>yā<lb/>yāṃ varāroheḥ
             ka<unclear>tha</unclear>yasva varānane 16 </l>
 
-        <p ana="speaker" xml:id="vatayaksini-2"><persName>vaṭayakṣaṇyū</persName> vāca </p>
+        <p ana="speaker" xml:id="vatayaksini-2">vaṭayakṣaṇyū vāca </p>
 
         <l xml:id="srisaila18">sādhu2 mahāsidha tvat bhaktyā tu mā<lb/>tmanaḥ
             ya<unclear>tkiṃ</unclear>cītārthaṃ te sidhiḥ tat sarvaṃ pradadāmi te 17
@@ -216,7 +216,7 @@
           <caesura/>
            yuṣmat sāmarthayogena na sādhayāmi mahā<lb/>rasaṃ </l>
 
-        <p ana="speaker" xml:id="salivahana-1"><persName>sālivāhano</persName>vāca</p>
+        <p ana="speaker" xml:id="salivahana-1">sālivāhanovāca</p>
 
         <l xml:id="srisaila21">suvarṇaratnabhaṃḍāraṃ kumāro <unclear>dime</unclear> sudari
           20
@@ -453,7 +453,7 @@
         </l>
 
         <p ana="speaker" xml:id="ratnaghosa69a"><hi style="bold"
-              ><persName>ratnaghoṣo</persName></hi>vāca<unclear extent="1" unit="syllable"
+              >ratnaghoṣo</hi>vāca<unclear extent="1" unit="syllable"
           /><lb/></p>
 
         <l xml:id="srisaila70">sādha_itvā prayatnena koṭīvīdhī mahārasa
@@ -711,7 +711,7 @@
 
 
         <p xml:id="srisaila116a"><hi style="bold"
-            ><persName>ratnaghoṣo</persName></hi>vāca<unclear extent="1" unit="character"
+            >ratnaghoṣo</hi>vāca<unclear extent="1" unit="character"
           /></p>
 
         <l xml:id="srisaila117">bhūtakālāṃtakaṃ baṃdhaṃ <unclear>ya</unclear>dā kartū na
@@ -720,8 +720,8 @@
            anainava sarireṇa kathaṃ sidha<unclear extent="1" unit="character"/><lb/>
           bhavīṣyati 6 </l>
 
-        <p xml:id="srisaila117a"><hi style="bold"><persName>
-            nāgārjuno</persName></hi>vāca<unclear extent="1" unit="character"/></p>
+        <p xml:id="srisaila117a"><hi style="bold">
+            nāgārjuno</hi>vāca<unclear extent="1" unit="character"/></p>
 
         <l xml:id="srisaila118">pūnar aṇa pravakṣāmi khecaraṃ baṃdhamūtaṃ
           <caesura/>
@@ -814,8 +814,8 @@
           <caesura/>
            kṛtāṃjalīpūṭo<lb/> bhūtvā savasāgare vīvasthītaṃ 26 </l>
 
-        <p xml:id="srisaila136a"><hi style="bold"><persName>bhairavo
-            </persName></hi>vāca<unclear extent="1" unit="character"/></p>
+        <p xml:id="srisaila136a"><hi style="bold">bhairavo
+            </hi>vāca<unclear extent="1" unit="character"/></p>
 
         <l xml:id="srisaila137">saha<unclear>sraṃ</unclear> pūskaraṃ ghoraṃ yadbhūtaṃ
           cekṣītaṃ tvayā

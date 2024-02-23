@@ -137,7 +137,7 @@
           <caesura/>
            pṛchate rasakarmmāṇi vidyādānaṃ dadasva me</l>
 
-        <p xml:id="nagarjuna-1" ana="speaker"><persName>nāgārjunovāca</persName></p>
+        <p xml:id="nagarjuna-1" ana="speaker">nāgārjunovāca</p>
 
 
         <l n="40" xml:id="srisaila05">sādhu sādhu mahāprājña tuṣṭo haṃ bhaktivatsalaḥ
@@ -188,7 +188,7 @@
 
         <!-- From here the text is copied from London 2019-11-27 with srisaila16 and srisaila30 from Gondal -->
 
-        <p ana="speaker" xml:id="nagarjuna-3">śrī<persName>nāgārjuno</persName>vāca</p>
+        <p ana="speaker" xml:id="nagarjuna-3">śrīnāgārjunovāca</p>
 
 
         <l xml:id="srisaila13">yadi tvaṃ devi tuṣṭāsi madbhaktyā bhaktivatsalaḥ
@@ -212,7 +212,7 @@
         <l xml:id="srisaila17">devy upāyaṃ varārohe kathayasva prasādataḥ</l>
 
 
-        <p ana="speaker" xml:id="vatayaksini-2"><persName>vaṭayakṣaty</persName> uvāca</p>
+        <p ana="speaker" xml:id="vatayaksini-2">vaṭayakṣaty uvāca</p>
 
         <l n="53" xml:id="srisaila18">yat kiṃcit prārthaye siddha tat sarbaṃ pradadāmi<lb/> te
           <caesura/>
@@ -226,7 +226,7 @@
           <caesura/>
            yuṣmatsāmarthyayogena sādhayāmi mahārasam</l>
 
-        <p ana="speaker" xml:id="salivahana-1">śrī<persName>śālivāhano</persName>vāca</p>
+        <p ana="speaker" xml:id="salivahana-1">śrīśālivāhanovāca</p>
 
         <l xml:id="srisaila21">su<lb/>varṇaratnabhāṃḍāraṃ kumāro mama sundarī
           <caesura/>
@@ -432,14 +432,14 @@
 
         <l xml:id="srisaila69">daśasaṃkrāṃti nikrāṃto koṭivedhī mahārasaḥ</l>
 
-        <p xml:id="ratnaghosa69a"><persName>ratnaghoṣa</persName>uvāca</p>
+        <p xml:id="ratnaghosa69a">ratnaghoṣa uvāca</p>
 
         <l xml:id="srisaila70">sādhayitvā prayatnena koṭivedhī mahārasaḥ
           <caesura/>
            śarīreṇa <unclear extent="1" unit="syllable"/><add place="above">vinaite ra</add> sarvaṃ
           bhava<lb/>ti niḥphalaṃ</l>
 
-        <p xml:id="nagarjuna70a"><persName>nāgārjuno</persName>vāca</p>
+        <p xml:id="nagarjuna70a">nāgārjunovāca</p>
 
         <l xml:id="srisaila71">kathayāmi na saṃdeho mārtaṃḍayena<add place="below"
             >mārkaṇḍeyena</add> yat kṛtaṃ
@@ -649,7 +649,7 @@
         <l xml:id="srisaila116.5"/>
         <l xml:id="srisaila116.6"/>
         <l xml:id="srisaila116.7"/>
-        <p xml:id="srisaila116a"><persName>ratnaghoṣo</persName>vāca</p>
+        <p xml:id="srisaila116a">ratnaghoṣovāca</p>
 
         <l xml:id="srisaila117">bhūtakālāṃtakaṃ<lb/>baṃdhaṃ yadā kartuṃ na śakyate
           <caesura/>
@@ -657,7 +657,7 @@
 
         <!-- [khecarabaṃdhaḥ] -->
 
-        <p xml:id="srisaila117a">śrī<persName>nāgārjuno</persName>vāca</p>
+        <p xml:id="srisaila117a">śrīnāgārjunovāca</p>
 
         <l xml:id="srisaila118">punar anyaṃ pravakṣyāmi khecaraṃ baṃdham uttamaṃ .
           <caesura/>
@@ -735,7 +735,7 @@
           <caesura/>
            kṛtāṃjalipuṭo bhūtvā śivasyāgre vi<lb/>vasthitaḥ</l>
 
-        <p xml:id="srisaila136a">śrī<persName>bhairavo</persName>vāca</p>
+        <p xml:id="srisaila136a">śrībhairavovāca</p>
 
         <l xml:id="srisaila137">sāha<del>staṃ</del>saṃ duḥścaraṃ ghoraṃ adbhutaṃ ca kṛtaṃ
             <del>va</del>tvayā

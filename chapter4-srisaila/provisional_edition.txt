@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
 
     <fileDesc>
       <titleStmt>
@@ -122,10 +122,8 @@
 
     <xenoData>
       <stemma format="nexml">
-        <nex:nexml generator="SplitsTree6" version="0.9"
-          xmlns:nex="http://www.nexml.org/2009" xmlns="http://www.nexml.org/2009"
-          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xmlns:sp5="https://github.com/danielhuson/splitstree6">
+        <nex:nexml generator="SplitsTree6" version="0.9" xmlns:nex="http://www.nexml.org/2009" xmlns="http://www.nexml.org/2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sp5="https://github.com/danielhuson/splitstree6">
+          
           <otus id="otus1" label="TaxaBlock">
             <otu id="otu1" label="A1"/>
             <otu id="otu2" label="A2"/>
@@ -139,7 +137,9 @@
             <otu id="otu10" label="Pa"/>
             <otu id="otu11" label="R"/>
             <otu id="otu12" label="U"/>
+            <otu id="otu13" label="V3"/>
           </otus>
+          
           <trees otus="otus1" id="trees1" label="TreesBlock">
             <tree id="tree1" label="tree1" xsi:type="nex:FloatTree">
               <node id="n1" label="A1" otu="otu1"/>
@@ -154,7 +154,7 @@
               <node id="n10" label="Pa" otu="otu10"/>
               <node id="n11" label="R" otu="otu11"/>
               <node id="n12" label="U" otu="otu12"/>
-              <node id="n13"/>
+              <node id="n13" label="V3" otu="otu13"/>
               <node id="n14"/>
               <node id="n15"/>
               <node id="n16"/>
@@ -163,28 +163,32 @@
               <node id="n19"/>
               <node id="n20"/>
               <node id="n21"/>
-              <node id="n22" root="true"/>
-              <edge source="n13" target="n7" id="e1" length="0.03867210075259209"/>
-              <edge source="n13" target="n12" id="e2" length="0.016180656850337982"/>
-              <edge source="n14" target="n3" id="e3" length="0.020561521872878075"/>
-              <edge source="n14" target="n11" id="e4" length="0.052925631403923035"/>
-              <edge source="n15" target="n2" id="e5" length="0.020923776552081108"/>
-              <edge source="n15" target="n4" id="e6" length="0.035486914217472076"/>
-              <edge source="n16" target="n15" id="e7" length="0.0014965995214879513"/>
-              <edge source="n16" target="n14" id="e8" length="0.009344857186079025"/>
-              <edge source="n17" target="n16" id="e9" length="0.0015225596725940704"/>
-              <edge source="n17" target="n13" id="e10" length="0.017880771309137344"/>
-              <edge source="n18" target="n17" id="e11" length="0.018327681347727776"/>
-              <edge source="n18" target="n10" id="e12" length="0.013700654730200768"/>
-              <edge source="n19" target="n6" id="e13" length="0.004763277247548103"/>
-              <edge source="n19" target="n9" id="e14" length="0.004314877092838287"/>
-              <edge source="n20" target="n19" id="e15" length="0.00109022855758667"/>
-              <edge source="n20" target="n8" id="e16" length="0.013258879072964191"/>
-              <edge source="n21" target="n1" id="e17" length="0.011186055839061737"/>
-              <edge source="n21" target="n5" id="e18" length="0.028874490410089493"/>
-              <edge source="n22" target="n21" id="e19" length="0.0011454224586486816"/>
-              <edge source="n22" target="n18" id="e20" length="0.005071105435490608"/>
-              <edge source="n22" target="n20" id="e21" length="0.003890065476298332"/>
+              <node id="n22"/>
+              <node id="n23"/>
+              <node id="n24" root="true"/>
+              <edge source="n14" target="n7" id="e1" length="0.03820156306028366"/>
+              <edge source="n14" target="n12" id="e2" length="0.012586165219545364"/>
+              <edge source="n15" target="n3" id="e3" length="0.01949312910437584"/>
+              <edge source="n15" target="n11" id="e4" length="0.05306234583258629"/>
+              <edge source="n16" target="n4" id="e5" length="0.02870841883122921"/>
+              <edge source="n16" target="n13" id="e6" length="-0.005011735484004021"/>
+              <edge source="n17" target="n2" id="e7" length="0.01861037127673626"/>
+              <edge source="n17" target="n16" id="e8" length="0.0037681180983781815"/>
+              <edge source="n18" target="n17" id="e9" length="0.0038253162056207657"/>
+              <edge source="n18" target="n14" id="e10" length="0.016583779826760292"/>
+              <edge source="n19" target="n18" id="e11" length="0.0034135449677705765"/>
+              <edge source="n19" target="n15" id="e12" length="0.012768866494297981"/>
+              <edge source="n20" target="n19" id="e13" length="0.015567653812468052"/>
+              <edge source="n20" target="n10" id="e14" length="0.013255101628601551"/>
+              <edge source="n21" target="n1" id="e15" length="0.010523751378059387"/>
+              <edge source="n21" target="n5" id="e16" length="0.028325896710157394"/>
+              <edge source="n22" target="n21" id="e17" length="0.0012766087893396616"/>
+              <edge source="n22" target="n20" id="e18" length="0.005345256999135017"/>
+              <edge source="n23" target="n6" id="e19" length="0.00412280997261405"/>
+              <edge source="n23" target="n9" id="e20" length="0.0040475293062627316"/>
+              <edge source="n24" target="n22" id="e21" length="0.003696808824315667"/>
+              <edge source="n24" target="n23" id="e22" length="0.0013991075102239847"/>
+              <edge source="n24" target="n8" id="e23" length="0.0129424799233675"/>
             </tree>
           </trees>
         </nex:nexml>
@@ -193,7 +197,7 @@
 
     <revisionDesc>
       <change when="2019-10-29">
-        <persName>Dominik Wujastyk</persName>
+        Dominik Wujastyk
       </change>
       <change when="2023-12-10" who="Dominik Wujastyk">Edits before publication of
         translation.</change>
@@ -205,30 +209,26 @@
 
 
       <div n="4" type="adhyaya">
-        <l xml:id="srisaila01"><label>01</label>śrīśailaparvatastho 'sau siddho <persName
-            rend="bold" ana="Nāgārjuna">nāgārjuno</persName> mahān | |
+        <l xml:id="srisaila01"><label>01</label>śrīśailaparvatastho 'sau siddho nāgārjuno mahān | |
           <caesura/>
            sarvasattvopakārī ca sarvabhogaguṇānvitaḥ || </l>
         <l xml:id="srisaila02"><label>02</label> prārthito dadhate śīghraṃ yasya yasya hi
           yādṛśaṃ | |
           <caesura/>
            dṛṣṭvā tyāgaṃ ca bhogaṃ ca sūtakasya prasādataḥ || </l>
-        <l xml:id="srisaila03"><label>03</label> sarvasattvamahāvedhī sūtasena taveva hi |
+        <l xml:id="srisaila03"><label>03</label> sarvasattvamahāvedhī sūtasena tathaiva hi |
           |
           <caesura/>
-           teṣāṃ madhye pradhānaṃ ca <persName ana="Ratnaghoṣa" rend="bold"
-            >ratnaghoṣa</persName>prabhākaraḥ || </l>
-        <l xml:id="srisaila04"><label>04</label> kṛtāñjalipuṭo bhūtvā <persName
-            ana="Nāgārjuna" rend="bold">nāgārjuna</persName>purasthitaḥ | |
+           teṣāṃ madhye pradhānaṃ ca ratnaghoṣaprabhākaraḥ || </l>
+        <l xml:id="srisaila04"><label>04</label> kṛtāñjalipuṭo bhūtvā nāgārjunapurasthitaḥ | |
           <caesura/>
            pṛcchate rasakarmāṇi vidyādānaṃ dadasva me || </l>
-        <p ana="speaker" xml:id="nagarjuna-1">śrī<persName ana="Nāgārjuna" rend="bold"
-            >nāgārjuno 'vāca</persName></p>
+        <p ana="speaker" xml:id="nagarjuna-1">śrīnāgārjuna uvāca</p>
         <l xml:id="srisaila05"><label>05</label>sādhu sādhu mahāprājña tuṣṭo 'haṃ
           bhaktivatsalaḥ | |
           <caesura/>
            kathayāmi na sandeho yat tvayā paripṛchitam | |</l>
-        <l xml:id="srisaila06"><label>06</label> valīpalitanāśaṃ ca tathā kālasya vañcanaṃ
+        <l xml:id="srisaila06"><label>06</label> valipalitanāśaṃ ca tathā kālasya vañcanaṃ
           | |
           <caesura/>
            yathā lohe tathā dehe kramate nātra saṃśayaḥ <anchor n="srisaila06-n1"/></l>
@@ -258,22 +258,19 @@
           rasaḥ | |
           <caesura/>
            tad ahaṃ saṃpravakṣyāmi sādhanaṃ ca yathāvidhi | |</l>
-        <l xml:id="srisaila08"><label>08</label> satvānāṃ bodhanārthāya sādhitā <persName
-            ana="Vaṭayakṣiṇī" rend="bold">vaṭayakṣiṇī</persName> | |
+        <l xml:id="srisaila08"><label>08</label> satvānāṃ bodhanārthāya sādhitā vaṭayakṣiṇī | |
           <caesura/>
            dvādaśāni ca varṣāṇi mahākleśaḥ kṛto mayā || </l>
         <l xml:id="srisaila09"><label>09</label> tatkāle 'dṛṣṭadivyānāṃ divyavācā śrutā
           mayā | |
           <caesura/>
            adṛṣṭā prārthitā paścāt dṛṣṭatvaṃ bhava sāṃprataṃ || </l>
-        <p ana="speaker" xml:id="vatayaksini-1"><persName ana="Vaṭayakṣiṇī" rend="bold"
-            >vaṭayakṣaṇy</persName> uvāca</p>
-        <l xml:id="srisaila10"><label>10</label> sādhu sādhu mahāsiddha tvadbhaktyā tu
+        <p ana="speaker" xml:id="vatayaksini-1">vaṭayakṣaṇy uvāca</p>
+        <l xml:id="srisaila10"><label>10</label> sādhu sādhu mahāsādhu tvadbhaktyā tu
           mahattayā | |
           <caesura/>
            yat kārye kāṅkṣitaṃ bhadra tat sarvaṃ pradadāmy ahaṃ || </l>
-        <p ana="speaker" xml:id="nagarjuna-2">śrī<persName ana="Nāgārjuna" rend="bold"
-            >nāgārjuno</persName> 'vāca</p>
+        <p ana="speaker" xml:id="nagarjuna-2">śrīnāgārjuna uvāca</p>
         <l xml:id="srisaila11"><label>11</label> tuṣṭā tvaṃ yadi māṃ devi kliṣṭā
           dvādaśavarṣayā | |
           <caesura/>
@@ -282,8 +279,7 @@
           tridhā kṛtā | |
           <caesura/>
            yat kiñcit prārthase siddha tat sarvaṃ pradadāmy ahaṃ | |</l>
-        <p ana="speaker" xml:id="nagarjuna-3">śrī<persName ana="Nāgārjuna" rend="bold"
-            >nāgārjuno</persName> 'vāca</p>
+        <p ana="speaker" xml:id="nagarjuna-3">śrīnāgārjuna uvāca</p>
         <l xml:id="srisaila13"><label>13</label> yadi tvaṃ devi tuṣṭāsi madbhaktyā
           bhaktivatsale |
           <caesura/>
@@ -302,8 +298,7 @@
         <l xml:id="srisaila17"><label>17</label> devy upāyaṃ varārohe kathayasva
           prasādataḥ | </l>
         <!-- </lg> -->
-        <p ana="speaker" xml:id="vatayaksini-2"><persName ana="Vaṭayakṣiṇī" rend="bold"
-            >vaṭayakṣiṇy</persName> uvāca</p>
+        <p ana="speaker" xml:id="vatayaksini-2">vaṭayakṣiṇy uvāca</p>
         <l xml:id="srisaila18"><label>18</label> yat kiñcit prārthayeḥ siddha tat sarvaṃ
           pradadāmi te |
           <caesura/>
@@ -316,7 +311,7 @@
           śālivāhanaḥ |
           <caesura/>
            yuṣmatsāmarthyayogena sādhayāmi mahārasam | </l>
-        <p ana="speaker" xml:id="salivahana-1">śrī<persName>śālivāhano</persName> vāca</p>
+        <p ana="speaker" xml:id="salivahana-1">śrīśālivāhano vāca</p>
         <l xml:id="srisaila21"><label>21</label>suvarṇaratnabhāṃḍāraṃ kumārī mama sundarī
           |
           <caesura/>
@@ -523,13 +518,12 @@
            jārito māritaś caiva punar jāritamāritaḥ | </l>
         <l xml:id="srisaila69"><label>69</label>daśasaṅkrāntiniṣkrāntaḥ koṭivedhī bhaved
           rasaḥ | </l>
-        <p ana="speaker" xml:id="ratnaghosa69a"><persName ana="Ratnaghoṣa" rend="bold"
-            >ratnaghoṣa</persName> uvāca | </p>
+        <p ana="speaker" xml:id="ratnaghosa69a">ratnaghoṣa uvāca | </p>
         <l xml:id="srisaila70"><label>70</label>sādhayitvā prayatnena koṭivedhī mahārasaḥ
           |
           <caesura/>
            śarīreṇa vinā tat sarvaṃ bhavati niṣphalam | </l>
-        <p xml:id="srisaila70a"><persName ana="Nāgārjuna" rend="bold">nāgārjuno</persName>
+        <p xml:id="srisaila70a">nāgārjuno
           'vaca |</p>
         <l xml:id="srisaila71"><label>71</label>kathayāmi na sandeho mārkkaṇḍeyena yat
           kṛtam |
@@ -843,8 +837,7 @@
           jalodare |</l>
         <l xml:id="srisaila92b" met="hypermetrical"> grāhiṇī durnāmakaṃ gulmaṃ gaṇḍamālā
           śilās tathā | </l>
-        <l xml:id="srisaila92x"><persName ana="Nāgārjuna" rend="bold">nāgārjuno</persName>
-          'vāca</l>
+        <l xml:id="srisaila92x">nāgārjuna uvāca</l>
         <l xml:id="srisaila93"><label>93</label>etaiḥ sarvair vinirmukto
           valipalitavarjitaḥ |
           <caesura/>
@@ -1151,14 +1144,12 @@
            tasminn ekārṇave ghore naṣṭe sthāvarajaṃgame || </l>
         <l xml:id="srisaila116.7"><label>116.7</label> devā yatra vilīyaṃte sa siddhas
           tatra līyate || </l>
-        <p xml:id="srisaila116a"> || <persName ana="Ratnaghoṣa" rend="bold"
-            >ratnaghoṣa</persName> uvāca || </p>
+        <p xml:id="srisaila116a"> || ratnaghoṣa uvāca || </p>
         <l xml:id="srisaila117"><label>117</label>bhūtakālāntakaṃ bandhaṃ yadā karttuṃ na
           śakyate ||
           <caesura/>
            anenaiva śarīreṇa kathaṃ siddhir bhaviṣyati || </l>
-        <p xml:id="srisaila117a"> || <persName ana="Nāgārjuna" rend="bold">nāgārjuno
-            'vāca</persName> || || </p>
+        <p xml:id="srisaila117a"> || nāgārjuna uvāca || || </p>
         <l xml:id="srisaila118"><label>118</label>punar anyaṃ pravakṣyāmi khecaraṃ bandham
           uttamaṃ ||
           <caesura/>
@@ -1246,8 +1237,7 @@
           <caesura/>
            kṛtāñjalipuṭo bhūtvā śivasyāgre vyavasthitaḥ || </l>
 
-        <l xml:id="srisaila136a"> ||śrī<hi style="bold"><persName ana="Bhairava"
-              rend="bold">bhairavo </persName></hi>vāca || </l>
+        <l xml:id="srisaila136a"> ||śrī<hi style="bold">bhairavo </hi>vāca || </l>
 
         <l xml:id="srisaila137"><label>137</label>sahasraṃ duścaraṃ ghoraṃ adbhutaṃ ca
           kṛtaṃ tvayā ||
@@ -1264,8 +1254,7 @@
           <caesura/>
            bhuktvā ca vipulān bhogān kalpānte muktibhājanaḥ || </l>
 
-        <l xml:id="srisaila140">iti <persName ana="Nāgārjuna" rend="bold"
-            >śrīnāgārjune</persName> viracite māharasam uktā khecarabandhaḥ samāptaḥ ||
+        <l xml:id="srisaila140">iti śrīnāgārjune viracite māharasam uktā khecarabandhaḥ samāptaḥ ||
           <caesura/>
            iti samāptaḥ || || </l>
         <!-- some end of section her -->

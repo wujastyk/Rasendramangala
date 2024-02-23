@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Pa Patan 8930 [Pa]: ch.4 Srisaila section</title>
@@ -124,7 +124,7 @@
     <body>
       <div n="4" type="adhyaya">
 
-        <l xml:id="srisaila01">śrīśailaḥ parvatasthosau sidho nāgārjuno mahān 74
+        <l xml:id="srisaila01">śrīśailaḥ parvatastho sau sidho nāgārjuno mahān 74
           <caesura/>
            sarvasattvopakārī ca sarvabhoga | guṇānvitaḥ |</l>
 
@@ -134,16 +134,16 @@
 
         <l xml:id="srisaila03">sarvasattvamahāvedhī bhūvasena tathaiva hi
           <caesura/>
-           teṣāṃ madhye pra<unclear>dho</unclear>naś ca<lb/>ratnaghoṣaprabhākaraḥ</l>
+           teṣāṃ madhye pra<unclear>dho</unclear>naś ca<lb/> ratnaghoṣaprabhākaraḥ</l>
 
         <l xml:id="srisaila04">kṛtāṃjalipuṭo bhūtvā | nāgārjuno paristhitaḥ
           <caesura/>
            pṛchate rasakarmāṇi | vidyādānaṃ dadasva me |</l>
 
-        <p ana="speaker" xml:id="nagarjuna-1"><persName>nāgārjuna</persName>uvā<pb n="14v"
+        <p ana="speaker" xml:id="nagarjuna-1">nāgārjuna uvā<pb n="14v"
           />ca |"</p>
 
-        <l xml:id="srisaila05">sādhu sādhu mahaprājña | tuṣṭhohaṃ bhaktivatsalaḥ |
+        <l xml:id="srisaila05">sādhu sādhu mahaprājña | tuṣṭho haṃ bhaktivatsalaḥ |
           <caesura/>
            kathayāmi niḥsaṃdeho | yattvayā paripṛchitaṃ ||<unclear>78</unclear></l>
 
@@ -154,7 +154,7 @@
 
         <l xml:id="srisaila07">sahasrāyutalakṣaṃ ca | koṭivedhī bhaved rasaḥ |
           <caesura/>
-           tadahaṃ saṃpravakṣyāmi | sā<lb/>dhanaṃ ca yathāvidhi | 80</l>
+           tad ahaṃ saṃpravakṣyāmi | sā<lb/>dhanaṃ ca yathāvidhi | 80</l>
 
         <l xml:id="srisaila08">sattvānāṃ <subst>
             <del rend="crossed out">bodha</del>
@@ -167,7 +167,7 @@
           <caesura/>
            adṛṣrṭa pārthitā paścāt | dṛṣṭatvaṃ bhava sāṃprataṃ ||</l>
 
-        <p ana="speaker" xml:id="vatayaksini-1">śrī<persName>vaṭayakṣarāja</persName>uvāca
+        <p ana="speaker" xml:id="vatayaksini-1">śrīvaṭayakṣarājauvāca
           |</p>
 
         <l xml:id="srisaila10">sādhu sādhu mahāsādhu tva<lb/>dbhaktyā
@@ -175,7 +175,7 @@
           <caesura/>
            yatkārye <unclear>kā</unclear>nitā bhadra | tatsarvaṃ pradadāmyahaṃ | 83</l>
 
-        <p ana="speaker" xml:id="nagarjuna-2"><persName>nāgārjuna |</persName>uvāca |"</p>
+        <p ana="speaker" xml:id="nagarjuna-2">nāgārjuna |uvāca |"</p>
 
         <l xml:id="srisaila11">tuṣṭas tvaṃ yadi māṃ devi | klaṣlā dvādaśavarṣakaṃ |
           <caesura/>
@@ -185,7 +185,7 @@
           <caesura/>
            yat kiṃcit prārthaye sidha | tat sarvaṃ pradadā<lb/>my ahaṃ</l>
 
-        <p ana="speaker" xml:id="nagarjuna-3">śrī<persName>nāgārjuna</persName>uvāca |</p>
+        <p ana="speaker" xml:id="nagarjuna-3">śrīnāgārjuna uvāca |</p>
 
         <l xml:id="srisaila13">yadi tvaṃ devi tuṣṭāsi | madbhaktyā bhaktivatsalaṃ |
           <caesura/>
@@ -206,7 +206,7 @@
         <l xml:id="srisaila17">divyupāyaṃ varārohe | kathayasva prasādataḥ |
             <unclear>"</unclear></l>
 
-        <p ana="speaker" xml:id="vatayaksini-2"><persName>vaṭayakṣa</persName>ityuvāca
+        <p ana="speaker" xml:id="vatayaksini-2">vaṭayakṣaityuvāca
           ||</p>
 
         <l xml:id="srisaila18">yatkiṃcitprārthaye siddha tatsarvaṃ pradadāmi te |
@@ -221,7 +221,7 @@
           <caesura/>
            yuṣmatsāmarthyayogena | sādhayāmi mahārasaṃ ||</l>
 
-        <p ana="speaker" xml:id="salivahana-1">śrī<persName>śālivāhana</persName>uvāca
+        <p ana="speaker" xml:id="salivahana-1">śrīśālivāhanauvāca
           |</p>
 
         <l xml:id="srisaila21">suvarṇaratnabhāṃḍāraṃ kumāro mama suṃdarī
@@ -438,7 +438,7 @@
 
         <l xml:id="srisaila69">daśasaṃkrātinikrāṃto | koṭivedhī mahārasaḥ |</l>
 
-        <p ana="speaker" xml:id="ratnaghosa69a"><persName>ra<lb/>tnaghoṣa</persName>uvāca
+        <p ana="speaker" xml:id="ratnaghosa69a">ra<lb/>tnaghoṣauvāca
           ||</p>
 
         <l xml:id="srisaila70">sādhayitvā prayatnena | koṭivedhī mahārasaḥ <gap
@@ -489,7 +489,7 @@
 
         <l xml:id="srisaila92b"/>
 
-        <l xml:id="srisaila92x">nāgārjunauvāca</l>
+        <l xml:id="srisaila92x">nāgārjuna uvāca</l>
 
         <l xml:id="sirsaila71">katha<lb/>yāmi na saṃdeho | mārttaṃḍeyena yat kṛtam |
           <caesura/>
@@ -591,8 +591,8 @@
         <l xml:id="srisaila102">punar anyaṃ bhavet piṃḍaṃ | nātra kārya<pc> </pc>vicāraṇā
           | <unclear>72</unclear>
           <caesura/>
-           paṃcāmṛto mahāyogo | <unclear>u</unclear>kto <persName>maṃthānabhaira<pb
-              n="16v"/>ve</persName></l>
+           paṃcāmṛto mahāyogo | <unclear>u</unclear>kto maṃthānabhaira<pb
+              n="16v"/>ve</l>
 
         <l xml:id="srisaila103">vārākṣa<pc> </pc>sorāvaṇenaiva | punas tatraiva bhāṣitaṃ
             <unclear>73</unclear>
@@ -662,7 +662,7 @@
         <l xml:id="srisaila116.6"/>
         <l xml:id="srisaila116.7"/>
 
-        <p xml:id="srisaila116a"><persName>ratnaghoṣa</persName>uvāca ||</p>
+        <p xml:id="srisaila116a">ratnaghoṣa uvāca ||</p>
 
         <l xml:id="srisaila117">sūtakā<lb/>lāṃtakaṃ baṃdhaṃ | yadā kartuṃ na śakyate |
           <caesura/>
@@ -670,7 +670,7 @@
 
         <!-- [khecarabaṃdha] -->
 
-        <p xml:id="srisaila117a">śrī<persName>nāgārjuna</persName>uvāca</p>
+        <p xml:id="srisaila117a">śrīnāgārjuna uvāca</p>
 
         <l xml:id="srisaila118">punar anyaṃ pravakṣyāmi | kheca<lb/>raṃ baṃdham uttamaṃ |
           <caesura/>
@@ -753,7 +753,7 @@
           <caesura/>
            kṛtāṃjalipuṭo bhūtvā | śivasyāgre vivasthitaḥ ||</l>
 
-        <p xml:id="srisaila136a">śrī<persName>bhairava</persName> uvāca ||</p>
+        <p xml:id="srisaila136a">śrībhairava uvāca ||</p>
 
         <l xml:id="srisaila137">sāhasāṃ duśkaraṃ ghoraṃ | adbhutaṃ ca kṛtaṃ tvayā
           <caesura/>

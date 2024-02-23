@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Jaipur UIOMI 184 [J1]: Srisaila</title>
@@ -146,16 +146,16 @@
            dṛṣṭvā tyāgaṃ bhogaṃ ca sūtaka¦<lb/>sya prasādataḥ</l>
         <l xml:id="srisaila03">sarvasatvamahāvīdhī sūtasena taveva hi
           <caesura/>
-           teṣāṃ madhya prallotaś ca¦<lb/> ratnaghoṣa prabhākaraḥ</l>
+           teṣāṃ madhya prallotaś ca¦<lb/> ratnaghoṣaprabhākaraḥ</l>
         <l xml:id="srisaila04">kvatāṃjalipuṭo bhūtvā nāgārjuno paristhitaḥ
           <caesura/>
            pṛchati ra¦<lb/>sakarmāṇi vidyādīnaṃ dadasva me</l>
 
         <p ana="speaker" xml:id="nagarjuna-1">
-          <persName>nāgārjunovāca</persName>
+          nāgārjunovāca
         </p>
 
-        <l xml:id="srisaila05">sādhuṃ sādhu mahāprājñaḥ tu<lb/>ṣṭohaṃ bhaktivatsalaḥ
+        <l xml:id="srisaila05">sādhuṃ sādhu mahāprājñaḥ tu<lb/>ṣṭo haṃ bhaktivatsalaḥ
           <caesura/>
            kathayāmi nisaṃdeho yatvāyā paripṛcchati</l>
 
@@ -447,7 +447,7 @@
 
         <l xml:id="srisaila69">dasasaṃkrāṃtenikrāṃtī koṭivedhī mahārasaḥ</l>
 
-        <p ana="speaker" xml:id="ratnaghosa69a"><persName>ratnaghoṣo</persName>vāca</p>
+        <p ana="speaker" xml:id="ratnaghosa69a">ratnaghoṣovāca</p>
 
         <l xml:id="srisaila70">sā<lb/>dhayitvā prayatnena koṭivedhī mahārasaḥ
           <caesura/>
@@ -665,13 +665,13 @@
         <l xml:id="srisaila116.6"/>
         <l xml:id="srisaila116.7"/>
 
-        <p xml:id="srisaila116a"><persName>ratnaghoṣo</persName>vāca</p>
+        <p xml:id="srisaila116a">ratnaghoṣovāca</p>
 
         <l xml:id="srisaila117">bhūtakālātakaṃ vaṃdhaṃ yadā karttu na śakyate
           <caesura/>
            anyeneva śarīreṇa kathaṃ siddhi<lb/>r bhaviṣyati</l>
 
-        <p xml:id="srisaila117a"><persName>nāggurjuno</persName>vāca</p>
+        <p xml:id="srisaila117a">nāggurjunovāca</p>
 
         <!-- [khecarabaṃdha] -->
         <l xml:id="srisaila118">punar atnaṃ pravakṣyāmi khecaraṃ vaṃdhumuttam
@@ -753,7 +753,7 @@
           <caesura/>
            kṛtāṃjalipuṭo bhūtvā śivasyā<lb/>gre vyavasthitaḥ</l>
 
-        <p xml:id="srisaila136a">śrī<persName>bhairavo</persName>vāca</p>
+        <p xml:id="srisaila136a">śrībhairavovāca</p>
 
         <l xml:id="srisaila137">sāhastaṃ duḥśvaraṃ ghora adbhutaṃ ca kṛtaṃ prayā-<lb/>
           <caesura/>

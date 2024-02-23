@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Bombay AS SC-19/2 [B]: Srisaila</title>
@@ -146,13 +146,13 @@
 
 
 
-        <p ana="speaker" xml:id="nagarjuna-1"><persName>nāgārjuna uvāca</persName>| | ||</p>
+        <p ana="speaker" xml:id="nagarjuna-1">nāgārjuna uvāca| | ||</p>
 
 
 
 
         <l xml:id="srisaila05">sādhu sā<pb n="15r"/>
-          <unclear>karmma</unclear>hāprājña tuṣṭohaṃ saktivatsalaḥ
+          <unclear>karmma</unclear>hāprājña tuṣṭo haṃ saktivatsalaḥ
           <caesura/>
            | kathayāmi na saṃdêhô yatvayā paripṛcchitaṃ||83</l>
         <l xml:id="srisaila06">valipalitavināśaṃ ca tathā kālasya vaṃcanaṃ|
@@ -262,7 +262,7 @@
            yuṣmatsāmarthyayôgêna sādhayāmi maha<lb n="11"/>rasaṃ||97</l>
 
 
-        <p ana="speaker" xml:id="salivahana-1"><persName>śrī śālivāhana</persName> uvāca</p>
+        <p ana="speaker" xml:id="salivahana-1">śrī śālivāhana uvāca</p>
 
 
 
@@ -280,7 +280,7 @@
 
 
 
-        <l xml:id="srisaila23">punaṃr anyaṃ pravakṣyāmi <persName>māṃḍavyêna</persName> yathā kṛtaṃ|
+        <l xml:id="srisaila23">punaṃr anyaṃ pravakṣyāmi māṃḍavyêna yathā kṛtaṃ|
           <caesura/>
            rasôparasayôgena sidhaṃ<lb n="13"/> sūtaṃ susādhitaṃ||100</l>
 
@@ -529,13 +529,13 @@
 
         <l xml:id="srisaila69">daśasaṃkrāṃ<lb/>tiniḥkāṃta koṭivedhī bhaved rasaḥ ||41</l>
 
-        <p ana="speaker" xml:id="ratnaghosa69a"><persName>ratnaghoṣā</persName>uvāca</p>
+        <p ana="speaker" xml:id="ratnaghosa69a">ratnaghoṣāuvāca</p>
 
         <l xml:id="srisaila70">sādhayitvā | prayatnena koṭivedhī mahārasaḥ ||
           <caesura/>
            śarīreṇa vinā<unclear extent="2" unit="syllables"/> sarvaṃ bhavati | niḥphalaṃ ||42</l>
 
-        <p xml:id="nagarjuna70a"><persName>nāgārjuna</persName>uvāca ||</p>
+        <p xml:id="nagarjuna70a">nāgārjuna uvāca ||</p>
 
         <l xml:id="srisaila71">kathayāmi na saṃdeho mārkkaṃḍena yathā | kṛtaṃ |
           <caesura/>
@@ -770,7 +770,7 @@
         <l xml:id="srisaila116.7"><sic>devā yatra vilīyaṃte siddhasū|ta vilīyate ||</sic><unclear
             extent="1" unit="syllable"/></l>
 
-        <p xml:id="srisaila116a"><persName>ratnaghoṣa</persName>uvāca ||</p>
+        <p xml:id="srisaila116a">ratnaghoṣauvāca ||</p>
 
         <l xml:id="srisaila117">sūtakālāṃtakaṃ baṃdhaṃ yadā kartuṃ na śakyate |84
           <caesura/>
@@ -778,7 +778,7 @@
 
         <!-- [khecarabaṃdhaḥ] -->
 
-        <p xml:id="srisaila117a">śrī<persName>nāgārjuna</persName>u|vāca ||</p>
+        <p xml:id="srisaila117a">śrīnāgārjunau|vāca ||</p>
 
         <l xml:id="srisaila118">punar anyaṃ pravakṣyāmi khecaraṃ baṃdham uttamaṃ |
           <caesura/>
@@ -861,7 +861,7 @@
           <caesura/>
            kṛtāṃjalipu<lb/>ṭo bhūtvā śivasyāgre vyavasthitaḥ ||</l>
 
-        <p xml:id="srisaila136a">śrī<persName>bhairava</persName>uvāca</p>
+        <p xml:id="srisaila136a">śrībhairavauvāca</p>
 
         <l xml:id="srisaila137"><unclear>sohesa</unclear> duḥkaraṃ ghoraṃm adbhutaṃ ca kṛtaṃ tvayā |
           <caesura/>

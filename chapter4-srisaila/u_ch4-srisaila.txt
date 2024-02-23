@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Udaipur IRS 1136 [U]: ch4-Srisaila</title>
@@ -165,8 +165,8 @@
         <caesura/>
          prachate rasakarmāṇi vidyādānaṃ<lb/> dadasva me||</l>
 
-      <p ana="speaker" xml:id="nagarjuna-1">|śrī<persName>nāgārjunovāca</persName>||</p>
-      <l n="40" xml:id="srisaila05">sādhu sādhu mahāprājñaḥ tuṣṭohaṃ bhaktivatsalaḥ ||
+      <p ana="speaker" xml:id="nagarjuna-1">|śrīnāgārjunovāca||</p>
+      <l n="40" xml:id="srisaila05">sādhu sādhu mahāprājñaḥ tuṣṭo haṃ bhaktivatsalaḥ ||
         <caesura/>
          kathayāmi na saṃdeho ya tvayā<lb/> paripṛchita<add place="above">ḥ</add>||</l>
 
@@ -202,7 +202,7 @@
         <caesura/>
          yat kiṃcit prārthase siddha tat sarvaṃ pramadāmy ahaṃ || </l>
 
-      <p ana="speaker" xml:id="nagarjuna-3">śrī<persName>nāgārju<lb/>no</persName>vāca ||
+      <p ana="speaker" xml:id="nagarjuna-3">śrīnāgārju<lb/>novāca ||
         ||</p>
 
       <l xml:id="srisaila13">yadi tvaṃ devi tuṣṭāsi madbhaktyā bhaktivachale ||
@@ -226,7 +226,7 @@
 
       <l xml:id="srisaila17">tad upāyaṃ varārohe kathayasva prasā<lb/>dataḥ || </l>
 
-      <p ana="speaker" xml:id="vatayaksini-2"><persName>| vaṭayakṣany</persName>uvāca ||
+      <p ana="speaker" xml:id="vatayaksini-2">| vaṭayakṣanyuvāca ||
         ||</p>
 
       <l n="53" xml:id="srisaila18">yat kiṃcit prārthate siddh<add ana="scribal insertion"
@@ -243,7 +243,7 @@
          yuṣmāt sāmarthyayogena <del>yuṣmatsiddhi bhaviṣyati || mahā</del> sādhayāmi
         mahārasaṃ || || </l>
 
-      <p ana="speaker" xml:id="salivahana-1">iti <persName>śālivāhana</persName> uvāca ||
+      <p ana="speaker" xml:id="salivahana-1">iti śālivāhana uvāca ||
         ||</p>
       
       <l xml:id="srisaila21">suvarṇaratnabhāṃḍāraṃ kumāro mada<pc> </pc>sundarī||<pb
@@ -473,8 +473,8 @@
       <l xml:id="srisaila69">daśasaṃkrāṃtiniṣkrāṃtā koṭivedhī bhaved rasaḥ || </l>
 
       <!-- Vandana  start (40)-85 -->
-      <p ana="speaker" xml:id="ratnaghosa69a"><hi style="bold"><persName> ||
-            ratnaṣoḍaśa</persName></hi>uvāca || </p>
+      <p ana="speaker" xml:id="ratnaghosa69a"><hi style="bold"> ||
+            ratnaṣoḍaśa</hi>uvāca || </p>
       <l xml:id="srisaila70">sādha<unclear>|</unclear><lb/>yitvā prayatnena koṭivedhī
         mahārasaḥ ||
         <caesura/>
@@ -719,13 +719,13 @@
 
       <l xml:id="srisaila116.7"> devā yatra vilīyaṃte sa siddhas tatra līyate || </l>
 
-      <p xml:id="srisaila116a"><persName>|| ratnaghoṣa </persName> uvāca || || </p>
+      <p xml:id="srisaila116a">|| ratnaghoṣa  uvāca || || </p>
 
       <l xml:id="srisaila117">bhūtakālāṃtakaṃ baṃdhaṃ yadā karttuṃ na śakya<lb/>te ||
         <caesura/>
          anenaiva śarīreṇa kathaṃ siddhir bhaviṣyati || </l>
 
-      <p xml:id="srisaila117a"><persName>|| nāgārjuno</persName>vāca || || </p>
+      <p xml:id="srisaila117a">|| nāgārjunovāca || || </p>
 
       <l xml:id="srisaila118">punar anyaṃ pravakṣyāmi khecaraṃ baṃdham utta<lb/>maṃ ||
         <caesura/>
@@ -808,8 +808,8 @@
         <caesura/>
          kṛtāṃjalīpuṭo bhūtvā śivasyāgre vyavasthitaḥ || </l>
 
-      <p xml:id="srisaila136a">||śrī<hi style="bold"><persName>bhairavo
-        </persName></hi>vāca || </p>
+      <p xml:id="srisaila136a">||śrī<hi style="bold">bhairavo
+        </hi>vāca || </p>
 
       <l xml:id="srisaila137">sahasraṃ puṣkaraṃ ghoraṃ a<lb/>dbhūtaṃ cekṣitaṃ tvayā ||
         <caesura/>
@@ -824,7 +824,7 @@
         <lb/> bhuttkā <unclear>sva</unclear>vipulān bhogān kalpāṃte muktibhājanaṃ || </l>
 
       <p xml:id="srisaila140">iti
-          <persName><hi>nāgārjuna</hi></persName><unclear>hṛ</unclear>dayāstraṃ
+          <hi>nāgārjuna</hi><unclear>hṛ</unclear>dayāstraṃ
           ṣaṭ||||māhā<lb/><pb n="42v"/><gap n="20" unit="akṣara"/><unclear>|</unclear>rasa
         utkṛṣṭa ta ṣecara vau ṣaṭ || iti samāptaḥ || || <lb/></p>
 

@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Ahmedabad LDI 7753 [A2]: Srisaila</title>
@@ -147,21 +147,21 @@
 
 
 
-        <l xml:id="srisaila04">kṛtāṃjalipuṭo bhūtvā nāgārjjuna punasthitaḥ||<pb/>
+        <l xml:id="srisaila04">kṛtāṃjalipuṭo bhūtvā nāgārjjunapunasthitaḥ||<pb/>
           <caesura/>
            pṛcchate rasakarmāṇi vidyādānaṃ dadasva me 57</l>
 
 
 
         <p ana="speaker" xml:id="nagarjuna-1">
-          <persName>śrīnāgārjuna uvāca</persName>
+          śrīnāgārjuna uvāca
         </p>
 
 
 
 
 
-        <l xml:id="srisaila05">sādhu sādhu mahāprājña tuṣṭohaṃ bhaktavatsala
+        <l xml:id="srisaila05">sādhu sādhu mahāprājña tuṣṭo haṃ bhaktavatsala
           <caesura/>
            kathayāmi na saṃdehaṃ yatvayā paripṛṣṭitaṃ 5<subst>
             <del>9</del>

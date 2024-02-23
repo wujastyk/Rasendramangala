@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Ahmedabad LDI 9442 [A1]: Srisaila new</title>
@@ -127,7 +127,7 @@
         <l xml:id="srisaila03"> sarvasa<space quantity="1" unit="akṣara"/>tvamahāvedhī sūtas tena
           tathaiva hi
           <caesura/>
-           teṣāṃ madhye prallotaś ca ratnaghoṣa prabhākaraḥ 38 </l>
+           teṣāṃ madhye prallotaś ca ratnaghoṣaprabhākaraḥ 38 </l>
     
         <l xml:id="srisaila04">kṛtāṃjalipuṭo bhūtvā nāgārjunoparisthitaḥ
           <caesura/>
@@ -136,11 +136,11 @@
 
 
         <p ana="speaker" xml:id="nagarjuna-1">
-          <persName>nāgārjuno vāca</persName>
+          nāgārjunovāca
         </p>
     
         <!-- <lg type="verse"> -->
-        <l xml:id="srisaila05">sādhu 2 mahāprājña tuṣṭohaṃ bhaktivatsalaḥ
+        <l xml:id="srisaila05">sādhu 2 mahāprājña tuṣṭo haṃ bhaktivatsalaḥ
           <caesura/>
            kathayāmi nisaṃdeho yatvayā paripṛcchati<del>e</del> 40</l>
     
@@ -170,7 +170,7 @@
            yat kāryed kāni tāṃ bhadra tat sarvaṃ pradadāmy ahaṃ 45</l>
 
 
-        <p ana="speaker" xml:id="nagarjuna-2">nāgārjuno vāca</p>
+        <p ana="speaker" xml:id="nagarjuna-2">nāgārjunovāca</p>
 
 
         <l xml:id="srisaila11">tuṣṭa tvaṃ yadi māṃ devi kṛṣṭā dvādaśavarṣakaîḥ
@@ -201,7 +201,7 @@
     
         <l xml:id="srisaila17">devy upāyaṃ varārohe kathayasva prasādataḥ</l>
     
-        <p ana="speaker" xml:id="vatayaksini-2"><persName>vaṭayakṣaṇy</persName> uvāca//</p>
+        <p ana="speaker" xml:id="vatayaksini-2">vaṭayakṣaṇy uvāca//</p>
     
         <l xml:id="srisaila18">yat kiṃcit prārthyate siddha<pb n="16v"/> tat sarvaṃ pradadāmi te
           <caesura/>
@@ -216,7 +216,7 @@
            yuṣmatsāmarthyayogena sādhayāmi mahārasaṃ 54</l>
 
 
-        <p ana="speaker" xml:id="salivahana-1">śrī <persName>śālivāhan</persName>vāca</p>
+        <p ana="speaker" xml:id="salivahana-1">śrī śālivāhanvāca</p>
     
         <l xml:id="srisaila21"> suvarṇaratnanāṃbhāraṃ kumāro masu<pc> </pc>suṃdarī
           <caesura/>
@@ -564,7 +564,7 @@
         <l xml:id="srisaila116.6"/>
         <l xml:id="srisaila116.7"/>
         
-        <p xml:id="srisaila116a"><persName>"ratnaghoṣo"</persName>vāca</p>
+        <p xml:id="srisaila116a">"ratnaghoṣo"vāca</p>
     
         <l xml:id="srisaila117">bhūtakālāṃtakaṃ baṃdhaṃ yadā kartuṃ na śakyate
           <caesura/>
@@ -572,7 +572,7 @@
     
         <!-- [khecarabaṃdha] -->
     
-        <p xml:id="srisaila117a">śrī<persName>nāgārjuno</persName> vāca</p>
+        <p xml:id="srisaila117a">śrīnāgārjunovāca</p>
     
         <l xml:id="srisaila118">punar anyaṃ pravakṣyāmi khecaraṃ baṃdham uttamaṃ
           <caesura/>
@@ -650,7 +650,7 @@
           <caesura/>
            kṛtāṃjalipuṭā bhūtvā śivasyāgre vivasthita 60</l>
     
-        <p xml:id="srisaila136a">śrī<persName>bhairavo</persName>vāca</p>
+        <p xml:id="srisaila136a">śrībhairavovāca</p>
     
         <l xml:id="srisaila137">sāhastaṃ duḥśvaraṃ ghoraṃ adbhutaṃ ca kṛtaṃ prayāṃ
           <caesura/>
