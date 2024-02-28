@@ -210,14 +210,14 @@
 
         <l xml:id="T11">atha saptaviṃśatisiddhānāha | </l>
 
-        <l xml:id="T12">āḍu<unclear>maśvaṃ</unclear>drasenaś ca laṃkeśaś va visāradaḥ
+        <l xml:id="T12">āḍu<unclear>maś vaṃ</unclear>drasenaś ca laṃkeśaś va visāradaḥ
           <caesura/>
            kapālā matamāṃḍavyo bhāskaraḥ surasenakaḥ |
           <caesura/>
            ra<unclear>tna</unclear><lb/>ghoṣaś va śaṃbhuś <unclear>va |</unclear>
             ta<unclear>the</unclear>ka ratvavāhanā
           <caesura/>
-           iṃdra dogomukhaś vaiva kaṃbalir vyāḍireva ca |
+           iṃdra dogomukhaś vaiva kaṃbalir vyāḍir eva ca |
           <caesura/>
            nāgārjuna surāviṃdo nāgabodhir yaśodharaḥ |
           <caesura/>
@@ -226,7 +226,7 @@
           <caesura/>
            saptaviṃśati bhūpeṃdrāḥ | rasasiddhāḥ prakīrttitāḥ |
           <caesura/>
-           eteṣāṃ matamālokya yatnena param ādade </l>
+           eteṣāṃ matam ālokya yatnena param ādade </l>
 
         <p xml:id="T13">deśe<lb/> deśānāṃ dhātunāṃ ca pṛthak kṛtvā dṛṣṭvā pāraṃparyeṇa
           raseṃdramaṃgalagraṃthasya vyākhyānaṃ karomi | </p>

@@ -159,19 +159,19 @@
         <l xml:id="T12">ā<add place="margin"
           >ḍu</add><unclear>ṣe</unclear>maścaṃ<lb/>drasenas tu laṃkocaś ca viśāradaḥ
           <caesura/>
-           kapālī matta māṃḍavyo bhāskara su<lb/>rasenakaḥ
+           kapālī mattamāṃḍavyo bhāskara su<lb/>rasenakaḥ
           <caesura/>
            ratnaghoṣaś ca śaṃbhuś ca tatbaiko narabāhana
           <caesura/>
-           iṃdra dogomukha<lb/>ś caiva kabalirvyāhireva ca
+           iṃdrado gomukha<lb/>ś caiva kabalir vyāhir eva ca
           <caesura/>
-           nāgārjjunaḥ surānaṃdo nāgavodhiryaśo<lb/>dharaḥ
+           nāgārjjunaḥ surānaṃdo nāgavodhir yaśo<lb/>dharaḥ
           <caesura/>
            khaṃḍakāpāliko brahma goviṃdo laṃpako hariḥ
           <caesura/>
            saptāviṃśati bhūpeṃdra rasasiddhāḥ prakīrttitāḥ
           <caesura/>
-           eteṣāṃ matamolokya pāraṃpapopade<lb/>śataḥ</l>
+           eteṣāṃ matam ālokya pāraṃpapopade<lb/>śataḥ</l>
 
         <p xml:id="T13">yatnenauṣadhadhātūnāṃ jñātvā nāma prathak prathak</p>
 

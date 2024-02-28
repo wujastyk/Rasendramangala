@@ -274,7 +274,7 @@
             extent="2" unit="char"/>seṃdraguṇaśrotraṃ ta<lb/>davighnaprasiddhaye || </l>
 
         <l xml:id="T14e"><unclear>amukhyaṃ maṃgalaṃ ca</unclear> |<unclear extent="10" unit="char"
-          />hārādi | tadapi mukhyaṃ maṃgalaṃ | vividhaṃ |</l>
+          />hārādi | tad api mukhyaṃ maṃgalaṃ | vividhaṃ |</l>
 
         <l xml:id="T14f">nibaddhamanibaddhaṃ <unclear extent="1" unit="char"/>tatra nibbaddhaṃ
             mama<pb n="19v"/><unclear extent="1" unit="char"/> | <unclear>yacca yā</unclear>
