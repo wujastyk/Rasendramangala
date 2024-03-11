@@ -201,6 +201,9 @@
       </change>
       <change when="2023-12-10" who="Dominik Wujastyk">Edits before publication of
         translation.</change>
+      <change when="2022-03-11" who="Dominik Wujastyk">added new stemma, after 
+      adding V3</change>
+      
     </revisionDesc>
 
   </teiHeader>
@@ -223,7 +226,9 @@
         <l xml:id="srisaila04"><label>04</label> kṛtāñjalipuṭo bhūtvā nāgārjunapurasthitaḥ | |
           <caesura/>
            pṛcchate rasakarmāṇi vidyādānaṃ dadasva me || </l>
+        
         <p ana="speaker" xml:id="nagarjuna-1">śrīnāgārjuna uvāca</p>
+        
         <l xml:id="srisaila05"><label>05</label>sādhu sādhu mahāprājña tuṣṭo 'haṃ
           bhaktivatsalaḥ | |
           <caesura/>

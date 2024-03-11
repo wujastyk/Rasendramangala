@@ -155,7 +155,7 @@
 
 
         <p ana="speaker" xml:id="nagarjuna-1">
-          śrī nāgārjuna uvāca
+          śrīnāgārjuna uvāca
         </p>
 
 
