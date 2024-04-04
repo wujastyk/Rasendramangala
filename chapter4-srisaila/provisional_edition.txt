@@ -165,34 +165,37 @@
               <node id="n21"/>
               <node id="n22"/>
               <node id="n23"/>
-              <node id="n24" root="true"/>
-              <edge source="n14" target="n7" id="e1" length="0.03820156306028366"/>
-              <edge source="n14" target="n12" id="e2" length="0.012586165219545364"/>
-              <edge source="n15" target="n3" id="e3" length="0.01949312910437584"/>
-              <edge source="n15" target="n11" id="e4" length="0.05306234583258629"/>
-              <edge source="n16" target="n4" id="e5" length="0.02870841883122921"/>
-              <edge source="n16" target="n13" id="e6" length="-0.005011735484004021"/>
-              <edge source="n17" target="n2" id="e7" length="0.01861037127673626"/>
-              <edge source="n17" target="n16" id="e8" length="0.0037681180983781815"/>
-              <edge source="n18" target="n17" id="e9" length="0.0038253162056207657"/>
-              <edge source="n18" target="n14" id="e10" length="0.016583779826760292"/>
-              <edge source="n19" target="n18" id="e11" length="0.0034135449677705765"/>
-              <edge source="n19" target="n15" id="e12" length="0.012768866494297981"/>
-              <edge source="n20" target="n19" id="e13" length="0.015567653812468052"/>
-              <edge source="n20" target="n10" id="e14" length="0.013255101628601551"/>
-              <edge source="n21" target="n1" id="e15" length="0.010523751378059387"/>
-              <edge source="n21" target="n5" id="e16" length="0.028325896710157394"/>
-              <edge source="n22" target="n21" id="e17" length="0.0012766087893396616"/>
-              <edge source="n22" target="n20" id="e18" length="0.005345256999135017"/>
-              <edge source="n23" target="n6" id="e19" length="0.00412280997261405"/>
-              <edge source="n23" target="n9" id="e20" length="0.0040475293062627316"/>
-              <edge source="n24" target="n22" id="e21" length="0.003696808824315667"/>
-              <edge source="n24" target="n23" id="e22" length="0.0013991075102239847"/>
-              <edge source="n24" target="n8" id="e23" length="0.0129424799233675"/>
+              <node id="n24"/>
+              <node id="n25" root="true"/>
+              <edge source="n14" target="n7" id="e1" length="0.038346558809280396"/>
+              <edge source="n14" target="n12" id="e2" length="0.013057731091976166"/>
+              <edge source="n15" target="n2" id="e3" length="0.011545279994606972"/>
+              <edge source="n15" target="n13" id="e4" length="0.022153912112116814"/>
+              <edge source="n16" target="n3" id="e5" length="0.020076733082532883"/>
+              <edge source="n16" target="n11" id="e6" length="0.05158790573477745"/>
+              <edge source="n17" target="n15" id="e7" length="0.009118374437093735"/>
+              <edge source="n17" target="n4" id="e8" length="0.034783605486154556"/>
+              <edge source="n18" target="n17" id="e9" length="0.0014926055446267128"/>
+              <edge source="n18" target="n16" id="e10" length="0.009338616393506527"/>
+              <edge source="n19" target="n18" id="e11" length="0.0012785671278834343"/>
+              <edge source="n19" target="n14" id="e12" length="0.017401937395334244"/>
+              <edge source="n20" target="n19" id="e13" length="0.01768237166106701"/>
+              <edge source="n21" target="n6" id="e14" length="0.004296506755053997"/>
+              <edge source="n21" target="n9" id="e15" length="0.003791303373873234"/>
+              <edge source="n22" target="n21" id="e16" length="0.0012406944297254086"/>
+              <edge source="n22" target="n8" id="e17" length="0.013099510222673416"/>
+              <edge source="n23" target="n1" id="e18" length="0.010037841275334358"/>
+              <edge source="n23" target="n5" id="e19" length="0.028505193069577217"/>
+              <edge source="n24" target="n23" id="e20" length="6.871847435832024E-4"/>
+              <edge source="n20" target="n24" id="e21" length="0.00482394453138113"/>
+              <edge source="n24" target="n22" id="e22" length="0.004416035022586584"/>
+              <edge source="n25" target="n20" id="e23" length="0.0015709495171904566"/>
+              <edge source="n25" target="n10" id="e24" length="0.014138545654714108"/>
             </tree>
           </trees>
         </nex:nexml>
       </stemma>
+      
     </xenoData>
 
     <revisionDesc>
