@@ -155,7 +155,7 @@
            ghṛ<unclear extent="1" unit="character"/> yaṣṭirasaiḥ satā ma<lb/>dhuyutā
           gadyāṇamātrāvaṭī| 1 |.. </l>
 
-        <l xml:id="rm3.4">pittaṃ haṃti ca pittasaṃbhava gadān sarvān <unclear>vai</unclear>
+        <l xml:id="rm.3.4">pittaṃ haṃti ca pittasaṃbhava gadān sarvān <unclear>vai</unclear>
             pitta<unclear>jva</unclear>rān|
           <caesura/>
            kāśasvā<unclear>sa</unclear>galāmayā kṣayatṛṣā dāgha<lb/>

@@ -147,7 +147,7 @@
                <caesura/>
                 ghṛṣṭvā laṣṭirasai sātāmadhuḥ yutā gadyāṇamātrā vadī</l>
 
-            <l xml:id="rm3.4">pittaṃ haṃti ca pittasaṃbhavagadān sarvvānvai pittajvarān
+            <l xml:id="rm.3.4">pittaṃ haṃti ca pittasaṃbhavagadān sarvvānvai pittajvarān
                <caesura/>
                 kāśasvāsagalāmayā kṣaya tṛṣā dāghaśca śoṣaṃ bhṛśaṃ
                <caesura/>

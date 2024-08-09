@@ -10,24 +10,28 @@
             <availability status="restricted">
                <p>Copyright Notice</p>
                <p>Copyright <persName>Dominik Wujastyk</persName>2020</p>
-               <p> <ref target="https://creativecommons.org/licenses/by-sa/4.0/" type="licence"
-                  >Distributed by <persName>Dominik Wujastyk</persName>under a Creative Commons
-                  Attribution-ShareAlike License.</ref> </p>
+               <p>
+                  <ref target="https://creativecommons.org/licenses/by-sa/4.0/" type="licence"
+                     >Distributed by <persName>Dominik Wujastyk</persName>under a Creative Commons
+                     Attribution-ShareAlike License.</ref>
+               </p>
                <p>Under this licence, you are free <list>
-                  <item>to Share — to copy, distribute and transmit the work</item>
-                  <item>to Remix — to adapt the work </item>
+                     <item>to Share — to copy, distribute and transmit the work</item>
+                     <item>to Remix — to adapt the work </item>
                   </list></p>
                <p>Under the following conditions:</p>
-               <p> <list>
-                  <item>Attribution — You must attribute the work in the manner specified by the
-                     author or licensor (but not in any way that suggests that they endorse you or
-                     your use of the work).</item>
-                  <item>Share Alike — If you alter, transform, or build upon this work, you may
-                     distribute the resulting work only under the same or similar license to this
-                     one.</item>
-                  </list> </p>
+               <p>
+                  <list>
+                     <item>Attribution — You must attribute the work in the manner specified by the
+                        author or licensor (but not in any way that suggests that they endorse you
+                        or your use of the work).</item>
+                     <item>Share Alike — If you alter, transform, or build upon this work, you may
+                        distribute the resulting work only under the same or similar license to this
+                        one.</item>
+                  </list>
+               </p>
                <p>More information about this license is given on the <ref
-                  target="http://creativecommons.org">Creative Commons website</ref>.</p>
+                     target="http://creativecommons.org">Creative Commons website</ref>.</p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -43,10 +47,10 @@
                   </altIdentifier>
                </msIdentifier>
                <p>This MS is described in <title>śrī bhuvaneśvarī pīṭh, goṃḍala – saurāṣṭra: hasta-
-                  likhita granthasūcī; Shri Bhuvaneshwari Pith, Gondal, Saurashtra, (India).
-                  Catalogue &amp; Index of Manuscripts</title>(Goṇḍal: Śrī Bhuvaneśvarī Pīṭh, 1960),
-                  serial number 34, p. 26. The catalogue records the date of copying the MS as saṃ
-                  1996 (CE 1939/40), and the number of leaves as 37. The late date of copying
+                     likhita granthasūcī; Shri Bhuvaneshwari Pith, Gondal, Saurashtra, (India).
+                     Catalogue &amp; Index of Manuscripts</title>(Goṇḍal: Śrī Bhuvaneśvarī Pīṭh,
+                  1960), serial number 34, p. 26. The catalogue records the date of copying the MS
+                  as saṃ 1996 (CE 1939/40), and the number of leaves as 37. The late date of copying
                   suggests that Jīvarāma Kālidāsa Śāstri, who assembled the Gondal MS col- lection,
                   may have had the manuscript copied for his library from another extant copy. The
                   whole of the Śrī Bhuvaneśvarī Pīṭh Goṇḍal MS collection was transferred to The
@@ -64,11 +68,11 @@
             saktumiva.org.</change>
          <change when="2020-05-31" who="Dominik Wujastyk">extracted chapter 3 and began numbering
             verses with xml:ids. Got to 3.22x</change>
-         <change when="2020-06-10" who="Dominik Wujastyk">continued numbering verses with
-            xml:ids. Got to 3.25.</change>
-         <change when="2020-06-10" who="Dominik Wujastyk">Sorted out the whole muddled folio thing.  
+         <change when="2020-06-10" who="Dominik Wujastyk">continued numbering verses with xml:ids.
+            Got to 3.25.</change>
+         <change when="2020-06-10" who="Dominik Wujastyk">Sorted out the whole muddled folio thing.
             This is now, properly, chapter 3.</change>
-         
+
       </revisionDesc>
    </teiHeader>
    <text>
@@ -108,7 +112,7 @@
                <caesura/>
                 ghṛṣṭvā yaṣṭirasai sitā madhuyutā gadyāṇamātrāvaṭī|| </l>
 
-            <l xml:id="rm3.4">pittaṃ hanti ca pittasaṃbhavagadā<lb/>n sarvośva pittajvarān
+            <l xml:id="rm.3.4">pittaṃ hanti ca pittasaṃbhavagadā<lb/>n sarvośva pittajvarān
                <caesura/>
                 kāsaśvāsamalāmaya kṣayatṛṣā dāhāṃś ca śoṣaṃ bhṛśaṃ||
                <caesura/>
@@ -116,7 +120,7 @@
                prasādīkṛto
                <caesura/>
                 nāmnā <persName>tīkṣṇamukho</persName> rasendrapravaraḥ
-               <persName>śrīnāgabodhoditaḥ</persName>|| </l>
+                  <persName>śrīnāgabodhoditaḥ</persName>|| </l>
 
             <p xml:id="rm3.4a">śrīḥ<lb/>atha <title>saṃkocaśulvarasaḥ</title>|| </p>
 
@@ -201,7 +205,9 @@
                <caesura/>
                 siddhā sūtavaṭī nihaṃti sahasā sarvvābhighātaṃ ma<lb/>hat|| </l>
 
-            <l xml:id="rm3.15"> <gap extent="1" unit="verse"/> </l>
+            <l xml:id="rm3.15">
+               <gap extent="1" unit="verse"/>
+            </l>
 
             <p xml:id="rm3.15a">atha ajīrṇahara rasaḥ|| </p>
 
@@ -283,7 +289,7 @@
 
             <l xml:id="rm3.25">kaḍāra māya saṃcūrṇaṃ sūtendra samacāritaṃ|| </l>
             <l>lohārivarga<pb n="10r"/>saṃghṛṣṭaṃ raktapittaharaṃ paraṃ|| </l>
-            
+
             <p>atha <title>bhasma sūta rasaḥ</title>|| </p>
 
             <l>śvetaṃ raktaṃ tathā pītaṃ śyāmaṃ kṛṣṇaṃ ca<lb/>karburaṃ|| </l>
@@ -292,14 +298,14 @@
             <l>pītagaṃdhakasaṃyuktaṃ kumārī rasa saṃyutaṃ|| </l>
             <l>kṛṣṇāvarṇaṃ bhavedbhasma devānāmapi du<lb/>rlabhaṃ|| </l>
             <l>sarvarogeṣu dātavyaṃ yogavāhi rasāyanaṃ|| </l>
-            
+
             <p>atha <title>bhasmasūtakarasaḥ|| sarvvarogaharaḥ</title><lb/></p>
 
             <l>nirguṃḍī rasasaṃyuktaṃ capalena samanvitaṃ|| </l>
             <l>raktavarṇaṃ bhavedbhasma dāḍimīkusumopamaṃ|| </l>
             <l>valīpalitahā<lb/>vārāhī rasasaṃyuktaṃ rasakena samanvitaṃ|| </l>
             <l>śyāmavarṇa bhavet sūtaṃ valīpalitanāśanaṃ|| </l>
-            
+
             <p>atha <title>hemasūta<lb/>karasaḥ</title>|| </p>
 
             <l>abhrakaṃ hema bījaṃ tu sarva cātra prayojayet|| </l>
@@ -428,7 +434,7 @@
             <l>śuṣkāṃ mūṣāṃ tataḥ kṛtvā tuṣakarṣāgnināpuṭet|| </l>
             <l>ekarātraṃ trirātraṃ<lb/>vā bhasma syāt śodhanaṃ paraṃ|| </l>
             <l>bhasmarūpo rasaścāsau sarvvakuṣṭavināśakaḥ|| </l>
-            
+
             <p>atha <title>saṃkocagolakaḥ</title><pb n="12v"/></p>
 
             <l>paktvā gaṃdhakamadhye ghanapiṣṭiṃ śulvapiṣṭimathacaiva|| </l>
@@ -509,7 +515,7 @@
             <l>athāṣṭavargakvāthaḥ|| </l>
             <l>ṛṣabhakajīvakayuktaṃ madoyugmaṃ ca ṛdhī<lb/>vṛddhiścaṃ|| </l>
             <l>kākolīchaya sahitaṃ kvāthaḥ kathitoṣṭavarggasya|| </l>
-            
+
             <p>atha <title>daśamūlakvāthaḥ</title>|| </p>
 
             <l>śrīparṇi<lb/>nī ca bṛhatī ca vasantadūtī vyāghrī ca ṭeṃṭu kariṇī varaśālaparṇī|| </l>
@@ -520,7 +526,7 @@
             <l>trikkaṭuka cūrṇa ca tath-a rasamānaṃ tadvi nikṣipet prajñaḥ|| </l>
             <l>guḍapāka samānena ca vanhisthitā<lb/>nyauṣadhāni bhiṣak|| </l>
             <l>uttāraṇīyamagnerbhūmau saṃsthāpanīyaṃ ca|| </l>
-            
+
             <p>atha <title>paṃcāmṛtarasaḥ sarvvarogaharaḥ</title><pb n="14r" type="v"/></p>
 
             <l>mṛtarasapalamekaṃ satvamekaṃ gaḍucyā trikaṭukapala yugmaṃ raktacitrasya caiva|| </l>
@@ -538,7 +544,7 @@
             <l>mardditaṃ tridinaṃ yāvadgaraṃ<lb/>datvāṣṭamāṃśataḥ|| </l>
             <l>guṃjāyugmapramāṇena tato badhvādraḍhāvaṭīṃ|| </l>
             <l>eṣa laṃkeśvaro nāma śatārukuṣṭanā<lb/>śanaḥ|| </l>
-            
+
             <p>atha <title>māṇikyakhaṃḍa rasaḥ</title>|| </p>
 
             <l>tīkṣṇakāṃtābhramākṣ-ikaṃ gaṃdhakaṃ ca samāṃ śataḥ|| </l>
@@ -550,7 +556,7 @@
                sannibhaṃ|| </l>
             <l>svāṃgaśītalatāṃ yāte samuttārpa prayatnataḥ|| </l>
             <l>nāmnā māṇi<pb n="14v"/>kya khaṃḍoyaṃ mekasaṃjñka kuṣṭahāḥ|| </l>
-            
+
             <p>atha <title>kuṣṭeśvara rasaḥ</title>|| </p>
 
             <l>sūtaṃ tāpyudbhavaṃ gaṃdhaṃ śailajaṃ saktukaṃ<lb/>viṣaṃ|| </l>
@@ -559,7 +565,7 @@
             <l><lb/>mardayettridinaṃ yāvadaṃdhamūṣāgataṃ puṭet|| </l>
             <l>eka rātraṃ trirātraṃ vā yāvadbhasmatvamāgataṃ|| </l>
             <l>rasaḥ kuṣṭeśvaro<lb/>nāma carmakuṣṭaharo mataḥ|| </l>
-            
+
             <p>atha <title>pratāpalaṃkeśvara rasaḥ</title>|| </p>
 
             <l>śivaśukra suṭaṃkaṇagaṃdharajaḥ śulvāya<lb/>sakuṣṭa samāgadhikaṃ || </l>
@@ -586,14 +592,14 @@
             <l>pāmākiṭibhasidhmāni sūlāruṃṣi vicarcikā|| </l>
             <l>kapālakuṣṭaṃ<lb/>... ca kuṣṭaṃ yacca viṣodbhavaṃ|| </l>
             <l>yogenānena śāmyaṃti kuṣṭāni vividhāni ca|| </l>
-            
+
             <p>atha <title>siddhmaharaḥ</title>|| </p>
 
             <l><lb/>gandhāśmapiṣṭikā kṣāraṃ mūlakārdrakamarddakaṃ|| </l>
             <l>rasena saha lepamasiddhma kuṣṭaharaṃ paraṃ|| </l>
             <l>pāmāṃ vi<lb/>carcikāṃ dadruṃ lepād gaṃdhakapiṣṭikā|| </l>
             <l>kaṭutailena paktā sā lepanādeva nāśayet|| </l>
-            
+
             <p>atha <title>prasu<lb/>tivātakuṣṭaharaḥ</title>|| </p>
 
             <l>śuddhasūtapalānyaṣṭau śuddhatāmrapaladvayaṃ|| </l>
@@ -618,7 +624,7 @@
             <l>paṃcaguṃjā pramāṇena<lb/>deyaikā pittakuṣṭahā|| </l>
             <l>sabale dvau pradātavyā kṣīṇe cārdhā pradīyate|| </l>
             <l>ekaviṃśadinairevaṃ pittakuṣṭaṃ vinā<lb/>śayet|| </l>
-            
+
             <p>atha <title>kanakasaṃkoca rasaḥ</title>|| </p>
 
             <l>kanakagaganaśulvaiḥ piṣṭikāṃ kārayitvā|| </l>
@@ -628,29 +634,29 @@
             <l>ajasalilasuyogāt gharṣayitvā nibaddhā rudhiravikṛtiroge guṃjamānā guṭīyo
                hi<lb/>harati kramavivṛddhādye kataḥ paṃca yāvat kaphavikṛti samutthaṃ śleṣmajaṃhaṃti
                kuṣṭaṃ|| </l>
-            
+
             <p>atha <title>gaganādyarasaḥ</title><lb/></p>
-            
+
             <l>gaganakanakatāmraṃ śāṇamātraṃ ca dhṛtvā</l>
             <l>rasavarakṛtapiṣṭayā saurabhāṃte vipaktvā|| </l>
             <l>samayutakṛtamebhiḥ<lb/>tālakaṃ bolatāpyaṃ viṣamanalasupāṭhā śṛṃgikāsiṃduvāraṃ|| </l>
             <l>surabhimadhukasiṃdhuḥ ṭaṃkaṇakṣāravaṃdhyā ka<lb/>laśipicuviśālā śṛṃgaṃvaromlavetas|| </l>
             <l>laghubadaraphalābhā chāyayā śuṣkagolī harati sakalajātaṃ sa<lb/>nnipātaṃ ca kuṣṭe|| </l>
-            
+
             <p>atha <title>tīkṣṇamukharasaḥ</title>|| </p>
 
             <l>piṃgaṃ pītavarāṭakārkamilitaṃ sūtendra golīkṛtaṃ kṛtaṃ maṇḍuraṃ<lb/>gaganaṃ
                surāyasarajaścāmīruhaṃ gaṃdhakaṃ|| </l>
             <l>kaumārī drava marddita suvidhinā pakvaṃ tuṣāgnau tataḥ bhasmedaṃ prava<pb n="16r"
                />daṃti sūtanipuṇā durnāmarogāpahaṃ|| </l>
-            
+
             <p>atha <title>bhagaṃdaraharo ghanagarbha rasaḥ</title>|| </p>
-            
+
             <l>manaḥ śilā tālakama<lb/>baraṃ varaṃ pītāṃ varaṃ tīkṣṇā rajaśca kuṃjaraṃ|| </l>
             <l>tāpīruhaṃ kāmtarajo rasena kumārī vaṃdhyāsuradālijena|| </l>
             <l>ghṛ<lb/>ṣṭaṃ muṣāsthaṃ kariṣānalena puṭena dagdhaṃ varabhasmameti|| </l>
             <l>tadbhasma sūtaṃ ca gudāmayeṣu bhagaṃdare cāpi hi<lb/>taṃ vadaṃti || </l>
-            
+
             <p>atha <title>saṃkocabhasmasūtakaḥ</title>|| </p>
 
             <l>tāraṃ tāmra suhame sūtakasamaṃ kṛtvā pṛthaggolakaṃ tāpyaṃ<lb/>tuthaka
@@ -661,7 +667,7 @@
                tataśrulyā.ḥ samuttarayet|| </l>
             <l>tadbhasmāddaśamāṃśa saktukaviṣagaṃdhāśma<lb/>cūrṇānvitaṃ ghṛṣṭaṃ luṃga rasena vetasa
                yutaṃ yatpāṃḍu rogāpahaṃ|| </l>
-            
+
             <p>atha <title>hikkāśvāsayoḥ</title>|| </p>
 
             <l>devadālī<lb/>rasaṃ ghṛṣṭvā śulvasya piṣṭikā gaṃdhāśmacūrṇa saṃyuktāṃ matyugrāṃ
@@ -671,26 +677,26 @@
             <l>atha<lb/><title>gaṃdhakapiṣṭiḥ hikkāyāṃ</title>|| </l>
             <l>gaṃdhakena samāyuktā kṛtvā sūtasya piṣṭikāṃ|| </l>
             <l>yuktvā ca tāmrapatreṇa hikkāṃ<lb/>paṃcavidhāṃ jayet|| </l>
-            
+
             <p>atha <title>kāsamarddinī</title>|| </p>
 
             <l>abhrakaṃ harabījaṃ ca tīksṇaśulvasamanvitaṃ|| </l>
             <l>kāsamardda<pb n="16v"/>rase ghṛṣtaṃ triphalā gastijarese|| </l>
             <l>amlaveta sa saṃyuktā baddhā sā sudraḍhāvaṭī|| </l>
             <l>kāsamarddinaṃ saṃjñe<lb/>yaṃ kāsaṃ paṃcavidhaṃ jayet|| </l>
-            
+
             <p>atha <title>tṛṣṇā chardiharaḥ</title>|| </p>
 
             <l>gaṃdhapiṣṭi samāyuktaṃ tālaṃ tāpyaṃ ca gaṃdhakaṃ<lb/>yuktyā bhasmatvamānītaṃ
                tṛṣṇābarddinivārakaṃ|| </l>
-            
+
             <p>atha <title>mūtrakṛcchre śulvapiṣṭiḥ</title>|| </p>
 
             <l>śatāvarīrase ghṛ<lb/>ṣṭā tuthaśulvasya piṣṭikā|| </l>
             <l>pācitā kaṭutailena mūtrakṛcchre prayojayet|| </l>
             <l>jaṭharāmayeṣu yat proktaṃ rasaṃ vā<lb/>bhasma sūtakaṃ|| </l>
             <l>taccaivātra prayoktavyaṃ upadaṃśe kuraḍake|| </l>
-            
+
             <p>atha <title>triviṣṭapa rasaḥ</title>|| </p>
 
             <l>daityendratāratā<lb/>mrāṇāṃ kṛtvā ekatra piṣṭikāṃ|| </l>
@@ -701,7 +707,7 @@
             <l>daśamūlaśatāvaryyoḥ kvāthe pācyakrameṇa hi|| </l>
             <l>tatottārya prayatnena vaṭikā kārayed budhaḥ|| </l>
             <l><lb/>guṃjātrayapramāṇena khāded dhṛdrogaśūlanut|| </l>
-            
+
             <p>atha <title>unmādahara hemapiṣṭikāḥ</title>|| </p>
 
             <l>kṛtvā rasasamāṃ<lb/>piṣṭiṃ hemnaḥ śulvasya vā tathā|| </l>
@@ -710,7 +716,7 @@
             <l>praharatritayaṃ mardyaṃ golakaṃ kārayed budhaḥ|| </l>
             <l>suślakṣaṇāṃ ca suśuṣkaṃ ca tailagaṃdhāśmamadhyataḥ|| </l>
             <l><lb/>pacetkrameṇa matimān bhakṣedunmādaśāṃtaye|| </l>
-            
+
             <p>atha <title>sarvvāpasmārahara rasaḥ</title>|| </p>
 
             <l>srotoṃjanaṃ ca sagaraṃ sūtaṃ sṛṣṭi<pb n="17r"/>tryaṃhānvitaḥ|| </l>
@@ -719,7 +725,7 @@
             <l>kṛtvā tu golakaṃ sūkṣmaṃ pācayenmaṃdamadyataḥ|| </l>
             <l>tatastu vaṭikā kāryā guṃjāvaya<lb/>pramāṇataḥ|| </l>
             <l>bhakṣitā kramayogena sarvāpasmāranāśinī|| </l>
-            
+
             <p>atha <title>pratāpalaṃkeśvarasaḥ</title>|| </p>
 
             <l>gaṃdhaṃ<lb/>nāpya jatālakaṃ ca gaganaṃ tīkṣṇaṃ samāṃśaṃ kṛtaṃ|| </l>
@@ -730,7 +736,7 @@
                matimān śulvā<lb/>ca badhyā vaṭī|| </l>
             <l>bhūtonmādajasannipātajagadān śūlānudāvartakā gulmāpasmṛti jānnujāśva sa<lb/>kalān
                hanyādbudhairyojitā|| </l>
-            
+
             <p>atha <title>madātyayaharorasaḥ</title>|| </p>
 
             <l>rājāvartarajaḥ śulvaṃ sūtagarbhaṃ niyo<lb/>jayet|| </l>
@@ -739,7 +745,7 @@
             <l><lb/>atha <title>visarpanāśana rasaḥ</title>|| </l>
             <l>tīkṣṇābhrakāṃtaṃ surabhirgajendraṃ gaṃdhaṃ ca tāpyaṃ caritaṃ rasendraṃ
                kaumāri<lb/>kaṃde kramabhasmanītaṃ visarpanāśe pravadaṃti saṃtaḥ|| </l>
-            
+
             <p>atha <title>bhasmasūtakaḥ</title>|| </p>
 
             <l>śvayathunāśana gaṃdhaḥ<lb/>maṃḍuratīkṣṇaṃ sulabhaṃ ca māritaṃ sūtaṃ
@@ -752,13 +758,13 @@
             <l>cakrayaṃtrasthite prājño jārayet bhasma sūtakaṃ<lb/>śulvacūrṇaṃ rase jīrṇaṃ damayaṃtī
                punarnavā|| </l>
             <l>meṣaśṛṃgī rase ghṛṣṭaṃ rasaṃ syādvraṇaropanaṃ|| </l>
-            
+
             <p>atha <title>abhiṣyaṃ<lb/>daharī vartī</title>|| </p>
 
             <l>pūrvaṃ yannihitaṃ nāge sūtendra samacāritaṃ|| </l>
             <l>tutthakaṃ dviguṇaṃ kṛtvā karpūra śāṇamātrakaṃ<lb/>droṇapuṣpī rase ghṛṣṭe tato jātī
                rasena ca kṛtaṃ tadgolakaṃ sarva abhiṣyaṃdavināśakaṃ|| </l>
-            
+
             <p>atha <title>śu<lb/>lvajīrṇarasaḥ</title>|| </p>
 
             <l>gaṃdhakena hataṃ śulvaṃ samasūtasya cāritaṃ|| </l>
@@ -787,81 +793,83 @@
             <l>vikhyāto rasarājo+yaṃ sarvanetra rujāpahaḥ|| </l>
             <l>gaṃdhakātriguṇaṃ<lb/>sūtaṃ sauvīraṃ cāṣṭamāṃśataḥ|| </l>
             <l>kapittha rasa saṃghṛṣṭaṃ aṃjanaṃ timirāpahaṃ|| </l>
-            
+
             <p>atha <title>sarvanetrarogahara</title>|| </p>
 
-            <l xml:id="rm3.197"><lb/>nāgaṃ śulvaṃ tathā tīksṇaṃ gaṃdhakāṃjana sūtakāḥ||             
+            <l xml:id="rm3.197"><lb/>nāgaṃ śulvaṃ tathā tīksṇaṃ gaṃdhakāṃjana sūtakāḥ||
                <caesura/>
-            dvitricatvāri paṃcāṃśaṃ paṃcabhāgakrameṇa hi|| </l>
-            
-            <l xml:id="rm3.198">tāmrapā<lb/>trasthitaṃ ghṛṣṭaṃ balā nāga balā rasaiḥ|| 
-            <caesura/>
-            sauvīramājyamadhvaktaṃ dhātrīdārvyabhayākṣṇaiḥ|| </l>
-            
+                dvitricatvāri paṃcāṃśaṃ paṃcabhāgakrameṇa hi|| </l>
+
+            <l xml:id="rm3.198">tāmrapā<lb/>trasthitaṃ ghṛṣṭaṃ balā nāga balā rasaiḥ||
+               <caesura/>
+                sauvīramājyamadhvaktaṃ dhātrīdārvyabhayākṣṇaiḥ|| </l>
+
             <l xml:id="rm3.199">rasairvarānale<lb/>pakvaṃ rasaṃ netrā mayaṃ jayet|| </l>
-            
+
             <p>atha <title>rasavartiḥ</title>|| </p>
 
-            <l xml:id="rm3.200">rasāṃjanaṃ tutthakamākṣikaṃ niśe<caesura/>
-               phalatrayaṃ vyoṣavi<lb/>ḍaṃgasiṃdhujaṃ||
+            <l xml:id="rm3.200">rasāṃjanaṃ tutthakamākṣikaṃ niśe
+               <caesura/>
+                phalatrayaṃ vyoṣavi<lb/>ḍaṃgasiṃdhujaṃ||
                <caesura/>
                 prapauḍarīkaṃ jalasaṃbhavaṃ ghanaṃ
                <caesura/>
                 ājyena piṣṭaṃ payasā ca vartikā||
                <caesura/>
                 chāyā viśuṣkā na<lb/>yanā mayān jayet|| </l>
-            
+
             <p>atha <title>udayabhāskaraḥ</title>|| </p>
 
 
             <l>netraroge|| </l>
-            
+
             <!-- This is the same passage as that in Cakradatta, Netraroga, vv. 85-86, pp. 615-6 of the 1914 Calcutta edition -->
-            
-            <l xml:id="rm3.201">triphalā vyoṣasiṃdhūtthayaṣṭitutharasāṃ<lb/>janaṃ|| <caesura/>
-               prapuṃḍarīkaṃ jaṃtughnaṃ lodhraṃ tāmraṃ caturdaśaṃ|| </l>
-            
-            <l xml:id="rm3.202">dravāny etāni saṃcūrṇya vartiḥ kāryā nabho ṃbunā<caesura/>
-            
+
+            <l xml:id="rm3.201">triphalā vyoṣasiṃdhūtthayaṣṭitutharasāṃ<lb/>janaṃ||
+               <caesura/>
+                prapuṃḍarīkaṃ jaṃtughnaṃ lodhraṃ tāmraṃ caturdaśaṃ|| </l>
+
+            <l xml:id="rm3.202">dravāny etāni saṃcūrṇya vartiḥ kāryā nabho ṃbunā
+               <caesura/>
                <!-- famous passage -->
-               
-           <hi>nā<lb/>gārjunena likhitā stambhe pāṭalīputrake</hi>|| </l>
-            <l xml:id="rm3.203">nāśayet timiraṃ kācaṃ paṭalaṃ cārbudaṃ tathā|| <caesura/>
-             adhikāni ca<lb/>māṃsāni yacca dūraṃ na paśyati|| </l>
+               <hi>nā<lb/>gārjunena likhitā stambhe pāṭalīputrake</hi>|| </l>
+            <l xml:id="rm3.203">nāśayet timiraṃ kācaṃ paṭalaṃ cārbudaṃ tathā||
+               <caesura/>
+                adhikāni ca<lb/>māṃsāni yacca dūraṃ na paśyati|| </l>
             <!-- ends -->
 
-            
+
             <p>atha <title>dvādaśāmṛtājanaṃ</title>|| </p>
 
 
-            <l xml:id="rm3.204">vyoṣaṃ trīṇyaṃ janānyeva śulvaṃ kunaṭī saiṃ<lb/>dhavaṃ|| 
-            <caesura/>
-            vimalāśītalaṃ sūtaṃ ajākṣīreṇa peṣayet|| </l>
-            
+            <l xml:id="rm3.204">vyoṣaṃ trīṇyaṃ janānyeva śulvaṃ kunaṭī saiṃ<lb/>dhavaṃ||
+               <caesura/>
+                vimalāśītalaṃ sūtaṃ ajākṣīreṇa peṣayet|| </l>
+
             <l xml:id="rm3.204.5">sarvanetrānayaharaṃ dvādaśākhyāmṛtāṃjanaṃ|| </l>
-            
+
             <p>atha <title>mahārasaḥ</title><pb n="18v"/></p>
 
             <l>gaganāya sagaṃdhakaśulvarajaḥ ajamūtra subhāvita sūtasamaṃ|| </l>
             <l>triphalārasamārdakaghṛṣṭavaraṃ<lb/>śravaṇāmaya sarvavināsakaraṃ || </l>
 
-            
+
             <p>atha <title>gaṃdhamardanarasaḥ</title>|| </p>
 
 
             <l>sulabhārajagaṃdhakasūtasamaṃ giri<lb/>karṇirasa kṛta golavaraṃ || </l>
             <l>magadhārasaśuṃṭhi rasetridinaṃ ghanamardditayogarujārtiharaṃ|| </l>
-            
+
             <p>atha <title>vadanā<lb/>mayahara rasaḥ</title>|| </p>
 
             <l>nṛpamākṣikatuthaśilālanabhaḥ śilajaṃ mahiṣākhya rasendra namaḥ || </l>
             <l>madhuyaṣṭirase paca<lb/>saptadinaṃ vadanasya ruje timira ca hitaṃ|| </l>
-            
+
             <p>atha <title>kaṃṭhāmayaharaḥ</title>|| </p>
 
             <l>vimalena nibaddharasendravaraṃ dyumaṇi<lb/>dyutigarbhaniyuktaparaṃ|| </l>
             <l>siṃdhūttha kaṭutraya ghṛṣṭavaraṃ galaśuṃḍigalāmayanāśakaraṃ|| </l>
-            
+
             <p>atha <title>dvije<lb/>ndrarasaḥ</title>|| </p>
 
             <l>viṣavikāre|| </l>
@@ -870,7 +878,7 @@
             <l>trisaṃkhyakṣāra saṃyuktaṃ caṇakāmla subhāvitaṃ|| </l>
             <l>trikaṭu triphalāpāṭhāsuradāli<lb/>sumarditaṃ|| </l>
             <l>dvijendranāmasūto+yaṃ viṣadoṣaṃ drutaṃ jayet|| </l>
-            
+
             <p>atha <title>yonidoṣahara rasaḥ</title>|| </p>
 
             <l>gaṃdhe vā tāra<lb/>tāmre vā piṣṭvādau bhasmasūtakaṃ|| </l>

@@ -104,7 +104,7 @@
                 
                 <!-- MS Ko1, f.5v:11 -->
                 
-                <l xml:id="rm3.4">pittaṃ haṃti ca pittasaṃbhavagadān sarvvān vai pittajvarān
+                <l  xml:id="rm.3.4">pittaṃ haṃti ca pittasaṃbhavagadān sarvvān vai pittajvarān
                     <caesura/>
                     kāśasvāsagalāmayākṣa<lb/>yatṛṣā dāghaś ca śoṣaṃ bhṛśaṃ
                     <caesura/>

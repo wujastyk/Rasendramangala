@@ -1156,8 +1156,8 @@
 
           <l xml:id="rm3.201"><gap extent="1" unit="verse"/></l>
           <l xml:id="rm3.202"><gap extent="1" unit="verse"/></l>
-          <l xml:id="rm3.203"><gap extent="1" unit="verse"/></l>
-          
+          <!-- <l xml:id="rm3.203"><gap extent="1" unit="verse"/></l>-->
+
           <p xml:id="rm3.200a">sma varttinetraroge</p>
 
           <l xml:id="rm3.204">vyoṣaṃ tri<unclear>?</unclear>aṃjanaṃ
