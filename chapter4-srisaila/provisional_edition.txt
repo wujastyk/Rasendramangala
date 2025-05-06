@@ -339,7 +339,7 @@
         <l xml:id="srisaila25"><label>25</label> śāstraṃ vaśiṣṭhamāṃḍavyaṃ gurupārśve mayā
           śrutam |
           <caesura/>
-           tad ayaṃ saṃpravakṣyāmi sādhanaṃ ca yathāvidhiḥ || </l>
+           tad ahaṃ saṃpravakṣyāmi sādhanaṃ ca yathāvidhiḥ || </l>
         <l xml:id="srisaila26"><label>26</label> sahāyāḥ śobhanā prājñā nirālasyā
           dṛḍhavratāḥ |
           <caesura/>
@@ -491,16 +491,15 @@
           |
           <caesura/>
            samāṃsabhakṣaṇaṃ kuryāt punar anye tu sūtake | </l>
-        <l xml:id="srisaila61" met="unmetrical"><label>61</label>āruṣkaram utpalī sūrye
-          nakṣatraṃ bhuvanodbhavam |
+        <l xml:id="srisaila61" met="unmetrical"><label>61 [unmetrical]</label>āruṣkaram utpalī sūryanakṣatraṃ bhuvanodbhavam |
           <caesura/>
            śītāgnisaṃsthitā hy ete pañcamī suvidāritā | </l>
         <l xml:id="srisaila62"><label>62</label>ekaikasya tu madhyasthaṃ sthāpitavyaṃ
           dinatrayam | </l>
-        <l xml:id="srisaila63"><label>63</label>dhūmākulena yantreṇa sthāpitavyaṃ
+        <l xml:id="srisaila63" met="hypermetrical"><label>63 [hypermetrical]</label>dhūmākulena yantreṇa sthāpitavyaṃ
           dinatrayam |
           <caesura/>
-           eke deyaṃ<note>Hypermetrical.</note> yantrayogena pātitavyaṃ prayatnataḥ |</l>
+           eke deyaṃ yantrayogena pātitavyaṃ prayatnataḥ |</l>
         <l xml:id="srisaila63a"><label>63a</label> viśuddhaṃ taṃ vijānīyāt vakrasvedena
           svedayet |
           <caesura/>
@@ -937,7 +936,7 @@
             </item>
           </list>
         </ab>
-        <l xml:id="srisaila100"><label>100</label>gatendriyo nā nayano jarā<pc
+        <l xml:id="srisaila100"><label>100</label>gatāṅghripāṇinayano jarā<pc
           > </pc>grasto jitendriyaḥ |
           <caesura/>
            jaḍaś ca gadado mūko gatihīnas tathaiva ca |<anchor n="srisaila100-n1"/>

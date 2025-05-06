@@ -602,7 +602,7 @@
            hināṃge <unclear extent="2" unit="syllable"/>dhikāṃgaś ca savyā ca kubjavāṃmana
           85 </l>
 
-        <l xml:id="srisaila100">gatāṃ<lb/>grī<unclear>yāṃ</unclear>ṇi nayano
+        <l xml:id="srisaila100">gatāṃ<lb/>grī<unclear>yāṃ</unclear>ṇi<pc> </pc>nayano
             jarā<pc> </pc>grasto jitaṃdrīya
           <caesura/>
            jaḍasya ga<unclear>dū</unclear>do<unclear> mu</unclear>ko gatihinaṃ tathaiva ca

@@ -587,7 +587,7 @@
           <caesura/>
            hīnāṃgye adhikāṃgaṃ ca va<pb n="36r"/>svā sarvān kuṣṭavān</l>
 
-        <l xml:id="srisaila100">nāgatāṃ<unclear>ddhi</unclear> pāṇinā nayano
+        <l xml:id="srisaila100">nāgatāṃ<unclear>ddhi</unclear>pāṇinā<pc> </pc>nayano
             jarā<pc> </pc>grastā
           <caesura/>
            jineṃdvipraḥ ja<lb/>maś ca gadado mūko gatihānis tathaiva ca</l>

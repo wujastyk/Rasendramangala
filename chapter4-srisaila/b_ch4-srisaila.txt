@@ -491,7 +491,7 @@
           <caesura/>
            sumāṃsabha<lb/>kṣaṇaṃ kuryāt punar anye tu sūtake |</l>
 
-        <l xml:id="srisaila61">āruṣkam utpalo sūrya nakṣatraṃ bhuvanodbhavaṃ ||33
+        <l xml:id="srisaila61">āruṣkam utpalo sūryanakṣatraṃ bhuvanodbhavaṃ ||33
           <caesura/>
           <unclear>śī</unclear>tāgnisaṃsthitā hy ete paṃcamī <unclear>bha</unclear>midāriṇī |</l>
 
@@ -675,7 +675,7 @@
         <l xml:id="srisaila100">gatāsriyāṇi jarā<pc> </pc>grasto jiteṃdriyaḥ |
           <caesura/>
            jaḍa<pc> </pc>gadgada<pc> </pc>mū<unclear extent="2" unit="syllables"/> tihīna<lb/>s
-          tathaiva caḥ ||63</l>
+          tathaiva caḥ || 63</l>
 
         <l xml:id="srisaila101">asaṃkatraya<pc> </pc>vinirmukto jīvaśeṣe ca tiṣṭati |
           <caesura/>

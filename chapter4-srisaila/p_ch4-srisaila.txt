@@ -247,7 +247,7 @@
 
         <l xml:id="srisaila25">śāstraṃ vaśiṣṭamāṃḍavyaṃ gurupārśve mayā śrutam
           <caesura/>
-           tadayaṃ<lb/> saṃpravakṣyāmi sādhanaṃ ca yathāvidhiḥ</l>
+           tad ayaṃ<lb/> saṃpravakṣyāmi sādhanaṃ ca yathāvidhiḥ</l>
 
         <l xml:id="srisaila26"><gap extent="3" unit="akṣara"/> śobhanā prājñā nirālasyā
             dṛḍhavra<unclear>ja</unclear>tā
@@ -575,7 +575,7 @@
           <caesura/>
            hīnāṃgo adhikāṃga<unclear>ś ci</unclear> ca svāsavān kuṣṭavāmanaḥ</l>
 
-        <l xml:id="srisaila100">ga<lb/>tāṃdriyāṇi nā nayano narā<pc> </pc>grasto jiteṃdriyaḥ
+        <l xml:id="srisaila100">ga<lb/>tāṃdriyāṇinā<pc> </pc>nayano narā<pc> </pc>grasto jiteṃdriyaḥ
           <caesura/>
            jaḍaś ca gadado mūko gatihānas tathaiva ca</l>
 

@@ -576,7 +576,7 @@
            svamāṃsabhakṣaṇaṃ kuryāt punar anye tu sūtake 11 </l>
 
 
-        <l xml:id="srisaila61"> āruṣka<pb n="53r"/>ram utpalī sūrya nakṣatraṃ
+        <l xml:id="srisaila61"> āruṣka<pb n="53r"/>ram utpalī sūryanakṣatraṃ
           bhuvanodbhavaṃ
           <caesura/>
            śītāgnisaṃsthitā hy ete paṃcamī<lb/> bhūvidāraṇī 12 </l>
@@ -790,7 +790,7 @@
            hīnāṃgo hy adhikāṅgaś ca savyādhiḥ kujvavāmanaḥ <lb/>
         </l>
 
-        <l xml:id="srisaila100"> gajāṃ hi pāṇi<pc> </pc> nayano jurā<pc> </pc>grasto
+        <l xml:id="srisaila100"> gajāṃhipāṇi<pc> </pc>nayano jurā<pc> </pc>grasto
           jiteṃdriyaḥ 45
           <caesura/>
            jaḍaś ca gadgado <lb/> mūko gatihīnas tathaiva ca </l>

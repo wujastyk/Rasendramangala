@@ -618,7 +618,7 @@
         <caesura/>
          hīnāṃgo hy adhikāṃgaś ca savyā ca kubjavāmanaḥ || </l>
 
-      <l xml:id="srisaila100">gatāṃ<unclear>driyā</unclear> nayano jarā<pc
+      <l xml:id="srisaila100">gatāṃ<unclear>driyā</unclear><pc> </pc>nayano jarā<pc
         > </pc>gra<lb/>sto yateṃdriyaḥ ||
         <caesura/>
          jaḍaś ca gaḍgado mūko gatihīnas tathaiva ca || </l>

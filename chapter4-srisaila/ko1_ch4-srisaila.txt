@@ -199,7 +199,7 @@
            tasya pārśve vasiṣṭena rasakarma vidhā<lb/>ritam</l>
         <l xml:id="srisaila25">śāstraṃ vaśiṣṭhamāḍavyaṃ gurupārśve mayā śrutam
           <caesura/>
-           tadayaṃ saṃpravakṣyāmi sādhanaṃ ca yathāvidviḥ</l>
+           tad ayaṃ saṃpravakṣyāmi sādhanaṃ ca yathāvidviḥ</l>
         <l xml:id="srisaila26">sahāyāḥ śobhanā prājñā nirālasyā dṛḍhavrajatā
           <caesura/>
            kulīnā pāpahīnāś ca sarvadharmā jitendriyā</l>
@@ -515,7 +515,7 @@
           <caesura/>
            hīnāṃgo adhikāṃga<unclear>cchi</unclear> ca svāsavān kuṣṭavāmanaḥ </l>
 
-        <l xml:id="srisaila100">gatāṃdriyāṇi nā nayano narā<pc> </pc>grasto jiteṃdri<lb/>yaḥ
+        <l xml:id="srisaila100">gatāṃdriyāṇinā<pc> </pc>nayano narā<pc> </pc>grasto jiteṃdri<lb/>yaḥ
           <caesura/>
            jaḍaś ca gadado mūko gatihānas tathaiva ca </l>
 

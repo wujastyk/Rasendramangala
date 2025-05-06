@@ -437,7 +437,7 @@
           <caesura/>
            samāṃśabhakṣaṇaṃ kuryāt punar ūdhvaṃ tu <del>mṛ</del><add>sū</add>takam </l>
 
-        <l xml:id="srisaila61">ā<lb/>ruṣkam alpalī rthāca sūrya nakṣattranodbhavam
+        <l xml:id="srisaila61">ā<lb/>ruṣkam alpalī rthāca sūryanakṣattranodbhavam
           <caesura/>
            śītāgnisaṃ<del>mthi</del><add>sthi</add>tā hy ete paṃcamī bhumicāriṇī </l>
 
@@ -626,7 +626,7 @@
            hīnāṃgo hṛdhikāṃgasya sa vyādhaḥ
             ku<unclear>vja</unclear>vā<del>ma</del><add>sa</add>naḥ </l>
 
-        <l xml:id="srisaila100">gatā<unclear>stri</unclear>yāṇi nayano jarā<lb/><pc
+        <l xml:id="srisaila100">gatā<unclear>stri</unclear>yāṇi<pc> </pc>nayano jarā<lb/><pc
           > </pc>grasto jitendriyaḥ
           <caesura/>
            jaḍa ga<gap n="2" unit="akṣara"/>da mūko pi gatihīnas tathaiva ca </l>

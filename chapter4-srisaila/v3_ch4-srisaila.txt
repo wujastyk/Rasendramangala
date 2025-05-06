@@ -704,7 +704,7 @@
 
 
 
-    <l xml:id="srisaila100"> gatāṃ hi pāṇinayano jarāgrasto <lb n="6"/> jitedriyaḥ ||45||
+     <l xml:id="srisaila100"> gatāṃhipāṇi<pc> </pc>nayano jarāgrasto <lb n="6"/> jitedriyaḥ ||45||
      <caesura/>
       jaḍaś ca ga<unclear/>do mūko gatihīnas tathaiva ca || </l>
 

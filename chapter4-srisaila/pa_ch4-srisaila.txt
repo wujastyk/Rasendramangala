@@ -245,7 +245,7 @@
         <l xml:id="srisaila25">śā<unclear>straṃ</unclear>vaśiṣṭhamāṃḍavyaṃ gurupārśve mayā
           śrutaṃ |
           <caesura/>
-           tada<unclear>yaṃ</unclear> saṃprava<lb/>kṣyāmi | sādhanaṃ ca yathāvidhiḥ |
+           tad a<unclear>yaṃ</unclear> saṃprava<lb/>kṣyāmi | sādhanaṃ ca yathāvidhiḥ |
           97</l>
 
         <l xml:id="srisaila26">sahāyāḥ śobhanāḥ prājñā | nirālasyā dṛḍhavratā |
@@ -578,7 +578,7 @@
           <caesura/>
            hīnāṃgo 'dhikāṃgaś caiva | khāsavān kuṣṭhavāmanaḥ </l>
 
-        <l xml:id="srisaila100">gatāṃ<lb/>driyāṇi<unclear> nā</unclear> nayano |
+        <l xml:id="srisaila100">gatāṃ<lb/>driyāṇi<unclear>nā</unclear><pc> </pc>nayano |
             jara<pc> </pc>grasto jiteṃdriyaḥ | 71
           <caesura/>
            jaḍaś ca gadado mūko | gatihīnas tathaiva ca |</l>

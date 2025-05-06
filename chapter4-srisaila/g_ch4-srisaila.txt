@@ -400,7 +400,7 @@
                     <caesura/>
                      svamāṃsabhakṣaṇaṃ kuryāt punar anye tu sūtakī ||</l>
 
-                <l xml:id="srisaila61">āruṣkam atpalī sūrya nakṣatraṃ bhuvanodbhavaṃ
+                <l xml:id="srisaila61">āruṣkam atpalī sūryanakṣatraṃ bhuvanodbhavaṃ
                     <caesura/>
                      śītāgnisaṃsthitā hy ete paṃcamī bhūvidāriṇī ||</l>
 
@@ -595,7 +595,7 @@
                     <caesura/>
                      hīnāṃgo<lb/> hy adhikāṅgaś ca savyādhi<pc> </pc>kubjavāmanaḥ| | </l>
 
-                <l xml:id="srisaila100"> gatāṃ<unclear>dhriyāṇi</unclear> nayano
+                <l xml:id="srisaila100"> gatāṃ<unclear>dhriyāṇi</unclear><pc> </pc>nayano
                         jarā<pc> </pc>grasto jitendriyaḥ ||
                     <caesura/>
                      jaḍaś ca<lb/> gadado mūko gatihīnas tathaiva ca| | </l>
