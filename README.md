@@ -27,12 +27,12 @@ There, you can read the various transcriptions individually, or collate and comp
 
 The other parts of the work, chapters 1--4, are at different stages of critical editing and may be considered draft editions.  See:
 
-* [chapter 1](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter1/provisional_edition_ch1&upama_script=devanagari) (draft edition);
-* [chapter 2 (collation starting with MS L)](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter2/l_london-ch2&upama_script=devanagari);
-* [chapter 3](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter3/a1-ch3&upama_script=devanagari) (collation based on MS A1)
-* [chapter 4](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter4/a1-ch4&upama_script=devanagari) (collation based on MS A1)
+* [chapter 1](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter1/provisional_edition_ch1&upama_script=devanagari?upama_script=devanagari&upama_ver=gvovgnxhka)) (draft edition);
+* [chapter 2 (collation based on MS L)](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter2/l_london-ch2?upama_ver=h22njcbn6p&upama_script=devanagari);
+* [chapter 3](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter3/l-ch3?upama_ver=i2e7jeps0j&upama_script=devanagari) (collation based on MS L)
+* [chapter 4](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter4/l-ch4?upama_ver=i2e7kbgiqc&upama_script=devanagari) (collation based on MS L)
 * [chapter 4 - the Kakṣapuṭa](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter4-srisaila/provisional_edition?upama_ver=gfvzyn7fgz&upama_script=devanagari) (critical edition);
-* [commentary](https://saktumiva.org/wiki/wujastyk/rasendramangala/commentary/a1-ch4-tippana&upama_script=devanagari) (collation of the *ṭippaṇa*, based on MS A1)
+* [commentary](https://saktumiva.org/wiki/wujastyk/rasendramangala/commentary/a1-ch4-tippana&upama_script=devanagari?upama_ver=h5ha539t8w&upama_script=devanagari) (collation of the *ṭippaṇa*, based on MS A1)
 
 ### Print publications
 * Wujastyk, Dominik. in press, “Nāgārjuna Siddha: The Kakṣapuṭa of the Rasendramaṅgala.” In *A Reader on Indian Alchemy*, edited by Dagmar Wujastyk. New York, Oxford, etc.: Oxford University Press.
