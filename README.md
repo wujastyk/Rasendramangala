@@ -28,7 +28,7 @@ There, you can read the various transcriptions individually, or collate and comp
 The other parts of the work, chapters 1--4, are at different stages of critical editing and may be considered draft editions.  See:
 
 * [chapter 1](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter1/provisional_edition_ch1&upama_script=devanagari?upama_script=devanagari&upama_ver=gvovgnxhka)) (draft edition);
-* [chapter 2 (collation based on MS L)](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter2/l_london-ch2?upama_ver=h22njcbn6p&upama_script=devanagari);
+* [chapter 2](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter2/l_london-ch2?upama_ver=h22njcbn6p&upama_script=devanagari)  (collation based on MS L)
 * [chapter 3](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter3/l-ch3?upama_ver=i2e7jeps0j&upama_script=devanagari) (collation based on MS L)
 * [chapter 4](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter4/l-ch4?upama_ver=i2e7kbgiqc&upama_script=devanagari) (collation based on MS L)
 * [chapter 4 - the Kakṣapuṭa](https://saktumiva.org/wiki/wujastyk/rasendramangala/chapter4-srisaila/provisional_edition?upama_ver=gfvzyn7fgz&upama_script=devanagari) (critical edition);
