@@ -35,7 +35,7 @@ The other parts of the work, chapters 1--4, are at different stages of critical 
 * [commentary](https://saktumiva.org/wiki/wujastyk/rasendramangala/commentary/a1-ch4-tippana&upama_script=devanagari?upama_ver=h5ha539t8w&upama_script=devanagari) (collation of the *ṭippaṇa*, based on MS A1)
 
 ### Print publications
-* Wujastyk, Dominik. in press, “Nāgārjuna Siddha: The Kakṣapuṭa of the Rasendramaṅgala.” In *A Reader on Indian Alchemy*, edited by Dagmar Wujastyk. New York, Oxford, etc.: Oxford University Press.
+* Wujastyk, Dominik. 2025. “Nāgārjuna Siddha: The Kakṣapuṭa of the Rasendramaṅgala.” In *Indian Alchemy: Sources and Contexts*, edited by Dagmar Wujastyk. 2025, New York. Oxford University Press. https://doi.org/10.1093/9780197805831.003.0004.
 
 
 ## Acknowledgements
