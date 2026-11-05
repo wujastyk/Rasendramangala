@@ -1,0 +1,29 @@
+{
+  "edition": "provisional_edition.txt",
+  "witnesses": [
+    "a1_ch4-srisaila (copy).txt",
+    "a1_ch4-srisaila.txt",
+    "a2_ch4-srisaila.txt",
+    "b_ch4-srisaila.txt",
+    "g_ch4-srisaila.txt",
+    "j1_ch4-srisaila.txt",
+    "ko1_ch4-srisaila.txt",
+    "ko2_ch4-srisaila.txt",
+    "l_ch4-srisaila.txt",
+    "p_ch4-srisaila.txt",
+    "pa_ch4-srisaila.txt",
+    "r_ch4-srisaila.txt",
+    "u_ch4-srisaila.txt",
+    "v3_ch4-srisaila.txt"
+  ],
+  "alignmentsDir": "alignments",
+  "settingsFrom": null,
+  "extraIgnoreTags": [],
+  "apparatus": {
+    "normlem": true,
+    "mergerdgs": true
+  },
+  "writeAlignments": true,
+  "publishStylesheet": null,
+  "publishPolyfill": false
+}
