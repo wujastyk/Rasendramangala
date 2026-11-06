@@ -1,0 +1,21 @@
+{
+  "edition": "provisional_edition_tippana.txt",
+  "witnesses": [
+    "a1-ch4-tippana.txt",
+    "a2-ch4-tippana.txt",
+    "b-ch4-tippana.txt",
+    "j1_ch4-tippana.txt",
+    "l-ch4-tippana.txt",
+    "pa-ch4-tippana.txt"
+  ],
+  "alignmentsDir": "alignments",
+  "settingsFrom": null,
+  "extraIgnoreTags": [],
+  "apparatus": {
+    "normlem": true,
+    "mergerdgs": true
+  },
+  "writeAlignments": true,
+  "publishStylesheet": null,
+  "publishPolyfill": false
+}
